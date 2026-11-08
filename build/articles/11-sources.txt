@@ -1,0 +1,333 @@
+# T+ — lot 11 : les sources et les historiens. Le traité de Bernard, les chroniqueurs
+# latins, français et arabe (Guillaume de Tyr, Jacques de Vitry, Matthieu Paris, Ernoul,
+# le Templier de Tyr, Usama ibn Munqidh, Joinville), les actes du procès, les cartulaires,
+# l'historiographie et la chronologie générale. Les liens mènent aux éditions en ligne.
+
+@ de-laude-novae-militiae
+cat: sources
+nom: De laude novae militiae
+alias: Éloge de la nouvelle chevalerie, Liber ad milites Templi de laude novae militiae, Livre aux chevaliers du Temple, Louange de la nouvelle milice, malicide, Hugo Peccator
+dates: entre 1120 et 1136
+an: 1120
+fin: 1136
+def: Traité de Bernard de Clairvaux adressé à Hugues de Payns, écrit entre 1120 et 1136, qui justifie la vocation nouvelle des Templiers, moines et soldats : c'est le premier grand texte de soutien à l'ordre, et le plus cité.
+texte: Le *Livre aux chevaliers du Temple, éloge de la nouvelle milice* est l'œuvre de [[bernard-de-clairvaux|Bernard de Clairvaux]] (1090-1153), abbé cistercien de Clairvaux et l'homme d'Église le plus écouté de son temps. Bernard y répond à [[hugues-de-payns|Hugues de Payns]], le premier maître du Temple, qui lui a demandé par trois fois une exhortation pour ses frères. La date exacte est inconnue : le texte est forcément postérieur aux débuts de l'ordre, vers 1120, et antérieur à la mort de son destinataire, en mai 1136 (voir [[fondation-de-l-ordre|fondation de l'ordre]]). L'insistance d'Hugues s'explique : certains des premiers frères doutaient qu'un moine pût légitimement combattre, et une lettre du même temps, signée « Hugues le Pécheur », *Hugo Peccator*, s'efforce de les rassurer.
+texte: Le traité compte treize chapitres. Les cinq premiers opposent la nouvelle milice à la chevalerie du siècle, que Bernard appelle, par un jeu de mots latin, non plus *militia* mais *malitia*, la méchanceté : celui qui tue par colère ou par vanité est homicide, même s'il meurt. Le soldat du Christ, lui, combat sans péché : « lors donc qu'il tue un malfaiteur, il n'est point homicide mais malicide », et s'il meurt, il gagne le ciel. Bernard pose aussitôt une limite : il ne faudrait pas tuer les païens eux-mêmes si l'on pouvait, par un autre moyen, les empêcher d'opprimer les fidèles. Il décrit ensuite la vie des frères, qui réparent eux-mêmes leurs armes et leurs habits, honorent le mérite plutôt que la naissance, s'arment au-dedans de foi et au-dehors de fer,. Le cinquième chapitre décrit le Temple de Jérusalem, orné d'armes plutôt que de joyaux (voir [[jerusalem-temple-de-salomon|Temple de Salomon]]), et se félicite que tant d'anciens brigands, parjures et adultères viennent y faire pénitence. Les huit derniers sont une méditation de pèlerin sur les lieux saints : Bethléem, Nazareth, le mont des Oliviers et la vallée de Josaphat, le Jourdain, le Calvaire, le Sépulcre, Bethphagé et Béthanie.
+texte: L'éloge ne fonde pas l'ordre : la règle latine avait été adoptée au [[concile-de-troyes|concile de Troyes]] en 1129 (voir [[regle-du-temple|règle du Temple]]). Mais il lui donne une justification théologique au moment où l'idée d'un religieux qui tue choque encore, et il fixe pour longtemps l'image du moine-soldat, modèle de tous les [[ordres-militaires|ordres religieux-militaires]] ; en 1837, Michelet en cite encore les phrases pour peindre les Templiers. On le lit aujourd'hui dans le texte latin établi par Jean Leclercq et Henri Rochais, repris avec une traduction de Pierre-Yves Emery dans la collection Sources chrétiennes (no 367, 1990) ; la traduction de l'abbé Charpentier, de 1866, est en ligne sur Wikisource.
+repere: janvier 1120 — Le concile de Naplouse marque probablement les débuts de la milice du Temple.
+repere: 13 janvier 1129 — Le concile de Troyes approuve l'ordre et sa règle.
+repere: 24 mai 1136 — Mort d'Hugues de Payns, terme de la rédaction du traité.
+repere: 20 août 1153 — Mort de Bernard de Clairvaux.
+repere: 1866 — L'abbé Charpentier publie une traduction française dans les œuvres complètes de saint Bernard.
+repere: 1990 — Édition bilingue dans la collection Sources chrétiennes.
+attention: L'éloge n'est pas la règle de l'ordre, et Bernard n'a pas « fondé » le Temple : il défend une institution qui existe déjà. Quant au « malicide », ce n'est pas un permis de tuer : Bernard le réserve à la défense des chrétiens et le borne lui-même, puisqu'il ne faut tuer que si l'on ne peut autrement protéger les fidèles.
+lien: ws De Laude novae militiae = Éloge de la nouvelle chevalerie, traduction de l'abbé Charpentier (1866)
+lien: en Liber ad milites templi de laude novae militiae
+sources: Bernard de Clairvaux, Éloge de la nouvelle chevalerie, trad. Charpentier, 1866 (Wikisource) ; Wikipédia (en : Liber ad milites templi de laude novae militiae, Knights Templar) ; notice de l'édition Sources chrétiennes 367 (Cerf, 1990) ; Michelet, « Les Templiers », Revue des Deux Mondes, 1837 (Wikisource)
+voir: bernard-de-clairvaux, hugues-de-payns, concile-de-troyes, regle-du-temple, ordres-militaires, fondation-de-l-ordre, jerusalem-temple-de-salomon
+
+@ guillaume-de-tyr
+cat: sources
+nom: Guillaume de Tyr
+alias: Guillelmus Tyrensis, William of Tyre, Historia rerum in partibus transmarinis gestarum, Historia Ierosolimitana, Histoire d'Outremer, Estoire d'Eracles, Eracles
+dates: v. 1130 – v. 1186
+an: 1130
+fin: 1186
+def: Archevêque de Tyr et chancelier du royaume de Jérusalem, auteur de la grande histoire latine des États croisés ; il est le premier à raconter la fondation du Temple, et le plus sévère critique de l'ordre au XIIe siècle.
+texte: Guillaume naît vers 1130 à Jérusalem, dans une famille latine établie en Orient. À la fin de 1145 ou au début de 1146, il part étudier en Occident, la théologie à Paris et le droit à Bologne, et rentre en 1165. Nommé archidiacre de Tyr le 11 septembre 1167, il reçoit du roi Amaury Ier la commande d'une histoire du royaume. Il devient le précepteur du jeune [[baudouin-iv-de-jerusalem|Baudouin]], futur roi lépreux, puis, en 1174, chancelier du royaume, et en 1175 archevêque de Tyr. Il siège au troisième concile du Latran, ouvert en mars 1179. En 1180, le patriarcat de Jérusalem lui échappe au profit d'Héraclius. Sa mort se place entre 1184 et 1186, peut-être le 29 septembre 1186 ; le récit d'un empoisonnement est une invention de ses continuateurs.
+texte: Son *Historia rerum in partibus transmarinis gestarum*, ou *Historia Ierosolimitana*, compte vingt-trois livres, le dernier inachevé ; elle part de la conquête de la Syrie par les Arabes, raconte la première croisade, puis l'histoire du royaume jusqu'en 1184. C'est la source principale sur les États latins du XIIe siècle. Une autre œuvre, une histoire des princes d'Orient depuis Mahomet, est perdue, mais Jacques de Vitry l'a utilisée. Vers 1223, l'*Historia* est traduite en français ; cette *Estoire d'Eracles*, conservée dans au moins cinquante-neuf manuscrits ou fragments, reçoit au XIIIe siècle des suites anonymes, dont la [[ernoul|chronique d'Ernoul]].
+texte: Guillaume est le premier auteur à décrire la fondation du Temple, qu'il place en 1118, plus de cinquante ans après les faits : quelques chevaliers, menés par Hugues de Payns et Godefroy de Saint-Omer, font vœu devant le patriarche de vivre en religieux et de garder les routes des pèlerins, et le roi Baudouin II les loge dans une partie de son palais, près du Temple ; ils sont neuf pendant neuf ans, jusqu'au concile de Troyes (voir [[fondation-de-l-ordre|fondation de l'ordre]]). Il juge sévèrement ce qu'ils sont devenus : riches, orgueilleux, exemptés des dîmes et soustraits à toute autorité sauf celle du pape (voir [[privileges-et-critiques|privilèges et critiques]]). Il les accuse d'avoir gêné la prise d'Ascalon en 1153 (voir [[siege-d-ascalon|siège d'Ascalon]]), d'avoir mal défendu une forteresse troglodyte en 1165, pour quoi le roi Amaury fit pendre douze frères, d'avoir refusé l'expédition d'Égypte de 1168, et d'avoir assassiné en 1173 les envoyés des Assassins, au temps du maître [[eudes-de-saint-amand|Eudes de Saint-Amand]].
+texte: Le texte latin a été imprimé à Bâle dès 1549, puis par Jacques Bongars dans les *Gesta Dei per Francos* (1611), dans le *Recueil des historiens des croisades* (1844) et dans la *Patrologie latine* de Migne (1855). L'édition critique de référence est celle de Robert B. C. Huygens, dans le *Corpus Christianorum*. La version française du XIIIe siècle a été publiée par Paulin Paris en 1879-1880.
+repere: v. 1130 — Naissance de Guillaume à Jérusalem.
+repere: 11 septembre 1167 — Il devient archidiacre de Tyr et reçoit la commande de son histoire.
+repere: 1174 — Il est nommé chancelier du royaume de Jérusalem.
+repere: 1175 — Il devient archevêque de Tyr.
+repere: mars 1179 — Il siège au troisième concile du Latran.
+repere: 1186 — Mort de Guillaume, peut-être le 29 septembre.
+repere: v. 1223 — Traduction française de l'*Historia*, bientôt continuée.
+attention: Les « neuf chevaliers pendant neuf ans » viennent de Guillaume, qui écrit un demi-siècle après la fondation, et aucun texte contemporain ne les confirme. Son hostilité tient aussi à sa position d'archevêque : les exemptions de l'ordre privaient les évêques de dîmes et d'autorité, et ses accusations, comme celle d'Ascalon, sont à lire avec cette prévention.
+lien: wp Guillaume de Tyr
+lien: en William of Tyre
+lien: ia guillaumedetyret01guiluoft = Guillaume de Tyr et ses continuateurs, texte français du XIIIe siècle, éd. Paulin Paris, t. I (1879)
+sources: Wikipédia (fr : Guillaume de Tyr ; en : William of Tyre) ; Internet Archive (notice de l'édition Paulin Paris)
+voir: fondation-de-l-ordre, siege-d-ascalon, privileges-et-critiques, ernoul, jacques-de-vitry, baudouin-iv-de-jerusalem, eudes-de-saint-amand
+
+@ jacques-de-vitry
+cat: sources
+nom: Jacques de Vitry
+alias: Jacobus de Vitriaco, James of Vitry, Historia orientalis, Historia Hierosolymitana, Historia occidentalis, Sermones ad status, Marie d'Oignies, évêque d'Acre
+dates: v. 1170 – 1er mai 1240
+an: 1170
+fin: 1240
+def: Prédicateur formé à Paris, évêque d'Acre de 1216 à 1226 puis cardinal, témoin de la cinquième croisade ; son *Histoire orientale* et ses lettres décrivent les Latins d'Orient et leurs ordres militaires, et il est le premier à expliquer les couleurs du baucent.
+texte: Jacques naît dans la région de Reims, vers 1160-1170 selon la plupart des auteurs, vers 1175-1180 selon d'autres. Il étudie à Paris ; en 1208, il rencontre à Oignies, au diocèse de Liège, la béguine Marie d'Oignies, dont il devient le confesseur et dont il écrira la vie après sa mort, en 1213. Prêtre à Paris en 1210, chanoine régulier d'Oignies, il prêche dans le diocèse de Liège, en France et en Allemagne et recrute pour la croisade. Élu évêque d'Acre en 1214, sacré par Honorius III, il gagne son diocèse en 1216 et suit l'armée de la [[cinquieme-croisade|cinquième croisade]] devant [[damiette|Damiette]]. Il renonce à son siège en 1226, devient auxiliaire de l'évêque de Liège, puis, en décembre 1228, cardinal-évêque de Tusculum ; légat du pape, élu patriarche de Jérusalem sans être confirmé, il meurt à Rome le 1er mai 1240 et son corps est porté à Oignies.
+texte: En 1219, il entreprend une grande histoire de Jérusalem, dont il n'achève que deux parties : l'*Histoire orientale*, qui raconte la Terre sainte depuis l'apparition de l'islam jusqu'à son temps, et l'*Histoire occidentale*, peinture sévère de la société et du clergé d'Occident. Pour le XIIe siècle, il compile, notamment l'histoire perdue des princes d'Orient de [[guillaume-de-tyr|Guillaume de Tyr]] ; pour son propre temps, il est un témoin. Ses lettres, écrites d'[[acre|Acre]] et de Damiette à ses amis et au pape, et ses centaines de sermons, dont ceux qu'il adresse à chaque condition, *ad status*, complètent l'œuvre.
+texte: Évêque d'une ville où siégeaient le Temple, l'Hôpital et bientôt les Teutoniques, Jacques de Vitry voit les ordres militaires de près. C'est lui qui, dans les années 1220, donne le sens du [[baucent|baucent]], la bannière noire et blanche de l'ordre : le noir dit la férocité des frères envers leurs ennemis, le blanc leur douceur envers leurs amis. Il juge en prédicateur réformateur une société d'Orient qu'il connaît de l'intérieur (voir [[privileges-et-critiques|privilèges et critiques]]). On lit l'*Histoire orientale* dans l'édition de Douai (1597), dans les *Gesta Dei per Francos* de Bongars (1611) et dans une édition parue chez Brepols en 2008 sous le titre d'*Histoire orientale* ; ses lettres ont été éditées par Robert B. C. Huygens en 1960.
+repere: 1208 — Jacques rencontre Marie d'Oignies.
+repere: 1214 — Il est élu évêque d'Acre.
+repere: 1216 — Sacré par Honorius III, il arrive à Acre.
+repere: 1219 — Devant Damiette, il commence son histoire de Jérusalem.
+repere: 1226 — Il renonce à l'évêché d'Acre.
+repere: décembre 1228 — Il devient cardinal-évêque de Tusculum.
+repere: 1er mai 1240 — Mort de Jacques de Vitry à Rome.
+attention: L'*Histoire orientale* n'est pas un témoignage pour les débuts du Temple : Jacques écrit un siècle après la fondation et suit ses devanciers. Les dates de sa vie varient selon les auteurs : 1226 ou 1228 pour la fin de son épiscopat, 1228 ou 1229 pour le cardinalat.
+lien: wp Jacques de Vitry
+lien: en James of Vitry
+sources: Wikipédia (fr : Jacques de Vitry ; en : James of Vitry, Baucent)
+voir: cinquieme-croisade, acre, baucent, guillaume-de-tyr, ordres-militaires, damiette, privileges-et-critiques
+
+@ matthieu-paris
+cat: sources
+nom: Matthieu Paris
+alias: Matthew Paris, Matthaeus Parisiensis, Chronica majora, Historia Anglorum, Saint-Albans, deux chevaliers sur un cheval
+dates: v. 1200 – 1259
+an: 1200
+fin: 1259
+def: Moine de Saint-Albans, chroniqueur, dessinateur et cartographe, auteur de la *Chronica majora*, la grande chronique anglaise du XIIIe siècle ; il y dessine le sceau des deux chevaliers sur un même cheval et la défaite de La Forbie, et rapporte les nouvelles des ordres militaires.
+texte: Matthieu naît vers 1200 ; la première date qu'il donne de lui-même est son entrée comme moine à l'abbaye bénédictine de Saint-Albans, en 1217. Il a peut-être étudié à Paris. En 1236, il succède à Roger de Wendover comme chroniqueur de l'abbaye. En 1248, il porte en Norvège un message de Louis IX au roi Haakon IV, et l'on fait appel à lui pour réformer une abbaye de la région de Trondheim. En 1257, le roi Henri III, en visite à Saint-Albans pendant une semaine, le garde à ses côtés et lui dicte ce qu'il doit consigner. Il meurt en 1259.
+texte: La *Chronica majora* va de la Création à 1259. Jusqu'en 1235, elle reprend et augmente l'œuvre de Wendover ; à partir de 1236, elle est de Matthieu, qui l'écrit année par année et y fait entrer les nouvelles du continent et d'Orient. Les deux premiers volumes autographes, de la Création à 1188 et de 1189 à 1253, sont conservés au Corpus Christi College de Cambridge (manuscrits 26 et 16) ; la fin, de 1254 à 1259, suit à la British Library l'*Historia Anglorum*, l'abrégé qu'il en a tiré. Matthieu a illustré lui-même ses manuscrits de dessins en marge et de cartes, parmi les plus anciennes conservées de la Grande-Bretagne et de la Terre sainte.
+texte: Les Templiers y paraissent souvent. En marge, il dessine deux chevaliers montés sur un même cheval, l'image du [[sceau-du-temple|sceau du Temple]], dans la *Chronica* comme dans l'*Historia Anglorum*, et il représente la [[bataille-de-la-forbie|défaite de La Forbie]], en 1244, où périt presque toute la chevalerie des ordres. Pour l'Angleterre, il est l'une des sources sur les maisons de l'ordre et sur le rôle du Temple auprès des rois (voir [[templiers-en-angleterre|Templiers en Angleterre]]) : c'est lui qui rapporte que Jean sans Terre fit sa soumission au légat Pandolf, en mai 1213, dans la maison du Temple de Douvres. Admirateur de l'empereur [[frederic-ii|Frédéric II]], qu'il appelle la « stupeur du monde », il n'est pas un témoin neutre des querelles qui opposèrent l'empereur aux Templiers (voir [[sixieme-croisade|sixième croisade]]). La *Chronica majora* a été éditée par Henry Richards Luard, en sept volumes, de 1872 à 1881, et traduite en anglais par John Allen Giles de 1852 à 1854.
+repere: 1217 — Matthieu entre comme moine à Saint-Albans.
+repere: 1236 — Il succède à Roger de Wendover comme chroniqueur de l'abbaye.
+repere: 1244 — Défaite de La Forbie, qu'il dessine dans sa chronique.
+repere: 1248 — Il porte en Norvège un message de Louis IX.
+repere: 1257 — Henri III séjourne à Saint-Albans et guide sa plume.
+repere: 1259 — Mort de Matthieu Paris ; sa chronique s'arrête cette année-là.
+repere: 1872 — Début de l'édition de la *Chronica majora* par Luard.
+attention: Le dessin des deux cavaliers sur un même cheval reproduit le sceau de l'ordre ; y voir un souvenir de la pauvreté des premiers frères est une interprétation, non un témoignage de Matthieu. Et Matthieu, qui n'a jamais vu l'Orient, en rapporte des nouvelles de seconde main.
+lien: wp Matthieu Paris
+lien: en Chronica Majora
+lien: ia matthiparisiensi01pari = Chronica majora, éd. Henry Richards Luard, t. I (1872)
+sources: Wikipédia (fr : Matthieu Paris ; en : Matthew Paris, Chronica Majora, Knights Templar in England) ; Wikimedia Commons (notices des dessins des manuscrits 26 et 16 du Corpus Christi College)
+voir: templiers-en-angleterre, sceau-du-temple, bataille-de-la-forbie, frederic-ii, sixieme-croisade, armand-de-perigord, privileges-et-critiques
+
+@ ernoul
+cat: sources
+nom: Chronique d'Ernoul
+alias: Ernoul, Chronique d'Ernoul et de Bernard le Trésorier, Estoire d'Eracles, continuations de Guillaume de Tyr, Eracles de Lyon, Balian d'Ibelin, La Fève
+dates: récit de 1186-1187 ; rédaction finale v. 1230-1260
+an: 1187
+def: Chronique en ancien français attribuée à Ernoul, écuyer de Balian d'Ibelin, qui raconte en témoin la chute du royaume de Jérusalem en 1187 ; c'est la source principale sur le combat de la fontaine du Cresson et sur la marche vers Hattin.
+texte: Ernoul n'est connu que par la chronique qui porte son nom. Écuyer de Balian d'Ibelin, il accompagne en 1187 son seigneur dans l'ambassade que le roi [[guy-de-lusignan|Guy de Lusignan]] envoie au comte Raymond III de Tripoli. Balian s'arrête un jour à Naplouse ; pendant ce temps, le reste de la troupe tombe, le 1er mai, dans le combat de la fontaine du Cresson, où les Templiers sont massacrés. Ernoul, envoyé voir pourquoi le château templier de La Fève était presque vide, en rapporte la nouvelle. On ignore s'il combattit à [[bataille-de-hattin|Hattin]], le 4 juillet 1187 ; il décrit l'arrière-garde que commandait Balian. On a voulu l'identifier à un noble chypriote du XIIIe siècle, Arneis de Gibelet ; Peter Edbury a écarté l'hypothèse.
+texte: Les textes conservés sont des suites de la traduction française de [[guillaume-de-tyr|Guillaume de Tyr]], l'*Estoire d'Eracles*, qui dérivent d'un original perdu attribué à Ernoul. Ils ont reçu leur forme définitive entre 1230 et 1260, et Ernoul n'en a sans doute écrit que la partie qui couvre 1186 et 1187, au temps où la famille d'Ibelin dominait le royaume. Il en existe plusieurs rédactions : celle de Lyon, base des éditions modernes, qui seule donne un récit propre des années 1184-1197 ; celle que reproduit le *Recueil des historiens des croisades* ; un abrégé, que Louis de Mas Latrie publie en 1871 pour la Société de l'histoire de France sous le titre de *Chronique d'Ernoul et de Bernard le Trésorier*, et qui va jusqu'en 1227 ou 1231 selon les versions.
+texte: Pour les Templiers, la chronique est précieuse et partiale. Écrite du point de vue des Ibelin et du comte de Tripoli, adversaires du roi Guy, elle juge durement le maître [[gerard-de-ridefort|Gérard de Ridefort]], à qui elle impute l'attaque téméraire du Cresson et le conseil de marcher, en juillet 1187, vers Hattin, où [[saladin|Saladin]] détruisit l'armée franque. Les historiens s'en servent pour la chute du royaume et la [[troisieme-croisade|troisième croisade]], en la confrontant aux sources arabes et latines. Margaret Ruth Morgan lui a consacré en 1973 une étude, puis en 1982 une édition de la rédaction de Lyon ; Peter Edbury en a traduit en 1996 la partie de 1184 à 1197.
+repere: 1er mai 1187 — Combat de la fontaine du Cresson, où les Templiers sont massacrés.
+repere: 4 juillet 1187 — Défaite de Hattin.
+repere: 1871 — Louis de Mas Latrie publie la *Chronique d'Ernoul et de Bernard le Trésorier*.
+repere: 1973 — Étude de Margaret Ruth Morgan sur la chronique et les continuations.
+repere: 1996 — Traduction anglaise de Peter Edbury pour les années 1184-1197.
+attention: « Ernoul » n'est pas l'auteur de toute la chronique qui porte son nom, et le portrait qu'elle fait de Gérard de Ridefort reflète les luttes de factions du royaume : c'est un réquisitoire, à lire comme tel.
+lien: wp Ernoul
+lien: en Ernoul
+lien: ia chronicleofernou0000morg = M. R. Morgan, The Chronicle of Ernoul and the Continuations of William of Tyre (1973)
+sources: Wikipédia (fr : Ernoul ; en : Ernoul) ; Internet Archive (notice de l'étude de M. R. Morgan)
+voir: bataille-de-hattin, gerard-de-ridefort, guillaume-de-tyr, guy-de-lusignan, saladin, troisieme-croisade
+
+@ templier-de-tyr
+cat: sources
+nom: Le Templier de Tyr
+alias: Templier de Tyr, Templar of Tyre, Gestes des Chiprois, Deeds of the Cypriots, chronique du Templier de Tyr, Jean le Miège, Philippe de Novare
+dates: v. 1255 – après 1314
+an: 1255
+def: Nom donné à l'auteur anonyme de la dernière partie des *Gestes des Chiprois*, chronique écrite à Chypre vers 1315-1320 ; proche du maître Guillaume de Beaujeu, il est l'un des deux témoins oculaires de la chute d'Acre en 1291.
+texte: On ne connaît pas son nom. Les historiens l'appellent « le Templier de Tyr » par convention, tout en tenant ce surnom pour mal fondé : il n'était sans doute pas frère du Temple, puisqu'il ne fut pas arrêté avec les Templiers de Chypre en 1308. Né vers 1255, il est en 1269 page de Marguerite d'Antioche-Lusignan et assiste à Tyr à son mariage avec Jean de Montfort ; il vit à Tyr jusque vers 1283. Il entre ensuite dans l'entourage de [[guillaume-de-beaujeu|Guillaume de Beaujeu]], maître du Temple de 1273 à 1291 ; il sait l'arabe et traduit pour le maître les lettres du sultan al-Ashraf Khalil. C'était probablement un petit noble chypriote.
+texte: Les *Gestes des Chiprois* sont une compilation en français, faite à Chypre vers 1315-1320, qui couvre l'histoire des États latins et du royaume de Chypre de 1132 à 1309. Elle a trois parties : jusqu'en 1224, des annales de Terre sainte ; pour 1223-1242, l'histoire de la guerre des Lombards par Philippe de Novare, avec cinq de ses poèmes ; enfin l'œuvre propre du compilateur, qui suit l'*Estoire d'Eracles* jusqu'en 1270, puis sa mémoire et ce qu'il a entendu. Le texte ne survit que dans un manuscrit, conservé à Turin (Bibliothèque royale, Varia 433), copié en 1343 au château de Kyrenia par un prisonnier, Jean le Miège ; le début et la fin manquent, et le récit s'interrompt au milieu de 1309.
+texte: Cette troisième partie est la source la plus importante pour les dernières années du royaume de Jérusalem et l'un des deux récits de témoin de la [[chute-d-acre|chute d'Acre]], en 1291 : le siège, la mort du maître, la résistance de la tour du Temple. Elle suit ensuite les Templiers repliés à [[chypre-templiere|Chypre]] jusqu'à leur arrestation, et donne un écho du procès et de la fin de [[jacques-de-molay|Jacques de Molay]]. Gaston Raynaud l'a éditée en 1887 ; Paul Crawford en a donné une traduction anglaise en 2003.
+repere: 1269 — Page de Marguerite d'Antioche-Lusignan, il assiste à son mariage à Tyr.
+repere: 1273 — Guillaume de Beaujeu devient maître du Temple.
+repere: 18 mai 1291 — Mort de Guillaume de Beaujeu pendant le siège d'Acre.
+repere: 1308 — Arrestation des Templiers de Chypre.
+repere: v. 1315 — Rédaction des *Gestes des Chiprois*.
+repere: 1343 — Jean le Miège copie à Kyrenia le manuscrit unique.
+repere: 1887 — Édition de Gaston Raynaud.
+attention: Le surnom fait de lui un frère du Temple : rien ne le prouve, et sa liberté en 1308 laisse penser qu'il ne l'était pas. C'est un laïc de l'entourage du maître, ce qui fait la valeur et les limites de son témoignage.
+lien: wp Gestes des Chiprois
+lien: en Templar of Tyre
+lien: ia lesgestesdeschip00raynuoft = Les Gestes des Chiprois, éd. Gaston Raynaud (1887)
+sources: Wikipédia (fr : Gestes des Chiprois ; en : Templar of Tyre) ; Internet Archive (notice de l'édition Raynaud)
+voir: chute-d-acre, guillaume-de-beaujeu, chypre-templiere, acre, jacques-de-molay, proces-des-templiers
+
+@ usama-ibn-munqidh
+cat: sources
+nom: Usama ibn Munqidh
+alias: Oussama Ibn Mounqidh, Ousâma ibn Mounkidh, Usamah ibn Munqidh, Kitab al-I'tibar, Des enseignements de la vie, The Book of Contemplation, Chayzar, Shaizar
+dates: 4 juillet 1095 – 17 novembre 1188
+an: 1095
+fin: 1188
+def: Émir syrien de Chayzar, guerrier, diplomate et lettré, qui fréquenta les Francs de Jérusalem ; ses souvenirs, le *Kitab al-I'tibar*, écrits vers 1183, contiennent le célèbre récit de sa prière près de la mosquée al-Aqsa, où ses amis templiers le protégèrent.
+texte: Usama naît le 4 juillet 1095 à Chayzar, sur l'Oronte, dans la famille des Banu Munqidh, émirs de la ville. Il combat les croisés dès 1119, près d'Apamée. Écarté de Chayzar, il sert l'émir de Damas, Unur, pour qui il mène de 1138 à 1143 des missions auprès du royaume de Jérusalem, où il se lie avec des Templiers. Soupçonné d'un complot, il gagne Le Caire en novembre 1144, puis revient à Damas en juin 1154 ; en 1156, en traversant le territoire franc, sa famille est pillée et il perd sa bibliothèque ; l'année suivante, le tremblement de terre de 1157 détruit Chayzar et tue la plupart des siens. Il sert ensuite Nur ad-Din, puis un prince de Haute-Mésopotamie, à Hisn Kayfa, avant que [[saladin|Saladin]] ne l'appelle à Damas en 1174. Il y meurt le 17 novembre 1188, à quatre-vingt-treize ans.
+texte: Le *Kitab al-I'tibar*, le « livre de l'enseignement par l'exemple », écrit vers 1183, n'est pas une autobiographie suivie mais un recueil de souvenirs et d'anecdotes. Plusieurs concernent les Francs, qu'Usama observe avec curiosité et souvent avec ironie : leur médecine, qui ampute un blessé à la hache et le tue, leurs ordalies et leurs duels judiciaires. La plus célèbre se passe à Jérusalem (voir [[jerusalem-temple-de-salomon|Temple de Salomon]]) : autorisé par les Templiers, « ses amis », à prier dans un oratoire voisin de la mosquée al-Aqsa, devenue leur maison, il est saisi par un Franc nouvellement arrivé, qui le tourne vers l'orient pour lui montrer comment on prie ; les Templiers écartent l'homme et s'excusent : c'est un nouveau venu, qui ignore les usages du pays (voir [[templiers-et-musulmans|Templiers et musulmans]]).
+texte: L'œuvre ne survit que dans un manuscrit, conservé à l'Escurial, que l'orientaliste Hartwig Derenbourg fit connaître en 1880 ; il en publia le texte arabe en 1886, une biographie d'Usama en 1889 et une traduction française en 1895. Philip Hitti l'a traduite en anglais en 1929, André Miquel en français sous le titre *Des enseignements de la vie* (Imprimerie nationale, 1983), Paul M. Cobb de nouveau en anglais, *The Book of Contemplation* (Penguin, 2008).
+repere: 4 juillet 1095 — Naissance d'Usama à Chayzar.
+repere: 1138 — Début de ses missions auprès du royaume de Jérusalem pour l'émir de Damas.
+repere: novembre 1144 — Il s'enfuit de Damas pour Le Caire.
+repere: 1157 — Un tremblement de terre détruit Chayzar et tue la plupart des siens.
+repere: 1174 — Saladin l'appelle à Damas.
+repere: v. 1183 — Il écrit le *Kitab al-I'tibar*.
+repere: 17 novembre 1188 — Mort d'Usama à Damas.
+repere: 1880 — Hartwig Derenbourg fait connaître le manuscrit de l'Escurial.
+attention: L'anecdote d'al-Aqsa est souvent tirée vers une connivence religieuse entre Templiers et musulmans : elle montre des relations de voisinage entre un diplomate et des frères qu'il connaissait, et la différence entre les Francs installés en Orient et les nouveaux venus. Elle est écrite quarante ans après les faits par un vieil homme qui veut instruire. Certaines notices placent sa mort en 1187.
+lien: wp Oussama Ibn Mounqidh
+lien: en Usama ibn Munqidh
+lien: en Kitab al-I'tibar
+sources: Wikipédia (fr : Oussama Ibn Mounqidh ; en : Usama ibn Munqidh)
+voir: templiers-et-musulmans, jerusalem-temple-de-salomon, saladin, guillaume-de-tyr, jean-de-joinville
+
+@ jean-de-joinville
+cat: sources
+nom: Jean de Joinville
+alias: Joinville, sire de Joinville, sénéchal de Champagne, Vie de saint Louis, Livre des saintes paroles et des bons faits de notre saint roi Louis, Histoire de saint Louis, Étienne d'Otricourt
+dates: v. 1224 – 24 décembre 1317
+an: 1224
+fin: 1317
+def: Sénéchal de Champagne, compagnon de Louis IX à la septième croisade, auteur d'une *Vie de saint Louis* achevée en 1309 ; il y raconte la mort du maître Guillaume de Sonnac à Mansourah et la façon dont il força le coffre du Temple pour payer la rançon du roi.
+texte: Jean naît vers 1224 dans une grande famille champenoise ; seigneur de Joinville encore enfant, il hérite de la charge de sénéchal de Champagne. En 1248, il part pour la croisade de [[louis-ix|Louis IX]] en Égypte (voir [[septieme-croisade|septième croisade]]). Pris avec le roi en 1250, il participe à la négociation et au paiement de la rançon, puis reste avec lui en Terre sainte jusqu'en 1254, en conseiller familier. Il refuse de partir à la croisade de 1270, où le roi meurt devant Tunis, et témoigne en 1282 à l'enquête pour sa canonisation, prononcée en 1297. Vers 1299, la reine Jeanne de Navarre lui demande d'écrire la vie du saint ; elle meurt en 1305, et Joinville achève son livre en 1309, en le dédiant à son fils, le futur Louis X. Il meurt le 24 décembre 1317, à plus de quatre-vingt-treize ans.
+texte: Les Templiers tiennent dans son récit une place de premier plan. À [[mansourah|Mansourah]], le 8 février 1250, ils forment avec Robert d'Artois l'avant-garde qui se jette dans la ville et y périt ; le maître [[guillaume-de-sonnac|Guillaume de Sonnac]], qui y a perdu un œil, perd l'autre et la vie dans le combat du 11 février. Après la capture du roi, il manque trente mille livres pour le premier versement de la rançon. Joinville va les demander à la galère du Temple : le commandeur, Étienne d'Otricourt, refuse, car les frères ont juré de ne rendre les dépôts qu'à ceux qui les leur ont confiés ; le maréchal, [[renaud-de-vichiers|Renaud de Vichiers]], fait observer que si l'on prend l'argent de force, l'ordre sera quitte. Joinville saisit une cognée et fait mine de briser le coffre ; on lui en donne les clés. Ce récit est l'un des plus vivants que l'on ait sur le Temple gardien des dépôts (voir [[banque-du-temple|le Temple et l'argent]]).
+texte: Le plus ancien manuscrit, enluminé vers 1330-1340, entra dans la bibliothèque de Charles V ; perdu, puis retrouvé à Bruxelles en 1746, il est aujourd'hui à la Bibliothèque nationale de France. Le livre, imprimé dès 1547, a été édité par Natalis de Wailly en 1868, puis par Jacques Monfrin, avec une traduction en regard.
+repere: 1248 — Joinville part pour la croisade de Louis IX.
+repere: 8 février 1250 — Bataille de Mansourah ; les Templiers chargent avec Robert d'Artois.
+repere: 11 février 1250 — Mort du maître Guillaume de Sonnac.
+repere: 1254 — Retour en France avec le roi.
+repere: 1282 — Joinville témoigne à l'enquête de canonisation de Louis IX.
+repere: 1309 — Il achève sa *Vie de saint Louis*.
+repere: 24 décembre 1317 — Mort de Joinville.
+repere: 1868 — Édition de Natalis de Wailly.
+attention: Joinville écrit plus de cinquante ans après les faits, pour célébrer un saint. L'épisode du coffre ne montre pas des banquiers avides : il montre des frères tenus par serment de ne rendre les dépôts qu'à leurs propriétaires, et qui s'en tirent par une contrainte convenue.
+lien: wp Jean de Joinville
+lien: ws Mémoires de Joinville = Mémoires de Joinville (collection Petitot)
+lien: ia histoiredesaintl00joinuoft = Histoire de saint Louis, éd. Natalis de Wailly (1868)
+sources: Wikipédia (fr : Jean de Joinville, Renaud de Vichiers) ; Wikisource (Auteur:Jean de Joinville) ; Wikimedia Commons (notices du manuscrit BnF fr. 13568) ; Internet Archive (notice de l'édition de Wailly)
+voir: louis-ix, septieme-croisade, mansourah, guillaume-de-sonnac, renaud-de-vichiers, banque-du-temple
+
+@ actes-du-proces
+cat: sources
+nom: Les actes du procès
+alias: procès-verbaux du procès des Templiers, interrogatoires de 1307, commission pontificale, Procès des Templiers (Michelet), Le Dossier de l'affaire des Templiers, Processus contra Templarios, dépositions des Templiers
+dates: 1307 – 1312 ; éditions depuis 1841
+an: 1307
+fin: 1312
+def: Ensemble des procès-verbaux d'interrogatoires et d'enquêtes dressés contre l'ordre du Temple de 1307 à 1312, en France et dans toute la chrétienté ; publiés à partir de 1841 par Jules Michelet, ils restent la principale source sur les Templiers eux-mêmes, et la plus délicate à lire.
+texte: Le procès des Templiers est une procédure d'inquisition, et chaque audience a laissé un procès-verbal de notaire, en latin. Les premiers sont ceux des interrogatoires conduits à Paris en octobre et novembre 1307 par l'inquisiteur [[guillaume-de-paris|Guillaume de Paris]] après l'[[arrestation-du-13-octobre-1307|arrestation du 13 octobre]] : cent trente-huit frères y sont entendus, et l'on connaît aussi des interrogatoires de province. Viennent ensuite les auditions des dignitaires par trois cardinaux à Chinon, du 17 au 20 août 1308 (voir [[parchemin-de-chinon|parchemin de Chinon]]), les enquêtes des commissions diocésaines, et surtout le registre de la commission pontificale qui siège à Paris de 1309 à 1311 et entend quelque 231 témoins, devant qui [[pierre-de-bologne|Pierre de Bologne]] organise la défense de l'ordre.
+texte: Hors de France, les enquêtes ordonnées par le pape ont laissé d'autres dossiers : en Angleterre, du 22 octobre 1309 au 18 mars 1310, où l'on entend beaucoup plus de témoins étrangers à l'ordre qu'en France — soixante, contre six sur les 231 de la commission parisienne —, en Irlande et en Écosse ; à Chypre, où les frères nient tous en 1310 ; dans la couronne d'Aragon, que le concile de Tarragone clôt le 4 novembre 1312 en déclarant les frères innocents ; en Castille, au concile de Salamanque (1310) ; dans l'Empire, à Trèves et à Mayence ; en Italie, à Ravenne (1311). Le contraste est net : les aveux abondent là où la torture a été employée, ils manquent presque partout ailleurs (voir [[proces-des-templiers|procès des Templiers]]).
+texte: Ces textes demandent une lecture prudente. Les frères répondent à une liste fixe d'articles d'accusation, souvent après la torture ou sous sa menace, devant des notaires qui résument. Mais, lus en série, ils disent aussi l'âge des frères, leur origine, la date et le lieu de leur entrée, le déroulement de la [[reception-dans-l-ordre|réception]] ; Alain Demurger en a tiré en 2020 un catalogue du « peuple templier ». Le texte de Chinon était connu dès le XVIIe siècle par l'édition d'Étienne Baluze. Jules Michelet publie de 1841 à 1851, en deux volumes, le registre de la commission pontificale et les interrogatoires parisiens de 1307 ; Heinrich Finke donne en 1907 des documents des archives d'Aragon, et Georges Lizerand en 1923 un choix commode des pièces, *Le Dossier de l'affaire des Templiers*. Helen Nicholson a publié en 2011 les procédures des îles Britanniques. En 2007, enfin, les Archives secrètes du Vatican publient en fac-similé, à 799 exemplaires, les pièces qu'elles conservent, dont le parchemin de Chinon retrouvé par Barbara Frale (*Processus contra Templarios*).
+repere: octobre 1307 — Premiers interrogatoires des Templiers de Paris par l'inquisiteur de France.
+repere: 17 – 20 août 1308 — Audition des dignitaires à Chinon par trois cardinaux.
+repere: 1309 – 1311 — La commission pontificale entend à Paris quelque 231 témoins.
+repere: 22 octobre 1309 — Ouverture de l'enquête d'Angleterre.
+repere: 1841 — Premier volume du *Procès des Templiers* publié par Jules Michelet.
+repere: 1851 — Second volume de l'édition Michelet.
+repere: 1923 — *Le Dossier de l'affaire des Templiers*, de Georges Lizerand.
+repere: 2007 — Le Vatican publie le *Processus contra Templarios*.
+attention: Les aveux ne prouvent pas les crimes : obtenus sous la torture ou sa menace, en réponse à des questions qui suggéraient les réponses, ils manquent là où l'on n'a pas torturé. À l'inverse, le parchemin de Chinon n'innocente pas l'ordre : il absout des hommes qui ont avoué. La découverte de Barbara Frale est datée de 2001 par la plupart des sources, de 2002 par d'autres.
+lien: ia procsdestempli01tempuoft = Procès des Templiers, éd. Jules Michelet, t. I (1841)
+lien: ia procsdestempli02tempuoft = Procès des Templiers, éd. Jules Michelet, t. II (1851)
+lien: ia LizerandLeDossierDeLAffaireDesTempliers1927 = Georges Lizerand, Le Dossier de l'affaire des Templiers (1923)
+sources: Wikipédia (fr : Procès de l'ordre du Temple, Parchemin de Chinon ; en : Chinon Parchment, Trials of the Knights Templar, Knights Templar in England, Helen J. Nicholson, Alain Demurger) ; Internet Archive (notices des éditions Michelet, Finke et Lizerand) ; recherche bibliographique sur l'édition Michelet (Collection de documents inédits, 1841-1851)
+voir: proces-des-templiers, parchemin-de-chinon, arrestation-du-13-octobre-1307, reception-dans-l-ordre, pierre-de-bologne, historiographie-des-templiers, guillaume-de-paris
+
+@ cartulaires-du-temple
+cat: sources
+nom: Les cartulaires et les archives
+alias: archives du Temple, chartes templières, cartulaire général de l'ordre du Temple, marquis d'Albon, cartulaire de Douzens, cartulaire de Richerenches, enquête de 1185, Inquest of 1185, Émile-G. Léonard
+dates: XIIe – XIVe siècle ; éditions depuis 1886
+an: 1913
+def: Les archives centrales du Temple sont perdues : on connaît l'ordre par les chartes de ses maisons d'Occident, copiées dans des cartulaires et conservées par les Hospitaliers ; le marquis d'Albon en a rassemblé les plus anciennes dans un *Cartulaire général* publié en 1913.
+texte: Le Temple a perdu ses archives centrales, tenues en Orient puis à Chypre : on n'a ni les registres de ses chapitres généraux, ni la correspondance de ses maîtres, sinon par des copies conservées ailleurs. Ce qui reste, ce sont les papiers de ses maisons d'Occident : donations, ventes, échanges, accords et procès, transcrits sur des chartes et souvent recopiés dans des registres, les cartulaires. En 1312, ces titres passent avec les biens aux [[hospitaliers|Hospitaliers]], qui les gardent parmi leurs propres archives, comme ceux du domaine anglais de Cressing ; c'est souvent dans les fonds de l'ordre de Saint-Jean qu'on les retrouve aujourd'hui.
+texte: Quelques ensembles sont célèbres. Le cartulaire de [[douzens|Douzens]], dans l'Aude, s'ouvre sur la donation du lieu, en 1133, par Bernard de Canet, Aymeric de Barbayrac et d'autres seigneurs ; Pierre Gérard et Élisabeth Magnou l'ont publié en 1965, sous la direction de Philippe Wolff. Celui de [[richerenches|Richerenches]], en Provence, maison fondée en 1136 par le frère Arnaud de Bedos et connue pour ses chevaux, a été reconstitué et publié en 1907 par le marquis de Ripert-Monclar. En Angleterre, l'enquête de 1185 dressée par le maître Geoffroy Fitz Stephen recense les biens de l'ordre ; Beatrice Lees l'a éditée en 1935. Pour la vie interne de l'ordre, la source maîtresse est la [[regle-du-temple|règle du Temple]], qu'Henri de Curzon édite en 1886.
+texte: Le marquis André d'Albon (1866-1912), érudit lyonnais, voulait écrire une histoire des Templiers de France ; il en a réuni les matériaux. Son *Cartulaire général de l'ordre du Temple, 1119 ?-1150* paraît en 1913, après sa mort ; le point d'interrogation dit l'incertitude de la date de fondation. Sa veuve publie en 1922 un fascicule de tables et d'identifications de lieux, et donne le reste des copies à la Bibliothèque nationale ; Émile-G. Léonard en tire une introduction au cartulaire manuscrit, de 1150 à 1317, avec un tableau des maisons françaises et de leurs précepteurs. Ces volumes sont la base des études régionales, comme celle de Damien Carraz sur la basse vallée du Rhône (2005). Ils montrent un ordre de propriétaires, de [[donats-et-confreres|confrères]] et de donateurs, et une [[economie-du-temple|économie]] de domaines plus qu'une armée.
+repere: 1133 — Donation de Douzens, premier acte du cartulaire de la maison.
+repere: 1136 — Fondation de la maison de Richerenches.
+repere: 1185 — Enquête sur les biens du Temple en Angleterre.
+repere: 1886 — Henri de Curzon publie la règle du Temple.
+repere: 1907 — Le marquis de Ripert-Monclar publie le cartulaire de Richerenches.
+repere: 1913 — Parution posthume du *Cartulaire général* du marquis d'Albon.
+repere: 1965 — Publication des cartulaires de Douzens.
+attention: Une tradition locale, un nom de lieu (« le Temple », « la Commanderie ») ou une croix pattée ne suffisent pas à faire un site templier : seuls une charte, un cartulaire ou un inventaire permettent de l'attester, et bien des maisons dites templières furent hospitalières (voir [[commanderie|commanderie]]).
+lien: ia ldpd_6345168_000 = Cartulaire général de l'ordre du Temple, 1119 ?-1150, par le marquis d'Albon (1913)
+lien: wp André d'Albon (1866-1912)
+lien: ia largledutemplepu00temp = La Règle du Temple, éd. Henri de Curzon (1886)
+sources: Wikipédia (fr : André d'Albon (1866-1912), Commanderie de Douzens, Commanderie de Richerenches, Ordre du Temple, Templiers en Angleterre ; en : Cressing Temple) ; Internet Archive (notices des éditions d'Albon et Curzon) ; recherche bibliographique sur Carraz, L'Ordre du Temple dans la basse vallée du Rhône (PUL, 2005)
+voir: commanderie, economie-du-temple, douzens, richerenches, regle-du-temple, hospitaliers, donats-et-confreres, historiographie-des-templiers
+
+@ historiographie-des-templiers
+cat: sources
+nom: L'historiographie des Templiers
+alias: historiens des Templiers, débat sur l'innocence des Templiers, Raynouard, Michelet, Prutz, Langlois, Finke, Barber, Demurger, Nicholson, Carraz, Frale, Théry, Hélary, hérésie d'État
+dates: du XIVe siècle à nos jours
+an: 1813
+def: Comment les historiens ont jugé les Templiers, de Pierre Dupuy (1654) aux travaux récents : un long débat sur la culpabilité de l'ordre, tranché en faveur de son innocence, qui porte désormais sur les raisons du roi, le rôle du pape et le sens des aveux.
+texte: Dès le XIVe siècle, les Églises et les princes se sont divisés sur la culpabilité des Templiers, et l'opinion, au fil du temps, a penché vers la pitié : au XVe siècle, saint Antonin de Florence attribue leur chute à l'envie qu'excitaient leurs richesses. En 1654, l'érudit Pierre Dupuy publie une histoire de la condamnation qui donne raison à l'accusation et où Langlois verra, en 1891, une apologie de Philippe le Bel ; au siècle suivant, Voltaire et bien d'autres jugent au contraire l'ordre condamné injustement. C'est aussi au XVIIIe siècle que la [[franc-maconnerie-et-templiers|franc-maçonnerie]] s'invente des ancêtres templiers, et le débat historique doit dès lors compter avec la légende.
+texte: Le XIXe siècle ouvre les dossiers. François Raynouard (1761-1836), dont la tragédie *Les Templiers* triomphe en 1805 à la Comédie-Française, publie en 1813 des *Monumens historiques* sur la condamnation de l'ordre, qui plaident son innocence. Joseph von Hammer-Purgstall prétend en 1818 prouver les crimes par des monuments figurés (voir [[baphomet|Baphomet]]) ; il est réfuté dès 1819 dans le *Journal des savants*. Jules Michelet, dans un article de la *Revue des Deux Mondes* en 1837, lit le reniement de la réception comme une pantomime symbolique, à l'imitation de saint Pierre, puis publie de 1841 à 1851 les interrogatoires (voir [[actes-du-proces|actes du procès]]). En Allemagne, Hans Prutz défend en 1879 l'idée d'une doctrine et de statuts secrets de l'ordre ; Konrad Schottmüller et Prutz lui-même, en 1888, reprennent le dossier, et Charles-Victor Langlois conclut en 1891 que l'ordre fut « victime, mort et vivant, des préjugés et de la mauvaise foi ». En 1907, Heinrich Finke renouvelle l'étude par les archives de la couronne d'Aragon, et Georges Lizerand rassemble en 1923 les pièces principales.
+texte: Le XXe siècle fonde les études actuelles. Malcolm Barber publie *The Trial of the Templars* en 1978, puis *The New Knighthood* en 1994 ; Alain Demurger, *Vie et mort de l'ordre du Temple* en 1985, puis *Les Templiers, une chevalerie chrétienne au Moyen Âge* en 2005, une biographie de Jacques de Molay et un journal de la persécution (2015). Helen Nicholson étudie depuis 1993 l'image des ordres militaires chez leurs contemporains, puis le procès dans les îles Britanniques, dont elle édite les actes en 2011. Damien Carraz consacre en 2005 une étude régionale aux maisons de la basse vallée du Rhône, et Nicole Bériou et Philippe Josserand dirigent en 2009 un dictionnaire européen des ordres militaires, *Prier et combattre*. Barbara Frale retrouve en 2001 aux Archives vaticanes le [[parchemin-de-chinon|parchemin de Chinon]], qui conduit à réévaluer le rôle de Clément V ; son hypothèse sur le suaire de Turin, en revanche, a été contestée, notamment par Andrea Nicolotti en 2011. Julien Théry propose à partir de 2007 de chercher les causes du procès moins dans l'histoire de l'ordre que dans celle de la royauté capétienne, de sa sacralité et de son conflit avec la papauté : une « hérésie d'État » (2011). Xavier Hélary fait en 2018 le point sur le [[tresor-des-templiers|trésor]] : *Les Templiers. Leur faux trésor, leur vraie puissance*.
+texte: Les historiens s'accordent aujourd'hui sur l'essentiel : l'hérésie, l'idolâtrie et les mœurs dont on accusa l'ordre n'ont pas été prouvées, et les aveux sont le produit de la procédure. Les débats portent ailleurs. Les uns admettent que certaines réceptions aient comporté un geste de reniement, dont le sens reste discuté — épreuve d'obéissance, simulacre, abus local —, et dont [[geoffroy-de-gonneville|Geoffroy de Gonneville]] proposait déjà au procès sa propre explication. D'autres débattent des raisons de [[philippe-le-bel|Philippe le Bel]] : les besoins d'argent d'un roi endetté, ou, avec Julien Théry, une affirmation religieuse et politique de la royauté. D'autres encore de l'attitude de [[clement-v|Clément V]], faible devant le roi ou cherchant à sauver ce qui pouvait l'être.
+repere: 1654 — Pierre Dupuy publie une histoire de la condamnation favorable à l'accusation.
+repere: 14 mai 1805 — Triomphe de la tragédie *Les Templiers* de Raynouard.
+repere: 1813 — Raynouard publie ses *Monumens historiques* sur la condamnation de l'ordre.
+repere: 1837 — Michelet consacre aux Templiers un article de la *Revue des Deux Mondes*.
+repere: 1879 — Hans Prutz soutient l'existence d'une doctrine secrète de l'ordre.
+repere: 1891 — Charles-Victor Langlois juge l'ordre victime des préjugés et de la mauvaise foi.
+repere: 1907 — Heinrich Finke publie *Papsttum und Untergang des Templerordens*.
+repere: 1978 — *The Trial of the Templars*, de Malcolm Barber.
+repere: 2001 — Barbara Frale retrouve le parchemin de Chinon aux Archives vaticanes.
+repere: 2011 — Julien Théry publie « Une hérésie d'État ».
+attention: Dire l'ordre « innocent » ne fait pas des Templiers des hommes irréprochables : les historiens jugent que les crimes d'hérésie et d'idolâtrie n'ont pas existé, tout en discutant des pratiques de réception et des fautes ordinaires d'un ordre riche et puissant. Les livres qui font des Templiers les gardiens d'un secret n'appartiennent pas à l'historiographie mais à la légende (voir [[symbolisme-templier|symbolisme templier]]).
+lien: wp Historiographie du procès de l'ordre du Temple
+lien: ws Les Templiers (Michelet) = Jules Michelet, « Les Templiers », Revue des Deux Mondes (1837)
+lien: ws Le Procès des Templiers = Charles-Victor Langlois, « Le Procès des Templiers », Revue des Deux Mondes (1891)
+sources: Wikipédia (fr : Historiographie du procès de l'ordre du Temple, François Raynouard, Jules Michelet, Alain Demurger, Barbara Frale, Julien Théry, Xavier Hélary ; en : Malcolm Barber, Helen J. Nicholson, Hans Prutz) ; Michelet, « Les Templiers », 1837, et Langlois, « Le Procès des Templiers », 1891 (Revue des Deux Mondes, Wikisource) ; Théry, « Une hérésie d'État », Médiévales 60, 2011 (notice) ; Internet Archive (notices Raynouard 1813, Prutz 1879 et 1888, Finke 1907)
+voir: actes-du-proces, proces-des-templiers, parchemin-de-chinon, baphomet, philippe-le-bel, clement-v, geoffroy-de-gonneville, tresor-des-templiers
+
+@ chronologie-de-l-ordre
+cat: sources
+nom: Chronologie de l'ordre
+alias: chronologie du Temple, dates des Templiers, frise chronologique de l'ordre du Temple, repères chronologiques
+dates: 1095 – 2007
+an: 1095
+fin: 2007
+def: Les dates principales de l'histoire de l'ordre du Temple, de l'appel à la croisade de 1095 à la suppression de 1312 et au bûcher de 1314, puis de sa postérité jusqu'à la publication des actes du procès par le Vatican, en 2007.
+texte: Cette chronologie rassemble les dates qui jalonnent l'histoire du Temple ; chaque repère renvoie à l'article qui le traite, et la liste des [[maitres-de-l-ordre|maîtres de l'ordre]] donne la succession de ses chefs. Les dates sont celles du calendrier julien, en usage à l'époque ; quand un acte compte l'année à partir du 25 mars, comme ceux du concile de Troyes, on la ramène au style moderne. Plusieurs dates restent discutées, et la liste le signale : la fondation (1119 ou 1120), la chute de Ruad (1302 ou 1303), le bûcher de Jacques de Molay (11 ou 18 mars 1314).
+texte: Trois temps se dessinent. De 1120 à 1291, le Temple combat en Terre sainte et dans la péninsule Ibérique, pendant que ses commanderies d'Occident lui envoient hommes, chevaux et argent ; de 1291 à 1307, replié à Chypre, il cherche une raison d'être, alors que l'on parle de le fondre avec l'Hôpital ; de 1307 à 1314, il est arrêté, jugé et supprimé. Après 1314, son histoire devient celle de ses biens, partagés entre les [[hospitaliers|Hospitaliers]] et les ordres ibériques, puis celle de sa mémoire : les francs-maçons et les néo-templiers qui s'en réclament, et les historiens qui en publient les sources, parmi les autres [[ordres-militaires|ordres religieux-militaires]].
+repere: 27 novembre 1095 — À Clermont, le pape Urbain II appelle à la croisade, d'où naîtront les États latins et l'[[ordre-du-temple|ordre du Temple]].
+repere: 15 juillet 1099 — Les croisés prennent Jérusalem, où l'ordre aura son premier siège (voir [[jerusalem-temple-de-salomon|Temple de Salomon]]).
+repere: janvier 1120 — Au concile de Naplouse, la confrérie d'Hugues de Payns est sans doute reconnue ; on date aussi la fondation de 1119 (voir [[fondation-de-l-ordre|fondation de l'ordre]]).
+repere: 19 mars 1128 — La comtesse Thérèse donne aux Templiers le château de Soure (voir [[templiers-au-portugal|Templiers au Portugal]]).
+repere: 13 janvier 1129 — Le [[concile-de-troyes|concile de Troyes]] approuve l'ordre et sa règle latine ; ses actes le datent de 1128, en style ancien.
+repere: 24 mai 1136 — Mort d'[[hugues-de-payns|Hugues de Payns]], premier maître de l'ordre.
+repere: 29 mars 1139 — La bulle *[[omne-datum-optimum]]* d'Innocent II place l'ordre sous la seule autorité du pape.
+repere: 27 avril 1147 — À Paris, en présence d'Eugène III et de Louis VII, les Templiers reçoivent la croix rouge, avant de partir pour la [[deuxieme-croisade|deuxième croisade]].
+repere: 16 août 1153 — Le maître Bernard de Tremelay est tué dans la brèche d'Ascalon (voir [[siege-d-ascalon|siège d'Ascalon]]).
+repere: 1er mars 1160 — Gualdim Pais commence le château de [[tomar|Tomar]], au Portugal.
+repere: 25 novembre 1177 — À [[bataille-de-montgisard|Montgisard]], Baudouin IV et les Templiers mettent en déroute l'armée de Saladin.
+repere: août 1179 — Saladin détruit le château du [[gue-de-jacob|Gué de Jacob]], confié au Temple.
+repere: 10 février 1185 — Consécration de la [[temple-church-londres|Temple Church]] de Londres.
+repere: 4 juillet 1187 — Défaite de [[bataille-de-hattin|Hattin]] ; Saladin fait exécuter les Templiers captifs, puis prend Jérusalem.
+repere: 1191 — Pendant la [[troisieme-croisade|troisième croisade]], les croisés reprennent Acre, qui devient le siège de l'ordre ; le Temple achète Chypre, puis la revend.
+repere: 1217 – 1218 — Construction de [[chateau-pelerin|Château Pèlerin]], à Atlit.
+repere: 1229 — L'empereur [[frederic-ii|Frédéric II]], excommunié, obtient Jérusalem par traité, contre l'avis des Templiers.
+repere: 17 – 18 octobre 1244 — À [[bataille-de-la-forbie|La Forbie]], l'armée franque est écrasée ; le maître Armand de Périgord disparaît.
+repere: 8 février 1250 — À [[mansourah|Mansourah]], l'avant-garde de Robert d'Artois et les Templiers se perdent dans la ville.
+repere: juillet 1266 — [[chute-de-safed|Safed]] se rend à Baybars, qui fait massacrer les frères.
+repere: 18 mai 1291 — Le maître Guillaume de Beaujeu est tué à Acre ; la tour du Temple tient jusqu'au 28 mai (voir [[chute-d-acre|chute d'Acre]]).
+repere: août 1291 — Les Templiers évacuent Tortose, puis Château Pèlerin, et se replient à [[chypre-templiere|Chypre]].
+repere: 1302 — La garnison de [[ile-de-ruad|Ruad]], dernier poste de l'ordre face à la Syrie, se rend aux Mamelouks (1303 selon d'autres sources).
+repere: 1306 – 1307 — Venu en Occident, Jacques de Molay s'oppose par un mémoire à la fusion des ordres (voir [[projets-de-fusion-des-ordres|projets de fusion]]).
+repere: 13 octobre 1307 — [[arrestation-du-13-octobre-1307|Arrestation des Templiers]] du royaume de France, sur l'ordre de Philippe le Bel.
+repere: 22 novembre 1307 — La bulle *Pastoralis praeeminentiae* étend les arrestations à toute la chrétienté (voir [[proces-des-templiers|procès des Templiers]]).
+repere: 17 – 20 août 1308 — À Chinon, trois cardinaux absolvent [[jacques-de-molay|Jacques de Molay]] et quatre dignitaires.
+repere: 12 mai 1310 — L'archevêque de Sens, [[philippe-de-marigny|Philippe de Marigny]], fait brûler cinquante-quatre Templiers comme relaps.
+repere: 22 mars 1312 — Au [[concile-de-vienne|concile de Vienne]], la bulle *Vox in excelso* supprime l'ordre sans le condamner.
+repere: 2 mai 1312 — La bulle *Ad providam* attribue ses biens aux Hospitaliers, sauf dans la péninsule Ibérique (voir [[devolution-des-biens|dévolution des biens]]).
+repere: 11 ou 18 mars 1314 — [[bucher-de-jacques-de-molay|Bûcher]] de Jacques de Molay et de Geoffroy de Charnay, à Paris.
+repere: 10 juin 1317 — Le pape Jean XXII reconnaît l'[[ordre-de-montesa|ordre de Montesa]], héritier du Temple au royaume de Valence.
+repere: 14 mars 1319 — La bulle *Ad ea ex quibus* crée au Portugal l'[[ordre-du-christ|ordre du Christ]].
+repere: 1736 — Le discours du chevalier Ramsay donne à la franc-maçonnerie des ancêtres croisés (voir [[franc-maconnerie-et-templiers|franc-maçonnerie et Templiers]]).
+repere: 1804 — Bernard-Raymond Fabré-Palaprat fonde à Paris un ordre du Temple « restauré » (voir [[neo-templarisme|néo-templarisme]]).
+repere: 1813 — Raynouard publie ses *Monumens historiques* sur la condamnation des Templiers (voir [[historiographie-des-templiers|historiographie]]).
+repere: 1841 – 1851 — Jules Michelet publie les interrogatoires du procès (voir [[actes-du-proces|actes du procès]]).
+repere: 1886 — Henri de Curzon édite la [[regle-du-temple|règle du Temple]].
+repere: 1913 — Parution posthume du *Cartulaire général de l'ordre du Temple* du marquis d'Albon (voir [[cartulaires-du-temple|cartulaires]]).
+repere: 2007 — Le Vatican publie les actes du procès qu'il conserve, dont le [[parchemin-de-chinon|parchemin de Chinon]], retrouvé par Barbara Frale en 2001.
+lien: wp Chronologie de l'ordre du Temple
+lien: wp Ordre du Temple
+sources: Les articles de T+ auxquels renvoie chaque repère, et leurs sources ; Wikipédia (fr : Ordre du Temple, Procès de l'ordre du Temple, Chronologie de l'ordre du Temple ; en : Knights Templar) 
+voir: ordre-du-temple, fondation-de-l-ordre, proces-des-templiers, maitres-de-l-ordre, historiographie-des-templiers, devolution-des-biens

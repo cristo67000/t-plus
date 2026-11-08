@@ -1,0 +1,3777 @@
+{
+ "images": {
+  "sainte-eulalie-de-cernon": {
+   "f": "img/sainte-eulalie-de-cernon.webp",
+   "v": "a5c83fa6d4",
+   "w": 560,
+   "h": 895,
+   "l": "La commanderie de Sainte-Eulalie-de-Cernon, chef-lieu du Larzac templier",
+   "cr": "Krzysztof Golik, 2020",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Krzysztof Golik",
+   "src": "https://commons.wikimedia.org/wiki/File:Commandery_in_Ste-Eulalie-de-Cernon_03.jpg",
+   "pour": [
+    "sainte-eulalie-de-cernon",
+    "larzac-templier"
+   ],
+   "sig": "Commandery in Ste-Eulalie-de-Cernon 03.jpg||560|74"
+  },
+  "sainte-eulalie-de-cernon-2": {
+   "f": "img/sainte-eulalie-de-cernon-2.webp",
+   "v": "285376589f",
+   "w": 560,
+   "h": 995,
+   "l": "La tour de la commanderie de Sainte-Eulalie",
+   "cr": "Krzysztof Golik, 2020",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Krzysztof Golik",
+   "src": "https://commons.wikimedia.org/wiki/File:Commandery_tower_in_Ste-Eulalie-de-Cernon.jpg",
+   "pour": [
+    "sainte-eulalie-de-cernon"
+   ],
+   "sig": "Commandery tower in Ste-Eulalie-de-Cernon.jpg||560|74"
+  },
+  "la-couvertoirade": {
+   "f": "img/la-couvertoirade.webp",
+   "v": "a849acd0a3",
+   "w": 560,
+   "h": 801,
+   "l": "Les vestiges du château templier de La Couvertoirade",
+   "cr": "Myrabella, 2013",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Myrabella",
+   "src": "https://commons.wikimedia.org/wiki/File:Chateau_La_Couvertoirade.jpg",
+   "pour": [
+    "la-couvertoirade"
+   ],
+   "sig": "Chateau La Couvertoirade.jpg||560|74"
+  },
+  "la-couvertoirade-2": {
+   "f": "img/la-couvertoirade-2.webp",
+   "v": "ad61a5fd20",
+   "w": 560,
+   "h": 402,
+   "l": "Les remparts de La Couvertoirade, élevés par les Hospitaliers au XVe siècle",
+   "cr": "Krzysztof Golik, 2019",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Krzysztof Golik",
+   "src": "https://commons.wikimedia.org/wiki/File:Ramparts_of_La_Couvertoirade_04.jpg",
+   "pour": [
+    "la-couvertoirade",
+    "larzac-templier"
+   ],
+   "sig": "Ramparts of La Couvertoirade 04.jpg||560|74"
+  },
+  "la-cavalerie": {
+   "f": "img/la-cavalerie.webp",
+   "v": "b5e72c559f",
+   "w": 560,
+   "h": 400,
+   "l": "L'enceinte de La Cavalerie, bâtie au XVe siècle",
+   "cr": "Krzysztof Golik, 2020",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Krzysztof Golik",
+   "src": "https://commons.wikimedia.org/wiki/File:City_walls_of_La_Cavalerie_13.jpg",
+   "pour": [
+    "la-cavalerie"
+   ],
+   "sig": "City walls of La Cavalerie 13.jpg||560|74"
+  },
+  "viala-du-pas-de-jaux": {
+   "f": "img/viala-du-pas-de-jaux.webp",
+   "v": "16c7a1b918",
+   "w": 560,
+   "h": 966,
+   "l": "La tour-grenier du Viala-du-Pas-de-Jaux, élevée vers 1430",
+   "cr": "Krzysztof Golik, 2020",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Krzysztof Golik",
+   "src": "https://commons.wikimedia.org/wiki/File:Tower_in_Viala-du-Pas-de-Jaux_04.jpg",
+   "pour": [
+    "viala-du-pas-de-jaux"
+   ],
+   "sig": "Tower in Viala-du-Pas-de-Jaux 04.jpg||560|74"
+  },
+  "larzac-templier": {
+   "f": "img/larzac-templier.webp",
+   "v": "83abea7ad7",
+   "w": 560,
+   "h": 840,
+   "l": "La porte du fort de Saint-Jean-d'Alcas, bâti par l'abbaye cistercienne de Nonenque",
+   "cr": "Daniel VILLAFRUELA, 2012",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Daniel VILLAFRUELA .",
+   "src": "https://commons.wikimedia.org/wiki/File:Saint_Jean_d%27Alcas-Portal.jpg",
+   "pour": [
+    "larzac-templier"
+   ],
+   "sig": "Saint Jean d'Alcas-Portal.jpg||560|74"
+  },
+  "montsaunes": {
+   "f": "img/montsaunes.webp",
+   "v": "2d3d77dbc5",
+   "w": 560,
+   "h": 746,
+   "l": "La façade de l'église Saint-Christophe de Montsaunès",
+   "cr": "Didier Descouens, 2018",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Didier Descouens",
+   "src": "https://commons.wikimedia.org/wiki/File:Montsaun%C3%A8s_-_Eglise_Saint-Christophe_des_Templiers_-_Fa%C3%A7ade.jpg",
+   "pour": [
+    "montsaunes"
+   ],
+   "sig": "Montsaunès - Eglise Saint-Christophe des Templiers - Façade.jpg||560|74"
+  },
+  "montsaunes-2": {
+   "f": "img/montsaunes-2.webp",
+   "v": "7786fd787e",
+   "w": 374,
+   "h": 512,
+   "l": "La nef de Montsaunès et ses peintures, photographiées en 1883",
+   "cr": "Séraphin-Médéric Mieusement, 1883",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Séraphin-Médéric Mieusement",
+   "src": "https://commons.wikimedia.org/wiki/File:Eglise_Saint-Christophe-des-Templiers_-_Vue_int%C3%A9rieure_de_la_nef_vers_le_choeur_-_Montsaun%C3%A8s_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00001759.jpg",
+   "pour": [
+    "montsaunes"
+   ],
+   "sig": "Eglise Saint-Christophe-des-Templiers - Vue intérieure de la nef vers le choeur - Montsaunès - Médiathèque de l'architecture et du patrimoine - APMH00001759.jpg||560|74"
+  },
+  "mas-deu": {
+   "f": "img/mas-deu.webp",
+   "v": "9001902466",
+   "w": 560,
+   "h": 474,
+   "l": "La chapelle de la commanderie du Mas Deu, en Roussillon",
+   "cr": "Palauenc05, 2015",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Palauenc05",
+   "src": "https://commons.wikimedia.org/wiki/File:Mas-deu-chapelle.jpg",
+   "pour": [
+    "mas-deu",
+    "temple-en-occitanie"
+   ],
+   "sig": "Mas-deu-chapelle.jpg||560|74"
+  },
+  "mas-deu-2": {
+   "f": "img/mas-deu-2.webp",
+   "v": "88e53f5682",
+   "w": 560,
+   "h": 354,
+   "l": "Les bâtiments de la commanderie du Mas Deu, à Trouillas",
+   "cr": "Palauenc05, 2015",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Palauenc05",
+   "src": "https://commons.wikimedia.org/wiki/File:Mas-deu-commanderie.jpg",
+   "pour": [
+    "mas-deu"
+   ],
+   "sig": "Mas-deu-commanderie.jpg||560|74"
+  },
+  "campagne-sur-aude": {
+   "f": "img/campagne-sur-aude.webp",
+   "v": "98a70042db",
+   "w": 560,
+   "h": 404,
+   "l": "Campagne-sur-Aude, lithographie du XIXe siècle",
+   "cr": "Eugène Wormser, lithographie, 1862",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Wormser, Eugène. Graveur Rémond, N. Imprimeur Masson, Victor. Editeur Guérin, L. Imprimeur",
+   "src": "https://commons.wikimedia.org/wiki/File:Campagne_(Aude)_-_Fonds_Ancely_-_B315556101_A_BERTHIER_074.jpg",
+   "pour": [
+    "campagne-sur-aude"
+   ],
+   "sig": "Campagne (Aude) - Fonds Ancely - B315556101 A BERTHIER 074.jpg||560|74"
+  },
+  "le-bezu": {
+   "f": "img/le-bezu.webp",
+   "v": "9c1f62914f",
+   "w": 560,
+   "h": 315,
+   "l": "Les ruines du château du Bézu, dit « des Templiers »",
+   "cr": "Jcb-caz-11, 2017",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Jcb-caz-11",
+   "src": "https://commons.wikimedia.org/wiki/File:Chateau_des_Templiers_2.jpg",
+   "pour": [
+    "le-bezu"
+   ],
+   "sig": "Chateau des Templiers 2.jpg||560|74"
+  },
+  "vaour": {
+   "f": "img/vaour.webp",
+   "v": "1a63898193",
+   "w": 560,
+   "h": 427,
+   "l": "La commanderie de Vaour, dans le Tarn",
+   "cr": "Chris06, 2016",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Chris06",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_de_Vaour_(14).jpg",
+   "pour": [
+    "vaour",
+    "temple-en-occitanie"
+   ],
+   "sig": "Commanderie de Vaour (14).jpg||560|74"
+  },
+  "vaour-2": {
+   "f": "img/vaour-2.webp",
+   "v": "29912af2da",
+   "w": 560,
+   "h": 354,
+   "l": "Les ruines de la commanderie de Vaour",
+   "cr": "Krzysztof Golik, 2017",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Krzysztof Golik",
+   "src": "https://commons.wikimedia.org/wiki/File:Restes_du_chateau_de_Vaour_01.jpg",
+   "pour": [
+    "vaour"
+   ],
+   "sig": "Restes du chateau de Vaour 01.jpg||560|74"
+  },
+  "lacapelle-livron": {
+   "f": "img/lacapelle-livron.webp",
+   "v": "a9f7fa41a4",
+   "w": 560,
+   "h": 373,
+   "l": "L'ancienne commanderie de Lacapelle-Livron",
+   "cr": "Antoine Garnier, 2022",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Antoine Garnier",
+   "src": "https://commons.wikimedia.org/wiki/File:Lacapelle-Livron_-_Ancienne_commanderie_des_Templiers_-_01.jpg",
+   "pour": [
+    "lacapelle-livron"
+   ],
+   "sig": "Lacapelle-Livron - Ancienne commanderie des Templiers - 01.jpg||560|74"
+  },
+  "montricoux": {
+   "f": "img/montricoux.webp",
+   "v": "8176146179",
+   "w": 560,
+   "h": 747,
+   "l": "Le donjon de Montricoux",
+   "cr": "Thérèse Gaigé, 2015",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Thérèse Gaigé",
+   "src": "https://commons.wikimedia.org/wiki/File:Donjon_du_ch%C3%A2teau_de_Montricoux_(82)_-_001.jpg",
+   "pour": [
+    "montricoux"
+   ],
+   "sig": "Donjon du château de Montricoux (82) - 001.jpg||560|74"
+  },
+  "la-ville-dieu-du-temple": {
+   "f": "img/la-ville-dieu-du-temple.webp",
+   "v": "c91a4b083d",
+   "w": 560,
+   "h": 315,
+   "l": "L'église de La Ville-Dieu-du-Temple",
+   "cr": "Paternel 1",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Paternel 1",
+   "src": "https://commons.wikimedia.org/wiki/File:La_Ville-Dieu-du-Temple_%C3%A9glise.JPG",
+   "pour": [
+    "la-ville-dieu-du-temple"
+   ],
+   "sig": "La Ville-Dieu-du-Temple église.JPG||560|74"
+  },
+  "figeac": {
+   "f": "img/figeac.webp",
+   "v": "b86a725522",
+   "w": 560,
+   "h": 892,
+   "l": "La maison dite « commanderie des Templiers », à Figeac",
+   "cr": "Krzysztof Golik, 2018",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Krzysztof Golik",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_des_Templiers_in_Figeac_02.jpg",
+   "pour": [
+    "figeac"
+   ],
+   "sig": "Commanderie des Templiers in Figeac 02.jpg||560|74"
+  },
+  "richerenches": {
+   "f": "img/richerenches.webp",
+   "v": "4c9e4ab572",
+   "w": 560,
+   "h": 840,
+   "l": "L'enceinte de la commanderie de Richerenches",
+   "cr": "Marianne Casamance, 2017",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Marianne Casamance",
+   "src": "https://commons.wikimedia.org/wiki/File:Richerenches_-_enceinte_de_la_commanderie.jpg",
+   "pour": [
+    "richerenches",
+    "temple-en-provence"
+   ],
+   "sig": "Richerenches - enceinte de la commanderie.jpg||560|74"
+  },
+  "richerenches-2": {
+   "f": "img/richerenches-2.webp",
+   "v": "9f81e8c002",
+   "w": 560,
+   "h": 858,
+   "l": "Le cartulaire de Richerenches, dans son édition de 1907",
+   "cr": "page de titre de l'édition de 1907",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown 1907",
+   "src": "https://commons.wikimedia.org/wiki/File:Cartulaire_Richerenches_1907.jpg",
+   "pour": [
+    "richerenches",
+    "cartulaires-du-temple"
+   ],
+   "sig": "Cartulaire Richerenches 1907.jpg||560|74"
+  },
+  "roaix": {
+   "f": "img/roaix.webp",
+   "v": "4404e34152",
+   "w": 560,
+   "h": 254,
+   "l": "Le village de Roaix",
+   "cr": "Jean-Marc Rosier, 2007",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Jean-Marc Rosier http://www.cjrosier.com + http://www.gordes-immobilier.com )",
+   "src": "https://commons.wikimedia.org/wiki/File:Roaix_by_JM_Rosier.jpg",
+   "pour": [
+    "roaix"
+   ],
+   "sig": "Roaix by JM Rosier.jpg||560|74"
+  },
+  "jales": {
+   "f": "img/jales.webp",
+   "v": "9667d7b171",
+   "w": 560,
+   "h": 388,
+   "l": "La commanderie de Jalès",
+   "cr": "Celeda, 2022",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Celeda",
+   "src": "https://commons.wikimedia.org/wiki/File:PA00116646_Commanderie_de_Jal%C3%A8s_01.jpg",
+   "pour": [
+    "jales"
+   ],
+   "sig": "PA00116646 Commanderie de Jalès 01.jpg||560|74"
+  },
+  "jales-2": {
+   "f": "img/jales-2.webp",
+   "v": "72a3e371f9",
+   "w": 560,
+   "h": 297,
+   "l": "La commanderie de Jalès vue du ciel",
+   "cr": "Barge, 2009",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Barge",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_de_Jal%C3%A8s,_vue_a%C3%A9rienne_du_Nord_Ouest.jpg",
+   "pour": [
+    "jales"
+   ],
+   "sig": "Commanderie de Jalès, vue aérienne du Nord Ouest.jpg||560|74"
+  },
+  "le-ruou": {
+   "f": "img/le-ruou.webp",
+   "v": "3c02196a20",
+   "w": 560,
+   "h": 420,
+   "l": "La chapelle de la commanderie du Ruou",
+   "cr": "Edouard-rainaut, 2012",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Edouard-rainaut",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_du_Ruou_-_Chapelle.JPG",
+   "pour": [
+    "le-ruou",
+    "temple-en-provence"
+   ],
+   "sig": "Commanderie du Ruou - Chapelle.JPG||560|74"
+  },
+  "montfort-sur-argens": {
+   "f": "img/montfort-sur-argens.webp",
+   "v": "061db28379",
+   "w": 560,
+   "h": 420,
+   "l": "Le château de Montfort-sur-Argens",
+   "cr": "SombreSanglier, 2012",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "SombreSanglier",
+   "src": "https://commons.wikimedia.org/wiki/File:Chateau_Montfort-sur-Argens_7308.JPG",
+   "pour": [
+    "montfort-sur-argens"
+   ],
+   "sig": "Chateau Montfort-sur-Argens 7308.JPG||560|74"
+  },
+  "hyeres": {
+   "f": "img/hyeres.webp",
+   "v": "3ce52004c9",
+   "w": 560,
+   "h": 420,
+   "l": "La tour des Templiers, à Hyères",
+   "cr": "Gzen92, 2016",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Gzen92",
+   "src": "https://commons.wikimedia.org/wiki/File:Tour_des_Templiers_(Hy%C3%A8res).jpg",
+   "pour": [
+    "hyeres"
+   ],
+   "sig": "Tour des Templiers (Hyères).jpg||560|74"
+  },
+  "biot": {
+   "f": "img/biot.webp",
+   "v": "83ec1e57aa",
+   "w": 560,
+   "h": 420,
+   "l": "La place des Arcades, à Biot",
+   "cr": "Lorenzo Piccardo, 2009",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Lorenzo Piccardo",
+   "src": "https://commons.wikimedia.org/wiki/File:PlaceDesArcadesBiot.JPG",
+   "pour": [
+    "biot"
+   ],
+   "sig": "PlaceDesArcadesBiot.JPG||560|74"
+  },
+  "marseille": {
+   "f": "img/marseille.webp",
+   "v": "6ff425b7cb",
+   "w": 560,
+   "h": 342,
+   "l": "Marseille et son port au début du XVIIe siècle",
+   "cr": "dessin anonyme, Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Marsilia._(Marseille_au_commencement_du_XVIIe_si%C3%A8cle)_-_dessin_-_btv1b52510777b_(1_of_2).jpg",
+   "pour": [
+    "marseille"
+   ],
+   "sig": "Marsilia. (Marseille au commencement du XVIIe siècle) - dessin - btv1b52510777b (1 of 2).jpg||560|74"
+  },
+  "ydes": {
+   "f": "img/ydes.webp",
+   "v": "48010ef03d",
+   "w": 560,
+   "h": 417,
+   "l": "L'église Saint-Georges d'Ydes",
+   "cr": "MOSSOT, 2010",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "MOSSOT",
+   "src": "https://commons.wikimedia.org/wiki/File:Ydes-Bourg_-_Eglise_-13.JPG",
+   "pour": [
+    "ydes"
+   ],
+   "sig": "Ydes-Bourg - Eglise -13.JPG||560|74"
+  },
+  "celles": {
+   "f": "img/celles.webp",
+   "v": "2728054645",
+   "w": 560,
+   "h": 420,
+   "l": "La commanderie de Celles",
+   "cr": "WCOMFR, 2012",
+   "lic": "CC BY 4.0",
+   "li": "CC BY 4.0",
+   "auteur": "WCOMFR",
+   "src": "https://commons.wikimedia.org/wiki/File:Celles_commanderie.jpg",
+   "pour": [
+    "celles"
+   ],
+   "sig": "Celles commanderie.jpg||560|74"
+  },
+  "paulhac": {
+   "f": "img/paulhac.webp",
+   "v": "0bf439e58e",
+   "w": 350,
+   "h": 263,
+   "l": "Les chapelles de la commanderie de Paulhac",
+   "cr": "Dupuis pierre",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Dupuis pierre",
+   "src": "https://commons.wikimedia.org/wiki/File:Paulhac2.jpg",
+   "pour": [
+    "paulhac"
+   ],
+   "sig": "Paulhac2.jpg||560|74"
+  },
+  "paulhac-2": {
+   "f": "img/paulhac-2.webp",
+   "v": "3c7732e293",
+   "w": 200,
+   "h": 150,
+   "l": "L'intérieur de la chapelle Saint-Jean de Paulhac",
+   "cr": "Dupuis pierre",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Dupuis pierre",
+   "src": "https://commons.wikimedia.org/wiki/File:Paulhac8.jpg",
+   "pour": [
+    "paulhac"
+   ],
+   "sig": "Paulhac8.jpg||560|74"
+  },
+  "blaudeix": {
+   "f": "img/blaudeix.webp",
+   "v": "9cdcc5f718",
+   "w": 560,
+   "h": 420,
+   "l": "L'église de Blaudeix, ancienne chapelle de la commanderie",
+   "cr": "Père Igor, 2024",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Père Igor",
+   "src": "https://commons.wikimedia.org/wiki/File:Blaudeix_%C3%A9glise_(1).jpg",
+   "pour": [
+    "blaudeix"
+   ],
+   "sig": "Blaudeix église (1).jpg||560|74"
+  },
+  "andrivaux": {
+   "f": "img/andrivaux.webp",
+   "v": "d1013a3321",
+   "w": 560,
+   "h": 420,
+   "l": "La commanderie des Andrivaux, à Chancelade",
+   "cr": "Père Igor, 2008",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Père Igor",
+   "src": "https://commons.wikimedia.org/wiki/File:Chancelade_Andrivaux.JPG",
+   "pour": [
+    "andrivaux"
+   ],
+   "sig": "Chancelade Andrivaux.JPG||560|74"
+  },
+  "sergeac": {
+   "f": "img/sergeac.webp",
+   "v": "3625252367",
+   "w": 560,
+   "h": 840,
+   "l": "L'église Saint-Pantaléon de Sergeac",
+   "cr": "Salomé08, 2019",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Salomé08",
+   "src": "https://commons.wikimedia.org/wiki/File:Eglise_Saint-Pantal%C3%A9on_de_Sergeac.jpg",
+   "pour": [
+    "sergeac"
+   ],
+   "sig": "Eglise Saint-Pantaléon de Sergeac.jpg||560|74"
+  },
+  "domme": {
+   "f": "img/domme.webp",
+   "v": "007a6bd61c",
+   "w": 560,
+   "h": 952,
+   "l": "La porte des Tours de Domme",
+   "cr": "Krzysztof Golik, 2017",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Krzysztof Golik",
+   "src": "https://commons.wikimedia.org/wiki/File:Porte_des_Tours_in_Domme_02.jpg",
+   "pour": [
+    "domme"
+   ],
+   "sig": "Porte des Tours in Domme 02.jpg||560|74"
+  },
+  "domme-2": {
+   "f": "img/domme-2.webp",
+   "v": "dd267040f5",
+   "w": 560,
+   "h": 397,
+   "l": "La porte des Tours de Domme, photographiée en 1888",
+   "cr": "Séraphin-Médéric Mieusement, 1888",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Séraphin-Médéric Mieusement",
+   "src": "https://commons.wikimedia.org/wiki/File:Remparts_-_Porte_des_Tours_-_Vue_d%27ensemble_extra-muros_-_Domme_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00001018.jpg",
+   "pour": [
+    "domme",
+    "graffiti-de-domme-et-chinon"
+   ],
+   "sig": "Remparts - Porte des Tours - Vue d'ensemble extra-muros - Domme - Médiathèque de l'architecture et du patrimoine - APMH00001018.jpg||560|74"
+  },
+  "magrigne": {
+   "f": "img/magrigne.webp",
+   "v": "850d44a567",
+   "w": 560,
+   "h": 434,
+   "l": "La chapelle de Magrigne en 1842",
+   "cr": "auteur inconnu, 1842",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Anonymous Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Chapelle_de_Magrigne_(1842).png",
+   "pour": [
+    "magrigne"
+   ],
+   "sig": "Chapelle de Magrigne (1842).png||560|74"
+  },
+  "magrigne-2": {
+   "f": "img/magrigne-2.webp",
+   "v": "57ac738098",
+   "w": 560,
+   "h": 836,
+   "l": "La chapelle de Magrigne aujourd'hui",
+   "cr": "William Ellison, 2017",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "William Ellison",
+   "src": "https://commons.wikimedia.org/wiki/File:St_Laurent_d%27Arce_chapelle_de_Magrigne_2.jpg",
+   "pour": [
+    "magrigne"
+   ],
+   "sig": "St Laurent d'Arce chapelle de Magrigne 2.jpg||560|74"
+  },
+  "marcenais": {
+   "f": "img/marcenais.webp",
+   "v": "1456cc0c93",
+   "w": 560,
+   "h": 375,
+   "l": "L'église de Marcenais",
+   "cr": "William Ellison, 2015",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "William Ellison",
+   "src": "https://commons.wikimedia.org/wiki/File:Marcenais_%C3%A9glise_templi%C3%A8re_1.JPG",
+   "pour": [
+    "marcenais"
+   ],
+   "sig": "Marcenais église templière 1.JPG||560|74"
+  },
+  "le-temple-sur-lot": {
+   "f": "img/le-temple-sur-lot.webp",
+   "v": "8b0554a6a4",
+   "w": 560,
+   "h": 420,
+   "l": "La commanderie du Temple-sur-Lot",
+   "cr": "Paternel 1",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Paternel 1",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_du_Temple-sur-Lot.JPG",
+   "pour": [
+    "le-temple-sur-lot"
+   ],
+   "sig": "Commanderie du Temple-sur-Lot.JPG||560|74"
+  },
+  "aragnouet": {
+   "f": "img/aragnouet.webp",
+   "v": "2efd092d1e",
+   "w": 560,
+   "h": 374,
+   "l": "La chapelle dite « des Templiers », au Plan d'Aragnouet",
+   "cr": "Sotos, 2014",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Sotos",
+   "src": "https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame_de_l%27Assomption_(des_Templiers)_du_Plan_(Hautes-Pyr%C3%A9n%C3%A9es)_1.jpg",
+   "pour": [
+    "aragnouet"
+   ],
+   "sig": "Chapelle Notre-Dame de l'Assomption (des Templiers) du Plan (Hautes-Pyrénées) 1.jpg||560|74"
+  },
+  "luz-saint-sauveur": {
+   "f": "img/luz-saint-sauveur.webp",
+   "v": "202a50d63a",
+   "w": 560,
+   "h": 404,
+   "l": "L'église fortifiée de Luz-Saint-Sauveur, dite « des Templiers »",
+   "cr": "Moahim, 2017",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Moahim",
+   "src": "https://commons.wikimedia.org/wiki/File:2019_-_%C3%89glise_des_Templiers_de_Luz-Saint-Sauveur.jpg",
+   "pour": [
+    "luz-saint-sauveur"
+   ],
+   "sig": "2019 - Église des Templiers de Luz-Saint-Sauveur.jpg||560|74"
+  },
+  "ordre-du-temple": {
+   "f": "img/ordre-du-temple.webp",
+   "v": "fed95e9d91",
+   "w": 556,
+   "h": 281,
+   "l": "Le sceau des maîtres du Temple : deux chevaliers sur un même cheval",
+   "cr": "dessin publié par T. A. Archer et C. L. Kingsford, 1894",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Thomas Andrew Archer, Charles Lethbridge Kingsford",
+   "src": "https://commons.wikimedia.org/wiki/File:Seal_of_Templars.jpg",
+   "pour": [
+    "ordre-du-temple",
+    "sceau-du-temple",
+    "chronologie-de-l-ordre"
+   ],
+   "sig": "Seal of Templars.jpg||560|74"
+  },
+  "hugues-de-payns": {
+   "f": "img/hugues-de-payns.webp",
+   "v": "fa7a29ae39",
+   "w": 560,
+   "h": 363,
+   "l": "Baudouin II cède le Temple de Salomon à Hugues de Payns et Godefroy de Saint-Omer, miniature de l'*Histoire d'Outremer* de Guillaume de Tyr",
+   "cr": "enluminure anonyme, XIIIe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Guillaume de Tyr",
+   "src": "https://commons.wikimedia.org/wiki/File:Baldwin_II_ceeding_the_Temple_of_Salomon_to_Hugues_de_Payens_and_Gaudefroy_de_Saint-Homer.jpg",
+   "pour": [
+    "hugues-de-payns",
+    "fondation-de-l-ordre",
+    "baudouin-ii-de-jerusalem",
+    "jerusalem-temple-de-salomon",
+    "ordre-du-temple",
+    "godefroy-de-saint-omer"
+   ],
+   "sig": "Baldwin II ceeding the Temple of Salomon to Hugues de Payens and Gaudefroy de Saint-Homer.jpg||560|74"
+  },
+  "hugues-de-payns-2": {
+   "f": "img/hugues-de-payns-2.webp",
+   "v": "bc3d6faeab",
+   "w": 560,
+   "h": 1038,
+   "l": "Hugues de Payns, portrait imaginaire peint pour la salle des Croisades de Versailles",
+   "cr": "Henri Lehmann, 1841",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Henri Lehmann",
+   "src": "https://commons.wikimedia.org/wiki/File:Hugues_de_Payens_(Versailles).jpg",
+   "pour": [
+    "hugues-de-payns"
+   ],
+   "sig": "Hugues de Payens (Versailles).jpg||560|74"
+  },
+  "maitres-de-l-ordre": {
+   "f": "img/maitres-de-l-ordre.webp",
+   "v": "1bc43eebdf",
+   "w": 560,
+   "h": 323,
+   "l": "Le chapitre de l'ordre tenu à Paris en avril 1147, tel que l'imagine Granet",
+   "cr": "François-Marius Granet, 1844",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Tableau de François Marius Granet",
+   "src": "https://commons.wikimedia.org/wiki/File:Chapitre_de_l%27Ordre_du_Temple_tenu_%C3%A0_Paris.png",
+   "pour": [
+    "maitres-de-l-ordre",
+    "chapitre-general"
+   ],
+   "sig": "Chapitre de l'Ordre du Temple tenu à Paris.png||560|74"
+  },
+  "evrard-des-barres": {
+   "f": "img/evrard-des-barres.webp",
+   "v": "d830658f85",
+   "w": 450,
+   "h": 741,
+   "l": "Évrard des Barres, figure imaginée par Debacq pour la salle des Croisades",
+   "cr": "Charles-Alexandre Debacq, v. 1840",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Charles-Alexandre Debacq (peintre)",
+   "src": "https://commons.wikimedia.org/wiki/File:Evrard_de_Barres.png",
+   "pour": [
+    "evrard-des-barres"
+   ],
+   "sig": "Evrard de Barres.png||560|74"
+  },
+  "andre-de-montbard": {
+   "f": "img/andre-de-montbard.webp",
+   "v": "3119a73f0a",
+   "w": 496,
+   "h": 502,
+   "l": "Les sceaux d'André de Montbard, relevés au XIXe siècle",
+   "cr": "Ernest Petit, *Histoire des ducs de Bourgogne*",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Ernest Petit(1835-1918)",
+   "src": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_de_Montbard.jpg",
+   "pour": [
+    "andre-de-montbard"
+   ],
+   "sig": "André de Montbard.jpg||560|74"
+  },
+  "arnaud-de-toroge": {
+   "f": "img/arnaud-de-toroge.webp",
+   "v": "384f32acbb",
+   "w": 560,
+   "h": 315,
+   "l": "Le sarcophage d'Arnaud de Toroge, à San Fermo Maggiore de Vérone",
+   "cr": "Adert, 2025",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Adert",
+   "src": "https://commons.wikimedia.org/wiki/File:Sarcophagus_of_Arnau_de_Torroja_(23328).jpg",
+   "pour": [
+    "arnaud-de-toroge"
+   ],
+   "sig": "Sarcophagus of Arnau de Torroja (23328).jpg||560|74"
+  },
+  "gerard-de-ridefort": {
+   "f": "img/gerard-de-ridefort.webp",
+   "v": "e0721691ce",
+   "w": 560,
+   "h": 358,
+   "l": "Gérard de Ridefort dans une miniature du XIVe siècle (BnF, fr. 22495)",
+   "cr": "Maître du Roman de Fauvel, 1337",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Master of the Roman de Fauvel",
+   "src": "https://commons.wikimedia.org/wiki/File:Gerard_de_Ridefort.jpg",
+   "pour": [
+    "gerard-de-ridefort"
+   ],
+   "sig": "Gerard de Ridefort.jpg||560|74"
+  },
+  "guillaume-de-beaujeu": {
+   "f": "img/guillaume-de-beaujeu.webp",
+   "v": "98dd347ffb",
+   "w": 372,
+   "h": 397,
+   "l": "Le siège d'Acre en 1291, lettrine d'un manuscrit de l'*Estoire d'Eracles* (BnF, fr. 2825)",
+   "cr": "enluminure anonyme, v. 1300",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "anonymous",
+   "src": "https://commons.wikimedia.org/wiki/File:Akra1291.jpg",
+   "pour": [
+    "guillaume-de-beaujeu",
+    "chute-d-acre"
+   ],
+   "sig": "Akra1291.jpg||560|74"
+  },
+  "jacques-de-molay": {
+   "f": "img/jacques-de-molay.webp",
+   "v": "4b4d919b4d",
+   "w": 560,
+   "h": 562,
+   "l": "Le bûcher de Jacques de Molay et de Geoffroy de Charnay, dans les *Chroniques de France* (British Library)",
+   "cr": "atelier du Maître de Virgile, après 1380",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Workshop of Virgil Master",
+   "src": "https://commons.wikimedia.org/wiki/File:Templars_Burning.jpg",
+   "pour": [
+    "jacques-de-molay",
+    "bucher-de-jacques-de-molay",
+    "geoffroy-de-charnay"
+   ],
+   "sig": "Templars Burning.jpg||560|74"
+  },
+  "jacques-de-molay-2": {
+   "f": "img/jacques-de-molay-2.webp",
+   "v": "ba7b8e21fe",
+   "w": 560,
+   "h": 408,
+   "l": "La réception de Jacques de Molay dans l'ordre, à Beaune en 1265, imaginée par Granet",
+   "cr": "François-Marius Granet, 1843",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "François Marius Granet",
+   "src": "https://commons.wikimedia.org/wiki/File:Ordination_of_Jacques_de_Molay_in_1265_at_the_Beaune_commandery_by_Marius_Granet_1777_1849.jpg",
+   "pour": [
+    "jacques-de-molay",
+    "reception-dans-l-ordre"
+   ],
+   "sig": "Ordination of Jacques de Molay in 1265 at the Beaune commandery by Marius Granet 1777 1849.jpg||560|74"
+  },
+  "proces-des-templiers": {
+   "f": "img/proces-des-templiers.webp",
+   "v": "c5577fca99",
+   "w": 560,
+   "h": 545,
+   "l": "Le supplice des Templiers dans un manuscrit du *Des cas des nobles hommes et femmes* de Boccace (BnF, fr. 229)",
+   "cr": "Maître du Roman de la Rose de Vienne, v. 1440",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Master of the Vienna Roman de la rose",
+   "src": "https://commons.wikimedia.org/wiki/File:Hinrichtung-Templer.jpg",
+   "pour": [
+    "proces-des-templiers"
+   ],
+   "sig": "Hinrichtung-Templer.jpg||560|74"
+  },
+  "philippe-le-bel": {
+   "f": "img/philippe-le-bel.webp",
+   "v": "93c31598fd",
+   "w": 560,
+   "h": 592,
+   "l": "Philippe le Bel et le supplice des Templiers, dans un Boccace enluminé (BnF, fr. 226)",
+   "cr": "Maître de Rohan, v. 1415-1420",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Rohan Master",
+   "src": "https://commons.wikimedia.org/wiki/File:Filip4_templari_exekuce_Boccaccio15.jpg",
+   "pour": [
+    "philippe-le-bel"
+   ],
+   "sig": "Filip4 templari exekuce Boccaccio15.jpg||560|74"
+  },
+  "sceau-du-temple": {
+   "f": "img/sceau-du-temple.webp",
+   "v": "a2ddfaebeb",
+   "w": 560,
+   "h": 478,
+   "l": "Deux Templiers sur un même cheval, comme sur le sceau de l'ordre : dessin de Matthieu Paris, XIIIe siècle",
+   "cr": "Matthieu Paris, *Historia Anglorum*, v. 1250",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Matthew Paris",
+   "src": "https://commons.wikimedia.org/wiki/File:Templari_Paris.jpg",
+   "pour": [
+    "sceau-du-temple",
+    "privileges-et-critiques",
+    "matthieu-paris"
+   ],
+   "sig": "Templari Paris.jpg||560|74"
+  },
+  "regle-du-temple": {
+   "f": "img/regle-du-temple.webp",
+   "v": "fe40eeeaab",
+   "w": 500,
+   "h": 452,
+   "l": "Les Templiers vus par Matthieu Paris, moine de Saint-Albans, dans sa *Chronica majora*",
+   "cr": "Matthieu Paris, XIIIe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Matthew Paris",
+   "src": "https://commons.wikimedia.org/wiki/File:Templari_MatthewParis.jpg",
+   "pour": [
+    "regle-du-temple",
+    "effectifs-du-temple"
+   ],
+   "sig": "Templari MatthewParis.jpg||560|74"
+  },
+  "sceau-du-temple-2": {
+   "f": "img/sceau-du-temple-2.webp",
+   "v": "424d757681",
+   "w": 560,
+   "h": 646,
+   "l": "Moulage en cire d'un sceau du Temple trouvé à Bristol",
+   "cr": "The Museum of the Order of St. John and the University of Birmingham, 2016",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "The Museum of the Order of St. John and the University of Birmingham",
+   "src": "https://commons.wikimedia.org/wiki/File:Wax_cast_of_a_Bristol_Templar_Seal.jpg",
+   "pour": [
+    "sceau-du-temple"
+   ],
+   "sig": "Wax cast of a Bristol Templar Seal.jpg||560|74"
+  },
+  "provinces-du-temple": {
+   "f": "img/provinces-du-temple.webp",
+   "v": "9c4e5be929",
+   "w": 311,
+   "h": 300,
+   "l": "Sceau du Temple en Provence, à l'Agneau pascal (XIIIe ou XIVe siècle)",
+   "cr": "Heurtelions, 2012",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Heurtelions",
+   "src": "https://commons.wikimedia.org/wiki/File:SceauTempliersXIIIeProvence.jpg",
+   "pour": [
+    "provinces-du-temple",
+    "temple-en-provence"
+   ],
+   "sig": "SceauTempliersXIIIeProvence.jpg||560|74"
+  },
+  "chevaliers-du-temple": {
+   "f": "img/chevaliers-du-temple.webp",
+   "v": "e7a7f489b5",
+   "w": 500,
+   "h": 345,
+   "l": "Un chevalier du Temple chargeant, sur la fresque de la chapelle de Cressac, fin du XIIe siècle",
+   "cr": "peinture murale anonyme, fin du XIIe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Fresque_de_la_chapelle_des_templiers_de_Cressac.jpg",
+   "pour": [
+    "chevaliers-du-temple",
+    "manteau-et-croix",
+    "cressac"
+   ],
+   "sig": "Fresque de la chapelle des templiers de Cressac.jpg||560|74"
+  },
+  "baucent": {
+   "f": "img/baucent.webp",
+   "v": "9d801db688",
+   "w": 480,
+   "h": 340,
+   "l": "Le baucent, bannière mi-partie noire et blanche, sur la fresque de San Bevignate à Pérouse, XIIIe siècle",
+   "cr": "peinture murale anonyme, XIIIe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:San_Bevignate_battle_fresco_baucent.jpg",
+   "pour": [
+    "baucent",
+    "san-bevignate"
+   ],
+   "sig": "San Bevignate battle fresco baucent.jpg||560|74"
+  },
+  "retraits": {
+   "f": "img/retraits.webp",
+   "v": "971b89c656",
+   "w": 560,
+   "h": 372,
+   "l": "Templiers au combat, fresque de l'église San Bevignate de Pérouse, XIIIe siècle",
+   "cr": "photographie reproduite avec l'accord de la commune de Pérouse",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "su concessione Comune di Perugia",
+   "src": "https://commons.wikimedia.org/wiki/File:SCONTRO_A_NABLUS_-_AFFRESCHI_CONTROFACCIATA_S._BEVIGNATE.JPG",
+   "pour": [
+    "retraits",
+    "san-bevignate"
+   ],
+   "sig": "SCONTRO A NABLUS - AFFRESCHI CONTROFACCIATA S. BEVIGNATE.JPG||560|74"
+  },
+  "commanderie": {
+   "f": "img/commanderie.webp",
+   "v": "206fb872b9",
+   "w": 560,
+   "h": 846,
+   "l": "La commanderie d'Arville, dans le Loir-et-Cher",
+   "cr": "Selbymay, 2012",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Selbymay",
+   "src": "https://commons.wikimedia.org/wiki/File:Arville_-_Commanderie_01.jpg",
+   "pour": [
+    "commanderie",
+    "arville"
+   ],
+   "sig": "Arville - Commanderie 01.jpg||560|74"
+  },
+  "vie-quotidienne": {
+   "f": "img/vie-quotidienne.webp",
+   "v": "3d648373ac",
+   "w": 560,
+   "h": 370,
+   "l": "La commanderie de Coulommiers, en Seine-et-Marne",
+   "cr": "Chris06, 2014",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Chris06",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_de_Coulommiers_(1).JPG",
+   "pour": [
+    "vie-quotidienne",
+    "coulommiers"
+   ],
+   "sig": "Commanderie de Coulommiers (1).JPG||560|74"
+  },
+  "chapelains-du-temple": {
+   "f": "img/chapelains-du-temple.webp",
+   "v": "5d0811f702",
+   "w": 560,
+   "h": 420,
+   "l": "Saint Georges, peinture murale de la chapelle de la commanderie de Coulommiers",
+   "cr": "Tangopaso, 2011",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Tangopaso",
+   "src": "https://commons.wikimedia.org/wiki/File:Peinture_St_Georges_commanderie_des_Templiers_(Coulommiers).jpg",
+   "pour": [
+    "chapelains-du-temple",
+    "coulommiers"
+   ],
+   "sig": "Peinture St Georges commanderie des Templiers (Coulommiers).jpg||560|74"
+  },
+  "freres-de-metier": {
+   "f": "img/freres-de-metier.webp",
+   "v": "e779e3ae04",
+   "w": 560,
+   "h": 314,
+   "l": "La commanderie de Richerenches, en Provence",
+   "cr": "Véronique PAGNIER, 2011",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Véronique PAGNIER",
+   "src": "https://commons.wikimedia.org/wiki/File:Richerenches_-_commanderie.jpg",
+   "pour": [
+    "freres-de-metier"
+   ],
+   "sig": "Richerenches - commanderie.jpg||560|74"
+  },
+  "manteau-et-croix": {
+   "f": "img/manteau-et-croix.webp",
+   "v": "da6a0557cd",
+   "w": 560,
+   "h": 851,
+   "l": "La croix du portail de la chapelle des Templiers de Metz, relevée au XIXe siècle",
+   "cr": "Ferdinand von Quast, XIXe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Ferdinand von Quast (1807-1877)",
+   "src": "https://commons.wikimedia.org/wiki/File:Ferdinand_von_Quast_-_Chapelle_des_Templiers,_Metz,_portail_%C3%A0_la_croix_patt%C3%A9e,_Architekturmuseum_TU_Berlin_44284.jpg",
+   "pour": [
+    "manteau-et-croix",
+    "metz"
+   ],
+   "sig": "Ferdinand von Quast - Chapelle des Templiers, Metz, portail à la croix pattée, Architekturmuseum TU Berlin 44284.jpg||560|74"
+  },
+  "armement-et-equipement": {
+   "f": "img/armement-et-equipement.webp",
+   "v": "ea8b11d5c4",
+   "w": 560,
+   "h": 373,
+   "l": "Gisant d'un chevalier en armes, église du Temple de Londres, XIIIe siècle",
+   "cr": "Tilman2007, 2023",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Tilman2007",
+   "src": "https://commons.wikimedia.org/wiki/File:Temple_Church,_Effigy_of_a_knight_City_of_London_1064646_20230821_0024.jpg",
+   "pour": [
+    "armement-et-equipement",
+    "temple-church-londres"
+   ],
+   "sig": "Temple Church, Effigy of a knight City of London 1064646 20230821 0024.jpg||560|74"
+  },
+  "chevaux-et-cavalerie": {
+   "f": "img/chevaux-et-cavalerie.webp",
+   "v": "4071d71c8c",
+   "w": 560,
+   "h": 299,
+   "l": "La bataille de La Forbie (1244), dessinée par Matthieu Paris dans sa *Chronica majora*",
+   "cr": "Matthieu Paris, XIIIe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Matthew Paris",
+   "src": "https://commons.wikimedia.org/wiki/File:La_Forbie.jpg",
+   "pour": [
+    "chevaux-et-cavalerie",
+    "bataille-de-la-forbie"
+   ],
+   "sig": "La Forbie.jpg||560|74"
+  },
+  "bataille-de-hattin": {
+   "f": "img/bataille-de-hattin.webp",
+   "v": "7ad6e0ee45",
+   "w": 560,
+   "h": 510,
+   "l": "Le combat de la source de Cresson, le 1er mai 1187, enluminé par Jean Colombe",
+   "cr": "Jean Colombe, v. 1490",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Jean Colombe",
+   "src": "https://commons.wikimedia.org/wiki/File:Battle_of_Cresson.jpg",
+   "pour": [
+    "bataille-de-hattin",
+    "gerard-de-ridefort"
+   ],
+   "sig": "Battle of Cresson.jpg||560|74"
+  },
+  "economie-du-temple": {
+   "f": "img/economie-du-temple.webp",
+   "v": "5620f1f2e2",
+   "w": 560,
+   "h": 420,
+   "l": "La grange au blé de Cressing Temple, en Essex, bâtie pour le Temple au XIIIe siècle",
+   "cr": "Michael Coppins, 2019",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Michael Coppins",
+   "src": "https://commons.wikimedia.org/wiki/File:Cressing_Temple,_Wheat_Barn.jpg",
+   "pour": [
+    "economie-du-temple",
+    "cressing-temple"
+   ],
+   "sig": "Cressing Temple, Wheat Barn.jpg||560|74"
+  },
+  "banque-du-temple": {
+   "f": "img/banque-du-temple.webp",
+   "v": "7ab0e60ee0",
+   "w": 560,
+   "h": 701,
+   "l": "La tour du Temple de Paris, où fut gardé le trésor royal, gravure du XIXe siècle",
+   "cr": "G. Larbalestier, graveur, Paris Musées",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Larbalestier, G., graveur",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_donjon_du_Temple_(en_1500)_plus_r%C3%A9cemment_prison_de_Louis_XVI._Paris_Mus%C3%A9es_20231012220238.jpg",
+   "pour": [
+    "banque-du-temple",
+    "enclos-du-temple"
+   ],
+   "sig": "Le donjon du Temple (en 1500) plus récemment prison de Louis XVI. Paris Musées 20231012220238.jpg||560|74"
+  },
+  "chateaux-du-temple": {
+   "f": "img/chateaux-du-temple.webp",
+   "v": "4ec970cc68",
+   "w": 560,
+   "h": 244,
+   "l": "La tour de Chastel Blanc dominant Safita, en Syrie",
+   "cr": "Ahmadac",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Ahmadac",
+   "src": "https://commons.wikimedia.org/wiki/File:Safita_overview.jpg",
+   "pour": [
+    "chateaux-du-temple",
+    "chastel-blanc"
+   ],
+   "sig": "Safita overview.jpg||560|74"
+  },
+  "chateaux-du-temple-2": {
+   "f": "img/chateaux-du-temple-2.webp",
+   "v": "9f83e9b09a",
+   "w": 560,
+   "h": 373,
+   "l": "La cathédrale Notre-Dame de Tortose, à Tartous",
+   "cr": "Dosseman, 2008",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Dosseman",
+   "src": "https://commons.wikimedia.org/wiki/File:Tartus_Cathedral_of_Our_Lady_of_Tortosa_3640.jpg",
+   "pour": [
+    "chateaux-du-temple",
+    "tortose"
+   ],
+   "sig": "Tartus Cathedral of Our Lady of Tortosa 3640.jpg||560|74"
+  },
+  "architecture-templiere": {
+   "f": "img/architecture-templiere.webp",
+   "v": "3d9f554400",
+   "w": 560,
+   "h": 746,
+   "l": "La chapelle octogonale des Templiers de Laon",
+   "cr": "GO69, 2011",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "GO69",
+   "src": "https://commons.wikimedia.org/wiki/File:Laon_(02)_Chapelle_des_Templiers_01.JPG",
+   "pour": [
+    "architecture-templiere",
+    "laon"
+   ],
+   "sig": "Laon (02) Chapelle des Templiers 01.JPG||560|74"
+  },
+  "architecture-templiere-2": {
+   "f": "img/architecture-templiere-2.webp",
+   "v": "086bdd57db",
+   "w": 560,
+   "h": 729,
+   "l": "La chapelle des Templiers de Metz",
+   "cr": "Marc Ryckaert, 2011",
+   "lic": "CC BY 3.0",
+   "li": "CC BY 3.0",
+   "auteur": "Marc Ryckaert ( MJJR )",
+   "src": "https://commons.wikimedia.org/wiki/File:Metz_Chapelle_des_Templiers_R01.jpg",
+   "pour": [
+    "architecture-templiere",
+    "metz"
+   ],
+   "sig": "Metz Chapelle des Templiers R01.jpg||560|74"
+  },
+  "tomar": {
+   "f": "img/tomar.webp",
+   "v": "145ea39706",
+   "w": 560,
+   "h": 385,
+   "l": "La rotonde des Templiers du couvent du Christ, à Tomar",
+   "cr": "Daniel VILLAFRUELA, 2014",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Daniel VILLAFRUELA .",
+   "src": "https://commons.wikimedia.org/wiki/File:Tomar-Convento_de_Cristo-Rotunda_dos_Templ%C3%A1rios-20140914.jpg",
+   "pour": [
+    "tomar",
+    "architecture-templiere",
+    "templiers-au-portugal"
+   ],
+   "sig": "Tomar-Convento de Cristo-Rotunda dos Templários-20140914.jpg||560|74"
+  },
+  "templiers-et-hospitaliers": {
+   "f": "img/templiers-et-hospitaliers.webp",
+   "v": "a73b96164c",
+   "w": 560,
+   "h": 305,
+   "l": "Le Krak des Chevaliers, forteresse des Hospitaliers en Syrie",
+   "cr": "Ergo et Nev1, 2011",
+   "lic": "CC BY 2.0",
+   "li": "CC BY 2.0",
+   "auteur": "Krak_des_Chevaliers_landscape.jpg : (Ergo) derivative work: Nev1 ( talk )",
+   "src": "https://commons.wikimedia.org/wiki/File:Krak_des_Chevaliers_landscape_(cropped).jpg",
+   "pour": [
+    "templiers-et-hospitaliers",
+    "hospitaliers"
+   ],
+   "sig": "Krak des Chevaliers landscape (cropped).jpg||560|74"
+  },
+  "tresor-des-templiers": {
+   "f": "img/tresor-des-templiers.webp",
+   "v": "b121ac2394",
+   "w": 560,
+   "h": 309,
+   "l": "Le donjon de Gisors, sous lequel Roger Lhomoy dit avoir vu les coffres du trésor",
+   "cr": "Anabase4",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Anabase4",
+   "src": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Gisors-donjon.jpg",
+   "pour": [
+    "tresor-des-templiers",
+    "gisors"
+   ],
+   "sig": "Château de Gisors-donjon.jpg||560|74"
+  },
+  "malediction-de-jacques-de-molay": {
+   "f": "img/malediction-de-jacques-de-molay.webp",
+   "v": "7e0b5db487",
+   "w": 500,
+   "h": 370,
+   "l": "Des Templiers sur le bûcher, miniature du XIVe siècle",
+   "cr": "enluminure anonyme, XIVe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Anonymous Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Templars_on_Stake.jpg",
+   "pour": [
+    "malediction-de-jacques-de-molay",
+    "philippe-de-marigny"
+   ],
+   "sig": "Templars on Stake.jpg||560|74"
+  },
+  "baphomet": {
+   "f": "img/baphomet.webp",
+   "v": "180ec78886",
+   "w": 560,
+   "h": 738,
+   "l": "Le Baphomet dessiné par Éliphas Lévi pour *Dogme et rituel de la haute magie*",
+   "cr": "Éliphas Lévi, 1856",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Eliphas Levi",
+   "src": "https://commons.wikimedia.org/wiki/File:Baphomet.png",
+   "pour": [
+    "baphomet"
+   ],
+   "sig": "Baphomet.png||560|74"
+  },
+  "baphomet-2": {
+   "f": "img/baphomet-2.webp",
+   "v": "4ebf1a4e5a",
+   "w": 560,
+   "h": 766,
+   "l": "Joseph von Hammer-Purgstall, qui fit en 1818 du Baphomet une idole gnostique",
+   "cr": "gravure, Rijksmuseum",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Rijksmuseum",
+   "src": "https://commons.wikimedia.org/wiki/File:Portret_van_ori%C3%ABntalist_Joseph_von_Hammer-Purgstall,_RP-P-1910-81.jpg",
+   "pour": [
+    "baphomet"
+   ],
+   "sig": "Portret van oriëntalist Joseph von Hammer-Purgstall, RP-P-1910-81.jpg||560|74"
+  },
+  "templiers-et-graal": {
+   "f": "img/templiers-et-graal.webp",
+   "v": "6d44edcd2d",
+   "w": 560,
+   "h": 850,
+   "l": "Wolfram von Eschenbach, auteur du *Parzival*, dans le Codex Manesse",
+   "cr": "Codex Manesse, v. 1305-1315",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Meister des Codex Manesse",
+   "src": "https://commons.wikimedia.org/wiki/File:Codex_Manesse_149v_Wolfram_von_Eschenbach.jpg",
+   "pour": [
+    "templiers-et-graal"
+   ],
+   "sig": "Codex Manesse 149v Wolfram von Eschenbach.jpg||560|74"
+  },
+  "chapelle-de-rosslyn": {
+   "f": "img/chapelle-de-rosslyn.webp",
+   "v": "f87efa6a4d",
+   "w": 560,
+   "h": 315,
+   "l": "La chapelle de Rosslyn, au sud d'Édimbourg",
+   "cr": "Anthonyrandell, 2022",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Anthonyrandell",
+   "src": "https://commons.wikimedia.org/wiki/File:Rosslyn_Chapel_Exterior.jpg",
+   "pour": [
+    "chapelle-de-rosslyn"
+   ],
+   "sig": "Rosslyn Chapel Exterior.jpg||560|74"
+  },
+  "chapelle-de-rosslyn-2": {
+   "f": "img/chapelle-de-rosslyn-2.webp",
+   "v": "dd2f5d31c2",
+   "w": 560,
+   "h": 366,
+   "l": "Le « pilier de l'apprenti » de Rosslyn, photographié vers 1855",
+   "cr": "photographie anonyme, v. 1852-1862, Rijksmuseum",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Rijksmuseum",
+   "src": "https://commons.wikimedia.org/wiki/File:Apprentice_Pillar_in_de_Rosslyn_Chapel_Roslin_%27Prentice_Pillar_(titel_op_object),_RP-F-2001-7-343-18.jpg",
+   "pour": [
+    "chapelle-de-rosslyn"
+   ],
+   "sig": "Apprentice Pillar in de Rosslyn Chapel Roslin 'Prentice Pillar (titel op object), RP-F-2001-7-343-18.jpg||560|74"
+  },
+  "templiers-en-ecosse": {
+   "f": "img/templiers-en-ecosse.webp",
+   "v": "67852dd981",
+   "w": 560,
+   "h": 373,
+   "l": "L'ancienne église de Temple, en Midlothian, sur le site de Balantrodoch",
+   "cr": "Wilmm, 2019",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Wilmm",
+   "src": "https://commons.wikimedia.org/wiki/File:Old_Parish_Church,_Temple,_Western_Facade.jpg",
+   "pour": [
+    "templiers-en-ecosse",
+    "balantrodoch"
+   ],
+   "sig": "Old Parish Church, Temple, Western Facade.jpg||560|74"
+  },
+  "rennes-le-chateau": {
+   "f": "img/rennes-le-chateau.webp",
+   "v": "be98dd03d0",
+   "w": 560,
+   "h": 840,
+   "l": "La tour Magdala, bâtie par l'abbé Saunière à Rennes-le-Château",
+   "cr": "Tylwyth Eldar, 2019",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Tylwyth Eldar",
+   "src": "https://commons.wikimedia.org/wiki/File:Rennes-le-Ch%C3%A2teau_-_Tour_Magdala_01.jpg",
+   "pour": [
+    "rennes-le-chateau"
+   ],
+   "sig": "Rennes-le-Château - Tour Magdala 01.jpg||560|74"
+  },
+  "flotte-de-la-rochelle": {
+   "f": "img/flotte-de-la-rochelle.webp",
+   "v": "9cd902e216",
+   "w": 536,
+   "h": 835,
+   "l": "La porte de la maison du Temple de La Rochelle, rue du Temple, telle qu'elle était vers 1700",
+   "cr": "Émile Couneau, 1904",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Émile Couneau",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_des_Templiers_de_La_Rochelle_-_Porte_de_la_rue_du_Temple_(1700).png",
+   "pour": [
+    "flotte-de-la-rochelle",
+    "la-rochelle"
+   ],
+   "sig": "Commanderie des Templiers de La Rochelle - Porte de la rue du Temple (1700).png||560|74"
+  },
+  "templiers-en-amerique": {
+   "f": "img/templiers-en-amerique.webp",
+   "v": "06ff9332c2",
+   "w": 560,
+   "h": 402,
+   "l": "Oak Island, en Nouvelle-Écosse, en août 1931",
+   "cr": "Richard McCully, 1931",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Richard McCully",
+   "src": "https://commons.wikimedia.org/wiki/File:Island_and_Wharf,_Oak_Island,_Nova_Scotia,_Canada,_August_1931.jpg",
+   "pour": [
+    "templiers-en-amerique"
+   ],
+   "sig": "Island and Wharf, Oak Island, Nova Scotia, Canada, August 1931.jpg||560|74"
+  },
+  "templiers-en-amerique-2": {
+   "f": "img/templiers-en-amerique-2.webp",
+   "v": "37a33d39ed",
+   "w": 560,
+   "h": 420,
+   "l": "La tour de Newport (Rhode Island), un moulin du XVIIe siècle",
+   "cr": "Ajay_suresh, 2021",
+   "lic": "CC BY 2.0",
+   "li": "CC BY 2.0",
+   "auteur": "ajay_suresh",
+   "src": "https://commons.wikimedia.org/wiki/File:Newport_Tower_-_Newport,_RI_(51488606239).jpg",
+   "pour": [
+    "templiers-en-amerique"
+   ],
+   "sig": "Newport Tower - Newport, RI (51488606239).jpg||560|74"
+  },
+  "franc-maconnerie-et-templiers": {
+   "f": "img/franc-maconnerie-et-templiers.webp",
+   "v": "06889e0f90",
+   "w": 560,
+   "h": 926,
+   "l": "Un manuscrit de la Stricte Observance templière, 1775",
+   "cr": "manuscrit anonyme, 1775",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Derla_Manuscripts,_The_Strict_Observance.jpg",
+   "pour": [
+    "franc-maconnerie-et-templiers",
+    "stricte-observance"
+   ],
+   "sig": "Derla Manuscripts, The Strict Observance.jpg||560|74"
+  },
+  "stricte-observance": {
+   "f": "img/stricte-observance.webp",
+   "v": "9fec5f34f5",
+   "w": 560,
+   "h": 655,
+   "l": "Le baron Karl Gotthelf von Hund, fondateur de la Stricte Observance",
+   "cr": "auteur inconnu",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "in Quelle nicht angegeben",
+   "src": "https://commons.wikimedia.org/wiki/File:Karl_Gotthelf_von_Hund_und_Altengrotkau.jpg",
+   "pour": [
+    "stricte-observance"
+   ],
+   "sig": "Karl Gotthelf von Hund und Altengrotkau.jpg||560|74"
+  },
+  "neo-templarisme": {
+   "f": "img/neo-templarisme.webp",
+   "v": "54bff1c17e",
+   "w": 465,
+   "h": 663,
+   "l": "Bernard-Raymond Fabré-Palaprat en grand maître de son ordre du Temple « restauré »",
+   "cr": "auteur inconnu, 1838",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Fabr%C3%A9-Palaprat_en_grand-ma%C3%AEtre_de_l%27odre_des_templiers.jpg",
+   "pour": [
+    "neo-templarisme"
+   ],
+   "sig": "Fabré-Palaprat en grand-maître de l'odre des templiers.jpg||560|74"
+  },
+  "vendredi-13": {
+   "f": "img/vendredi-13.webp",
+   "v": "58e9899ae8",
+   "w": 560,
+   "h": 725,
+   "l": "Gioacchino Rossini, photographié par Nadar : sa mort un vendredi 13, en 1868, fut remarquée",
+   "cr": "Nadar",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Tournachon, Gaspard-Félix",
+   "src": "https://commons.wikimedia.org/wiki/File:Tournachon,_Gaspard-F%C3%A9lix_-_Gioacchino_Rossini_(1792-1868)_(Zeno_Fotografie).jpg",
+   "pour": [
+    "vendredi-13"
+   ],
+   "sig": "Tournachon, Gaspard-Félix - Gioacchino Rossini (1792-1868) (Zeno Fotografie).jpg||560|74"
+  },
+  "suaire-de-turin-et-templiers": {
+   "f": "img/suaire-de-turin-et-templiers.webp",
+   "v": "0a6d8d7184",
+   "w": 304,
+   "h": 227,
+   "l": "L'enseigne de pèlerinage de Lirey, la plus ancienne image du suaire, dessinée en 1865",
+   "cr": "Arthur Forgeais, 1865",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Arthur Forgeais (1822-1878)",
+   "src": "https://commons.wikimedia.org/wiki/File:Shroud_of_Lirey_Pilgrim_Badge.jpg",
+   "pour": [
+    "suaire-de-turin-et-templiers"
+   ],
+   "sig": "Shroud of Lirey Pilgrim Badge.jpg||560|74"
+  },
+  "templiers-et-cathares": {
+   "f": "img/templiers-et-cathares.webp",
+   "v": "1a6f0bf141",
+   "w": 560,
+   "h": 586,
+   "l": "L'expulsion des habitants de Carcassonne en 1209, enluminure du XVe siècle",
+   "cr": "atelier du Maître de Boucicaut, v. 1415",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Workshop of Master of Boucicaut",
+   "src": "https://commons.wikimedia.org/wiki/File:Cathars_expelled.JPG",
+   "pour": [
+    "templiers-et-cathares"
+   ],
+   "sig": "Cathars expelled.JPG||560|74"
+  },
+  "templiers-dans-la-litterature": {
+   "f": "img/templiers-dans-la-litterature.webp",
+   "v": "6d02d34949",
+   "w": 560,
+   "h": 431,
+   "l": "Rebecca et le Templier Brian de Bois-Guilbert, personnages d'*Ivanhoé*, peints par Léon Cogniet",
+   "cr": "Léon Cogniet, 1828, Wallace Collection",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Léon Cogniet",
+   "src": "https://commons.wikimedia.org/wiki/File:Leon_Cogniet_-_Rebecca_and_Brian_de_Bois-Guilbert_WLC_WLC_P279.jpg",
+   "pour": [
+    "templiers-dans-la-litterature"
+   ],
+   "sig": "Leon Cogniet - Rebecca and Brian de Bois-Guilbert WLC WLC P279.jpg||560|74"
+  },
+  "laon": {
+   "f": "img/laon.webp",
+   "v": "a2bf75115d",
+   "w": 560,
+   "h": 420,
+   "l": "La chapelle des Templiers de Laon, dont le plan centré a nourri les lectures symboliques",
+   "cr": "Claude Shoshany, 2002",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Claude Shoshany",
+   "src": "https://commons.wikimedia.org/wiki/File:Laon_Chapelle_des_Templiers.JPG",
+   "pour": [
+    "laon",
+    "symbolisme-templier"
+   ],
+   "sig": "Laon Chapelle des Templiers.JPG||560|74"
+  },
+  "graffiti-de-domme-et-chinon": {
+   "f": "img/graffiti-de-domme-et-chinon.webp",
+   "v": "05ba8b3f07",
+   "w": 560,
+   "h": 747,
+   "l": "La tour du Coudray, à Chinon, où les dignitaires furent détenus en 1308",
+   "cr": "GO69, 2024",
+   "lic": "CC BY 4.0",
+   "li": "CC BY 4.0",
+   "auteur": "GO69",
+   "src": "https://commons.wikimedia.org/wiki/File:Chinon_(37)_Forteresse_royale_-_Tour_du_Coudray_-_01.jpg",
+   "pour": [
+    "graffiti-de-domme-et-chinon",
+    "chinon"
+   ],
+   "sig": "Chinon (37) Forteresse royale - Tour du Coudray - 01.jpg||560|74"
+  },
+  "graffiti-de-domme-et-chinon-2": {
+   "f": "img/graffiti-de-domme-et-chinon-2.webp",
+   "v": "24e58f1387",
+   "w": 560,
+   "h": 368,
+   "l": "La tour du Prisonnier, au château de Gisors",
+   "cr": "Rene Boulay, 2015",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "rene boulay",
+   "src": "https://commons.wikimedia.org/wiki/File:Eure_Gisors_Chateau_Cour_Prisonnier_-_panoramio.jpg",
+   "pour": [
+    "graffiti-de-domme-et-chinon",
+    "gisors"
+   ],
+   "sig": "Eure Gisors Chateau Cour Prisonnier - panoramio.jpg||560|74"
+  },
+  "chateau-pelerin": {
+   "f": "img/chateau-pelerin.webp",
+   "v": "6b75eb77c6",
+   "w": 560,
+   "h": 668,
+   "l": "Les ruines de Château Pèlerin, à Atlit, photographiées en 1881",
+   "cr": "photographie, 1881, New York Public Library",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Scan by NYPL",
+   "src": "https://commons.wikimedia.org/wiki/File:Ruins_on_the_west_side_of_Athl%C3%AEt._The_fortress_was_built_by_the_Templars_in_the_year_1218_and_was_the_last_place_held_by_the_crusaders_in_Palestine._It_was_taken_by_the_Sultan_Melek_el_(NYPL_b10607452-80631).jpg",
+   "pour": [
+    "chateau-pelerin",
+    "tete-de-templiers"
+   ],
+   "sig": "Ruins on the west side of Athlît. The fortress was built by the Templars in the year 1218 and was the last place held by the crusaders in Palestine. It was taken by the Sultan Melek el (NYPL b10607452-80631).jpg||560|74"
+  },
+  "fondation-de-l-ordre": {
+   "f": "img/fondation-de-l-ordre.webp",
+   "v": "bffb158922",
+   "w": 560,
+   "h": 255,
+   "l": "Baudouin II tient conseil, et les premiers Templiers partent en mission : miniature de l'*Histoire d'Outremer*",
+   "cr": "enluminure anonyme, v. 1280",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:King_Baldwin_II_and_the_Templars.jpg",
+   "pour": [
+    "fondation-de-l-ordre"
+   ],
+   "sig": "King Baldwin II and the Templars.jpg||560|74"
+  },
+  "concile-de-troyes": {
+   "f": "img/concile-de-troyes.webp",
+   "v": "63c2716da7",
+   "w": 560,
+   "h": 357,
+   "l": "La reconnaissance de l'ordre du Temple au concile de Troyes, imaginée par Granet",
+   "cr": "François-Marius Granet, v. 1840",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "François Marius Granet",
+   "src": "https://commons.wikimedia.org/wiki/File:Institution_de_l_Ordre_du_Temple_1128_par_Granet_(restored).jpg",
+   "pour": [
+    "concile-de-troyes"
+   ],
+   "sig": "Institution de l Ordre du Temple 1128 par Granet (restored).jpg||560|74"
+  },
+  "omne-datum-optimum": {
+   "f": "img/omne-datum-optimum.webp",
+   "v": "0ff6a042cb",
+   "w": 560,
+   "h": 466,
+   "l": "La souscription d'Innocent II, « Bene valete », au bas d'une charte de 1134",
+   "cr": "chancellerie pontificale, 1134",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Pope Innocent II",
+   "src": "https://commons.wikimedia.org/wiki/File:Bene_valete_of_Pope_Innocent_II.jpg",
+   "pour": [
+    "omne-datum-optimum"
+   ],
+   "sig": "Bene valete of Pope Innocent II.jpg||560|74"
+  },
+  "omne-datum-optimum-2": {
+   "f": "img/omne-datum-optimum-2.webp",
+   "v": "dde7de86af",
+   "w": 560,
+   "h": 883,
+   "l": "Innocent II, mosaïque de Santa Maria in Trastevere, à Rome",
+   "cr": "Hugo DK, 2019",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Hugo DK",
+   "src": "https://commons.wikimedia.org/wiki/File:Pope_Innocent_II_%E2%80%93_Santa_Maria_in_Trastevere.jpg",
+   "pour": [
+    "omne-datum-optimum"
+   ],
+   "sig": "Pope Innocent II – Santa Maria in Trastevere.jpg||560|74"
+  },
+  "deuxieme-croisade": {
+   "f": "img/deuxieme-croisade.webp",
+   "v": "6c2ae48be1",
+   "w": 560,
+   "h": 495,
+   "l": "Le siège de Damas (1148), enluminé par Jean Colombe dans les *Passages d'outremer*",
+   "cr": "Jean Colombe, v. 1474",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Jean Colombe, in Passages d'outremer by Sébastien Mamerot",
+   "src": "https://commons.wikimedia.org/wiki/File:Siege_of_Damascus,_second_crusade.jpg",
+   "pour": [
+    "deuxieme-croisade"
+   ],
+   "sig": "Siege of Damascus, second crusade.jpg||560|74"
+  },
+  "deuxieme-croisade-2": {
+   "f": "img/deuxieme-croisade-2.webp",
+   "v": "0e4e8ab4ad",
+   "w": 560,
+   "h": 837,
+   "l": "Louis VII au combat du mont Cadmos, en janvier 1148, gravure du XIXe siècle",
+   "cr": "gravure, v. 1886",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Louis_VII_during_the_battle_of_Mount_Cadmus,_1148.jpg",
+   "pour": [
+    "deuxieme-croisade"
+   ],
+   "sig": "Louis VII during the battle of Mount Cadmus, 1148.jpg||560|74"
+  },
+  "siege-d-ascalon": {
+   "f": "img/siege-d-ascalon.webp",
+   "v": "fb742fbe63",
+   "w": 560,
+   "h": 494,
+   "l": "Le siège d'Ascalon par Baudouin III, enluminé par Jean Colombe",
+   "cr": "Jean Colombe, v. 1474",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Jean Colombe",
+   "src": "https://commons.wikimedia.org/wiki/File:Siege_of_Ascalon_(1153).jpg",
+   "pour": [
+    "siege-d-ascalon"
+   ],
+   "sig": "Siege of Ascalon (1153).jpg||560|74"
+  },
+  "bataille-de-montgisard": {
+   "f": "img/bataille-de-montgisard.webp",
+   "v": "747b273fbe",
+   "w": 560,
+   "h": 311,
+   "l": "La bataille de Montgisard (25 novembre 1177), peinte pour Versailles ; le titre du tableau la date à tort du 18 novembre",
+   "cr": "Charles-Philippe Larivière, 1842-1844",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Charles-Philippe Larivière",
+   "src": "https://commons.wikimedia.org/wiki/File:Schlacht_von_Montgisard_2.jpg",
+   "pour": [
+    "bataille-de-montgisard",
+    "baudouin-iv-de-jerusalem"
+   ],
+   "sig": "Schlacht von Montgisard 2.jpg||560|74"
+  },
+  "gue-de-jacob": {
+   "f": "img/gue-de-jacob.webp",
+   "v": "e71bdc7a4a",
+   "w": 560,
+   "h": 432,
+   "l": "L'angle nord-est du Chastellet, au Gué de Jacob",
+   "cr": "Wilson44691, 2009",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Wilson44691",
+   "src": "https://commons.wikimedia.org/wiki/File:NEcornerChastellet2009.JPG",
+   "pour": [
+    "gue-de-jacob"
+   ],
+   "sig": "NEcornerChastellet2009.JPG||560|74"
+  },
+  "bataille-de-hattin-2": {
+   "f": "img/bataille-de-hattin-2.webp",
+   "v": "77308a20f6",
+   "w": 560,
+   "h": 505,
+   "l": "La bataille de Hattin dans un manuscrit de l'*Estoire d'Eracles*",
+   "cr": "enluminure anonyme, 1440-1445",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Anonymous Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Hattin_Estoire_d%27Eracles.jpg",
+   "pour": [
+    "bataille-de-hattin"
+   ],
+   "sig": "Hattin Estoire d'Eracles.jpg||560|74"
+  },
+  "bataille-de-hattin-3": {
+   "f": "img/bataille-de-hattin-3.webp",
+   "v": "39fdba76c3",
+   "w": 560,
+   "h": 240,
+   "l": "Saladin enlève la Vraie Croix au roi Guy de Lusignan, dessin de Matthieu Paris",
+   "cr": "Matthieu Paris, XIIIe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Matthew Paris",
+   "src": "https://commons.wikimedia.org/wiki/File:Saladin_Guy.jpg",
+   "pour": [
+    "bataille-de-hattin",
+    "saladin",
+    "guy-de-lusignan"
+   ],
+   "sig": "Saladin Guy.jpg||560|74"
+  },
+  "troisieme-croisade": {
+   "f": "img/troisieme-croisade.webp",
+   "v": "d10e00e88a",
+   "w": 560,
+   "h": 552,
+   "l": "Philippe Auguste et Richard Cœur de Lion reçoivent les clés d'Acre en 1191, dans les *Grandes Chroniques de France*",
+   "cr": "enluminure, v. 1375-1380",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Philippe_Auguste_et_Richard_Acre.jpg",
+   "pour": [
+    "troisieme-croisade",
+    "richard-coeur-de-lion"
+   ],
+   "sig": "Philippe Auguste et Richard Acre.jpg||560|74"
+  },
+  "septieme-croisade": {
+   "f": "img/septieme-croisade.webp",
+   "v": "36a0a7a8ce",
+   "w": 560,
+   "h": 462,
+   "l": "La prise de Damiette par Louis IX en 1249, dans un manuscrit de la *Vie de saint Louis* de Joinville",
+   "cr": "enluminure, 1330-1340",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Mahiet",
+   "src": "https://commons.wikimedia.org/wiki/File:Damiette1249.jpg",
+   "pour": [
+    "septieme-croisade",
+    "damiette",
+    "louis-ix",
+    "jean-de-joinville"
+   ],
+   "sig": "Damiette1249.jpg||560|74"
+  },
+  "chute-de-safed": {
+   "f": "img/chute-de-safed.webp",
+   "v": "0eac4a6ef0",
+   "w": 560,
+   "h": 365,
+   "l": "Les vestiges de la forteresse de Safed, croisée puis mamelouke",
+   "cr": "Bukvoed, 2011",
+   "lic": "CC BY 3.0",
+   "li": "CC BY 3.0",
+   "auteur": "Bukvoed",
+   "src": "https://commons.wikimedia.org/wiki/File:Safed-52.jpg",
+   "pour": [
+    "chute-de-safed",
+    "safed"
+   ],
+   "sig": "Safed-52.jpg||560|74"
+  },
+  "chute-d-acre": {
+   "f": "img/chute-d-acre.webp",
+   "v": "e77e0cc975",
+   "w": 560,
+   "h": 709,
+   "l": "Le siège d'Acre de 1291, peint par Dominique Papety pour la salle des Croisades de Versailles",
+   "cr": "Dominique Papety, 1845",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Louis-Dominique Papety",
+   "src": "https://commons.wikimedia.org/wiki/File:1291_si%C3%A8ge_d%27Acre.jpg",
+   "pour": [
+    "chute-d-acre"
+   ],
+   "sig": "1291 siège d'Acre.jpg||560|74"
+  },
+  "ile-de-ruad": {
+   "f": "img/ile-de-ruad.webp",
+   "v": "9f4a2a7fee",
+   "w": 560,
+   "h": 433,
+   "l": "L'île de Ruad, face à Tortose, dessinée par Luigi Mayer à la fin du XVIIIe siècle",
+   "cr": "Luigi Mayer, publié en 1810",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Luigi Mayer",
+   "src": "https://commons.wikimedia.org/wiki/File:Castle_in_the_island_of_Tortosa_-_Mayer_Luigi_-_1810.jpg",
+   "pour": [
+    "ile-de-ruad"
+   ],
+   "sig": "Castle in the island of Tortosa - Mayer Luigi - 1810.jpg||560|74"
+  },
+  "projets-de-fusion-des-ordres": {
+   "f": "img/projets-de-fusion-des-ordres.webp",
+   "v": "2b37bbcc69",
+   "w": 560,
+   "h": 700,
+   "l": "Raymond Lulle, partisan de la fusion des ordres, présente ses livres à la reine de France",
+   "cr": "miniature, v. 1325",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown early 14th-century artist, maybe Thomas Le Myesier (?)",
+   "src": "https://commons.wikimedia.org/wiki/File:Ramon_Llull,_with_his_disciple_Thomas_le_Myesier,_presenting_three_anthologies_to_the_Queen_of_France_and_Navarre.jpg",
+   "pour": [
+    "projets-de-fusion-des-ordres"
+   ],
+   "sig": "Ramon Llull, with his disciple Thomas le Myesier, presenting three anthologies to the Queen of France and Navarre.jpg||560|74"
+  },
+  "arrestation-du-13-octobre-1307": {
+   "f": "img/arrestation-du-13-octobre-1307.webp",
+   "v": "f46dca5b00",
+   "w": 560,
+   "h": 660,
+   "l": "Clément V et Philippe le Bel face aux Templiers, enluminure du XVe siècle",
+   "cr": "atelier du Maître de Boucicaut, XVe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Maître de Boucicaut",
+   "src": "https://commons.wikimedia.org/wiki/File:Ma%C3%AEtre_de_Boucicaut_Cl%C3%A9ment_V_et_Philippe_le_Bel.jpg",
+   "pour": [
+    "arrestation-du-13-octobre-1307",
+    "clement-v"
+   ],
+   "sig": "Maître de Boucicaut Clément V et Philippe le Bel.jpg||560|74"
+  },
+  "parchemin-de-chinon": {
+   "f": "img/parchemin-de-chinon.webp",
+   "v": "5ffe048a86",
+   "w": 560,
+   "h": 584,
+   "l": "Le parchemin de Chinon, procès-verbal de l'absolution accordée en août 1308",
+   "cr": "Archives apostoliques du Vatican",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Fue redactado en 1308 (se desconoce su autor)",
+   "src": "https://commons.wikimedia.org/wiki/File:Pergamino_de_chinon.jpg",
+   "pour": [
+    "parchemin-de-chinon",
+    "hugues-de-pairaud",
+    "geoffroy-de-gonneville",
+    "raimbaud-de-caron"
+   ],
+   "sig": "Pergamino de chinon.jpg||560|74"
+  },
+  "concile-de-vienne": {
+   "f": "img/concile-de-vienne.webp",
+   "v": "2ed483a3f6",
+   "w": 560,
+   "h": 444,
+   "l": "Le concile de Vienne, gravure du XIXe siècle",
+   "cr": "Paul Lacroix, XIXe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Paul LaCroix",
+   "src": "https://commons.wikimedia.org/wiki/File:Paul-Lacroix_Council-Vienne.jpg",
+   "pour": [
+    "concile-de-vienne"
+   ],
+   "sig": "Paul-Lacroix Council-Vienne.jpg||560|74"
+  },
+  "bucher-de-jacques-de-molay": {
+   "f": "img/bucher-de-jacques-de-molay.webp",
+   "v": "e7ba8e37e3",
+   "w": 560,
+   "h": 840,
+   "l": "Des Templiers brûlés en présence de Philippe le Bel, enluminure du Maître de Boucicaut (Getty Museum)",
+   "cr": "Maître de Boucicaut, v. 1413-1415",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Boucicaut Master Illuminator (French, active about 1390 - 1430) – illuminator (French) Details on Google Art Project",
+   "src": "https://commons.wikimedia.org/wiki/File:Boucicaut_Master_Illuminator_(French,_active_about_1390_-_1430)_-_The_Knights_Templar_Burned_in_the_Presence_of_Philip_the_Fair_and_His_Courtiers_-_Google_Art_Project.jpg",
+   "pour": [
+    "bucher-de-jacques-de-molay"
+   ],
+   "sig": "Boucicaut Master Illuminator (French, active about 1390 - 1430) - The Knights Templar Burned in the Presence of Philip the Fair and His Courtiers - Google Art Project.jpg||560|74"
+  },
+  "devolution-des-biens": {
+   "f": "img/devolution-des-biens.webp",
+   "v": "a439790988",
+   "w": 560,
+   "h": 441,
+   "l": "La bulle *Ad providam* du 2 mai 1312, qui donne les biens du Temple aux Hospitaliers",
+   "cr": "Archives nationales, AE/II/1634",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Archives nationales AE/II/1634 et J417/24",
+   "src": "https://commons.wikimedia.org/wiki/File:Ad_Providam.jpg",
+   "pour": [
+    "devolution-des-biens",
+    "hospitaliers"
+   ],
+   "sig": "Ad Providam.jpg||560|74"
+  },
+  "templiers-et-reconquista": {
+   "f": "img/templiers-et-reconquista.webp",
+   "v": "91b1c95d7b",
+   "w": 560,
+   "h": 317,
+   "l": "Le château de Miravet, sur l'Èbre, assiégé en 1308",
+   "cr": "PMRMaeyaert, 2010",
+   "lic": "CC BY-SA 3.0 es",
+   "li": "CC BY-SA 3.0",
+   "auteur": "PMRMaeyaert",
+   "src": "https://commons.wikimedia.org/wiki/File:Miravet,_castell_PM_45568.jpg",
+   "pour": [
+    "templiers-et-reconquista",
+    "miravet"
+   ],
+   "sig": "Miravet, castell PM 45568.jpg||560|74"
+  },
+  "templiers-et-reconquista-2": {
+   "f": "img/templiers-et-reconquista-2.webp",
+   "v": "970cafacdd",
+   "w": 560,
+   "h": 601,
+   "l": "Le château de Monzón, en Aragon",
+   "cr": "Ecelan, 2006",
+   "lic": "CC BY 2.5",
+   "li": "CC BY 2.5",
+   "auteur": "ecelan ( talk )",
+   "src": "https://commons.wikimedia.org/wiki/File:Monzon_-_Castillo_-_Templo_-_Exterior.jpg",
+   "pour": [
+    "templiers-et-reconquista",
+    "monzon"
+   ],
+   "sig": "Monzon - Castillo - Templo - Exterior.jpg||560|74"
+  },
+  "templiers-et-saint-empire": {
+   "f": "img/templiers-et-saint-empire.webp",
+   "v": "740b7c4b1b",
+   "w": 560,
+   "h": 996,
+   "l": "L'église de village de Tempelhof, à Berlin, sur une ancienne terre du Temple",
+   "cr": "StefanWedrac, 2020",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "StefanWedrac",
+   "src": "https://commons.wikimedia.org/wiki/File:Dorfkirche_Tempelhof_mit_Teich.jpg",
+   "pour": [
+    "templiers-et-saint-empire",
+    "tempelhof"
+   ],
+   "sig": "Dorfkirche Tempelhof mit Teich.jpg||560|74"
+  },
+  "templiers-en-angleterre": {
+   "f": "img/templiers-en-angleterre.webp",
+   "v": "67e4c36b0c",
+   "w": 560,
+   "h": 414,
+   "l": "L'église du Temple, à Londres, consacrée en 1185",
+   "cr": "John Salmon, 2009",
+   "lic": "CC BY-SA 2.0",
+   "li": "CC BY-SA 2.0",
+   "auteur": "John Salmon",
+   "src": "https://commons.wikimedia.org/wiki/File:Temple_Church,_Temple,_London_EC4_(2).jpeg",
+   "pour": [
+    "templiers-en-angleterre",
+    "temple-church-londres"
+   ],
+   "sig": "Temple Church, Temple, London EC4 (2).jpeg||560|74"
+  },
+  "bernard-de-clairvaux": {
+   "f": "img/bernard-de-clairvaux.webp",
+   "v": "1ead929f6a",
+   "w": 560,
+   "h": 754,
+   "l": "Bernard de Clairvaux dans une enluminure des Pays-Bas du Sud",
+   "cr": "enluminure anonyme, XVe siècle, British Library",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown 15th-century illuminator (attributed to: Master of the Trivial Heads)",
+   "src": "https://commons.wikimedia.org/wiki/File:K105354-Bernard_of_Clairvaux_(British_Library).jpg",
+   "pour": [
+    "bernard-de-clairvaux",
+    "de-laude-novae-militiae"
+   ],
+   "sig": "K105354-Bernard of Clairvaux (British Library).jpg||560|74"
+  },
+  "hugues-de-champagne": {
+   "f": "img/hugues-de-champagne.webp",
+   "v": "d9fc56fefa",
+   "w": 560,
+   "h": 1129,
+   "l": "Une charte du comte Hugues de Champagne pour l'abbaye Saint-Loup de Troyes",
+   "cr": "charte, fin du XIe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Charte de la fin du XIe siècle.",
+   "src": "https://commons.wikimedia.org/wiki/File:Charte_Hugues_de_Champagne.jpg",
+   "pour": [
+    "hugues-de-champagne"
+   ],
+   "sig": "Charte Hugues de Champagne.jpg||560|74"
+  },
+  "baudouin-ii-de-jerusalem": {
+   "f": "img/baudouin-ii-de-jerusalem.webp",
+   "v": "2dd76e034d",
+   "w": 560,
+   "h": 475,
+   "l": "Baudouin II, sur son lit de mort, confirme les droits de Foulques et de Mélisende",
+   "cr": "enluminure anonyme, XIIIe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown 13th-century artist from Acre",
+   "src": "https://commons.wikimedia.org/wiki/File:Baldwin_II,_Fulk,_and_Melisende.jpg",
+   "pour": [
+    "baudouin-ii-de-jerusalem",
+    "foulques-d-anjou"
+   ],
+   "sig": "Baldwin II, Fulk, and Melisende.jpg||560|74"
+  },
+  "foulques-d-anjou": {
+   "f": "img/foulques-d-anjou.webp",
+   "v": "0e46bfe805",
+   "w": 560,
+   "h": 494,
+   "l": "Le couronnement de Foulques, roi de Jérusalem (BnF, fr. 2824)",
+   "cr": "enluminure anonyme",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Anonymous Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Couronnement_de_Foulque_de_J%C3%A9rusalem_-_Fran%C3%A7ais_2824.jpg",
+   "pour": [
+    "foulques-d-anjou"
+   ],
+   "sig": "Couronnement de Foulque de Jérusalem - Français 2824.jpg||560|74"
+  },
+  "baudouin-iv-de-jerusalem": {
+   "f": "img/baudouin-iv-de-jerusalem.webp",
+   "v": "87e690e788",
+   "w": 560,
+   "h": 506,
+   "l": "Le sceau de Baudouin IV, roi de Jérusalem",
+   "cr": "sceau royal, 1174-1185",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Seal_of_Baldwin_IV.png",
+   "pour": [
+    "baudouin-iv-de-jerusalem"
+   ],
+   "sig": "Seal of Baldwin IV.png||560|74"
+  },
+  "guy-de-lusignan": {
+   "f": "img/guy-de-lusignan.webp",
+   "v": "3349bb12e1",
+   "w": 560,
+   "h": 474,
+   "l": "Le couronnement de Guy de Lusignan (BnF, fr. 2629)",
+   "cr": "Maître de l'Échevinage de Rouen, XVe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Maître de l'Échevinage",
+   "src": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ais_2629,_fol._300,_Couronnement_de_Gui_de_Lusignan.jpeg",
+   "pour": [
+    "guy-de-lusignan"
+   ],
+   "sig": "Français 2629, fol. 300, Couronnement de Gui de Lusignan.jpeg||560|74"
+  },
+  "renaud-de-chatillon": {
+   "f": "img/renaud-de-chatillon.webp",
+   "v": "bef18fa35b",
+   "w": 560,
+   "h": 391,
+   "l": "Renaud de Châtillon prisonnier, dans une miniature de 1337",
+   "cr": "Maître du Roman de Fauvel, 1337",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Maître du Roman de Fauvel",
+   "src": "https://commons.wikimedia.org/wiki/File:Rnaud_prissonier.jpg",
+   "pour": [
+    "renaud-de-chatillon"
+   ],
+   "sig": "Rnaud prissonier.jpg||560|74"
+  },
+  "saladin": {
+   "f": "img/saladin.webp",
+   "v": "44a55107b5",
+   "w": 560,
+   "h": 442,
+   "l": "La statue équestre de Saladin devant la citadelle de Damas",
+   "cr": "Graham van der Wielen, 2008",
+   "lic": "CC BY 2.0",
+   "li": "CC BY 2.0",
+   "auteur": "Graham van der Wielen",
+   "src": "https://commons.wikimedia.org/wiki/File:Statue_of_Saladin_Damascus.jpg",
+   "pour": [
+    "saladin"
+   ],
+   "sig": "Statue of Saladin Damascus.jpg||560|74"
+  },
+  "richard-coeur-de-lion": {
+   "f": "img/richard-coeur-de-lion.webp",
+   "v": "47fb6ae525",
+   "w": 560,
+   "h": 315,
+   "l": "Le gisant de Richard Cœur de Lion à l'abbaye de Fontevraud",
+   "cr": "Adam Bishop, 2011",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Adam Bishop",
+   "src": "https://commons.wikimedia.org/wiki/File:Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
+   "pour": [
+    "richard-coeur-de-lion"
+   ],
+   "sig": "Church of Fontevraud Abbey Richard I effigy.jpg||560|74"
+  },
+  "frederic-ii": {
+   "f": "img/frederic-ii.webp",
+   "v": "e461164a30",
+   "w": 560,
+   "h": 772,
+   "l": "Frédéric II et son faucon, dans son traité *De arte venandi cum avibus*",
+   "cr": "manuscrit du XIIIe siècle, Bibliothèque vaticane",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Frederick_II_and_eagle.jpg",
+   "pour": [
+    "frederic-ii"
+   ],
+   "sig": "Frederick II and eagle.jpg||560|74"
+  },
+  "baybars": {
+   "f": "img/baybars.webp",
+   "v": "cf3d8e6e6a",
+   "w": 449,
+   "h": 384,
+   "l": "Une monnaie de Baybars frappée à Alexandrie (Fitzwilliam Museum)",
+   "cr": "SpeakingArch, 2026",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "SpeakingArch",
+   "src": "https://commons.wikimedia.org/wiki/File:Sultan_Al-Zahir_Rukn_al_din_Baybars,_Minted_at_Alexandria,_1260-1277_CE,_Fitzwilliam_Museum.jpg",
+   "pour": [
+    "baybars"
+   ],
+   "sig": "Sultan Al-Zahir Rukn al din Baybars, Minted at Alexandria, 1260-1277 CE, Fitzwilliam Museum.jpg||560|74"
+  },
+  "philippe-le-bel-2": {
+   "f": "img/philippe-le-bel-2.webp",
+   "v": "2787585ff7",
+   "w": 560,
+   "h": 373,
+   "l": "Philippe le Bel entouré de sa famille, enluminure du début du XIVe siècle",
+   "cr": "enluminure anonyme, v. 1313",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Michaelsanders at English Wikipedia",
+   "src": "https://commons.wikimedia.org/wiki/File:Philip_iv_and_family.jpg",
+   "pour": [
+    "philippe-le-bel"
+   ],
+   "sig": "Philip iv and family.jpg||560|74"
+  },
+  "clement-v": {
+   "f": "img/clement-v.webp",
+   "v": "a68d7db726",
+   "w": 560,
+   "h": 544,
+   "l": "Clément V reçoit le rapport de l'Arménien Hayton sur les Mongols, en 1307",
+   "cr": "Maître du Couronnement de Charles VI, v. 1400",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Maître du Couronnement de la Vierge",
+   "src": "https://commons.wikimedia.org/wiki/File:Hayton_of_Corycus_before_Pope_Clement_V.jpg",
+   "pour": [
+    "clement-v"
+   ],
+   "sig": "Hayton of Corycus before Pope Clement V.jpg||560|74"
+  },
+  "guillaume-de-nogaret": {
+   "f": "img/guillaume-de-nogaret.webp",
+   "v": "51950d3740",
+   "w": 560,
+   "h": 353,
+   "l": "Une lettre autographe de Guillaume de Nogaret, mars 1303",
+   "cr": "Archives nationales, AE/II/1713",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Lettre_autographe_de_Guillaume_de_Nogaret_%C3%A0_Etienne_de_Suisy_1_-_Archives_Nationales_-_AE-II-1713.jpg",
+   "pour": [
+    "guillaume-de-nogaret"
+   ],
+   "sig": "Lettre autographe de Guillaume de Nogaret à Etienne de Suisy 1 - Archives Nationales - AE-II-1713.jpg||560|74"
+  },
+  "guillaume-de-nogaret-2": {
+   "f": "img/guillaume-de-nogaret-2.webp",
+   "v": "cc02b6522f",
+   "w": 512,
+   "h": 340,
+   "l": "L'attentat d'Anagni (1303) : Nogaret retient Sciarra Colonna, gravure du XIXe siècle",
+   "cr": "gravure anonyme, XIXe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown Unknown , French School",
+   "src": "https://commons.wikimedia.org/wiki/File:BonifaciusVIII-Sciarra-Nogaret.jpg",
+   "pour": [
+    "guillaume-de-nogaret"
+   ],
+   "sig": "BonifaciusVIII-Sciarra-Nogaret.jpg||560|74"
+  },
+  "enguerrand-de-marigny": {
+   "f": "img/enguerrand-de-marigny.webp",
+   "v": "101a35323c",
+   "w": 560,
+   "h": 809,
+   "l": "La pendaison d'Enguerrand de Marigny à Montfaucon, en 1315, vue au XIXe siècle",
+   "cr": "Alphonse de Neuville, 1883",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Alphonse de Neuville",
+   "src": "https://commons.wikimedia.org/wiki/File:ExecutionMarigny.jpg",
+   "pour": [
+    "enguerrand-de-marigny"
+   ],
+   "sig": "ExecutionMarigny.jpg||560|74"
+  },
+  "roger-de-flor": {
+   "f": "img/roger-de-flor.webp",
+   "v": "189a1e6f7b",
+   "w": 560,
+   "h": 375,
+   "l": "L'entrée de Roger de Flor à Constantinople, peinte en 1888",
+   "cr": "José Moreno Carbonero, 1888",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "José Moreno Carbonero",
+   "src": "https://commons.wikimedia.org/wiki/File:Entrada_de_Roger_de_Flor_en_Constantinopla_(Palacio_del_Senado_de_Espa%C3%B1a).jpg",
+   "pour": [
+    "roger-de-flor"
+   ],
+   "sig": "Entrada de Roger de Flor en Constantinopla (Palacio del Senado de España).jpg||560|74"
+  },
+  "jacques-ii-d-aragon": {
+   "f": "img/jacques-ii-d-aragon.webp",
+   "v": "f53306695d",
+   "w": 560,
+   "h": 790,
+   "l": "Des envoyés siciliens devant Jacques II d'Aragon, tableau du XIXe siècle",
+   "cr": "Josep Serra i Porsón, v. 1872",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Josep Serra i Porsón",
+   "src": "https://commons.wikimedia.org/wiki/File:Envoys_from_Sicily_in_front_of_James_II_of_Aragon,_1294.png",
+   "pour": [
+    "jacques-ii-d-aragon"
+   ],
+   "sig": "Envoys from Sicily in front of James II of Aragon, 1294.png||560|74"
+  },
+  "denis-ier-de-portugal": {
+   "f": "img/denis-ier-de-portugal.webp",
+   "v": "aea91956c1",
+   "w": 560,
+   "h": 420,
+   "l": "Le tombeau de Denis Ier de Portugal au monastère d'Odivelas",
+   "cr": "GualdimG, 2023",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "GualdimG",
+   "src": "https://commons.wikimedia.org/wiki/File:T%C3%BAmulo_de_D._Dinis,_Mosteiro_de_Odivelas_03.jpg",
+   "pour": [
+    "denis-ier-de-portugal",
+    "ordre-du-christ"
+   ],
+   "sig": "Túmulo de D. Dinis, Mosteiro de Odivelas 03.jpg||560|74"
+  },
+  "edouard-ii": {
+   "f": "img/edouard-ii.webp",
+   "v": "243794b9dc",
+   "w": 560,
+   "h": 420,
+   "l": "Le tombeau d'Édouard II, cathédrale de Gloucester",
+   "cr": "Poliphilo, 2020",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Poliphilo",
+   "src": "https://commons.wikimedia.org/wiki/File:Tomb_of_Edward_II,_Gloucester_Cathedral_01.jpg",
+   "pour": [
+    "edouard-ii"
+   ],
+   "sig": "Tomb of Edward II, Gloucester Cathedral 01.jpg||560|74"
+  },
+  "tomar-2": {
+   "f": "img/tomar-2.webp",
+   "v": "d20868a93f",
+   "w": 560,
+   "h": 420,
+   "l": "Le château de Tomar, élevé à partir de 1160 par Gualdim Pais",
+   "cr": "Sanrafae, 2021",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Sanrafae",
+   "src": "https://commons.wikimedia.org/wiki/File:Castelo_de_Tomar_1.jpg",
+   "pour": [
+    "tomar"
+   ],
+   "sig": "Castelo de Tomar 1.jpg||560|74"
+  },
+  "templiers-au-portugal": {
+   "f": "img/templiers-au-portugal.webp",
+   "v": "1318338df9",
+   "w": 560,
+   "h": 736,
+   "l": "Gualdim Pais, maître du Temple au Portugal, tel que l'imagine un illustrateur de 1899",
+   "cr": "Alfredo Roque Gameiro, 1899",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Roque Gameiro",
+   "src": "https://commons.wikimedia.org/wiki/File:D._Gualdim_Pais,_Mestre_dos_Templ%C3%A1rios_-_Hist%C3%B3ria_de_Portugal,_popular_e_ilustrada.png",
+   "pour": [
+    "templiers-au-portugal"
+   ],
+   "sig": "D. Gualdim Pais, Mestre dos Templários - História de Portugal, popular e ilustrada.png||560|74"
+  },
+  "almourol": {
+   "f": "img/almourol.webp",
+   "v": "45b16cc9d5",
+   "w": 560,
+   "h": 420,
+   "l": "Le château d'Almourol, sur un îlot du Tage",
+   "cr": "Marta Magalhães, 2012",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Marta Magalhães",
+   "src": "https://commons.wikimedia.org/wiki/File:Castelo_de_Almourol_-_1.jpg",
+   "pour": [
+    "almourol"
+   ],
+   "sig": "Castelo de Almourol - 1.jpg||560|74"
+  },
+  "miravet": {
+   "f": "img/miravet.webp",
+   "v": "6a4727268d",
+   "w": 560,
+   "h": 420,
+   "l": "Le mur nord du château de Miravet",
+   "cr": "Enfo, 2014",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Enfo",
+   "src": "https://commons.wikimedia.org/wiki/File:022_Castell_de_Miravet,_muralla_nord.JPG",
+   "pour": [
+    "miravet"
+   ],
+   "sig": "022 Castell de Miravet, muralla nord.JPG||560|74"
+  },
+  "peniscola": {
+   "f": "img/peniscola.webp",
+   "v": "e347779048",
+   "w": 560,
+   "h": 420,
+   "l": "Le château de Peñíscola vu de la mer",
+   "cr": "Millars, 2006",
+   "lic": "CC BY-SA 3.0 es",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Millars",
+   "src": "https://commons.wikimedia.org/wiki/File:Castillo_de_Pe%C3%B1%C3%ADscola_desde_el_mar.jpg",
+   "pour": [
+    "peniscola"
+   ],
+   "sig": "Castillo de Peñíscola desde el mar.jpg||560|74"
+  },
+  "ponferrada": {
+   "f": "img/ponferrada.webp",
+   "v": "e38ac23f6f",
+   "w": 560,
+   "h": 373,
+   "l": "Le château des Templiers de Ponferrada, sur le chemin de Compostelle",
+   "cr": "Antonio Moreno Nadal, 2021",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Antonio Moreno Nadal",
+   "src": "https://commons.wikimedia.org/wiki/File:Castillo-templarios-ponferrada.jpg",
+   "pour": [
+    "ponferrada"
+   ],
+   "sig": "Castillo-templarios-ponferrada.jpg||560|74"
+  },
+  "segovie-vera-cruz": {
+   "f": "img/segovie-vera-cruz.webp",
+   "v": "a9195be78a",
+   "w": 560,
+   "h": 560,
+   "l": "L'église de la Vera Cruz, à Ségovie",
+   "cr": "Carlos Delgado, 2012",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Carlos Delgado",
+   "src": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Vera_Cruz_-_01.jpg",
+   "pour": [
+    "segovie-vera-cruz"
+   ],
+   "sig": "Iglesia de la Vera Cruz - 01.jpg||560|74"
+  },
+  "temple-church-londres": {
+   "f": "img/temple-church-londres.webp",
+   "v": "b3eb693555",
+   "w": 560,
+   "h": 747,
+   "l": "La nef ronde de l'église du Temple de Londres",
+   "cr": "Marathon, 2025",
+   "lic": "CC BY-SA 2.0",
+   "li": "CC BY-SA 2.0",
+   "auteur": "Marathon",
+   "src": "https://commons.wikimedia.org/wiki/File:The_round_nave_of_the_Temple_Church_-_geograph.org.uk_-_8094507.jpg",
+   "pour": [
+    "temple-church-londres"
+   ],
+   "sig": "The round nave of the Temple Church - geograph.org.uk - 8094507.jpg||560|74"
+  },
+  "cressing-temple": {
+   "f": "img/cressing-temple.webp",
+   "v": "7ef38a54ca",
+   "w": 560,
+   "h": 420,
+   "l": "La grange à orge de Cressing Temple, en Essex",
+   "cr": "Michael Coppins, 2019",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Michael Coppins",
+   "src": "https://commons.wikimedia.org/wiki/File:Cressing_Temple,_Barley_Barn.jpg",
+   "pour": [
+    "cressing-temple"
+   ],
+   "sig": "Cressing Temple, Barley Barn.jpg||560|74"
+  },
+  "garway": {
+   "f": "img/garway.webp",
+   "v": "1b51a85169",
+   "w": 560,
+   "h": 343,
+   "l": "L'église Saint-Michel de Garway, dans le Herefordshire",
+   "cr": "Michael Garlick, 2015",
+   "lic": "CC BY-SA 2.0",
+   "li": "CC BY-SA 2.0",
+   "auteur": "Michael Garlick",
+   "src": "https://commons.wikimedia.org/wiki/File:Garway,_St._Michael%27s_Church_-_geograph.org.uk_-_4621911.jpg",
+   "pour": [
+    "garway"
+   ],
+   "sig": "Garway, St. Michael's Church - geograph.org.uk - 4621911.jpg||560|74"
+  },
+  "san-bevignate": {
+   "f": "img/san-bevignate.webp",
+   "v": "cb621c2e41",
+   "w": 560,
+   "h": 361,
+   "l": "L'église San Bevignate, à Pérouse",
+   "cr": "photographie reproduite avec l'accord de la commune de Pérouse, 2002",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "su concessione Comune di Perugia",
+   "src": "https://commons.wikimedia.org/wiki/File:Complesso_templare_di_San_Bevignate.jpg",
+   "pour": [
+    "san-bevignate"
+   ],
+   "sig": "Complesso templare di San Bevignate.jpg||560|74"
+  },
+  "chwarszczany": {
+   "f": "img/chwarszczany.webp",
+   "v": "4e9a4d8ac9",
+   "w": 560,
+   "h": 420,
+   "l": "La chapelle des Templiers de Chwarszczany, en Poméranie occidentale",
+   "cr": "MOs810, 2017",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "MOs810",
+   "src": "https://commons.wikimedia.org/wiki/File:Saint_Stanislaus_Kostka_church_in_Chwarszczany_(3).jpg",
+   "pour": [
+    "chwarszczany"
+   ],
+   "sig": "Saint Stanislaus Kostka church in Chwarszczany (3).jpg||560|74"
+  },
+  "templstejn": {
+   "f": "img/templstejn.webp",
+   "v": "0a7e1a25f7",
+   "w": 560,
+   "h": 420,
+   "l": "Les ruines du château de Templštejn, en Moravie",
+   "cr": "Palickap, 2020",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Palickap",
+   "src": "https://commons.wikimedia.org/wiki/File:Templ%C5%A1tejn_(2).jpg",
+   "pour": [
+    "templstejn"
+   ],
+   "sig": "Templštejn (2).jpg||560|74"
+  },
+  "guillaume-de-tyr": {
+   "f": "img/guillaume-de-tyr.webp",
+   "v": "e7ac9241bc",
+   "w": 512,
+   "h": 541,
+   "l": "L'assemblée d'Acre de 1148, dans un manuscrit de la traduction française de Guillaume de Tyr (BnF, fr. 68)",
+   "cr": "enluminure, XVe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "fifteenth-century manuscript illuminator",
+   "src": "https://commons.wikimedia.org/wiki/File:BNF,_Mss_fr_68,_folio_251v.jpg",
+   "pour": [
+    "guillaume-de-tyr"
+   ],
+   "sig": "BNF, Mss fr 68, folio 251v.jpg||560|74"
+  },
+  "jacques-de-vitry": {
+   "f": "img/jacques-de-vitry.webp",
+   "v": "839d7bae7f",
+   "w": 509,
+   "h": 247,
+   "l": "Le sceau de Jacques de Vitry, évêque d'Acre",
+   "cr": "dessin publié par T. A. Archer et C. L. Kingsford, 1894",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Thomas Andrew Archer, Charles Lethbridge Kingsford",
+   "src": "https://commons.wikimedia.org/wiki/File:Seal_of_James_of_Vitry.jpg",
+   "pour": [
+    "jacques-de-vitry"
+   ],
+   "sig": "Seal of James of Vitry.jpg||560|74"
+  },
+  "jacques-de-vitry-2": {
+   "f": "img/jacques-de-vitry-2.webp",
+   "v": "0b1962635a",
+   "w": 560,
+   "h": 757,
+   "l": "La première page des *Sermones vulgares* de Jacques de Vitry (Houghton Library)",
+   "cr": "manuscrit du XIIIe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Jacques de Vitry (author)",
+   "src": "https://commons.wikimedia.org/wiki/File:Houghton_MS_Riant_35_-_de_Vitry_page_1.jpg",
+   "pour": [
+    "jacques-de-vitry"
+   ],
+   "sig": "Houghton MS Riant 35 - de Vitry page 1.jpg||560|74"
+  },
+  "matthieu-paris": {
+   "f": "img/matthieu-paris.webp",
+   "v": "466367ae48",
+   "w": 560,
+   "h": 356,
+   "l": "Matthieu Paris se représente lui-même dans un de ses manuscrits (British Library, Royal 14 C VII)",
+   "cr": "Matthieu Paris, v. 1250",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Matthew Paris (c.1200-1259). Photograph by the British Library.",
+   "src": "https://commons.wikimedia.org/wiki/File:BritLibRoyal14CVIIFol006rMattParisSelfPort.jpg",
+   "pour": [
+    "matthieu-paris"
+   ],
+   "sig": "BritLibRoyal14CVIIFol006rMattParisSelfPort.jpg||560|74"
+  },
+  "usama-ibn-munqidh": {
+   "f": "img/usama-ibn-munqidh.webp",
+   "v": "6bcd30223d",
+   "w": 560,
+   "h": 420,
+   "l": "Le château de Chayzar, en Syrie, berceau de la famille d'Usama",
+   "cr": "LorisRomito, 2007",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "The original uploader was LorisRomito at Italian Wikipedia .",
+   "src": "https://commons.wikimedia.org/wiki/File:Shayzar3.jpg",
+   "pour": [
+    "usama-ibn-munqidh"
+   ],
+   "sig": "Shayzar3.jpg||560|74"
+  },
+  "jean-de-joinville": {
+   "f": "img/jean-de-joinville.webp",
+   "v": "bba319c6ea",
+   "w": 560,
+   "h": 818,
+   "l": "Jean de Joinville présente sa *Vie de saint Louis* au roi Louis X",
+   "cr": "Mahiet, 1330-1340",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Mahiet (illustrator)",
+   "src": "https://commons.wikimedia.org/wiki/File:Jean_de_Joinville_pr%C3%A9sente_sa_Vie_de_Saint_Louis_au_roi_Louis_X_le_Hutin.jpg",
+   "pour": [
+    "jean-de-joinville"
+   ],
+   "sig": "Jean de Joinville présente sa Vie de Saint Louis au roi Louis X le Hutin.jpg||560|74"
+  },
+  "actes-du-proces": {
+   "f": "img/actes-du-proces.webp",
+   "v": "f0cfd5ba87",
+   "w": 560,
+   "h": 543,
+   "l": "L'exécution des Templiers, enluminure du XVe siècle (BnF, fr. 236)",
+   "cr": "enluminure anonyme, XVe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Ex%C3%A9cution_des_Templiers_-_Fran%C3%A7ais_236.jpg",
+   "pour": [
+    "actes-du-proces"
+   ],
+   "sig": "Exécution des Templiers - Français 236.jpg||560|74"
+  },
+  "historiographie-des-templiers": {
+   "f": "img/historiographie-des-templiers.webp",
+   "v": "7ebac0f01c",
+   "w": 560,
+   "h": 749,
+   "l": "François Raynouard, qui défendit l'innocence des Templiers en 1813",
+   "cr": "gravure de Bonvoisin et Couché",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Bonvoisin/Couché",
+   "src": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Just_Marie_Raynouard.jpg",
+   "pour": [
+    "historiographie-des-templiers"
+   ],
+   "sig": "François Just Marie Raynouard.jpg||560|74"
+  },
+  "historiographie-des-templiers-2": {
+   "f": "img/historiographie-des-templiers-2.webp",
+   "v": "a55a922867",
+   "w": 560,
+   "h": 789,
+   "l": "Jules Michelet, éditeur des actes du procès, peint par Thomas Couture",
+   "cr": "Thomas Couture, v. 1865",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Thomas Couture",
+   "src": "https://commons.wikimedia.org/wiki/File:Jules_Michelet_par_Thomas_Couture.jpg",
+   "pour": [
+    "historiographie-des-templiers"
+   ],
+   "sig": "Jules Michelet par Thomas Couture.jpg||560|74"
+  },
+  "temple-en-champagne": {
+   "f": "img/temple-en-champagne.webp",
+   "v": "97a70cd220",
+   "w": 560,
+   "h": 481,
+   "l": "Plan de la ferme de Cerre, dans l'Aube, bien du Temple puis de l'Hôpital, d'après un arpentage ancien",
+   "cr": "Archives départementales de l'Aube, 31 H 16ter",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Arpentage général des biens de la commanderie de Troyes du XVIIIe siècle",
+   "src": "https://commons.wikimedia.org/wiki/File:Plan_de_la_Ferme_de_Cerre_(Arch_D%C3%A9p_Aube_31_H_16ter).png",
+   "pour": [
+    "temple-en-champagne"
+   ],
+   "sig": "Plan de la Ferme de Cerre (Arch Dép Aube 31 H 16ter).png||560|74"
+  },
+  "payns": {
+   "f": "img/payns.webp",
+   "v": "e0a8eb9d85",
+   "w": 560,
+   "h": 463,
+   "l": "La cuve baptismale de l'église de Payns, dessinée en 1884",
+   "cr": "Charles Fichot, 1884",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "CCHarles Fichot. pour lel versement et les modifications ː G.Garitan",
+   "src": "https://commons.wikimedia.org/wiki/File:Payns_cuve_baptismale_Stat_monum_Aube_00684.JPG",
+   "pour": [
+    "payns"
+   ],
+   "sig": "Payns cuve baptismale Stat monum Aube 00684.JPG||560|74"
+  },
+  "troyes": {
+   "f": "img/troyes.webp",
+   "v": "a569f25e91",
+   "w": 560,
+   "h": 439,
+   "l": "L'hôtel du Commandeur, à Troyes",
+   "cr": "Pline, 2012",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Pline",
+   "src": "https://commons.wikimedia.org/wiki/File:Hotel-du-Commandeur-a-Troyes_DSC_373.jpg",
+   "pour": [
+    "troyes"
+   ],
+   "sig": "Hotel-du-Commandeur-a-Troyes DSC 373.jpg||560|74"
+  },
+  "clairvaux": {
+   "f": "img/clairvaux.webp",
+   "v": "5865a1d6a8",
+   "w": 560,
+   "h": 287,
+   "l": "L'abbaye de Clairvaux, gravure ancienne",
+   "cr": "Israël Silvestre",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Israel Silvestre",
+   "src": "https://commons.wikimedia.org/wiki/File:Abbaye_de_Clairvaux_gravure_XVIIIe.jpg",
+   "pour": [
+    "clairvaux"
+   ],
+   "sig": "Abbaye de Clairvaux gravure XVIIIe.jpg||560|74"
+  },
+  "foret-d-orient": {
+   "f": "img/foret-d-orient.webp",
+   "v": "3403b6efae",
+   "w": 560,
+   "h": 127,
+   "l": "Le lac du Temple, dans la forêt d'Orient",
+   "cr": "Titoine08, 2009",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Titoine08",
+   "src": "https://commons.wikimedia.org/wiki/File:Lac_du_temple_(Aube).jpg",
+   "pour": [
+    "foret-d-orient"
+   ],
+   "sig": "Lac du temple (Aube).jpg||560|74"
+  },
+  "avalleur": {
+   "f": "img/avalleur.webp",
+   "v": "a5d6c03db8",
+   "w": 560,
+   "h": 543,
+   "l": "La commanderie d'Avalleur, dessinée en 1837",
+   "cr": "Charles Fichot, 1837",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Charles Fichot",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_d%27Avalleur_07608.jpg",
+   "pour": [
+    "avalleur"
+   ],
+   "sig": "Commanderie d'Avalleur 07608.jpg||560|74"
+  },
+  "coulours": {
+   "f": "img/coulours.webp",
+   "v": "027ad26152",
+   "w": 560,
+   "h": 316,
+   "l": "La commanderie de Coulours, dans le pays d'Othe",
+   "cr": "Robin Chubret, 2018",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Robin Chubret",
+   "src": "https://commons.wikimedia.org/wiki/File:Coulours,_commanderie_01.jpg",
+   "pour": [
+    "coulours"
+   ],
+   "sig": "Coulours, commanderie 01.jpg||560|74"
+  },
+  "enclos-du-temple": {
+   "f": "img/enclos-du-temple.webp",
+   "v": "4f42d4df07",
+   "w": 560,
+   "h": 383,
+   "l": "L'enclos du Temple en 1734, d'après le plan dit de Turgot",
+   "cr": "Théodor Hoffbauer, 1882",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Hoffbauer, Théodor-Joseph-Hubert nach Brezet",
+   "src": "https://commons.wikimedia.org/wiki/File:Hoffbauer-Brezet-Temple1734.jpg",
+   "pour": [
+    "enclos-du-temple"
+   ],
+   "sig": "Hoffbauer-Brezet-Temple1734.jpg||560|74"
+  },
+  "ile-aux-juifs": {
+   "f": "img/ile-aux-juifs.webp",
+   "v": "35384f6d1d",
+   "w": 560,
+   "h": 420,
+   "l": "Le square du Vert-Galant, à la pointe de l'île de la Cité, là où se trouvait l'île aux Juifs",
+   "cr": "DiscoA340, 2022",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "DiscoA340",
+   "src": "https://commons.wikimedia.org/wiki/File:Square_du_Vert-Galant_seen_from_the_Seine.jpg",
+   "pour": [
+    "ile-aux-juifs"
+   ],
+   "sig": "Square du Vert-Galant seen from the Seine.jpg||560|74"
+  },
+  "la-villedieu-elancourt": {
+   "f": "img/la-villedieu-elancourt.webp",
+   "v": "c0ef67251d",
+   "w": 560,
+   "h": 372,
+   "l": "La chapelle de la commanderie de la Villedieu, à Élancourt, après sa restauration",
+   "cr": "Fitamant, 2013",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Fitamant",
+   "src": "https://commons.wikimedia.org/wiki/File:Chapelle_de_la_Commanderie_de_la_Villedieu_%C3%A0_%C3%89lancourt_-_2013.JPG",
+   "pour": [
+    "la-villedieu-elancourt"
+   ],
+   "sig": "Chapelle de la Commanderie de la Villedieu à Élancourt - 2013.JPG||560|74"
+  },
+  "coulommiers": {
+   "f": "img/coulommiers.webp",
+   "v": "8c9f9a0002",
+   "w": 560,
+   "h": 373,
+   "l": "La salle capitulaire de la commanderie de Coulommiers",
+   "cr": "Pierre Poschadel, 2022",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Pierre Poschadel",
+   "src": "https://commons.wikimedia.org/wiki/File:Coulommiers_(77),_commanderie_de_Coulommiers,_salle_capitulaire,_vue_depuis_le_sud-est.jpg",
+   "pour": [
+    "coulommiers"
+   ],
+   "sig": "Coulommiers (77), commanderie de Coulommiers, salle capitulaire, vue depuis le sud-est.jpg||560|74"
+  },
+  "chevru": {
+   "f": "img/chevru.webp",
+   "v": "a2a09f31c8",
+   "w": 560,
+   "h": 373,
+   "l": "La chapelle de la commanderie de Chevru",
+   "cr": "Anthony Rauchen, 2016",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Anthony Rauchen",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_de_Chevru.jpg",
+   "pour": [
+    "chevru"
+   ],
+   "sig": "Commanderie de Chevru.jpg||560|74"
+  },
+  "mont-de-soissons": {
+   "f": "img/mont-de-soissons.webp",
+   "v": "085425dd93",
+   "w": 560,
+   "h": 374,
+   "l": "La commanderie du Mont-de-Soissons, à Serches",
+   "cr": "Pascal3012, 2014",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Pascal3012",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_serches_(3).JPG",
+   "pour": [
+    "mont-de-soissons"
+   ],
+   "sig": "Commanderie serches (3).JPG||560|74"
+  },
+  "neuilly-sous-clermont": {
+   "f": "img/neuilly-sous-clermont.webp",
+   "v": "ca540dee20",
+   "w": 560,
+   "h": 420,
+   "l": "La commanderie de Neuilly-sous-Clermont",
+   "cr": "Benjism89, 2009",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Benjism89",
+   "src": "https://commons.wikimedia.org/wiki/File:Neuilly-sous-Clermont_-_Commanderie_-_1.JPG",
+   "pour": [
+    "neuilly-sous-clermont"
+   ],
+   "sig": "Neuilly-sous-Clermont - Commanderie - 1.JPG||560|74"
+  },
+  "sours": {
+   "f": "img/sours.webp",
+   "v": "31bd83b68d",
+   "w": 560,
+   "h": 420,
+   "l": "La commanderie de Sours",
+   "cr": "Fitamant, 2015",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Fitamant",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_de_Sours.JPG",
+   "pour": [
+    "sours"
+   ],
+   "sig": "Commanderie de Sours.JPG||560|74"
+  },
+  "arville": {
+   "f": "img/arville.webp",
+   "v": "c2d23e86ef",
+   "w": 560,
+   "h": 375,
+   "l": "Le colombier de la commanderie d'Arville",
+   "cr": "Selbymay, 2012",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Selbymay",
+   "src": "https://commons.wikimedia.org/wiki/File:Arville_-_Commanderie_06.jpg",
+   "pour": [
+    "arville"
+   ],
+   "sig": "Arville - Commanderie 06.jpg||560|74"
+  },
+  "gisors": {
+   "f": "img/gisors.webp",
+   "v": "e5bdcc76d0",
+   "w": 560,
+   "h": 420,
+   "l": "Graffiti de la tour du Prisonnier, à Gisors, attribués sans preuve aux Templiers détenus",
+   "cr": "FHd, 2026",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "FHd",
+   "src": "https://commons.wikimedia.org/wiki/File:Gisors_-_Tour_du_Prisonnier_-_Graffiti_Templiers.jpg",
+   "pour": [
+    "gisors",
+    "graffiti-de-domme-et-chinon"
+   ],
+   "sig": "Gisors - Tour du Prisonnier - Graffiti Templiers.jpg||560|74"
+  },
+  "sainte-vaubourg": {
+   "f": "img/sainte-vaubourg.webp",
+   "v": "6312b4896f",
+   "w": 560,
+   "h": 315,
+   "l": "La grange de la commanderie de Sainte-Vaubourg",
+   "cr": "MAILLARDJL, 2018",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "MAILLARDJL",
+   "src": "https://commons.wikimedia.org/wiki/File:Grange_d%C3%AEmi%C3%A8re_de_la_commanderie_de_Sainte-Vaubourg_01.jpg",
+   "pour": [
+    "sainte-vaubourg"
+   ],
+   "sig": "Grange dîmière de la commanderie de Sainte-Vaubourg 01.jpg||560|74"
+  },
+  "temple-en-lorraine": {
+   "f": "img/temple-en-lorraine.webp",
+   "v": "a71e3b26bc",
+   "w": 560,
+   "h": 842,
+   "l": "Les restes de la chapelle des Templiers de Gelucourt, en Moselle",
+   "cr": "Marc Baronnet, 2014",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Marc Baronnet",
+   "src": "https://commons.wikimedia.org/wiki/File:Gelucourt_remains_of_the_Knights_Templar%27s_chapel.JPG",
+   "pour": [
+    "temple-en-lorraine"
+   ],
+   "sig": "Gelucourt remains of the Knights Templar's chapel.JPG||560|74"
+  },
+  "libdeau": {
+   "f": "img/libdeau.webp",
+   "v": "1bae049c3b",
+   "w": 560,
+   "h": 373,
+   "l": "La façade de la chapelle templière de Libdeau, à Toul",
+   "cr": "PIPERPA12, 2010",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "PIPERPA12",
+   "src": "https://commons.wikimedia.org/wiki/File:Chapelle_de_la_commanderie_templi%C3%A8re_de_Libdeau_%C3%A0_Toul.jpg",
+   "pour": [
+    "libdeau"
+   ],
+   "sig": "Chapelle de la commanderie templière de Libdeau à Toul.jpg||560|74"
+  },
+  "xugney": {
+   "f": "img/xugney.webp",
+   "v": "3e51942f51",
+   "w": 560,
+   "h": 376,
+   "l": "La chapelle Saint-Jean-Baptiste de Xugney",
+   "cr": "Rauenstein, 2014",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Rauenstein",
+   "src": "https://commons.wikimedia.org/wiki/File:Xugney,_Chapelle_Saint-Jean-Baptiste_1.jpg",
+   "pour": [
+    "xugney"
+   ],
+   "sig": "Xugney, Chapelle Saint-Jean-Baptiste 1.jpg||560|74"
+  },
+  "xugney-2": {
+   "f": "img/xugney-2.webp",
+   "v": "965ec530c1",
+   "w": 560,
+   "h": 928,
+   "l": "Plan de la chapelle de Xugney, publié en 1913",
+   "cr": "Durand, 1913",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "DURAND",
+   "src": "https://commons.wikimedia.org/wiki/File:Chapelle_de_Xugney.jpg",
+   "pour": [
+    "xugney"
+   ],
+   "sig": "Chapelle de Xugney.jpg||560|74"
+  },
+  "marbotte": {
+   "f": "img/marbotte.webp",
+   "v": "4cb332865a",
+   "w": 512,
+   "h": 725,
+   "l": "Marbotte en 1916, pendant la Grande Guerre",
+   "cr": "Agence Rol, 1916",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Agence Rol",
+   "src": "https://commons.wikimedia.org/wiki/File:Marbotte-Apremont-1916.jpg",
+   "pour": [
+    "marbotte"
+   ],
+   "sig": "Marbotte-Apremont-1916.jpg||560|74"
+  },
+  "temple-en-alsace": {
+   "f": "img/temple-en-alsace.webp",
+   "v": "724bd6009f",
+   "w": 560,
+   "h": 747,
+   "l": "La commanderie de Rixheim, teutonique et non templière, souvent confondue",
+   "cr": "Ji-Elle, 2012",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Ji-Elle",
+   "src": "https://commons.wikimedia.org/wiki/File:Rixheim-Ancienne_commanderie_(1).jpg",
+   "pour": [
+    "temple-en-alsace"
+   ],
+   "sig": "Rixheim-Ancienne commanderie (1).jpg||560|74"
+  },
+  "bergheim": {
+   "f": "img/bergheim.webp",
+   "v": "2da67323d2",
+   "w": 560,
+   "h": 420,
+   "l": "Le Tempelhof de Bergheim",
+   "cr": "Espirat, 2024",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Espirat",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_Tempelhof._(1).jpg",
+   "pour": [
+    "bergheim"
+   ],
+   "sig": "Le Tempelhof. (1).jpg||560|74"
+  },
+  "bure-les-templiers": {
+   "f": "img/bure-les-templiers.webp",
+   "v": "be79d6eb20",
+   "w": 560,
+   "h": 420,
+   "l": "La commanderie de Bure",
+   "cr": "Xavierrom",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Xavierrom",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_de_Bures.jpg",
+   "pour": [
+    "bure-les-templiers"
+   ],
+   "sig": "Commanderie de Bures.jpg||560|74"
+  },
+  "epailly": {
+   "f": "img/epailly.webp",
+   "v": "6c4f46e5a1",
+   "w": 560,
+   "h": 995,
+   "l": "La chapelle de la commanderie d'Épailly, à Courban",
+   "cr": "Mamapig, 2010",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Mamapig",
+   "src": "https://commons.wikimedia.org/wiki/File:Epailly05.jpg",
+   "pour": [
+    "epailly"
+   ],
+   "sig": "Epailly05.jpg||560|74"
+  },
+  "epailly-2": {
+   "f": "img/epailly-2.webp",
+   "v": "48d18cd941",
+   "w": 560,
+   "h": 309,
+   "l": "L'intérieur de la chapelle d'Épailly",
+   "cr": "Mamapig, 2010",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Mamapig",
+   "src": "https://commons.wikimedia.org/wiki/File:Epailly10.jpg",
+   "pour": [
+    "epailly"
+   ],
+   "sig": "Epailly10.jpg||560|74"
+  },
+  "molay": {
+   "f": "img/molay.webp",
+   "v": "f31a0f1721",
+   "w": 560,
+   "h": 373,
+   "l": "Le village de Molay, en Haute-Saône",
+   "cr": "Rgis9713, 2009",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Rgis9713",
+   "src": "https://commons.wikimedia.org/wiki/File:Molay_70120_vue_depuis_la_Pierre_qui_vire_08_2009.JPG",
+   "pour": [
+    "molay"
+   ],
+   "sig": "Molay 70120 vue depuis la Pierre qui vire 08 2009.JPG||560|74"
+  },
+  "carentoir": {
+   "f": "img/carentoir.webp",
+   "v": "4f8fbe1f0a",
+   "w": 560,
+   "h": 525,
+   "l": "La chapelle Saint-Jean-Baptiste du Temple, à Carentoir",
+   "cr": "Pymouss, 2014",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Pymouss",
+   "src": "https://commons.wikimedia.org/wiki/File:Carentoir_-_Chapelle_Saint-Jean-Baptiste,_Le_Temple_02.JPG",
+   "pour": [
+    "carentoir"
+   ],
+   "sig": "Carentoir - Chapelle Saint-Jean-Baptiste, Le Temple 02.JPG||560|74"
+  },
+  "coudrie": {
+   "f": "img/coudrie.webp",
+   "v": "3aafc14283",
+   "w": 560,
+   "h": 456,
+   "l": "La commanderie de Coudrie, à Challans",
+   "cr": "Chris06, 2021",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Chris06",
+   "src": "https://commons.wikimedia.org/wiki/File:Commanderie_de_Coudrie_(1).jpg",
+   "pour": [
+    "coudrie"
+   ],
+   "sig": "Commanderie de Coudrie (1).jpg||560|74"
+  },
+  "la-rochelle": {
+   "f": "img/la-rochelle.webp",
+   "v": "e10df38f02",
+   "w": 560,
+   "h": 331,
+   "l": "Un coin de la cour de la commanderie, à La Rochelle, peint par Corot",
+   "cr": "Jean-Baptiste Camille Corot",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Jean-Baptiste Camille Corot",
+   "src": "https://commons.wikimedia.org/wiki/File:La_Rochelle_-_un_coin_de_la_cour_de_la_commanderie,_101324,_R674.jpg",
+   "pour": [
+    "la-rochelle"
+   ],
+   "sig": "La Rochelle - un coin de la cour de la commanderie, 101324, R674.jpg||560|74"
+  },
+  "cressac": {
+   "f": "img/cressac.webp",
+   "v": "bb832b08e9",
+   "w": 560,
+   "h": 560,
+   "l": "La façade de la chapelle des Templiers de Cressac",
+   "cr": "JLPC, 2013",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "JLPC",
+   "src": "https://commons.wikimedia.org/wiki/File:Cressac-Saint-Genis_16_Chapelle_Templiers_fa%C3%A7ade_2013.jpg",
+   "pour": [
+    "cressac"
+   ],
+   "sig": "Cressac-Saint-Genis 16 Chapelle Templiers façade 2013.jpg||560|74"
+  },
+  "jerusalem-temple-de-salomon": {
+   "f": "img/jerusalem-temple-de-salomon.webp",
+   "v": "500c4228e7",
+   "w": 560,
+   "h": 273,
+   "l": "La mosquée al-Aqsa, que les Francs appelaient Temple de Salomon, premier siège de l'ordre",
+   "cr": "Berthold Werner, 2010",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Berthold Werner",
+   "src": "https://commons.wikimedia.org/wiki/File:Jerusalem_Al-Aqsa_Mosque_BW_2010-09-21_06-38-12.JPG",
+   "pour": [
+    "jerusalem-temple-de-salomon"
+   ],
+   "sig": "Jerusalem Al-Aqsa Mosque BW 2010-09-21 06-38-12.JPG||560|74"
+  },
+  "jerusalem-temple-de-salomon-2": {
+   "f": "img/jerusalem-temple-de-salomon-2.webp",
+   "v": "2c4f0e2734",
+   "w": 560,
+   "h": 412,
+   "l": "Les « écuries de Salomon », sous l'esplanade, au début du XXe siècle",
+   "cr": "collection Matson, Library of Congress",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Matson Collection",
+   "src": "https://commons.wikimedia.org/wiki/File:Solomon%27s_Stables_LOC_matpc.04873.jpg",
+   "pour": [
+    "jerusalem-temple-de-salomon"
+   ],
+   "sig": "Solomon's Stables LOC matpc.04873.jpg||560|74"
+  },
+  "acre": {
+   "f": "img/acre.webp",
+   "v": "a2e30629d8",
+   "w": 560,
+   "h": 373,
+   "l": "Le tunnel des Templiers, à Acre",
+   "cr": "Oren Rozen, 2016",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Oren Rozen",
+   "src": "https://commons.wikimedia.org/wiki/File:Acre_201016_Templar_Tunnel_01.jpg",
+   "pour": [
+    "acre"
+   ],
+   "sig": "Acre 201016 Templar Tunnel 01.jpg||560|74"
+  },
+  "chateau-pelerin-2": {
+   "f": "img/chateau-pelerin-2.webp",
+   "v": "f57fffa77a",
+   "w": 560,
+   "h": 436,
+   "l": "Château Pèlerin en 1903",
+   "cr": "William Sanday, 1903",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Sanday, W. (William) Waterhouse, Paul",
+   "src": "https://commons.wikimedia.org/wiki/File:Atlit_castel_1903.jpg",
+   "pour": [
+    "chateau-pelerin"
+   ],
+   "sig": "Atlit castel 1903.jpg||560|74"
+  },
+  "safed": {
+   "f": "img/safed.webp",
+   "v": "c1f21f10b7",
+   "w": 560,
+   "h": 420,
+   "l": "La citadelle de Safed",
+   "cr": "Shlomo Rodad, 2012",
+   "lic": "CC BY 2.5",
+   "li": "CC BY 2.5",
+   "auteur": "Shlomo Rodad (שלמה רודד)",
+   "src": "https://commons.wikimedia.org/wiki/File:Citadel_Garden_Safed_Avney_Moreshet_4bb310cb.jpg",
+   "pour": [
+    "safed"
+   ],
+   "sig": "Citadel Garden Safed Avney Moreshet 4bb310cb.jpg||560|74"
+  },
+  "tortose": {
+   "f": "img/tortose.webp",
+   "v": "1387dea680",
+   "w": 560,
+   "h": 373,
+   "l": "La chapelle du château templier de Tortose",
+   "cr": "Dosseman, 2010",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Dosseman",
+   "src": "https://commons.wikimedia.org/wiki/File:Tartus_fortress_chapel_0788.jpg",
+   "pour": [
+    "tortose"
+   ],
+   "sig": "Tartus fortress chapel 0788.jpg||560|74"
+  },
+  "chastel-blanc": {
+   "f": "img/chastel-blanc.webp",
+   "v": "614505fe41",
+   "w": 560,
+   "h": 373,
+   "l": "La chapelle Saint-Michel, au cœur du donjon de Chastel Blanc",
+   "cr": "Dosseman, 2008",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Dosseman",
+   "src": "https://commons.wikimedia.org/wiki/File:Safita_Chastel_Blanc_Church_of_St._Michael_3689.jpg",
+   "pour": [
+    "chastel-blanc"
+   ],
+   "sig": "Safita Chastel Blanc Church of St. Michael 3689.jpg||560|74"
+  },
+  "beaufort": {
+   "f": "img/beaufort.webp",
+   "v": "ab48e900bc",
+   "w": 560,
+   "h": 420,
+   "l": "Le château de Beaufort, au-dessus du Litani",
+   "cr": "David Germain-Robin, 2005",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "David Germain-Robin",
+   "src": "https://commons.wikimedia.org/wiki/File:Chateau_de_Beaufort.jpg",
+   "pour": [
+    "beaufort"
+   ],
+   "sig": "Chateau de Beaufort.jpg||560|74"
+  },
+  "gaza": {
+   "f": "img/gaza.webp",
+   "v": "e6702d8430",
+   "w": 560,
+   "h": 474,
+   "l": "La grande mosquée de Gaza, ancienne église du XIIe siècle, en 1918",
+   "cr": "Gabriel Bretocq, 1918",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Gabriel Bretocq",
+   "src": "https://commons.wikimedia.org/wiki/File:Grande_Mosqu%C3%A9e_-_Ancienne_%C3%A9glise_du_12e_si%C3%A8cle,_destructions_-_Gaza_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_AP62T135806.jpg",
+   "pour": [
+    "gaza"
+   ],
+   "sig": "Grande Mosquée - Ancienne église du 12e siècle, destructions - Gaza - Médiathèque de l'architecture et du patrimoine - AP62T135806.jpg||560|74"
+  },
+  "sidon": {
+   "f": "img/sidon.webp",
+   "v": "a36d925e38",
+   "w": 560,
+   "h": 420,
+   "l": "Le château de la mer, à Sidon",
+   "cr": "Vyacheslav Argenberg, 2008",
+   "lic": "CC BY 4.0",
+   "li": "CC BY 4.0",
+   "auteur": "Vyacheslav Argenberg",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidon_Sea_Castle,_Sidon,_Lebanon.jpg",
+   "pour": [
+    "sidon"
+   ],
+   "sig": "Sidon Sea Castle, Sidon, Lebanon.jpg||560|74"
+  },
+  "chypre-templiere": {
+   "f": "img/chypre-templiere.webp",
+   "v": "db29064e41",
+   "w": 560,
+   "h": 420,
+   "l": "Les vestiges du château templier de Gastria, à Chypre",
+   "cr": "Palates2001, 2024",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Palates2001",
+   "src": "https://commons.wikimedia.org/wiki/File:Gastria.jpg",
+   "pour": [
+    "chypre-templiere"
+   ],
+   "sig": "Gastria.jpg||560|74"
+  },
+  "tripoli": {
+   "f": "img/tripoli.webp",
+   "v": "c43ed25a9f",
+   "w": 560,
+   "h": 420,
+   "l": "La citadelle de Raymond de Saint-Gilles, à Tripoli",
+   "cr": "Vyacheslav Argenberg, 2008",
+   "lic": "CC BY 4.0",
+   "li": "CC BY 4.0",
+   "auteur": "Vyacheslav Argenberg",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Citadel_of_Raymond_de_Saint-Gilles,_Tripoli,_Lebanon.jpg",
+   "pour": [
+    "tripoli"
+   ],
+   "sig": "The Citadel of Raymond de Saint-Gilles, Tripoli, Lebanon.jpg||560|74"
+  },
+  "antioche": {
+   "f": "img/antioche.webp",
+   "v": "f913a6452e",
+   "w": 560,
+   "h": 420,
+   "l": "Les murailles d'Antioche sur le mont Silpius, vers 1900",
+   "cr": "collection Matson, Library of Congress",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Matson Collection",
+   "src": "https://commons.wikimedia.org/wiki/File:Antioch_(Antakiyeh)_and_environs._City_wall_on_Mt._Silpius_LOC_matpc.02194.jpg",
+   "pour": [
+    "antioche"
+   ],
+   "sig": "Antioch (Antakiyeh) and environs. City wall on Mt. Silpius LOC matpc.02194.jpg||560|74"
+  },
+  "jaffa": {
+   "f": "img/jaffa.webp",
+   "v": "8ecbc1697e",
+   "w": 560,
+   "h": 747,
+   "l": "Le vieux Jaffa et l'église Saint-Pierre",
+   "cr": "Shlomo Rodad, PikiWiki Israel",
+   "lic": "CC BY 2.5",
+   "li": "CC BY 2.5",
+   "auteur": "שלמה רודד",
+   "src": "https://commons.wikimedia.org/wiki/File:141729_old_jaffa_st._peters_church_PikiWiki_Israel.jpg",
+   "pour": [
+    "jaffa"
+   ],
+   "sig": "141729 old jaffa st. peters church PikiWiki Israel.jpg||560|74"
+  },
+  "bataille-d-arsouf": {
+   "f": "img/bataille-d-arsouf.webp",
+   "v": "3f292236fd",
+   "w": 560,
+   "h": 420,
+   "l": "Les ruines d'Arsouf, l'antique Apollonia, au nord de Tel-Aviv",
+   "cr": "Bukvoed, 2007",
+   "lic": "CC BY 4.0",
+   "li": "CC BY 4.0",
+   "auteur": "Bukvoed",
+   "src": "https://commons.wikimedia.org/wiki/File:Apollonia-Arsuf-104.jpg",
+   "pour": [
+    "bataille-d-arsouf"
+   ],
+   "sig": "Apollonia-Arsuf-104.jpg||560|74"
+  },
+  "damiette": {
+   "f": "img/damiette.webp",
+   "v": "022fc6b490",
+   "w": 560,
+   "h": 396,
+   "l": "Les croisés frisons attaquent la tour de la Chaîne, à Damiette, en 1218 : dessin de Matthieu Paris",
+   "cr": "Matthieu Paris, XIIIe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Original uploader was Arwin7 at nl.wikipedia",
+   "src": "https://commons.wikimedia.org/wiki/File:Friezen_vallen_de_toren_van_Damiate_aan.jpg",
+   "pour": [
+    "damiette",
+    "cinquieme-croisade"
+   ],
+   "sig": "Friezen vallen de toren van Damiate aan.jpg||560|74"
+  },
+  "mansourah": {
+   "f": "img/mansourah.webp",
+   "v": "41e178628d",
+   "w": 560,
+   "h": 391,
+   "l": "La bataille de Mansourah dans un manuscrit de la *Vie de saint Louis* (BnF, fr. 5716)",
+   "cr": "enluminure anonyme, v. 1330",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Mansura.jpg",
+   "pour": [
+    "mansourah"
+   ],
+   "sig": "Mansura.jpg||560|74"
+  },
+  "hospitaliers": {
+   "f": "img/hospitaliers.webp",
+   "v": "70d93adb11",
+   "w": 560,
+   "h": 302,
+   "l": "Le sceau de Raymond du Puy, maître de l'Hôpital, dessiné en 1884",
+   "cr": "Whitworth Porter, 1884",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Porter, Whitworth",
+   "src": "https://commons.wikimedia.org/wiki/File:Seal_of_Raymond_du_Puy.jpg",
+   "pour": [
+    "hospitaliers"
+   ],
+   "sig": "Seal of Raymond du Puy.jpg||560|74"
+  },
+  "teutoniques": {
+   "f": "img/teutoniques.webp",
+   "v": "8fe62c3cc2",
+   "w": 560,
+   "h": 366,
+   "l": "Le château de Malbork, siège de l'ordre Teutonique en Prusse",
+   "cr": "DerHexer et Carschten, 2010",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "DerHexer ; derivate work: Carschten",
+   "src": "https://commons.wikimedia.org/wiki/File:Panorama_of_Malbork_Castle,_part_4.jpg",
+   "pour": [
+    "teutoniques"
+   ],
+   "sig": "Panorama of Malbork Castle, part 4.jpg||560|74"
+  },
+  "teutoniques-2": {
+   "f": "img/teutoniques-2.webp",
+   "v": "e1075d3357",
+   "w": 560,
+   "h": 442,
+   "l": "Le château de Montfort, en Galilée, première forteresse de l'ordre Teutonique",
+   "cr": "Athanasius Soter, 2014",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Athanasius Soter",
+   "src": "https://commons.wikimedia.org/wiki/File:Montfort_fortress_2014_(8).jpg",
+   "pour": [
+    "teutoniques"
+   ],
+   "sig": "Montfort fortress 2014 (8).jpg||560|74"
+  },
+  "ordre-de-calatrava": {
+   "f": "img/ordre-de-calatrava.webp",
+   "v": "6d13d01eb0",
+   "w": 560,
+   "h": 372,
+   "l": "Le château-couvent de Calatrava la Nueva",
+   "cr": "Xemenendura, 2019",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Xemenendura",
+   "src": "https://commons.wikimedia.org/wiki/File:Calatrava_la_Nueva_4.jpg",
+   "pour": [
+    "ordre-de-calatrava"
+   ],
+   "sig": "Calatrava la Nueva 4.jpg||560|74"
+  },
+  "ordre-de-santiago": {
+   "f": "img/ordre-de-santiago.webp",
+   "v": "20d3c4159d",
+   "w": 560,
+   "h": 840,
+   "l": "Le monastère d'Uclés, maison mère de l'ordre de Santiago",
+   "cr": "Zarateman, 2014",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Zarateman",
+   "src": "https://commons.wikimedia.org/wiki/File:Ucl%C3%A9s_-_Real_Monasterio_de_Santiago_01.JPG",
+   "pour": [
+    "ordre-de-santiago"
+   ],
+   "sig": "Uclés - Real Monasterio de Santiago 01.JPG||560|74"
+  },
+  "ordre-de-montesa": {
+   "f": "img/ordre-de-montesa.webp",
+   "v": "6621487e50",
+   "w": 560,
+   "h": 355,
+   "l": "Le château de Montesa",
+   "cr": "Enrique Calabuig, 2011",
+   "lic": "CC BY-SA 2.0",
+   "li": "CC BY-SA 2.0",
+   "auteur": "Enrique Calabuig",
+   "src": "https://commons.wikimedia.org/wiki/File:Castell_de_Montesa.jpg",
+   "pour": [
+    "ordre-de-montesa"
+   ],
+   "sig": "Castell de Montesa.jpg||560|74"
+  },
+  "ordre-de-montesa-2": {
+   "f": "img/ordre-de-montesa-2.webp",
+   "v": "f35af697e9",
+   "w": 560,
+   "h": 606,
+   "l": "La Vierge au chevalier de Montesa",
+   "cr": "Paolo da San Leocadio, fin du XVe siècle",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Paolo da San Leocadio",
+   "src": "https://commons.wikimedia.org/wiki/File:Paolo_de_San_Leocadio_-_Virgin_of_the_Knight_of_Montesa_-_WGA20715.jpg",
+   "pour": [
+    "ordre-de-montesa",
+    "ordres-militaires"
+   ],
+   "sig": "Paolo de San Leocadio - Virgin of the Knight of Montesa - WGA20715.jpg||560|74"
+  },
+  "ordre-du-christ": {
+   "f": "img/ordre-du-christ.webp",
+   "v": "352c42d4da",
+   "w": 560,
+   "h": 755,
+   "l": "La croix de l'ordre du Christ",
+   "cr": "RootOfAllLight, 2018",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "RootOfAllLight",
+   "src": "https://commons.wikimedia.org/wiki/File:Order_of_Christ_Portugal_cross.png",
+   "pour": [
+    "ordre-du-christ"
+   ],
+   "sig": "Order of Christ Portugal cross.png||560|74"
+  },
+  "ordre-du-saint-sepulcre": {
+   "f": "img/ordre-du-saint-sepulcre.webp",
+   "v": "6578f08fdf",
+   "w": 560,
+   "h": 420,
+   "l": "Le Saint-Sépulcre de Jérusalem",
+   "cr": "Hoshvilim, 2015",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Hoshvilim",
+   "src": "https://commons.wikimedia.org/wiki/File:Church_of_the_Holy_Sepulchre,_Jerusalem,_43.jpg",
+   "pour": [
+    "ordre-du-saint-sepulcre"
+   ],
+   "sig": "Church of the Holy Sepulchre, Jerusalem, 43.jpg||560|74"
+  },
+  "ordres-militaires": {
+   "f": "img/ordres-militaires.webp",
+   "v": "3e6ac599df",
+   "w": 560,
+   "h": 913,
+   "l": "Portrait d'un jeune chevalier de l'ordre de Calatrava, vers 1600",
+   "cr": "Juan Pantoja de la Cruz",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "GualdimG",
+   "src": "https://commons.wikimedia.org/wiki/File:Retrato_de_Jovem_Cavaleiro_da_Ordem_de_Calatrava,_c._1592-1608,_Juan_Pantoja_de_la_Cruz,_PNSintra_01.jpg",
+   "pour": [
+    "ordres-militaires"
+   ],
+   "sig": "Retrato de Jovem Cavaleiro da Ordem de Calatrava, c. 1592-1608, Juan Pantoja de la Cruz, PNSintra 01.jpg||560|74"
+  }
+ },
+ "planches": {}
+}

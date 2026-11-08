@@ -1,0 +1,946 @@
+# T+ — lot 06 : la France du Nord. Champagne (berceau), Paris, Brie, Picardie,
+# Beauce et Perche, Normandie, Lorraine et Alsace (terres d'Empire), Bourgogne,
+# Bretagne, Poitou et Saintonge. Trente-neuf articles : trois synthèses
+# régionales sans geo (Champagne, Lorraine, Alsace), trente-six lieux.
+
+# ── Champagne ───────────────────────────────────────────────────────────────
+
+@ temple-en-champagne
+cat: france
+nom: Le Temple en Champagne
+alias: Templiers en Champagne, Champagne templière, province de France, baillies champenoises, grand prieuré de Champagne, foires de Champagne et Templiers
+dates: 1127 – 1312
+an: 1127
+fin: 1312
+def: La Champagne est la terre natale de l'ordre : [[hugues-de-payns|Hugues de Payns]] en venait, le comte [[hugues-de-champagne|Hugues]] s'y fit Templier, le concile de Troyes y approuva la règle en 1129 ; un réseau serré de commanderies rurales y vécut ensuite des foires et de la forêt.
+texte: Rien ne prédestinait la Champagne à devenir le berceau d'un ordre de Jérusalem, sinon ses hommes. Hugues, seigneur du village de [[payns|Payns]] près de Troyes, est un vassal du comte Hugues de Champagne, qu'il accompagne peut-être en Terre sainte dès 1104 ; c'est lui qui fonde la milice vers 1119-1120 (voir [[fondation-de-l-ordre|la fondation de l'ordre]]). Le comte lui-même entre dans l'ordre en 1125, au grand regret de [[bernard-de-clairvaux|Bernard de Clairvaux]], dont l'abbaye de [[clairvaux|Clairvaux]] s'élève sur des terres du comté. Quand Hugues de Payns revient en Occident, en 1127, les premiers dons champenois tombent aussitôt : le comte Thibaud II lui remet une maison à Barbonne, et le domaine de Payns est donné avant la fin d'octobre 1127. Le 13 janvier 1129, le [[concile-de-troyes|concile de Troyes]], présidé par le légat Mathieu d'Albano, donne à la jeune milice sa règle.
+texte: Au XIIe et au XIIIe siècle, la Champagne se couvre de maisons du Temple : la liste qu'en dressent les historiens compte une vingtaine de commanderies et des dizaines de granges et de fermes dans les actuels départements de l'Aube, de la Marne, de la Haute-Marne et des Ardennes. Les plus importantes sont [[troyes|Troyes]], Payns, La Neuville-au-Temple dans la plaine crayeuse, Thors, Fresnoy, Ruetz, [[avalleur|Avalleur]] fondée vers 1167 par les comtes de Bar-sur-Seine, et Bonlieu, qui achète en 1255 la [[foret-d-orient|forêt du Temple]]. Toutes relèvent de la province de France, dont le chef-lieu est l'[[enclos-du-temple|enclos du Temple]] de Paris, et s'organisent en baillies, comme celle de Payns ; plus à l'ouest, [[coulours|Coulours]] tient le pays d'Othe. Ce sont des exploitations : blé, vignes, moutons, moulins, bois, et les rentes de maisons louées aux marchands des foires de Troyes, [[provins|Provins]], Bar-sur-Aube et Lagny. Le Temple y encaisse, prête et transfère de l'argent, mais les contemporains n'y voient pas une banque : un grand propriétaire qui envoie en Orient le surplus de ses terres (voir [[economie-du-temple]]).
+texte: Le 13 octobre 1307, les frères champenois sont arrêtés comme les autres (voir [[arrestation-du-13-octobre-1307|l'arrestation du 13 octobre 1307]]) ; parmi les défenseurs de l'ordre devant la commission pontificale, en 1309, figure le précepteur de Payns, Ponsard de Gizy. En 1312, la bulle *Ad providam* donne leurs biens aux [[hospitaliers|Hospitaliers]], qui les gardent jusqu'à la Révolution (voir [[devolution-des-biens|la dévolution des biens]]). En 1317, le pape Jean XXII détache du prieuré de France un grand prieuré de Champagne, dont le siège s'établit à [[voulaines|Voulaines]], dans le Châtillonnais bourguignon. La mémoire templière de la région est aujourd'hui entretenue par le musée de Payns, par le Département de l'Aube, qui a restauré Avalleur, et par une « route européenne des Templiers » lancée en 2016.
+repere: 1104 — Le comte Hugues de Champagne part pour Jérusalem, peut-être avec Hugues de Payns.
+repere: 1125 — Le comte Hugues entre dans l'ordre du Temple.
+repere: 1127 — Thibaud II donne une maison à Barbonne ; le domaine de Payns est donné avant le 31 octobre.
+repere: 13 janvier 1129 — Le concile de Troyes approuve la règle.
+repere: v. 1167 — Fondation d'Avalleur par les comtes de Bar-sur-Seine.
+repere: 1255 — Les Templiers de Bonlieu achètent la forêt du Temple.
+repere: 13 octobre 1307 — Arrestation des frères de Champagne.
+repere: 1317 — Jean XXII crée le grand prieuré hospitalier de Champagne, à Voulaines.
+attention: Les sites touristiques présentent Payns comme « la première commanderie d'Occident » : les premières donations attestées datent de 1127-1128 (Barbonne et Payns en Champagne, des biens en Flandre), et rien ne permet de classer Payns en tête. Le comte Thibaud II de Champagne est le même homme que Thibaut IV de Blois : les deux numérotations coexistent dans les livres.
+lien: wp Liste des commanderies templières en Champagne-Ardenne
+lien: wp Hugues Ier de Champagne
+lien: url https://www.templars-route.eu/ = la route européenne des Templiers, portée par le Département de l'Aube
+sources: Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr) : Liste des commanderies templières en Champagne-Ardenne, Hugues de Payns, Hugues Ier de Champagne, Commanderie de Payns ; condensé du dossier « Ordre du Temple en Champagne » (Drive)
+voir: hugues-de-payns, hugues-de-champagne, concile-de-troyes, payns, troyes, avalleur, foret-d-orient, provinces-du-temple
+
+@ payns
+cat: france
+nom: Payns
+alias: commanderie de Payns, musée Hugues de Payns, maison du Temple de Payns, trésor de Payns, Pagani, Payens
+dates: donation de 1127 ; fouilles de 1998
+an: 1127
+def: Village de l'Aube, à douze kilomètres de Troyes, dont [[hugues-de-payns|Hugues de Payns]] portait le nom ; une commanderie y fut donnée à l'ordre dès 1127, retrouvée par l'archéologie en 1998 avec un dépôt de 708 deniers d'argent, et un musée y raconte les origines du Temple.
+texte: Payns est un village de la vallée de la Seine, en aval de Troyes. Ses seigneurs tiennent leur château du comte de Champagne ; vers 1107, Hugues, le futur fondateur de l'ordre, y reçoit le domaine de ses ancêtres. Né vers 1070-1074 — la date est inconnue, et la naissance au château de Mahun, en Vivarais, qu'on lit parfois, est une invention de l'érudit Polycarpe de la Rivière, au XVIIe siècle —, il part pour Jérusalem, y fonde la milice des pauvres chevaliers du Christ vers 1119-1120 (voir [[fondation-de-l-ordre|la fondation de l'ordre]]) et revient en 1127 chercher des recrues et des terres. C'est alors que la maison du Temple de Payns est donnée à l'ordre, avant le 31 octobre 1127 ; les historiens notent que l'acte n'en dit pas plus et que l'attribution à Hugues lui-même, bien que probable, n'est pas certaine. Son fils Guy Bordel de Payns accroît le domaine en 1130. Hugues meurt en 1136 ; un obituaire de la commanderie de Reims fait célébrer sa mémoire le 24 mai, sans qu'on sache si c'est le jour exact de sa mort.
+texte: La [[commanderie]] est le chef-lieu d'une baillie : des commandeurs y sont nommés en 1263-1266 (André de Joigny) puis jusqu'à Ponsard de Gizy, en 1307, qui défendra l'ordre devant la commission pontificale en 1309 ; en 1209, une maison achetée à Belleville, avec sa chapelle, lui est rattachée. Après la suppression de l'ordre, les [[hospitaliers|Hospitaliers]] en héritent et la fondent, au XVe siècle, dans leur commanderie de [[troyes|Troyes]]. Les bâtiments disparaissent ensuite entièrement ; au XXe siècle, on ne sait même plus où ils se dressaient.
+texte: C'est la photographie aérienne qui les retrouve, en 1989, dans un champ du bord de Seine. Une fondation Hugues de Payns naît en novembre de la même année, un musée ouvre en 1997, et les fouilles de 1998 dégagent les fondations de trois bâtiments : une chapelle entourée de son cimetière, un logis et une grange, dans un enclos fossoyé. En septembre 1998, les archéologues mettent au jour un dépôt de 708 deniers d'argent des XIIe et XIIIe siècles. Le site, sur une terre agricole privée, n'est pas visible ; le musée Hugues de Payns, voie Riot, expose le mobilier des fouilles, le trésor monétaire, et retrace la vie du fondateur et de l'ordre. Il est tenu par des bénévoles et ouvre à horaires restreints.
+repere: v. 1070-1074 — Naissance d'Hugues de Payns, date inconnue.
+repere: 1127 — La maison de Payns est donnée à l'ordre avant le 31 octobre.
+repere: 1130 — Guy Bordel de Payns, fils d'Hugues, accroît le domaine.
+repere: 1209 — Achat de la maison de Belleville, rattachée à la commanderie.
+repere: 1307 — Ponsard de Gizy est précepteur de Payns lors de l'arrestation.
+repere: 1989 — La photographie aérienne retrouve le site ; fondation Hugues de Payns en novembre.
+repere: 1997 — Ouverture du musée Hugues de Payns.
+repere: 1998 — Fouilles de la commanderie ; découverte de 708 deniers d'argent en septembre.
+attention: Les 708 deniers de 1998 sont un dépôt de monnaies courantes enfoui sur le site d'une ferme, pas le [[tresor-des-templiers|trésor des Templiers]] ; leur découverte a pourtant relancé la légende. Et il ne reste rien du château des seigneurs de Payns : ce qu'on visite est un musée, non un monument.
+geo: 48.3804, 3.9761
+lieu: Payns, Aube, France
+lien: wp Commanderie de Payns
+lien: wp Musée Hugues-de-Payns
+sources: Wikipédia (fr) : Commanderie de Payns, Musée Hugues-de-Payns, Hugues de Payns ; Demurger, Les Templiers, 2005 ; condensé du dossier « Ordre du Temple en Champagne » (Drive) ; coordonnées : fiche Payns de l'application Sites templiers (2026)
+voir: hugues-de-payns, temple-en-champagne, fondation-de-l-ordre, troyes, commanderie, tresor-des-templiers, concile-de-troyes
+
+@ troyes
+cat: france
+nom: Troyes
+alias: concile de Troyes, maison du Temple de Troyes, commanderie de Troyes, hôtel du Commandeur, rue du Temple de Troyes, foires de Troyes
+dates: concile du 13 janvier 1129
+an: 1129
+def: Capitale des comtes de Champagne, où le concile du 13 janvier 1129 donna sa règle à l'ordre ; les Templiers y tinrent une maison, rue du Temple, et des logis loués aux marchands des foires ; la ville garde le souvenir du concile plus que des pierres.
+texte: Le [[concile-de-troyes|concile de Troyes]] s'ouvre le 13 janvier 1129 — 1128 dans le style de l'époque, où l'année commence à Pâques — dans la cathédrale romane qui précède l'édifice gothique actuel, commencé au début du XIIIe siècle. Le légat Mathieu d'Albano le préside ; les archevêques de Reims et de Sens, une dizaine d'évêques, les abbés de Cîteaux et de Clairvaux, le comte Thibaud II y siègent. [[hugues-de-payns|Hugues de Payns]] expose les usages de sa milice, et les pères en tirent une règle latine, que [[bernard-de-clairvaux|Bernard]] a inspirée sans l'écrire seul (voir [[regle-du-temple]]). C'est l'acte de naissance institutionnel de l'[[ordre-du-temple|ordre du Temple]].
+texte: La maison du Temple de Troyes est plus discrète. Elle se tient dans la rue qui s'est appelée rue du Temple pendant sept siècles, jusqu'en 1906, aujourd'hui rue du Général-Saussier ; une tradition locale en date l'installation de 1186 environ. L'ordre possède dans ce quartier des maisons qu'il loue aux marchands venus aux deux foires de Troyes, la foire chaude de l'été et la foire de Saint-Remi en fin d'année, étapes du grand cycle des foires de Champagne : un revenu, et un lieu de dépôts et de paiements pour les voyageurs (voir [[banque-du-temple]]). La commanderie absorbe au XVe siècle celle de [[payns|Payns]], sous les [[hospitaliers|Hospitaliers]]. L'hôtel du Commandeur que l'on voit encore rue du Général-Saussier a été reconstruit en 1639 par le commandeur Noël Brûlart de Sillery : c'est un bâtiment de l'ordre de Malte, non des Templiers.
+texte: Troyes reste la ville de référence de l'histoire champenoise de l'ordre : en 2012, l'exposition « Templiers, une histoire, notre trésor », organisée par le Département, a réuni les chartes des Archives de l'Aube et les découvertes des fouilles de Payns et d'[[avalleur|Avalleur]]. La cathédrale et le vieux Troyes se visitent librement ; de la maison du Temple, rien de médiéval ne subsiste en élévation.
+repere: 13 janvier 1129 — Ouverture du concile de Troyes dans la cathédrale.
+repere: v. 1186 — La maison du Temple s'installe rue du Temple, selon la tradition locale.
+repere: 1639 — Reconstruction de l'hôtel du Commandeur par Noël Brûlart de Sillery.
+repere: 1906 — La rue du Temple devient rue du Général-Saussier.
+repere: 2012 — Exposition « Templiers, une histoire, notre trésor » à Troyes.
+attention: La cathédrale actuelle n'est pas celle du concile : l'édifice roman de 1129 a été remplacé au XIIIe siècle. Et l'hôtel du Commandeur, souvent photographié comme « maison des Templiers », date de 1639 et des Hospitaliers.
+geo: 48.3004, 4.0814
+lieu: Troyes, Aube, France
+lien: wp Concile de Troyes (1129)
+lien: wp Foires de Champagne
+sources: Wikipédia (fr) : Concile de Troyes (1129), Foires de Champagne ; Demurger, Les Templiers, 2005 ; Aube en Champagne (fiche « Ancien hôtel du Commandeur ») ; Archives de l'Aube, exposition 2012 ; coordonnées : fiche Troyes de l'application Sites templiers (2026)
+voir: concile-de-troyes, temple-en-champagne, hugues-de-payns, bernard-de-clairvaux, regle-du-temple, payns, banque-du-temple, economie-du-temple
+
+@ clairvaux
+cat: france
+nom: Clairvaux
+alias: abbaye de Clairvaux, Clara Vallis, Ville-sous-la-Ferté, maison centrale de Clairvaux, bâtiment des convers
+dates: fondée le 25 juin 1115
+an: 1115
+def: Abbaye cistercienne de l'Aube fondée en 1115 par [[bernard-de-clairvaux|Bernard]], protecteur du Temple ; l'ancien maître [[evrard-des-barres|Évrard des Barres]] y finit ses jours. Prison de 1808 à 2023, elle ne conserve du Moyen Âge que le bâtiment des convers.
+texte: Clairvaux est fondée le 25 juin 1115 dans une vallée de la Champagne méridionale, sur des terres cédées par Josbert le Roux, sénéchal du comte [[hugues-de-champagne|Hugues de Champagne]] : Étienne Harding, abbé de Cîteaux, y envoie Bernard et douze moines. Bernard en reste l'abbé jusqu'à sa mort, le 20 août 1153, et en fait le centre d'un réseau de plusieurs dizaines d'abbayes filles. Le lien avec le Temple tient à lui. Son oncle [[andre-de-montbard|André de Montbard]] est l'un des premiers frères, et deviendra maître ; le comte Hugues entre dans l'ordre en 1125, et Bernard lui écrit pour regretter de le voir partir ; en janvier 1129, l'abbé siège au [[concile-de-troyes|concile de Troyes]] et pèse sur la rédaction de la règle ; vers 1130-1136, à la demande d'[[hugues-de-payns|Hugues de Payns]], il écrit le *De laude novae militiae*, l'éloge de la nouvelle chevalerie (voir [[de-laude-novae-militiae]]). Enfin, en 1152, le maître Évrard des Barres, revenu de la deuxième croisade, renonce à sa charge pour se faire moine à Clairvaux, où il meurt en 1174.
+texte: Rien du monastère de Bernard n'est debout, hormis le bâtiment des convers, du XIIe siècle, long vaisseau à deux niveaux classé en 1981. L'abbaye, reconstruite au XVIIIe siècle, est vendue à la Révolution et devient en 1808 une maison centrale de détention ; la prison a fermé en 2023, et le site, propriété de l'État, se visite toute l'année. Il se trouve sur la commune de Ville-sous-la-Ferté, à quinze kilomètres de Bar-sur-Aube.
+repere: 25 juin 1115 — Fondation de Clairvaux par Bernard, envoyé de Cîteaux.
+repere: 1125 — Le comte Hugues de Champagne entre au Temple.
+repere: 13 janvier 1129 — Bernard siège au concile de Troyes.
+repere: 1152 — Évrard des Barres quitte la maîtrise de l'ordre et se fait moine à Clairvaux.
+repere: 20 août 1153 — Mort de Bernard.
+repere: 1174 — Mort d'Évrard des Barres à Clairvaux.
+repere: 1808 — L'abbaye devient une prison, fermée en 2023.
+attention: Bernard n'a ni fondé le Temple ni rédigé seul sa règle : il l'a défendu et lui a donné sa doctrine. On lit aussi qu'il fut « abbé de Cîteaux » : il fut abbé de Clairvaux, Cîteaux étant celle d'Étienne Harding.
+geo: 48.1467, 4.7894
+lieu: Ville-sous-la-Ferté, Aube, France
+lien: wp Abbaye de Clairvaux
+lien: wp Évrard des Barres
+lien: url https://www.abbayedeclairvaux.com/ = le site de l'abbaye (visites, histoire)
+sources: Wikipédia (fr) : Abbaye de Clairvaux, Évrard des Barres, Hugues Ier de Champagne ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994
+voir: bernard-de-clairvaux, de-laude-novae-militiae, evrard-des-barres, andre-de-montbard, hugues-de-champagne, concile-de-troyes, temple-en-champagne
+
+@ foret-d-orient
+cat: france
+nom: Forêt d'Orient et forêt du Temple
+alias: forêt du Temple, commanderie de Bonlieu, Loge-Bazin, lac d'Orient, lac du Temple, parc naturel régional de la Forêt d'Orient, Piney
+dates: 1238 – 1312 (domaine templier)
+an: 1238
+fin: 1312
+def: Massif forestier de Champagne humide, à l'est de Troyes, où la commanderie de Bonlieu réunit au XIIIe siècle plus de deux mille hectares de bois, la « forêt du Temple » ; des auteurs y placent depuis 1967 le trésor de l'ordre ou l'arche d'alliance.
+texte: La forêt d'Orient s'étend entre Troyes et Brienne : des chênaies sur argile, des étangs, et depuis les années 1960 trois lacs-réservoirs qui régulent la Seine et l'Aube — le lac d'Orient, mis en eau en 1966, puis les lacs du Temple et Amance, achevés vers 1990. Le parc naturel régional qui porte son nom, créé le 16 octobre 1970, est l'un des premiers de France.
+texte: Les Templiers y ont été de grands propriétaires. Leur [[commanderie]] de Bonlieu, à quatre kilomètres au sud de Piney, naît vers 1220 du don d'André de Rosson, qui entre dans l'ordre en lui apportant ses terres de Rosson et d'Aillefol ; un autre seigneur l'imite en 1230. Vers 1238, le comte Gautier IV de Brienne vend au maître [[armand-de-perigord|Armand de Périgord]], pour les frères de Bonlieu, mille arpents de sa forêt de Beteiz ; en 1255, les seigneurs de Vendeuvre leur cèdent la forêt qui s'appellera désormais « du Temple » ; en 1260, Gui de Milly vend encore six cents arpents. En une génération, le domaine atteint quelque 4 500 arpents troyens, soit 2 700 hectares de bois, de prés et de labours, exploités depuis des granges : la Loge-Bazin, sur l'actuelle commune d'Amance, Maurepaire, La Milly, La Picarde, et la Loge-Lionne, achetée en 1294 à Léon de Méry sous son ancien nom de Loge-d'Orient — ce qui montre que le toponyme d'Orient existait avant l'ordre et ne vient pas de lui. Quelques frères, dont le sergent Pierre Picard arrêté en 1307, y dirigent bûcherons, tuiliers et meuniers. En 1312, l'ensemble passe aux [[hospitaliers|Hospitaliers]], qui le gardent jusqu'à la Révolution ; la Loge-Bazin tombe en ruine dès le XVIe siècle (voir [[economie-du-temple]]).
+texte: La légende est récente. En 1967, Louis Charpentier ouvre *Les Mystères templiers* sur cette forêt et soutient que les premiers chevaliers furent envoyés à Jérusalem pour y retrouver l'arche d'alliance ; les lecteurs en déduisent qu'elle fut rapportée et enfouie ici, à moins que ce ne soit le [[tresor-des-templiers|trésor]] soustrait à [[philippe-le-bel|Philippe le Bel]] en 1307. La bande dessinée du *Triangle secret* (Didier Convard, à partir de 2000) y loge le tombeau du Christ. Aucun texte, aucune fouille n'appuie ces récits, nés comme à [[gisors|Gisors]] de la rencontre d'un lieu templier authentique et d'un livre à succès.
+repere: v. 1220 — André de Rosson entre au Temple et donne ses terres à Bonlieu.
+repere: v. 1238 — Gautier IV de Brienne vend mille arpents de forêt au maître Armand de Périgord.
+repere: 1255 — Achat de la forêt du Temple aux seigneurs de Vendeuvre.
+repere: 1294 — Achat de la Loge-d'Orient, devenue Loge-Lionne.
+repere: 1312 — Le domaine passe aux Hospitaliers.
+repere: 1966 — Mise en eau du lac d'Orient.
+repere: 1967 — *Les Mystères templiers*, de Louis Charpentier.
+repere: 16 octobre 1970 — Création du parc naturel régional de la Forêt d'Orient.
+attention: La forêt du Temple n'est qu'une partie de la forêt d'Orient, et le nom d'Orient n'est pas templier : une « Loge-d'Orient » existe en 1294 avant que l'ordre ne l'achète. Les surfaces varient d'une brochure à l'autre (1 200 ou 1 270 hectares pour le seul achat de 1255) : les chiffres sûrs sont ceux des actes, en arpents.
+geo: 48.3326, 4.3395
+lieu: Bonlieu, Piney, Aube, France
+lien: wp Commanderie de Bonlieu
+lien: wp Parc naturel régional de la Forêt d'Orient
+lien: url https://www.pnr-foret-orient.fr/ = le parc naturel régional de la Forêt d'Orient
+sources: Wikipédia (fr) : Commanderie de Bonlieu, Parc naturel régional de la Forêt d'Orient ; Demurger, Les Templiers, 2005 ; Hélary, Les Templiers. Leur faux trésor, leur vraie puissance, 2018 ; condensé du dossier « Ordre du Temple en Champagne » (Drive) ; coordonnées de Bonlieu : OpenStreetMap
+voir: temple-en-champagne, tresor-des-templiers, economie-du-temple, hospitaliers, gisors, armand-de-perigord, commanderie
+
+@ avalleur
+cat: france
+nom: Commanderie d'Avalleur
+alias: Avalleur, Bar-sur-Seine, chapelle d'Avalleur, Côte des Bar
+dates: v. 1167 – 1312 (Temple)
+an: 1167
+fin: 1312
+def: Commanderie champenoise fondée vers 1167 grâce aux comtes de Bar-sur-Seine, dont la chapelle du début du XIIIe siècle, intacte, est l'un des édifices templiers les mieux conservés du nord de la France ; restaurée par le Département de l'Aube.
+texte: Sur le plateau qui domine la Seine, près de Bar-sur-Seine et à vingt-cinq kilomètres de Troyes, Avalleur naît des dons du comte Manassès de Bar-sur-Seine vers 1167 ; la première mention sûre date de 1172, et les bienfaits se succèdent — Milon d'Avalleur en 1173, le moulin de Besaces en 1174, des terres à Essoyes en 1204, des dons de la famille Haymon jusqu'en 1213. La [[commanderie]] devient chef-lieu d'une baillie dont dépendent une dizaine de villages et les maisons d'Arrelles, de Buxières et de Balnot. Sa chapelle est bâtie au début du XIIIe siècle : un vaisseau rectangulaire d'environ vingt-cinq mètres sur six, trois travées voûtées d'ogives, chevet plat percé d'un triplet, portail roman à colonnettes, deux lavabos liturgiques, des traces de peintures — la sobriété que l'on attribue au voisinage cistercien (voir [[architecture-templiere]]).
+texte: En 1312, les [[hospitaliers|Hospitaliers]] en héritent ; ils y unissent en 1520 la commanderie de Thors, remanient le logis à la Renaissance et font sculpter sur la chapelle les armes de leur commandeur Jacques de Souvré, au XVIIe siècle. Vendue à la Révolution, la commanderie devient une ferme ; deux tours et la bergerie disparaissent. La chapelle est classée le 19 mars 1921. Le Département de l'Aube a acquis l'ensemble, l'a restauré avec l'aide de fouilles de l'Inrap, et l'ouvre pour des visites saisonnières, des manifestations et un parcours de réalité augmentée ; Avalleur est une étape de la route européenne des Templiers.
+repere: v. 1167 — Dons du comte Manassès de Bar-sur-Seine ; première mention en 1172.
+repere: début XIIIe siècle — Construction de la chapelle.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 1520 — Union avec la commanderie de Thors.
+repere: 19 mars 1921 — Classement de la chapelle.
+attention: Une date de fondation « avant 1142 » circule dans des tableaux touristiques : c'est une confusion, la première mention est de 1172. Le logis à fenêtres à meneaux est Renaissance, et les armoiries sont hospitalières : seule la chapelle est templière.
+geo: 48.1001, 4.3479
+lieu: Bar-sur-Seine, Aube, France
+lien: wp Commanderie d'Avalleur
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00078043 = la notice Mérimée de la chapelle
+sources: Wikipédia (fr) : Commanderie d'Avalleur ; notice Mérimée PA00078043 ; Czmara, Templiers et Hospitaliers dans l'Aube, 2005 ; condensé des dossiers « Ordre du Temple en Champagne » et « Sites templiers en France » (Drive) ; coordonnées : fiche Avalleur de l'application Sites templiers (2026)
+voir: temple-en-champagne, commanderie, architecture-templiere, hospitaliers, troyes, payns, coulours
+
+@ coulours
+cat: france
+nom: Commanderie de Coulours
+alias: Coulours, baillie de Coulours, pays d'Othe
+dates: maison du Temple, puis de l'Hôpital (mentionnée en 1338)
+an: 1338
+def: Maison du Temple du pays d'Othe, dans l'Yonne, que l'on donne pour le chef-lieu d'une baillie ; souvent dite l'une des plus anciennes de l'ordre, elle n'est sûrement attestée qu'en 1338, sous les Hospitaliers, auxquels on doit son église actuelle.
+texte: Coulours est un bourg du pays d'Othe, entre Sens et Troyes, dans le diocèse de Sens et le comté de Champagne. Les Templiers y possèdent une maison que la tradition érudite donne pour le chef-lieu d'une baillie, c'est-à-dire d'un groupe de [[commanderie|commanderies]] et de granges réunies sous un même précepteur ; elle exploite les bois, les terres et, dit-on, les ressources en fer du pays, où les cloutiers prospéreront à la fin du Moyen Âge. Elle passe aussi pour l'une des premières fondations de l'ordre en France, vers 1130 ; nous n'avons pas trouvé l'acte qui le prouve, et la notice des Monuments historiques se borne à une mention de 1338, déjà sous les [[hospitaliers|Hospitaliers]]. L'enquête pontificale de 1373 la range parmi les biens « jadis du Temple ».
+texte: L'ensemble se trouve au flanc ouest du bourg, hors de l'enceinte que François Ier fit élever après Pavie (1525). En 1460, église, bâtiments et parc sont clos d'un mur ; les protestants détruisent l'église en 1567, et le commandeur Rouxel de Médavy la rebâtit sans rétablir ses voûtes : la nef garde une charpente du XVe siècle. L'église, les bâtiments et le mur de clôture ont été inscrits au titre des monuments historiques le 16 novembre 2009. Propriété privée, la commanderie se voit de l'extérieur depuis le village.
+repere: XIIe siècle — Fondation probable de la maison du Temple, date non attestée.
+repere: 1338 — Première mention documentaire connue, sous les Hospitaliers.
+repere: 1373 — L'enquête pontificale la range parmi les biens « jadis du Temple ».
+repere: 1567 — Les protestants détruisent l'église ; reconstruction sans voûtes.
+repere: 16 novembre 2009 — Inscription au titre des monuments historiques.
+attention: On lit que la chapelle de Coulours serait « l'une des plus anciennes chapelles templières de France » (vers 1130-1140) : l'église visible date des XIVe-XVe siècles et d'une reconstruction après 1567. La date de fondation vers 1130 est une tradition qu'aucun acte connu ne confirme.
+geo: 48.1675, 3.5836
+lieu: Coulours, Yonne, France
+lien: wp Commanderie de Coulours
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA89000042 = la notice Mérimée de la commanderie
+sources: Wikipédia (fr) : Commanderie de Coulours, Liste des commanderies templières en Bourgogne ; notice Mérimée PA89000042 ; Demurger, Les Templiers, 2005 ; Legras, L'enquête pontificale de 1373, 1987 (cité par Wikipédia)
+voir: temple-en-champagne, commanderie, provinces-du-temple, hospitaliers, avalleur, epailly
+
+# ── Paris et Île-de-France ──────────────────────────────────────────────────
+
+@ enclos-du-temple
+cat: france
+nom: L'enclos du Temple de Paris
+alias: Temple de Paris, maison du Temple de Paris, tour du Temple, Grande Tour, donjon du Temple, prison du Temple, couture du Temple, square du Temple, Carreau du Temple, grand prieuré de France
+dates: v. 1140 – 1808
+an: 1146
+fin: 1808
+def: Chef-lieu parisien de la province de France, avec son église à rotonde et, dès 1240, un donjon d'une cinquantaine de mètres ; le trésor royal y était gardé et [[jacques-de-molay|Jacques de Molay]] y fut arrêté en 1307. Prison de Louis XVI, la tour fut rasée à partir de 1808.
+texte: Les Templiers sont à Paris dès les années 1140 : une charte de l'évêque de Noyon mentionne leur maison en 1146. Installés d'abord près de la place de Grève, le « Vieux Temple », ils s'établissent vers 1170 au nord de la ville, sur des terres marécageuses qu'ils assainissent et lotissent, la couture du Temple ; l'enceinte de Philippe Auguste, bâtie vers 1200, les laisse en dehors, et en 1279 Philippe III leur confirme leur juridiction. L'enclos, ceint de murs crénelés, s'inscrit à peu près entre l'actuelle rue du Temple à l'ouest, la rue de Bretagne au sud et la rue de Picardie à l'est. Il renferme l'église Sainte-Marie-du-Temple, une rotonde du XIIe siècle à l'image du Saint-Sépulcre, complétée au XIIIe d'un chœur et d'un porche, les bâtiments des frères, des écuries, une tour dite de César et, à partir de 1240, la Grande Tour : un donjon carré d'une cinquantaine de mètres, aux murs épais de quatre mètres, flanqué de quatre tourelles rondes, avec une tour plus petite accolée à sa façade.
+texte: C'est le siège du maître de la province de France et, plus que toute autre maison, la caisse de l'ordre en Occident. Depuis Philippe Auguste, le Trésor royal y est déposé et tenu par un frère trésorier, qui reçoit les recettes des baillis et paie les dépenses du roi ; [[louis-ix|Louis IX]] y recourt, et [[philippe-le-bel|Philippe le Bel]] encore, après l'avoir transféré au Louvre en 1295 puis rendu au Temple en 1303 (voir [[banque-du-temple]]). Au matin du 13 octobre 1307, [[guillaume-de-nogaret|Guillaume de Nogaret]] y fait arrêter Jacques de Molay et les frères présents (voir [[arrestation-du-13-octobre-1307|l'arrestation du 13 octobre 1307]]) ; le 25 octobre, le maître y comparaît devant les maîtres de l'Université.
+texte: En 1312, l'ordre supprimé, l'enclos doit revenir aux [[hospitaliers|Hospitaliers]] ; le roi ordonne la remise le 28 mars 1313, mais retient le Temple de Paris plusieurs années. Il devient le siège du grand prieuré de France, agrandi à la fin du XVe siècle, puis une seigneurie urbaine privilégiée : justice propre, franchise des métiers, asile des débiteurs. En 1665-1667, le grand prieur Jacques de Souvré fait bâtir un palais par Pierre Delisle-Mansart et remplace la vieille muraille par une galerie à colonnes ; quatre mille personnes vivent dans l'enclos à la fin du XVIIIe siècle. Bien national en 1790, la tour sert de prison à la famille royale à partir du 13 août 1792 : Louis XVI en part pour l'échafaud le 21 janvier 1793, Louis XVII y meurt le 8 juin 1795. L'église est démolie en 1796 ; la tour, devenue lieu de pèlerinage royaliste, est abattue sur ordre de Napoléon à partir de 1808, en deux ans de travaux ; le palais disparaît en 1853. Le square du Temple (1857), le Carreau du Temple et la mairie du 3e arrondissement, dont l'angle nord marque l'emplacement du donjon, en occupent le cœur ; une plaque, rue Dupetit-Thouars, en rappelle le souvenir.
+repere: 1146 — Une charte mentionne la maison du Temple de Paris.
+repere: v. 1170 — Installation sur la couture du Temple, au nord de la ville.
+repere: 1240 — Début de la construction de la Grande Tour.
+repere: 13 octobre 1307 — Arrestation de Jacques de Molay au Temple.
+repere: 28 mars 1313 — Ordre royal de remise des biens aux Hospitaliers.
+repere: 1665-1667 — Construction du palais du grand prieur.
+repere: 13 août 1792 — La famille royale est enfermée dans la tour.
+repere: 1808 — Napoléon ordonne la démolition de la tour.
+attention: L'enclos ne couvrait pas « un tiers de Paris » : quelques hectares au nord du Marais. La tour où mourut Louis XVII était bien le donjon des Templiers, mais Jacques de Molay n'y a pas péri : le [[bucher-de-jacques-de-molay|bûcher de 1314]] fut dressé sur l'[[ile-aux-juifs|île aux Juifs]], en Seine.
+geo: 48.8645, 2.3608
+lieu: Paris, France
+lien: wp Prieuré hospitalier du Temple
+lien: wp Tour du Temple
+sources: Wikipédia (fr) : Prieuré hospitalier du Temple (ancien article « Enclos du Temple »), Tour du Temple ; Curzon, La Maison du Temple de Paris, 1888 ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Hélary, Les Templiers, 2018
+voir: banque-du-temple, arrestation-du-13-octobre-1307, jacques-de-molay, provinces-du-temple, hospitaliers, ile-aux-juifs, tresor-des-templiers, philippe-le-bel
+
+@ ile-aux-juifs
+cat: france
+nom: L'île aux Juifs
+alias: île des Juifs, île des Templiers, square du Vert-Galant, pointe de l'île de la Cité, lieu du bûcher de Jacques de Molay
+dates: bûcher de mars 1314
+an: 1314
+def: Îlot de la Seine, à l'ouest de l'île de la Cité, où [[jacques-de-molay|Jacques de Molay]] et [[geoffroy-de-charnay|Geoffroy de Charnay]] furent brûlés en mars 1314 ; rattaché à la Cité lors de la construction du Pont-Neuf, il forme aujourd'hui le square du Vert-Galant.
+texte: Au Moyen Âge, trois îlots prolongent l'île de la Cité vers l'aval : l'île aux Juifs, l'île à la Gourdaine et l'île du Patriarche. La première, qui appartient à l'abbaye de Saint-Germain-des-Prés, tire sans doute son nom d'exécutions de Juifs qui s'y sont déroulées ; elle sert de lieu de supplice à la vue du palais royal, sur l'autre rive du bras de Seine. C'est là que, le soir même du jour où trois cardinaux ont condamné les dignitaires du Temple à la prison perpétuelle, [[philippe-le-bel|Philippe le Bel]] fait brûler le maître Jacques de Molay et le commandeur de Normandie Geoffroy de Charnay, qui venaient de rétracter leurs aveux et de proclamer l'innocence de l'ordre (voir [[bucher-de-jacques-de-molay|le bûcher de 1314]]). Les moines de Saint-Germain protestèrent contre cette atteinte à leur droit de justice, et le roi leur répondit qu'il n'avait pas entendu léser leurs biens. La date est discutée : le 18 mars 1314 selon la tradition, le 11 mars selon plusieurs historiens qui relisent les chroniques (voir [[proces-des-templiers|le procès des Templiers]]).
+texte: Les trois îlots sont réunis à la Cité par les remblais du Pont-Neuf, construit de 1577 à 1607, et portent la place Dauphine ; la pointe qui subsiste en contrebas, cédée par l'État à la Ville de Paris en 1884, devient le square du Vert-Galant, du surnom d'Henri IV dont la statue domine le terre-plein. Une plaque, près de l'escalier, rappelle qu'à cet endroit fut brûlé le dernier maître de l'ordre, et retient la date du 18 mars. Les cérémonies que des associations « templières » y tiennent chaque mois de mars relèvent du [[neo-templarisme|néo-templarisme]], non de l'histoire.
+repere: mars 1314 — Molay et Charnay sont brûlés sur l'île aux Juifs, le 11 ou le 18.
+repere: 1577-1607 — Construction du Pont-Neuf ; les îlots sont rattachés à la Cité.
+repere: 1884 — L'État cède la pointe de l'île à la Ville : création du square du Vert-Galant.
+repere: 1958 — Classement du square au titre des sites.
+attention: Le bûcher n'a pas été dressé au Temple ni devant Notre-Dame, et l'île n'était pas « des Templiers » : ce nom lui vint après coup. La plaque du square donne le 18 mars 1314 ; les sources médiévales permettent aussi de lire le 11 mars.
+geo: 48.8572, 2.3403
+lieu: Paris, France
+lien: wp Île aux Juifs
+lien: wp Square du Vert-Galant
+sources: Wikipédia (fr) : Île aux Juifs, Square du Vert-Galant, Jacques de Molay ; Demurger, Jacques de Molay, 2007 ; Barber, The Trial of the Templars, 2006
+voir: bucher-de-jacques-de-molay, jacques-de-molay, geoffroy-de-charnay, proces-des-templiers, enclos-du-temple, philippe-le-bel, malediction-de-jacques-de-molay
+
+@ la-villedieu-elancourt
+cat: france
+nom: Commanderie de la Villedieu
+alias: La Villedieu, Villedieu-lès-Maurepas, Villedieu-lès-Trappes, Élancourt, la Comm@nderie, Saint-Quentin-en-Yvelines
+dates: 1150 – 1180 (fondation)
+an: 1176
+def: Commanderie rurale des Yvelines, fondée entre 1150 et 1180 aux portes de Paris, dont la chapelle du XIIIe siècle, sauvée de la ruine dans les années 1970, abrite aujourd'hui un lieu culturel de Saint-Quentin-en-Yvelines.
+texte: Aux confins de la forêt d'Yveline, à seize kilomètres à l'ouest de Versailles, les Templiers reçoivent de Gui II, seigneur de Chevreuse (1149-1182), une maison à La Brosse et une autre à La Villedieu ; une charte passée sous l'évêque de Chartres Jean de Salisbury (1176-1180) montre la [[commanderie]] déjà en place, et un accord avec l'abbaye de Saint-Denis la nomme « Villedieu de Maurepas » en septembre 1206. C'est une exploitation céréalière, avec un étang, dont la chapelle est bâtie au XIIIe siècle : un vaisseau d'environ vingt-huit mètres sur huit, haut de près de douze mètres, dont le portail à pointes de diamant garde l'accent du XIIe siècle. En 1312, elle passe aux [[hospitaliers|Hospitaliers]], qui la rattachent à Louviers-Vaumion puis, en 1474, à leur prieuré parisien de Saint-Jean-de-Latran ; la chapelle est alors dédiée à saint Jean-Baptiste. Les huguenots la rançonnent en 1567-1568.
+texte: Devenue ferme, la commanderie est inscrite au titre des monuments historiques en 1926 ; la ville nouvelle qui l'entoure à partir des années 1970 manque de l'emporter. L'établissement public d'aménagement l'achète en 1972 et la restaure de 1971 à 1978, puis la chapelle à nouveau en 2012. Depuis septembre 2024, le site est « la Comm@nderie », tiers-lieu culturel et numérique de Saint-Quentin-en-Yvelines ; la chapelle se visite gratuitement certains après-midi, et le parc est libre.
+repere: 1150-1180 — Fondation de la commanderie sur des dons de Gui II de Chevreuse.
+repere: septembre 1206 — Première mention du nom « Villedieu de Maurepas ».
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 1926 — Inscription au titre des monuments historiques.
+repere: 1971-1978 — Restauration par l'établissement public de la ville nouvelle.
+repere: 2024 — Ouverture de « la Comm@nderie », tiers-lieu culturel.
+attention: Les toponymes en « Villedieu » signalent souvent une fondation d'ordre religieux, mais pas nécessairement templière : celle-ci l'est par ses chartes, non par son nom. Le vocable de saint Jean-Baptiste date des Hospitaliers.
+geo: 48.7650, 1.9651
+lieu: Élancourt, Yvelines, France
+lien: wp Commanderie de La Villedieu
+lien: url https://saint-quentin-en-yvelines.fr/vivre-ici/culture/la-commanderie/ = la Comm@nderie, site de l'agglomération
+sources: Wikipédia (fr) : Commanderie de La Villedieu, Liste des commanderies templières en Île-de-France ; coordonnées : Wikipédia et OpenStreetMap (commanderie)
+voir: commanderie, enclos-du-temple, hospitaliers, coulommiers, chevru, sours
+
+@ coulommiers
+cat: france
+nom: Commanderie de Coulommiers
+alias: commanderie des Templiers de Coulommiers, chapelle Sainte-Anne de Coulommiers, Brie templière
+dates: 1173 – 1312 (Temple)
+an: 1173
+fin: 1312
+def: Commanderie briarde fondée vers 1173 sur des terres du comte de Champagne, passée aux Hospitaliers puis aux grands prieurs de France ; sauvée de la démolition par des bénévoles à partir de 1966, elle conserve chapelle, salle capitulaire, logis, pigeonnier et un jardin médiéval.
+texte: Henri Ier le Libéral, comte de Champagne, donne aux Templiers les terres de Coulommiers en 1172-1173 ; la confirmation du don est datée de 1173-1174, et la maison est nommée en 1220. La chapelle Sainte-Anne, incendiée, est rebâtie en 1205 : une nef unique voûtée d'ogives, qui reçoit vers 1210 un décor peint de faux joints sur les murs et les voûtes. La salle du chapitre, couverte de voûtes portées par des colonnes, le logis du commandeur et ses caves suivent au XIIIe siècle, autour d'une cour close de murs, sur le plan ordinaire des maisons rurales de l'ordre. Le comte Thibaud IV s'inquiète de l'enrichissement de l'ordre et obtient de [[louis-ix|Louis IX]] qu'il ne puisse plus acquérir sans son accord. On connaît des commandeurs, Robert le Frison vers 1267-1291, puis le frère sergent Rémi vers 1300-1307 ; le 13 octobre 1307, quatre frères seulement y sont arrêtés, et le domaine, confié au prévôt de Coulommiers, compte 420 arpents, soit deux cents hectares (voir [[commanderie]]).
+texte: En 1312, les [[hospitaliers|Hospitaliers]] en héritent et la remanient au XVe siècle, après l'occupation bourguignonne de 1420-1449 ; en 1479, la commanderie est unie à celle de Paris, ses commandeurs étant désormais les grands prieurs de France, qui rebâtissent le logis en manière de palais abbatial. La gravure de Claude Chastillon, vers 1600, montre l'ensemble ; le pigeonnier, aux 393 boulins, date des XVIe-XVIIe siècles. Saisie et pillée sous la Terreur, vendue en 1794 au fermier Pierre Josse, la commanderie devient une ferme, et la chapelle une grange à foin. Inscrite en 1932, achetée par la commune en 1964 pour un lotissement, la commanderie est sauvée en 1966 par les Amis du musée du papier ; la chapelle est restaurée dès 1969, des bénévoles animent le site depuis 1990, un jardin d'inspiration médiévale de 4 000 mètres carrés, dessiné par le paysagiste Joël Chatain et riche de quelque deux cent cinquante espèces de plantes, est créé en 1993, et le classement vient en 1994. Elle se visite de mars à octobre avec l'association des Amis de la commanderie ; la charpente du logis était en restauration en 2022.
+repere: 1173 — Henri le Libéral donne les terres de Coulommiers ; confirmation en 1173-1174.
+repere: 1205 — Reconstruction de la chapelle après un incendie ; décor peint vers 1210.
+repere: 13 octobre 1307 — Quatre frères sont arrêtés à Coulommiers.
+repere: 1479 — La commanderie est unie à celle de Paris et relève des grands prieurs de France.
+repere: 1794 — Vente comme bien national ; la chapelle devient grange.
+repere: 1966 — Les Amis du musée du papier sauvent le site promis à la démolition.
+repere: 1994 — Classement au titre des monuments historiques.
+attention: Le passage souterrain qui partait de la cave, comblé en 1820 puis effondré vers 1850, nourrit des récits de galeries secrètes que rien n'appuie. Le logis et le pigeonnier sont hospitaliers ; de la période templière restent la chapelle, la salle capitulaire et le plan.
+geo: 48.8239, 3.0945
+lieu: Coulommiers, Seine-et-Marne, France
+lien: wp Commanderie de Coulommiers
+sources: Wikipédia (fr) : Commanderie de Coulommiers, Liste des commanderies templières en Île-de-France ; Baptiste, La Commanderie des Templiers de Coulommiers, 2000, et Mannier, 1872 (cités par Wikipédia) ; condensé du dossier « Sites templiers en France » (Drive) ; coordonnées : fiche Coulommiers de l'application Sites templiers (2026)
+voir: commanderie, chevru, provins, enclos-du-temple, hospitaliers, temple-en-champagne, architecture-templiere, la-villedieu-elancourt
+
+@ chevru
+cat: france
+nom: Commanderie de Chevru
+alias: Chevru, ferme de la Commanderie de Chevru, Domus Templi de Cheruto
+dates: 1202 – 1312 (Temple)
+an: 1202
+fin: 1312
+def: Maison du Temple de la Brie, à treize kilomètres de Coulommiers, attestée en 1202 et agrandie en 1209 grâce à Blanche de Navarre ; sa chapelle vers 1210, sœur de celle de Coulommiers, est aujourd'hui dans une ferme privée.
+texte: Le plus ancien texte sur la [[commanderie]] de Chevru date de 1202. Blanche de Navarre, comtesse de Troyes, donne aux Templiers une première terre ; en 1209, ils complètent le domaine par un échange et achètent aux moines de La Charité-sur-Loire tout ce qu'ils tiennent à Chevru. La chapelle est bâtie vers 1210 : ses ressemblances avec celle de [[coulommiers|Coulommiers]], rebâtie en 1205, permettent de la dater. Arnoul III de Wezemaal, commandeur de Reims puis de la baillie de Brie — c'est lui qui reçoit des frères au [[mont-de-soissons|Mont-de-Soissons]] dans les années 1280 —, y est enterré à sa mort, en 1291. Les actes du procès nomment la maison « Domus Templi de Cheruto », au diocèse de Sens.
+texte: En 1312, les [[hospitaliers|Hospitaliers]] en héritent ; en 1470, ils lui unissent les commanderies de Rigny et de Chauffour. Plusieurs bâtiments de la ferme datent de leur temps. La voûte de la chapelle commence à s'effondrer en 1787 ; l'ensemble, propriété privée, ne se voit que de la route.
+repere: 1202 — Plus ancienne mention de la maison de Chevru.
+repere: 1209 — Les Templiers achètent les biens des moines de La Charité à Chevru.
+repere: v. 1210 — Construction de la chapelle.
+repere: 1291 — Arnoul de Wezemaal, commandeur de la baillie de Brie, est inhumé dans la chapelle.
+repere: 1470 — Les Hospitaliers unissent Rigny et Chauffour à Chevru.
+attention: Un récit tiré du procès fait échapper en 1307 le précepteur Gérard de Provins à ses poursuivants depuis Chevru : la page qui le rapporte n'en donne pas la source, et les actes montrent surtout des frères arrêtés sans résistance.
+geo: 48.7343, 3.1765
+lieu: Chevru, Seine-et-Marne, France
+lien: wp Commanderie de Chevru
+sources: Wikipédia (fr) : Commanderie de Chevru, Liste des commanderies templières en Île-de-France ; Demurger, Les Templiers, 2005 ; Archives nationales, S 5179 (cité par Wikipédia)
+voir: coulommiers, commanderie, mont-de-soissons, provins, hospitaliers, temple-en-champagne
+
+@ provins
+cat: france
+nom: Provins
+alias: maison du Temple de Provins, commanderie de la Madeleine, Sainte-Croix de Provins, cartulaire de Provins, grange aux dîmes de Provins, foires de Provins, rue des Templiers
+dates: maison fondée en 1193
+an: 1193
+def: Ville des foires de Champagne, inscrite au patrimoine mondial, où le Temple fonda une maison en 1193 et compila vers 1212 un cartulaire célèbre ; la grange aux dîmes qu'on y visite n'est pas templière.
+texte: Provins est, avec Troyes, Lagny et Bar-sur-Aube, l'une des quatre villes du cycle des foires de Champagne ; deux des six foires du cycle s'y tiennent, celle de mai et celle de Saint-Ayoul en septembre. Les Templiers y sont présents tôt par leurs bienfaiteurs : le sénéchal de Champagne André de Baudement leur promet en 1133 son château de Baudement, et Dreux de Pierrefonds matérialise le don en remettant un couteau aux frères — mais, comme l'a montré Michael Peixoto, la maison de Provins elle-même n'est fondée qu'en 1193, par des donations près de l'église Sainte-Croix, dans la ville haute. Les actes plus anciens ont été copiés après coup dans le cartulaire compilé vers 1212, mémoire choisie des liens que les frères voulaient se donner (voir [[cartulaires-du-temple|les cartulaires et les archives]]). La [[commanderie]], dite de la Madeleine, s'étend entre la rue de Jouy et l'actuelle rue des Templiers ; elle tient aussi des maisons en ville. En octobre 1307, les frères de Provins sont arrêtés et enfermés au château de Melun ; les biens passent aux [[hospitaliers|Hospitaliers]] en 1312.
+texte: Provins conserve son enceinte, sa tour César et sa ville haute, inscrites au patrimoine mondial le 13 décembre 2001. La grange aux dîmes de la ville haute, souvent prise pour un bâtiment du Temple, est une maison de marchands du XIIe siècle qui appartenait avant 1176 au chapitre de Saint-Quiriace et servait d'entrepôt pendant les foires ; des scènes y évoquent aujourd'hui la vie médiévale. Du Temple de Provins, il ne reste que les noms des rues et le cartulaire, publié par Victor Carrière en 1919.
+repere: 1133 — André de Baudement promet son château de Baudement aux Templiers.
+repere: 1193 — Fondation de la maison du Temple près de Sainte-Croix.
+repere: v. 1212 — Compilation du cartulaire des Templiers de Provins.
+repere: octobre 1307 — Les frères de Provins sont emprisonnés au château de Melun.
+repere: 1919 — Victor Carrière publie l'*Histoire et cartulaire des Templiers de Provins*.
+repere: 13 décembre 2001 — Provins est inscrite au patrimoine mondial.
+attention: La grange aux dîmes n'a jamais appartenu aux Templiers : elle relevait du chapitre de Saint-Quiriace. Et le lien entre les foires et une « banque templière » de Provins est une extrapolation : les frères y possédaient des maisons, comme d'autres établissements religieux.
+geo: 48.5603, 3.2989
+lieu: Provins, Seine-et-Marne, France
+lien: wp Provins
+lien: wp Foires de Champagne
+lien: url https://www.medievalists.net/2014/10/ghost-commandery-shaping-local-templar-identity-cartulary-provins/ = résumé de l'étude de Michael Peixoto sur le cartulaire de Provins
+sources: Wikipédia (fr) : Provins, Liste des commanderies templières en Île-de-France, Foires de Champagne ; Peixoto, « Ghost Commandery », dans Studies in Medieval and Renaissance History, 2009 (résumé Medievalists.net) ; Carrière, Histoire et cartulaire des Templiers de Provins, 1919 ; coordonnées : Wikipédia (centre de la commune)
+voir: temple-en-champagne, troyes, cartulaires-du-temple, banque-du-temple, coulommiers, chevru, economie-du-temple
+
+# ── Picardie, Beauce et Perche ──────────────────────────────────────────────
+
+@ laon
+cat: france
+nom: Chapelle des Templiers de Laon
+alias: commanderie de Laon, chapelle octogonale de Laon, musée d'Art et d'Archéologie du Pays de Laon, Gervais de Beauvais
+dates: v. 1140
+an: 1140
+def: Chapelle de plan octogonal bâtie vers 1140 par les Templiers de Laon, l'une des deux rotondes templières conservées en France avec celle de Metz ; propriété de la ville depuis 1835, elle se dresse dans le jardin du musée.
+texte: Les frères s'établissent à Laon vers 1128, avec l'appui de l'évêque Barthélemy de Jur, et s'installent vers 1134 à la limite sud du cloître de la cathédrale ; le 2 janvier 1141, Louis VII confirme la donation de leur maison et l'affranchit du cens royal. La bulle [[omne-datum-optimum]] leur ayant permis en 1139 d'avoir leurs propres oratoires et d'y inhumer leurs morts, ils bâtissent vers 1140 une chapelle à plan centré : une nef octogonale d'environ neuf mètres de diamètre intérieur, couverte d'une coupole à huit nervures, prolongée à l'est par un chœur fermé en cul-de-four et précédée à l'ouest d'un porche voûté ; le clocher-mur qui surmonte le porche date du XIVe siècle. Les seigneurs de Marle, de Roucy, de Pierrepont, de Montaigu enrichissent la maison. En 1307, son précepteur, Gervais de Beauvais, est arrêté ; les biens passent ensuite aux [[hospitaliers|Hospitaliers]].
+texte: La ville rachète la chapelle en 1835 et elle figure sur les premières listes des monuments historiques, en 1840-1846. Depuis 1891, le musée de Laon occupe les bâtiments voisins ; la chapelle, qui se visite avec lui, abrite des dalles funéraires et deux statues-colonnes médiévales. Le transi du médecin Guillaume de Harcigny, mort en 1393, que l'on associe souvent à la visite, vient de l'église des Cordeliers et appartient aux collections du musée.
+repere: v. 1128 — Les Templiers s'établissent à Laon avec l'appui de l'évêque Barthélemy de Jur.
+repere: v. 1140 — Construction de la chapelle octogonale.
+repere: 2 janvier 1141 — Louis VII confirme la donation de la maison du Temple.
+repere: 1307 — Arrestation du précepteur Gervais de Beauvais.
+repere: 1835 — La ville de Laon rachète la chapelle.
+repere: 1891 — Le musée s'installe dans les bâtiments contigus.
+attention: Le plan octogonal évoque le Saint-Sépulcre ou le dôme du Rocher, que les croisés appelaient « Temple du Seigneur », mais il n'est pas la marque de l'ordre : la plupart des chapelles templières sont de simples nefs rectangulaires, et Laon et Metz sont des exceptions (voir [[architecture-templiere]]).
+geo: 49.5630, 3.6271
+lieu: Laon, Aisne, France
+lien: wp Commanderie de Laon
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00115712 = la notice Mérimée de la chapelle
+sources: Wikipédia (fr) : Commanderie de Laon ; notice Mérimée PA00115712 ; Jorrand, La Chapelle des Templiers de Laon (cité par Wikipédia) ; coordonnées : OpenStreetMap et fiche Laon de l'application Sites templiers (2026)
+voir: metz, architecture-templiere, omne-datum-optimum, chapelains-du-temple, hospitaliers, mont-de-soissons
+
+@ mont-de-soissons
+cat: france
+nom: Commanderie du Mont-de-Soissons
+alias: Mont-de-Soissons, Serches, Vauberelain, commanderie de Maupas
+dates: 1133 – 1312 (Temple)
+an: 1133
+fin: 1312
+def: Commanderie du Soissonnais, sur la commune de Serches, dotée dès 1133 et devenue une grande ferme ; sa chapelle, son logis et sa grange du XIIIe siècle, inscrits en 1927, forment un ensemble rare dans le nord de la France, en mains privées.
+texte: Le Mont-de-Soissons occupe un plateau au sud-est de Soissons. Les premiers biens y sont donnés en 1133 ; un certain Ansculfe les accroît en 1157, et l'année suivante Agnès et son époux Robert, comte de Braine, cèdent aux frères leurs possessions de Vauberelain. Les bâtiments actuels sont du XIIIe siècle : une chapelle, un corps de logis et une grange, organisés autour de la cour d'une grande exploitation agricole (voir [[commanderie]]). Entre 1283 et 1286, Arnoul de Wezemaal, précepteur de la baillie de Brie, y reçoit dans l'ordre deux frères, Gautier de Bailleul et Gilles d'Espernaut — de ces cérémonies de [[reception-dans-l-ordre|réception]] les accusations de 1307 tireront le grief du reniement. Après le procès, les [[hospitaliers|Hospitaliers]] reprennent le domaine et le rattachent à leur maison de Maupas ; des commandeurs y sont nommés jusqu'en 1787.
+texte: La chapelle, le logis et la grange sont inscrits au titre des monuments historiques depuis le 3 juin 1927. La ferme est privée et ne se visite pas, hors ouvertures exceptionnelles ; les bâtiments se voient de l'extérieur.
+repere: 1133 — Premiers biens donnés aux Templiers au Mont-de-Soissons.
+repere: 1158 — Agnès et Robert, comte de Braine, donnent leurs possessions de Vauberelain.
+repere: XIIIe siècle — Construction de la chapelle, du logis et de la grange.
+repere: 1283-1286 — Arnoul de Wezemaal y reçoit deux frères dans l'ordre.
+repere: 3 juin 1927 — Inscription au titre des monuments historiques.
+attention: La notice Wikipédia attribue le don de 1133 à un « Gauthier, évêque de Soissons » ; l'évêque de Soissons était alors Josselin de Vierzy : l'identité du donateur reste à établir. Ce qui est sûr, c'est la date et la continuité du domaine jusqu'à la Révolution.
+geo: 49.3235, 3.4455
+lieu: Serches, Aisne, France
+lien: wp Commanderie du Mont-de-Soissons
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00115928 = la notice Mérimée de la commanderie
+sources: Wikipédia (fr) : Commanderie du Mont-de-Soissons ; notice Mérimée PA00115928 ; coordonnées : OpenStreetMap
+voir: commanderie, laon, chevru, reception-dans-l-ordre, hospitaliers, economie-du-temple, neuilly-sous-clermont
+
+@ neuilly-sous-clermont
+cat: france
+nom: Commanderie de Neuilly-sous-Clermont
+alias: Neuilly-sous-Clermont, commanderie de Neuilly, Clermontois, Sommereux, jardins de la commanderie
+dates: 1168 – 1312 (Temple)
+an: 1168
+fin: 1312
+def: Maison du Temple du Clermontois, dans l'Oise, fondée en 1168, dont la chapelle à peintures médiévales et le logis achevé en 1562 sous les Hospitaliers subsistent dans une propriété privée classée dès 1913, connue aussi pour ses jardins.
+texte: La maison du Temple de Neuilly, au sud de Clermont, est fondée en 1168 : c'est la date retenue par la notice de référence, qui situe plus largement l'établissement dans la seconde moitié du XIIe siècle. C'est un domaine rural de terres agricoles, de vergers et de vignes, entouré de murs. Sa chapelle, d'origine templière, est remaniée au XIVe siècle et conserve des restes de peintures murales médiévales. Après le procès, les [[hospitaliers|Hospitaliers]] en font une maison rattachée à leur commanderie de Sommereux ; ruinée par les guerres de la fin du Moyen Âge, elle est relevée aux XVe et XVIe siècles, et le logis est achevé en 1562.
+texte: Confisquée à la Révolution, la commanderie est classée au titre des monuments historiques le 20 août 1913 ; les murs de clôture et une cave extérieure s'y ajoutent par une inscription du 21 décembre 2013. En 1961, Jean et Maddy Ariès en deviennent propriétaires, la restaurent et créent à partir de 1980 des jardins inscrits au pré-inventaire des jardins remarquables. Le site est privé ; on le voit depuis la rue de la Commanderie, et il s'ouvre lors de manifestations ponctuelles.
+repere: 1168 — Fondation de la maison du Temple de Neuilly.
+repere: XIVe siècle — Remaniement de la chapelle et de son décor peint.
+repere: 1562 — Achèvement du logis par les Hospitaliers.
+repere: 20 août 1913 — Classement au titre des monuments historiques.
+repere: 1961 — Jean et Maddy Ariès acquièrent le domaine.
+attention: Le nom de Raoul de Clermont comme fondateur et le vocable de saint Jean-Baptiste pour la chapelle, qui circulent, ne figurent pas dans les notices consultées ; le logis à l'allure de manoir est hospitalier, du XVIe siècle.
+geo: 49.3458, 2.4133
+lieu: Neuilly-sous-Clermont, Oise, France
+lien: wp Commanderie de Neuilly-sous-Clermont
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00114774 = la notice Mérimée de la commanderie
+sources: Wikipédia (fr) : Commanderie de Neuilly-sous-Clermont ; notice Mérimée PA00114774 ; coordonnées : OpenStreetMap et Wikipédia
+voir: commanderie, hospitaliers, mont-de-soissons, laon, economie-du-temple
+
+@ sours
+cat: france
+nom: Maison du Temple de Sours
+alias: commanderie de Sours, Sours, baillie de Chartres, Alix de France, Génerville
+dates: 1191 – 1312 (Temple)
+an: 1191
+fin: 1312
+def: Maison du Temple de la Beauce chartraine, fondée en 1191-1192 dans la résidence que lui céda Alix de France, comtesse de Blois et de Chartres ; tenue ensuite par les Hospitaliers jusqu'à la Révolution, elle n'a laissé que des bâtiments de ferme.
+texte: En 1191, le comte Thibaut V de Blois meurt au siège d'Acre, pendant la [[troisieme-croisade|troisième croisade]]. Sa veuve, Alix de France, fille de Louis VII, gouverne alors depuis sa grande ferme de Sours, à quelques kilomètres à l'est de Chartres ; elle la donne aux [[ordre-du-temple|Templiers]] et les autorise à y fonder une chapelle. La maison, datée de 1192, reçoit en 1204 d'un certain Guillaume deux muids de grain par an sur un grenier du hameau de Génerville, et se heurte au début du XIIIe siècle aux seigneurs de Montdoubleau, dont le vicomte est excommunié par le juge délégué du pape. On connaît quelques commandeurs, Jean vers 1231, Guillaume Bocel vers 1273, Guillaume Gaudin vers 1286. Sours relève du précepteur du pays chartrain, au cœur des terres à blé qui font la richesse de l'ordre au nord de la Loire (voir [[economie-du-temple]]).
+texte: En 1312, la maison passe aux [[hospitaliers|Hospitaliers]], dont les commandeurs se succèdent de 1334 à 1783. En 1902, l'abbé Charles Métais, éditeur du cartulaire des Templiers d'Eure-et-Loir, y décrit encore une grange, une chapelle et un colombier rond ; le portail à double arc a été démoli avant 1900. Il ne reste aujourd'hui rien de lisible du Temple : la rue de la Commanderie et une ferme en gardent le souvenir.
+repere: 1191 — Alix de France donne sa résidence de Sours aux Templiers.
+repere: 1204 — Rente de deux muids de grain sur le grenier de Génerville.
+repere: 1312 — La maison passe aux Hospitaliers.
+repere: 1902 — L'abbé Métais décrit les bâtiments dans son cartulaire.
+attention: On lit que le maître [[guillaume-de-chartres|Guillaume de Chartres]] aurait été lié à Sours, ou que le donateur de 1204 serait lui : rien ne l'atteste, et l'identification est rejetée par la notice de référence.
+geo: 48.4106, 1.5981
+lieu: Sours, Eure-et-Loir, France
+lien: wp Commanderie de Sours
+sources: Wikipédia (fr) : Commanderie de Sours ; Métais, Les Templiers en Eure-et-Loir. Histoire et cartulaire, 1902 (cité par Wikipédia) ; coordonnées : Wikipédia et OpenStreetMap
+voir: commanderie, arville, guillaume-de-chartres, economie-du-temple, hospitaliers, cartulaires-du-temple
+
+@ arville
+cat: france
+nom: Commanderie d'Arville
+alias: Arville, Couëtron-au-Perche, Temple-près-Mondoubleau, Perche templier, commanderie templière d'Arville
+dates: XIIe siècle – 1312 (Temple)
+an: 1169
+fin: 1312
+def: Commanderie du Perche vendômois, attestée en 1169, dont l'église romane, la porterie, la grange et le colombier forment l'un des ensembles les plus complets de France ; les bâtiments les plus spectaculaires sont l'œuvre des Hospitaliers au XVIe siècle.
+texte: Arville est un village du Perche, aux confins du Vendômois et du pays dunois, aujourd'hui rattaché à la commune de Couëtron-au-Perche. La maison du Temple-près-Mondoubleau, voisine, est mentionnée dès 1134 et fut peut-être sa maison mère ; un Guillaume d'Arville apparaît comme témoin vers 1130, sans qu'on sache s'il était templier. La présence des frères à Arville est sûre en 1169. Les seigneurs du pays les dotent : Hugues IV de Châteaudun en 1176, avec un cheptel de vingt vaches et dix porcs ; le comte Thibaut V de Blois en 1185 ; Regnaud d'Alluyes en 1199. En 1209, sept frères y sont recensés autour d'un moulin, de bois et de terres. Les rapports avec Geoffroy V de Châteaudun sont orageux : excommunié le 30 mai 1216, le vicomte transige en novembre 1218. Les registres du Trésor du Temple de Paris montrent qu'en 1295-1296 la [[commanderie]] y dépose des fonds.
+texte: Le 13 octobre 1307, les frères sont arrêtés ; le chapelain Denis Le Neveu est interrogé le 25 février 1310. Remise aux [[hospitaliers|Hospitaliers]] sur ordre royal du 28 mars 1313, la maison est affermée après l'enquête pontificale de 1373 et souffre de la guerre de Cent Ans. Sa renaissance date d'Emery d'Amboise, commandeur en 1478 et futur grand maître de l'ordre à Rhodes en 1503 : au début du XVIe siècle, les Hospitaliers restaurent l'ensemble, élèvent sur l'ancienne porte un pavillon carré flanqué de deux tours à dômes, au décor de briques vernissées en damiers et losanges, couvrent la grange d'une charpente neuve et bâtissent le colombier qui remplace celui de 1489. L'église, elle, est le bâtiment le plus ancien : une nef rectangulaire du XIIe siècle éclairée de baies étroites en plein cintre, une abside semi-circulaire, un clocher-mur ; sa voûte lambrissée de châtaignier date sans doute du XVIe siècle (voir [[architecture-templiere]]).
+texte: Vendue en 1793, la commanderie est rachetée en 1876 par la commune, qui fait de la maison un presbytère. Inscrite au titre des monuments historiques en 1954, elle doit son sauvetage à un syndicat intercommunal qui rachète la grange et le colombier en 1982 et aux bénévoles du chantier CHAM (1984-1986) ; une association la fait vivre depuis 1999, et le loto du patrimoine lui a attribué 90 000 euros en 2024. On y visite l'église, la porterie, la grange, le colombier, le four à pain restauré et un centre d'interprétation consacré aux ordres religieux et militaires.
+repere: 1134 — Mention de la maison du Temple-près-Mondoubleau, voisine d'Arville.
+repere: 1169 — La présence des Templiers à Arville est attestée.
+repere: 1176 — Donation d'Hugues IV de Châteaudun.
+repere: 25 février 1310 — Interrogatoire du frère chapelain Denis Le Neveu.
+repere: 28 mars 1313 — Ordre royal de remise aux Hospitaliers.
+repere: début XVIe siècle — Les Hospitaliers élèvent la porterie à tours et restaurent l'ensemble.
+repere: 1876 — La commune rachète la commanderie.
+repere: 1954 — Inscription au titre des monuments historiques.
+attention: La porterie à tourelles qui sert d'emblème au site et la charpente « en carène » de l'église ne sont pas templières : elles datent du XVIe siècle et des Hospitaliers. La fondation « vers 1130 » souvent avancée n'est pas prouvée, et le superlatif de « commanderie la mieux conservée de France » relève de la promotion touristique.
+geo: 48.0644, 0.9470
+lieu: Couëtron-au-Perche, Loir-et-Cher, France
+lien: wp Commanderie d'Arville
+lien: url https://commanderie-arville.com/ = le site de la commanderie (visites, animations)
+sources: Wikipédia (fr) : Commanderie d'Arville ; Demurger, Les Templiers, 2005 ; Métais, Les Templiers en Eure-et-Loir, 1902, et Delisle, Mémoire sur les opérations financières des Templiers, 1889 (cités par Wikipédia) ; condensé du dossier « Sites templiers en France » (Drive) ; coordonnées : fiche Arville de l'application Sites templiers (2026)
+voir: commanderie, architecture-templiere, hospitaliers, sours, enclos-du-temple, coulommiers, economie-du-temple
+
+# ── Normandie, Val de Loire et Nord ─────────────────────────────────────────
+
+@ gisors
+cat: france
+nom: Château de Gisors
+alias: Gisors, donjon de Gisors, tour du Prisonnier, trésor de Gisors, Roger Lhomoy, Les Templiers sont parmi nous, Marguerite de France
+dates: garde templière 1158 – 1160 ; légende depuis 1946
+an: 1158
+def: Forteresse du Vexin normand, confiée en 1158 à trois Templiers comme gage d'un mariage royal et où furent détenus les dignitaires de l'ordre de 1310 à 1314 ; depuis 1946 et un livre de 1962, on y cherche en vain le trésor du Temple.
+texte: Gisors garde la frontière de la Normandie face au domaine capétien. Robert de Bellême y élève une motte en 1097 pour Guillaume le Roux ; Henri Ier Beauclerc remplace vers 1123 le donjon de bois par un donjon de pierre octogonal et ceint la motte d'un mur ; Henri II Plantagenêt rehausse le donjon en 1161 et lance en 1170 une seconde enceinte de huit cents mètres à huit tours. Le château appartient ainsi à l'histoire anglo-normande bien plus qu'à celle du Temple, qui n'y paraît qu'à deux moments.
+texte: Le premier est diplomatique. En 1158, Louis VII et Henri II conviennent de marier Marguerite de France, fille du roi, âgée de six mois, au fils aîné d'Henri ; Gisors et le Vexin normand forment sa dot, et la forteresse est remise en garde à trois [[chevaliers-du-temple|frères chevaliers]] — Robert de Pirou, Tostes de Saint-Omer et Richard de Hastings, ce dernier nom restant discuté — jusqu'au mariage. Henri II le fait célébrer dès 1160 et les frères lui remettent la place : c'est l'un des premiers exemples de l'ordre servant de tiers de confiance entre deux rois. Le second est carcéral. Philippe Auguste prend Gisors en 1193, et le château devient forteresse royale ; de mars 1310 à mars 1314, [[jacques-de-molay|Jacques de Molay]], [[hugues-de-pairaud|Hugues de Pairaud]], [[geoffroy-de-gonneville|Geoffroy de Gonneville]] et [[geoffroy-de-charnay|Geoffroy de Charnay]] y sont gardés, jusqu'à leur transfert à Paris pour la sentence qui mène deux d'entre eux au [[bucher-de-jacques-de-molay|bûcher]]. La tour du Prisonnier, bâtie vers 1200, conserve des figures sculptées dans la pierre de son cachot : elles sont attribuées à Nicolas Poulain, lieutenant de la prévôté de Paris, qui y fut enfermé vers 1575, et non aux Templiers.
+texte: La légende est du XXe siècle. Roger Lhomoy, gardien et jardinier du château, creuse en secret sous le donjon et déclare en 1946 avoir découvert une chapelle souterraine et une trentaine de coffres ; personne ne retrouve sa crypte, et il est congédié. [[tresor-des-templiers|Le trésor]] trouve son auteur en 1962 : Gérard de Sède publie *Les Templiers sont parmi nous, ou l'Énigme de Gisors*, où trois chariots chargés de l'or du Temple auraient quitté Paris la veille des arrestations et fait halte à Gisors. Le livre a un tel succès que le ministère des Affaires culturelles d'André Malraux fait fouiller le donjon en 1964 : on ne trouve rien, et les fouilles déstabilisent les fondations. Le château, classé dès 1862, est en restauration depuis 2021 ; le parc est en accès libre, et l'office de tourisme fait visiter en saison le donjon et la tour du Prisonnier.
+repere: 1097 — Robert de Bellême élève la motte pour Guillaume le Roux.
+repere: 1158 — Gisors, dot de Marguerite de France, est confié à trois Templiers.
+repere: 1160 — Henri II fait célébrer le mariage et reçoit la place des mains des frères.
+repere: 1193 — Philippe Auguste prend Gisors.
+repere: mars 1310 — Les dignitaires du Temple sont détenus à Gisors jusqu'en mars 1314.
+repere: 1946 — Roger Lhomoy dit avoir trouvé une chapelle souterraine et des coffres.
+repere: 1962 — *Les Templiers sont parmi nous*, de Gérard de Sède.
+repere: 1964 — Fouilles officielles du donjon : rien n'est trouvé.
+attention: Aucune source médiévale ne mentionne un trésor du Temple à Gisors, ni des chariots partis de Paris en octobre 1307 : le récit naît du témoignage invérifiable de Roger Lhomoy et du livre de Gérard de Sède. Les sculptures du cachot de la tour du Prisonnier, que l'on a voulues templières, sont attribuées à un prisonnier du XVIe siècle.
+geo: 49.2810, 1.7758
+lieu: Gisors, Eure, France
+lien: wp Château de Gisors
+lien: wp Légendes au sujet des Templiers
+sources: Wikipédia (fr) : Château de Gisors, Légendes au sujet des Templiers ; Demurger, Jacques de Molay, 2007 ; Hélary, Les Templiers. Leur faux trésor, leur vraie puissance, 2018 ; Mesqui, Le Château de Gisors aux XIIe et XIIIe siècles, 1990 (cité par Wikipédia) ; coordonnées : fiche Gisors de l'application Sites templiers (2026)
+voir: tresor-des-templiers, jacques-de-molay, hugues-de-pairaud, geoffroy-de-charnay, graffiti-de-domme-et-chinon, foret-d-orient, chinon
+
+@ chinon
+cat: france
+nom: Chinon
+alias: forteresse royale de Chinon, tour du Coudray, donjon du Coudray, graffiti des Templiers de Chinon, parchemin de Chinon, Bérenger Frédol, Étienne de Suisy, Landolfo Brancaccio
+dates: août 1308
+an: 1308
+def: Forteresse royale de Touraine où, du 17 au 20 août 1308, trois cardinaux envoyés par Clément V entendirent Jacques de Molay et quatre dignitaires du Temple et les absolurent ; la tour du Coudray porte des graffiti que la tradition attribue aux prisonniers.
+texte: Chinon domine la Vienne par trois châteaux juxtaposés sur un éperon : le fort Saint-Georges, le château du Milieu et le fort du Coudray. Place maîtresse des Plantagenêts, la forteresse tombe en 1205 aux mains de Philippe Auguste, qui fait bâtir à l'extrémité ouest le donjon cylindrique du Coudray. Elle devient prison royale autant que résidence.
+texte: À l'été 1308, [[clement-v|Clément V]], installé à Poitiers, entend lui-même soixante-douze Templiers que le roi lui a envoyés. Les dignitaires, détenus dans la forteresse sur ordre de Philippe le Bel depuis le printemps, restent en arrière, officiellement parce que certains, malades, ne peuvent faire le chemin jusqu'à Poitiers. Le pape délègue trois cardinaux, Bérenger Frédol, Étienne de Suisy et Landolfo Brancaccio. Le 17 août, ils entendent le commandeur de Chypre, [[raimbaud-de-caron|Raimbaud de Caron]], le commandeur de Normandie, [[geoffroy-de-charnay|Geoffroy de Charnay]], et celui d'Aquitaine et de Poitou, [[geoffroy-de-gonneville|Geoffroy de Gonneville]] ; le 19, le visiteur de France, [[hugues-de-pairaud|Hugues de Pairaud]] ; le 20, le maître, [[jacques-de-molay|Jacques de Molay]]. Tous reconnaissent une partie des faits — le reniement et le crachat sur la croix lors de la [[reception-dans-l-ordre|réception]] —, demandent pardon et reçoivent l'absolution. Ils n'en restent pas moins prisonniers du roi, à [[gisors|Gisors]] à partir de 1310. L'audition était connue par d'autres pièces ; son procès-verbal a été retrouvé aux Archives vaticanes par Barbara Frale en 2001 et publié en 2007 (voir [[parchemin-de-chinon|le parchemin de Chinon]]) : il montre un pape qui cherche à réconcilier les hommes avec l'Église, non un acquittement de l'ordre.
+texte: Les murs du Coudray portent des graffiti gravés : des croix, un ange, une figure armée que l'on dit « moine-soldat », des instruments de la Passion. La forteresse les attribue aux Templiers prisonniers en raison de leur thème religieux, et c'est tout ce qui fonde cette lecture : aucune inscription ne nomme un frère, et le donjon a été habité et a servi de prison pendant des siècles — Jeanne d'Arc y fut logée en 1429 (voir [[graffiti-de-domme-et-chinon|les graffiti des Templiers prisonniers]]). Classée en 1840, propriété du Département d'Indre-et-Loire, restaurée par lui depuis 2003, la forteresse se visite toute l'année, tour du Coudray comprise.
+repere: 1205 — Philippe Auguste prend Chinon et fait bâtir la tour du Coudray.
+repere: 17 août 1308 — Les cardinaux entendent Raimbaud de Caron, Geoffroy de Charnay et Geoffroy de Gonneville.
+repere: 20 août 1308 — Jacques de Molay est entendu et absous.
+repere: 1429 — Jeanne d'Arc est logée dans le donjon du Coudray.
+repere: 1840 — Classement au titre des monuments historiques.
+repere: 2001 — Barbara Frale retrouve le parchemin de Chinon aux Archives vaticanes.
+repere: 2003 — Le Département lance la restauration de la forteresse.
+attention: L'absolution de Chinon n'a pas « innocenté » les Templiers : elle pardonne des pécheurs qui avouent, sans juger l'ordre. Et les graffiti du Coudray ne sont attribués aux dignitaires que par conjecture, sur leur seul sujet religieux.
+geo: 47.1682, 0.2360
+lieu: Chinon, Indre-et-Loire, France
+lien: wp Forteresse royale de Chinon
+lien: wp Parchemin de Chinon
+lien: url https://forteressechinon.fr/ = le site de la forteresse royale de Chinon
+sources: Wikipédia (fr) : Forteresse royale de Chinon, Parchemin de Chinon ; site de la forteresse royale (page « The Coudray Tower ») ; Demurger, Jacques de Molay, 2007 ; Barber, The Trial of the Templars, 2006 ; coordonnées : fiche Chinon de l'application Sites templiers (2026)
+voir: parchemin-de-chinon, clement-v, jacques-de-molay, hugues-de-pairaud, raimbaud-de-caron, graffiti-de-domme-et-chinon, proces-des-templiers, gisors
+
+@ sainte-vaubourg
+cat: france
+nom: Commanderie de Sainte-Vaubourg
+alias: Sainte-Vaubourg, Val-de-la-Haye, grange dîmière de Sainte-Vaubourg, Templiers de Normandie
+dates: 1173 – 1312 (Temple)
+an: 1173
+fin: 1312
+def: Domaine ducal des bords de Seine, en aval de Rouen, donné aux Templiers par Henri II Plantagenêt en 1173 ; il en subsiste une grande grange dîmière de la fin du XIIe siècle, des caves voûtées et les ruines d'une chapelle, dans une propriété privée.
+texte: Sainte-Vaubourg, sur la commune de Val-de-la-Haye, occupe une boucle de la Seine en aval de Rouen. La terre a appartenu à Henri Ier Beauclerc, puis à sa fille l'impératrice Mathilde, mère d'Henri II ; c'est ce dernier, roi d'Angleterre et duc de Normandie, qui la donne aux [[ordre-du-temple|Templiers]] en 1173. La [[commanderie]], enrichie par les seigneurs de Bosnormand et d'autres familles du Roumois, devient l'une des principales maisons de la baillie de Normandie, que commande au moment des arrestations [[geoffroy-de-charnay|Geoffroy de Charnay]]. Elle vit de ses récoltes, comme le montre sa grange dîmière de la fin du XIIe siècle, un vaisseau à trois nefs couvert de tuiles, bien conservé ; une chapelle s'y ajoute au XIIIe siècle.
+texte: Après 1312, les biens passent aux [[hospitaliers|Hospitaliers]], qui gardent le domaine jusqu'à la Révolution ; on leur doit la cuisine et la cave voûtées du XVIe siècle. La chapelle, détruite à la Révolution, est en ruine ; ses vitraux ont été transférés dans l'église voisine d'Hautot-sur-Seine. Inscrit au titre des monuments historiques le 27 décembre 1972, l'ensemble est une propriété privée, ouverte lors des Journées du patrimoine.
+repere: 1173 — Henri II donne le domaine de Sainte-Vaubourg aux Templiers.
+repere: fin XIIe siècle — Construction de la grange dîmière.
+repere: XIIIe siècle — Construction de la chapelle.
+repere: 1312 — Le domaine passe aux Hospitaliers.
+repere: 27 décembre 1972 — Inscription au titre des monuments historiques.
+attention: Tout ce qui est voûté à Sainte-Vaubourg n'est pas templier : la grange dîmière date bien de l'ordre, mais la cuisine et la cave voûtées sont du XVIe siècle, sous les Hospitaliers.
+geo: 49.3717, 0.9931
+lieu: Val-de-la-Haye, Seine-Maritime, France
+lien: wp Commanderie de Sainte-Vaubourg
+sources: Wikipédia (fr) : Commanderie de Sainte-Vaubourg, Liste des commanderies templières en Normandie ; Miguet, Templiers et hospitaliers en Normandie, 1995 (cité par Wikipédia) ; coordonnées : Wikipédia
+voir: commanderie, geoffroy-de-charnay, bretteville-le-rabet, economie-du-temple, hospitaliers, gisors
+
+@ bretteville-le-rabet
+cat: france
+nom: Commanderie de Bretteville-le-Rabet
+alias: Bretteville-le-Rabet, ferme de l'Hôpital, bailliage de Caen, Voismer
+dates: XIIe siècle – 1312 (Temple)
+an: 1148
+fin: 1312
+def: Maison du Temple de la plaine de Caen, dont la fondation est attribuée aux Tancarville au milieu du XIIe siècle ; trois frères y furent arrêtés en 1307, et ses salles voûtées du XIIIe siècle subsistent dans une ferme qui a gardé le nom de « l'Hôpital ».
+texte: Bretteville-le-Rabet est un village de la plaine céréalière au sud de Caen, sur la route de Falaise. La tradition locale attribue la fondation de la maison du Temple à Rabel de Tancarville, de la famille des chambellans héréditaires de Normandie, et la date de 1148 ; la notice qui la rapporte reconnaît n'en pas avoir la source. La maison dépend du bailliage de Caen, avec Courval et Fontaine-le-Pin, dans la baillie templière de Normandie. L'inventaire des biens et des hommes des maisons du bailliage de Caen, dressé lors de la saisie de 1307, y recense trois [[ordre-du-temple|Templiers]] : le commandeur et deux frères. C'est une ferme, non une forteresse : des terres à blé, des granges, des salles voûtées (voir [[commanderie]]).
+texte: Les [[hospitaliers|Hospitaliers]] reçoivent la maison après 1312 et l'unissent en 1325 à leur commanderie de Voismer ; ils la gardent jusqu'à la Révolution, d'où le nom de « l'Hôpital » que porte la ferme. Il en reste des salles voûtées du XIIIe siècle, autrefois divisées en deux vaisseaux par une file de colonnes, et des maçonneries médiévales incluses dans des bâtiments du XVIIIe siècle. L'ensemble, recensé par l'Inventaire général en 1979, n'est pas protégé au titre des monuments historiques ; c'est une propriété privée visible de l'extérieur.
+repere: 1148 — Fondation attribuée par la tradition à Rabel de Tancarville.
+repere: 1307 — Trois Templiers sont arrêtés à Bretteville ; inventaire des biens du bailliage de Caen.
+repere: 1325 — Les Hospitaliers unissent Bretteville à Voismer.
+repere: 1979 — Recensement par l'Inventaire général.
+attention: La date de 1148 et le nom du fondateur ne reposent sur aucun acte publié que nous ayons pu lire ; les seuls repères sûrs sont l'inventaire de 1307 et l'union hospitalière de 1325.
+geo: 49.0246, -0.2596
+lieu: Bretteville-le-Rabet, Calvados, France
+lien: wp Bretteville-le-Rabet
+lien: wp Liste des commanderies templières en Normandie
+sources: Wikipédia (fr) : Bretteville-le-Rabet, Liste des commanderies templières en Normandie ; Miguet, Templiers et hospitaliers en Normandie, 1995 (cité par Wikipédia) ; coordonnées : fiche Bretteville-le-Rabet de l'application Sites templiers (2026), précision communale
+voir: commanderie, sainte-vaubourg, geoffroy-de-charnay, arrestation-du-13-octobre-1307, hospitaliers, economie-du-temple
+
+@ templemars
+cat: france
+nom: Templemars
+alias: Templum Martis, Templemart, Templemard, Mars-en-Pévèle
+dates: nom attesté en 1090
+an: 1090
+def: Commune du Nord, au sud de Lille, que son nom fait passer pour un village templier : la forme Templemard est attestée dès 1090, trente ans avant la fondation de l'ordre, et aucune maison du Temple n'y est documentée.
+texte: Templemars est un village de la plaine de Lille, à six kilomètres au sud de la ville. Son nom paraît dans les textes sous les formes Templemard en 1090, dans un titre de l'évêché de Tournai, Templemart en 1108, *Templum Martis* en 1175, Templemars en 1190 : un « temple de Mars », souvenir probable d'un sanctuaire gallo-romain, et non un « Temple » des chevaliers, puisque l'ordre ne naît à Jérusalem que vers 1119-1120 (voir [[fondation-de-l-ordre|la fondation de l'ordre]]). Du XIIIe siècle à la Révolution, la terre appartient aux barons de Cysoing. Les notices consultées sur la commune et sur les commanderies du Nord ne mentionnent aucune maison du Temple à Templemars.
+texte: Les [[ordre-du-temple|Templiers]] sont pourtant bien présents dans la région. La région compte des maisons à Lille et à La Haie, à Douai, à Arras, à Loison, et une baillie de Flandre dépend du maître de la province de France ; leur histoire, mal connue, est éclairée par les travaux de Valérie Bessey et de Filip Hooghe sur les villes du Nord et le procès en Flandre (voir [[provinces-du-temple]]). Templemars, elle, garde une église Saint-Martin, une chapelle Notre-Dame-des-Champs et une auberge du XVIIe siècle sur l'ancienne route de Paris à Lille ; rien de templier ne s'y visite.
+repere: 1090 — Première mention du nom, sous la forme Templemard.
+repere: v. 1119-1120 — Fondation de l'ordre du Temple à Jérusalem.
+repere: 1175 — Le nom est écrit *Templum Martis*.
+repere: XIIIe siècle — La terre passe aux barons de Cysoing.
+attention: Templemars n'est pas « née d'une maison du Temple » : son nom est antérieur à l'ordre et vient d'un « temple de Mars ». Les toponymes en « Temple » ne sont des indices templiers qu'après vérification des actes ; ici, ils n'en donnent aucun.
+geo: 50.5762, 3.0529
+lieu: Templemars, Nord, France
+lien: wp Templemars
+lien: wp Liste des commanderies templières dans le Nord-Pas-de-Calais
+sources: Wikipédia (fr) : Templemars, Liste des commanderies templières dans le Nord-Pas-de-Calais ; coordonnées : fiche Templemars de l'application Sites templiers (2026), précision communale
+voir: fondation-de-l-ordre, provinces-du-temple, commanderie, architecture-templiere
+
+# ── Lorraine ────────────────────────────────────────────────────────────────
+
+@ metz
+cat: france
+nom: Chapelle des Templiers de Metz
+alias: chapelle des Templiers de Metz, Templiers de Metz, chapelle octogonale de Metz, Arsenal de Metz, Esplanade de Metz
+dates: v. 1180 – 1220
+an: 1180
+def: Chapelle octogonale bâtie entre 1180 et 1220 pour la maison du Temple de Metz, seul bâtiment rescapé de la commanderie rasée pour la citadelle de 1556 ; classée en 1840, elle conserve des peintures du XIVe siècle et un décor de 1910-1913.
+texte: Une tradition fait arriver les [[ordre-du-temple|Templiers]] à Metz dès 1133 ; la première donation attestée date de 1147, l'année où [[bernard-de-clairvaux|Bernard]] prêche la [[deuxieme-croisade|deuxième croisade]]. Metz est alors une cité épiscopale de l'Empire, et ses Templiers relèvent du maître d'Allemagne (voir [[temple-en-lorraine|le Temple en Lorraine]]). La chapelle est construite entre 1180 et 1220, au moment où l'art roman cède au premier gothique : une rotonde octogonale de 8,30 mètres de diamètre, ouverte sur un chœur carré fermé d'une absidiole en cul-de-four. Ses murs reçoivent dans la première moitié du XIVe siècle des peintures — une Vierge, un Christ en croix, des saints. À la fin du XIIIe siècle, les frères ont transporté leur maison au sud-ouest de la ville, près de Saint-Pierre-aux-Nonnains ; en 1312, leurs biens passent aux [[hospitaliers|Hospitaliers]].
+texte: En 1556, la construction de la citadelle de Metz emporte la commanderie ; seules la chapelle et la salle du chapitre restent debout, la première servant de magasin à poudre et à plomb. Classée sur la première liste des monuments historiques en 1840, la chapelle est sauvée en 1861 par Prosper Mérimée lors de la construction de l'Arsenal, restaurée en 1864, puis transformée par l'armée allemande en poste de télégraphie en 1882 ; la salle capitulaire est démolie en 1904, et la ville achète la chapelle en 1905. De 1910 à 1913, le peintre hanovrien Schwarting, sur un projet d'Hermann Schaper, complète les peintures d'un décor néo-roman. Rendue à son aspect d'origine en 1990, elle sert de salle d'exposition, près de l'Arsenal et de l'Esplanade, et ouvre lors des expositions estivales.
+repere: 1147 — Première donation attestée aux Templiers de Metz.
+repere: 1180-1220 — Construction de la chapelle octogonale.
+repere: 1312 — Les biens passent aux Hospitaliers.
+repere: 1556 — La citadelle emporte la commanderie ; la chapelle devient poudrière.
+repere: 1840 — Classement au titre des monuments historiques.
+repere: 1905 — L'armée allemande vend la chapelle à la ville.
+repere: 1910-1913 — Décor néo-roman de Schwarting, d'après Hermann Schaper.
+attention: Les peintures que l'on voit sont pour une large part de 1910-1913, peintes pendant l'annexion allemande : seuls des fragments remontent au XIVe siècle. Et le plan centré, comme à [[laon|Laon]], n'est pas un modèle templier.
+geo: 49.1145, 6.1698
+lieu: Metz, Moselle, France
+lien: wp Chapelle des Templiers de Metz
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00106821 = la notice Mérimée de la chapelle
+sources: Wikipédia (fr) : Chapelle des Templiers de Metz ; notice Mérimée PA00106821 ; condensé du dossier « Templiers en Lorraine » (Drive) ; coordonnées : fiche Metz de l'application Sites templiers (2026)
+voir: temple-en-lorraine, laon, architecture-templiere, libdeau, templiers-et-saint-empire, hospitaliers
+
+@ temple-en-lorraine
+cat: france
+nom: Le Temple en Lorraine
+alias: Templiers en Lorraine, baillie de Lorraine, Barrois templier, Trois-Évêchés, Gelucourt, Pierrevillers, Doncourt-aux-Templiers, Vic-sur-Seille
+dates: XIIe siècle – 1312
+an: 1147
+fin: 1312
+def: Aux confins du royaume et de l'Empire, la Lorraine compta une trentaine de maisons du Temple, partagées entre la province d'Allemagne et, pour le Barrois, celle de France ; il en reste quatre chapelles, à Metz, Libdeau, Xugney et Marbotte.
+texte: La Lorraine médiévale n'est pas un État mais une mosaïque : le duché de Lorraine, vassal de l'Empire, le comté de Bar, dont une partie relève du roi de France, et les trois cités épiscopales de Metz, Toul et Verdun. Le Temple s'y adapte. Les maisons de l'Empire forment une baillie de Lorraine, sous un commandeur qui dépend du maître de la province d'Allemagne ; celles du comté de Bar relèvent de la province de France (voir [[provinces-du-temple]]). Les inventaires régionaux recensent une trentaine de maisons, granges et dépendances : [[metz|Metz]], où une première donation est attestée en 1147, [[libdeau|Libdeau]] près de Toul, née sous l'évêque Henri de Lorraine (1128-1165), [[xugney|Xugney]], dont un commandeur est cité en 1173, [[marbotte|Marbotte]], connue par un acte de 1259, Pierrevillers et son église fortifiée, Doncourt-aux-Templiers, Longuyon, Verdun, Étain. Ce sont des exploitations rurales — terres, bois, étangs, moulins — et quelques maisons urbaines. Les salines du Saulnois en font partie : Gelucourt, d'abord grange de la maison de Vic-sur-Seille, devient commanderie quand les frères vendent en 1264 leurs biens de Vic et de Marsal à l'évêque de Metz.
+texte: Le procès prend ici deux visages. Dans le Barrois mouvant, terre du roi, les frères sont arrêtés le 13 octobre 1307 comme dans le reste du royaume. Dans l'Empire, rien ne se passe avant 1310 : les diocèses de Metz, Toul et Verdun dépendent de l'archevêque de Trèves, dont le concile provincial, réuni cette année-là, n'obtient aucun aveu et laisse les frères en paix ; à Mayence, la même année, des Templiers se présentent en armes devant le concile pour protester de leur innocence (voir [[templiers-et-saint-empire|les Templiers dans l'Empire]]). En 1312, les biens passent aux [[hospitaliers|Hospitaliers]], non sans que ducs et comtes en retiennent une part, et à partir de 1317 la Lorraine relève du grand prieuré de Champagne, dont le siège est à [[voulaines|Voulaines]].
+texte: Le patrimoine visible tient en quelques édifices. La chapelle octogonale de Metz, bâtie entre 1180 et 1220, est la plus célèbre ; la chapelle de Libdeau, en cours de restauration, et celle de Xugney, en grès rose, sont des nefs simples à trois travées ; Marbotte garde une chapelle du début du XIIIe siècle dans une ferme. La restauration de Libdeau, entreprise par une association depuis 2011, est le chantier templier le plus actif de la région.
+repere: 1147 — Première donation attestée aux Templiers de Metz.
+repere: 1173 — Pierre, premier commandeur connu de Xugney.
+repere: 1259 — Gobert d'Apremont garantit une donation à la maison de Marbotte.
+repere: 1264 — Les Templiers vendent leurs biens de Vic et de Marsal à l'évêque de Metz ; Gelucourt devient commanderie.
+repere: 13 octobre 1307 — Arrestation des frères dans le Barrois mouvant.
+repere: 1310 — Le concile de Trèves n'obtient aucun aveu ; des Templiers se présentent en armes au concile de Mayence.
+repere: 1317 — La Lorraine hospitalière est rattachée au grand prieuré de Champagne.
+attention: Le partage entre province d'Allemagne et province de France est sûr dans son principe, mais l'attribution de chaque maison à l'une ou à l'autre reste souvent conjecturale. Et la fondation de Xugney « vers 1170 » par le comte Hugues de Vaudémont, qu'on lit parfois, se heurte à la chronologie : le comte Hugues Ier mourut vers 1155.
+lien: wp Liste des commanderies templières en Lorraine
+lien: wp Commanderie de Gelucourt
+sources: Demurger, Les Templiers, 2005 ; Henry, Les ordres militaires en Lorraine, 2006 (cité par Wikipédia) ; Wikipédia (fr) : Liste des commanderies templières en Lorraine, Commanderie de Gelucourt, Commanderie de Libdeau, Commanderie de Xugney, Marbotte ; condensé du dossier « Templiers en Lorraine » (Drive)
+voir: metz, libdeau, xugney, marbotte, templiers-et-saint-empire, provinces-du-temple, temple-en-alsace, voulaines
+
+@ libdeau
+cat: france
+nom: Chapelle de Libdeau
+alias: commanderie de Libdeau, chapelle templière de Libdeau, Toul, Saint-Jean-Baptiste de Libdeau
+dates: XIIe siècle – 1312 (Temple)
+an: 1150
+fin: 1312
+def: Chapelle gothique d'une commanderie fondée près de Toul sous l'évêque Henri de Lorraine (1128-1165) ; vendue en 1794, abandonnée en 1938, privée de son portail en 1963, elle est restaurée depuis 2011 par une association.
+texte: Libdeau est un écart de la commune de Toul, sur l'ancienne route de Nancy. La [[commanderie]] y naît probablement au deuxième tiers du XIIe siècle : l'évêque de Toul Henri de Lorraine (1128-1165) donne un bois aux Templiers, don que confirme plus tard l'évêque Pierre de Brixey ; les frères ne sont attestés par des actes qu'à la fin du siècle, puis par treize chartes de donations de 1214 à 1272. Le seul commandeur templier connu, le frère Renaud, apparaît en 1271-1272. La chapelle est un vaisseau rectangulaire d'environ dix-huit mètres sur huit et demi, à trois travées voûtées d'ogives quadripartites et chevet plat ; la composition de son tympan la fait dater de la fin du XIIe siècle. Une grande rose, aujourd'hui murée, surmontait le portail.
+texte: En 1312, les [[hospitaliers|Hospitaliers]] reprennent Libdeau ; Bertrand de Burey, son premier commandeur hospitalier, meurt en 1326, et l'évêque Amédée de Genève accroît le domaine. Libdeau partage ensuite souvent son commandeur avec [[xugney|Xugney]]. Vendue comme bien national le 24 juillet 1794, la ferme garde sa chapelle jusqu'à son abandon en 1938 ; en 1963, le portail et des dalles funéraires sont démontés et transportés au Musée lorrain de Nancy. Inscrite au titre des monuments historiques le 6 février 1995, la chapelle est reprise en 2011 par l'association Libdeau - Chapelle templière, qui la restaure avec l'aide de fonds publics et privés et l'ouvre lors des Journées du patrimoine.
+repere: 1128-1165 — L'évêque Henri de Lorraine donne un bois aux Templiers.
+repere: fin XIIe siècle — Construction probable de la chapelle.
+repere: 1271 — Le frère Renaud, seul commandeur templier connu.
+repere: 24 juillet 1794 — Vente comme bien national.
+repere: 1963 — Le portail est transporté au Musée lorrain.
+repere: 6 février 1995 — Inscription au titre des monuments historiques.
+repere: 2011 — Une association reprend la chapelle et en lance la restauration.
+attention: Le portail sculpté qu'on cherche à Libdeau est à Nancy, au Musée lorrain, depuis 1963. Et la date de fondation reste une hypothèse fondée sur l'épiscopat d'Henri de Lorraine : aucun acte de fondation n'est conservé.
+geo: 48.7142, 5.9187
+lieu: Toul, Meurthe-et-Moselle, France
+lien: wp Commanderie de Libdeau
+lien: url https://www.libdeau.fr/ = l'association Libdeau - Chapelle templière
+sources: Wikipédia (fr) : Commanderie de Libdeau ; notice Mérimée PA00135416 (citée par Wikipédia) ; Henry, Les ordres militaires en Lorraine, 2006 (cité par Wikipédia) ; condensé du dossier « Templiers en Lorraine » (Drive) ; coordonnées : fiche Libdeau de l'application Sites templiers (2026)
+voir: temple-en-lorraine, xugney, metz, marbotte, commanderie, hospitaliers
+
+@ xugney
+cat: france
+nom: Commanderie de Xugney
+alias: Xugney, Rugney, chapelle Saint-Jean-Baptiste de Xugney, comté de Vaudémont
+dates: XIIe siècle – 1312 (Temple)
+an: 1173
+fin: 1312
+def: Commanderie des Vosges, près de Charmes, dont un commandeur est cité en 1173 ; sa chapelle Saint-Jean-Baptiste en grès, à nef de trois travées et abside à cinq pans, inscrite en 1926, se dresse au milieu d'une ferme.
+texte: Xugney est un écart de la commune de Rugney, dans la plaine des Vosges au sud de Nancy, sur des terres qui relevaient du comté de Vaudémont. La [[commanderie]] apparaît au XIIe siècle : son premier commandeur connu, Pierre, est cité en 1173, un autre, Dominique, en 1231. La chapelle Saint-Jean-Baptiste, en grès rose, est une nef unique de trois travées carrées sans bas-côtés, longue d'une vingtaine de mètres, fermée d'une abside à cinq pans, sans clocher ; ses voûtes d'ogives se sont effondrées, mais on en voit les départs sur les piles. Sa datation est discutée : le style la place au plus tôt à la fin du XIIe siècle, alors qu'une poutre de chêne analysée par dendrochronologie en 2011 a donné 1138 — sans doute un bois remployé.
+texte: Après le procès, les [[hospitaliers|Hospitaliers]] reprennent la maison et la gardent jusqu'à la Révolution ; elle partage souvent son commandeur avec [[libdeau|Libdeau]], régulièrement de 1656 à 1736 environ, et en 1630 le commandeur Charles de Lorraine afferme les deux domaines ensemble. La chapelle est inscrite au titre des monuments historiques depuis 1926 ; elle se trouve dans une exploitation agricole privée, visible de l'extérieur et ouverte lors des Journées du patrimoine.
+repere: 1173 — Pierre, premier commandeur connu de Xugney.
+repere: 1231 — Le frère Dominique est commandeur.
+repere: 1630 — Charles de Lorraine afferme Xugney et Libdeau.
+repere: 1926 — Inscription de la chapelle au titre des monuments historiques.
+repere: 2011 — Une étude dendrochronologique date une poutre de 1138.
+attention: La fondation « vers 1170 » par un comte de Vaudémont revenu de croisade est une tradition : le comte Hugues Ier, mort vers 1155, ne peut l'avoir faite à cette date, et aucun acte de fondation n'est connu.
+geo: 48.3535, 6.2458
+lieu: Rugney, Vosges, France
+lien: wp Commanderie de Xugney
+sources: Wikipédia (fr) : Commanderie de Xugney ; Henry, Itinéraires templiers en Lorraine, 1998 (cité par Wikipédia) ; condensé du dossier « Templiers en Lorraine » (Drive), section Réserves ; coordonnées : fiche Xugney de l'application Sites templiers (2026)
+voir: temple-en-lorraine, libdeau, metz, marbotte, commanderie, hospitaliers
+
+@ marbotte
+cat: france
+nom: Chapelle de Marbotte
+alias: commanderie de Marbotte, Apremont-la-Forêt, Gobert d'Apremont, chartes de Marbotte
+dates: XIIIe siècle – 1312 (Temple)
+an: 1259
+fin: 1312
+def: Commanderie de la Meuse, près de Saint-Mihiel, connue par des chartes du XIIIe siècle ; sa chapelle du début de ce siècle, ses bâtiments hospitaliers et sa ferme, inscrits en 1994, ont survécu aux combats de 1914-1915 qui ruinèrent le village.
+texte: Marbotte, ancienne commune rattachée en 1973 à Apremont-la-Forêt, se trouve au pied des côtes de Meuse, à l'est de Saint-Mihiel. Le lieu porta d'abord un prieuré bénédictin ; la maison du Temple y apparaît au XIIIe siècle. En 1259, Gobert d'Apremont s'engage à garantir la donation que lui et sa femme ont faite aux frères de Marbotte, et un petit fonds de treize chartes du XIIIe siècle, sorties du scriptorium de la commanderie et étudiées en 2006, en conserve les actes. La chapelle date du début du XIIIe siècle ; la [[commanderie]] s'élève à l'écart du village, au lieu-dit « À la Commanderie ».
+texte: Après 1312, les [[hospitaliers|Hospitaliers]] reprennent la maison et la tiennent jusqu'à la Révolution ; ils rebâtissent les bâtiments conventuels à la fin du XVe et au XVIe siècle, et la ferme et sa clôture sont des XVIIe et XVIIIe siècles. D'octobre 1914 à mars 1915, le village est au cœur des combats du bois d'Ailly et de la forêt d'Apremont, et presque entièrement détruit. La chapelle, la clôture, les façades et toitures du logis sont inscrites au titre des monuments historiques depuis le 28 juin 1994 ; propriété privée, l'ensemble se voit de l'extérieur.
+repere: 1259 — Gobert d'Apremont garantit sa donation à la maison du Temple de Marbotte.
+repere: début XIIIe siècle — Construction de la chapelle.
+repere: fin XVe siècle — Les Hospitaliers rebâtissent les bâtiments conventuels.
+repere: 1914-1915 — Combats du bois d'Ailly ; le village est détruit.
+repere: 28 juin 1994 — Inscription partielle au titre des monuments historiques.
+attention: Une fondation « vers 1150 » circule sans acte à l'appui ; la première mention sûre de la maison du Temple est de 1259. Le logis visible est hospitalier, non templier.
+geo: 48.8291, 5.5655
+lieu: Apremont-la-Forêt, Meuse, France
+lien: wp Marbotte
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00132645 = la notice Mérimée de la commanderie
+sources: Wikipédia (fr) : Marbotte, Liste des commanderies templières en Lorraine ; notice Mérimée PA00132645 ; Matthey, chartes de Marbotte, 2006 (document en ligne des archives de Commercy, consulté par sa présentation) ; coordonnées : OpenStreetMap, lieu-dit « À la Commanderie »
+voir: temple-en-lorraine, libdeau, xugney, metz, commanderie, hospitaliers
+
+# ── Alsace ──────────────────────────────────────────────────────────────────
+
+@ temple-en-alsace
+cat: france
+nom: Le Temple en Alsace
+alias: Templiers en Alsace, chevaliers rouges, seigneurs rouges, Baumgarten, Donnenheim, Andlau, Rixheim, Dorlisheim, Tempelhof
+dates: XIIIe siècle – 1312
+an: 1257
+fin: 1312
+def: Terre d'Empire, l'Alsace n'eut que deux ou trois maisons du Temple, dont le Tempelhof de Bergheim, face à une dizaine de commanderies hospitalières et teutoniques ; bien des lieux dits « templiers » de la région ont appartenu à ces autres ordres.
+texte: L'Alsace du XIIIe siècle est une terre d'Empire, partagée entre l'évêque de Strasbourg, les Habsbourg, des villes libres et des seigneurs. Les ordres militaires y arrivent tard et s'y font concurrence : les [[hospitaliers|Hospitaliers]] s'installent à Dorlisheim au début du XIIIe siècle, puis à Sélestat, Strasbourg, Soultz ; les [[teutoniques|chevaliers teutoniques]] à Rixheim, Kaysersberg, Rouffach. Le Temple n'y tient qu'une place modeste. Ses maisons relèvent du maître de la province d'Allemagne ; on en connaît deux ou trois : le Tempelhof de [[bergheim|Bergheim]], attesté en 1257 ; une cense à Baumgarten, sur le ban de Donnenheim, que les frères vendent au chapitre Saint-Thomas de Strasbourg en 1303-1306 ; et des biens à Strasbourg même, que l'historien Grandidier signalait au XVIIIe siècle. Le peuple, voyant leur croix de gueules, les appelait « seigneurs rouges ».
+texte: Le procès épargne la région : il n'y a pas d'arrestation en 1307 hors du royaume de France, et les conciles provinciaux de Mayence et de Trèves, en 1310, n'obtiennent pas d'aveux (voir [[templiers-et-saint-empire|les Templiers dans l'Empire]]). En 1312, les biens passent aux Hospitaliers ; Bergheim revient à leur commanderie de Sélestat. Cette discrétion explique une confusion durable : en Alsace, nombre de lieux dits « des Templiers » ont appartenu à d'autres. La commanderie de Rixheim, devenue la manufacture de papiers peints Zuber, était teutonique ; celle de Dorlisheim, aujourd'hui château Saint-Jean, hospitalière ; la maison d'Andlau, au pied du Castelberg, finit teutonique. La liste des lieux sans preuve est longue : Bourgheim, Bouxwiller, la rue des Templiers d'Ottrott, le château de Rosenbourg à Westhoffen, le lieu-dit « Der Temple » de Leimbach, Dangolsheim, Dossenheim-sur-Zinsel.
+repere: début XIIIe siècle — Les Hospitaliers s'établissent à Dorlisheim, première de leurs maisons alsaciennes.
+repere: 1257 — Première attestation du Tempelhof de Bergheim.
+repere: 1303 — Vente de la cense de Baumgarten au chapitre Saint-Thomas de Strasbourg.
+repere: 1310 — Conciles de Mayence et de Trèves : pas d'aveux dans les provinces rhénanes.
+repere: 1312 — Les biens du Temple passent aux Hospitaliers ; Bergheim à Sélestat.
+attention: Sur les trois lieux qu'on cite souvent pour l'Alsace templière, deux ne le sont pas : Rixheim était aux chevaliers teutoniques, Dorlisheim aux Hospitaliers. Seul Bergheim est une maison du Temple attestée. Les croix ancrées et les marques gravées qu'on donne pour « templières » sont des signes de tâcherons ou des blasons.
+lien: wp Liste des commanderies templières en Alsace
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA68000027 = la notice Mérimée du Tempelhof de Bergheim
+sources: Wikipédia (fr) : Liste des commanderies templières en Alsace ; notices Mérimée PA68000027 (Bergheim), PA00085636 (Rixheim), IA67011213 (Dorlisheim), IA00115011 (Andlau) ; Demurger, Les Templiers, 2005 ; condensé du dossier « Templiers en Alsace » (Drive), d'après le Dictionnaire historique des institutions de l'Alsace
+voir: bergheim, templiers-et-saint-empire, teutoniques, hospitaliers, temple-en-lorraine, provinces-du-temple
+
+@ bergheim
+cat: france
+nom: Bergheim
+alias: Tempelhof de Bergheim, commanderie du Tempelhof, Porte Haute de Bergheim, Obertor, route de Thannenkirch
+dates: attestée en 1257
+an: 1257
+fin: 1312
+def: Petite ville du vignoble alsacien, au pied des Vosges, où le Temple tint une maison, le Tempelhof, attestée en 1257 et passée aux Hospitaliers de Sélestat ; le logis, rebâti en 1557-1559, est inscrit depuis 2000. La Porte Haute, elle, est du XIVe siècle.
+texte: Bergheim s'étend au pied des Vosges, entre Sélestat et Ribeauvillé, au milieu des vignes. La maison du Temple, à l'écart du bourg sur la route de Thannenkirch, est attestée en 1257 : le pape Alexandre IV accorde alors une indulgence aux fidèles qui visiteront l'église des Templiers de Bergheim en la fête de l'Assomption. On a avancé une mention plus ancienne, en 1220, d'un frère Dietrich « dispensateur » de la maison ; nous n'avons pas pu la vérifier. C'est l'une des deux ou trois maisons du Temple d'Alsace (voir [[temple-en-alsace|le Temple en Alsace]]), relevant de la province d'Allemagne, et un domaine viticole plus qu'un poste militaire. En 1312, elle passe aux [[hospitaliers|Hospitaliers]] de Sélestat. Dévastée en 1525 pendant la guerre des Paysans, elle est rebâtie de 1557 à 1559 : un logis à sous-sol voûté et cave à piliers de grès ; sa chapelle a disparu au XIXe siècle, et un retable sculpté du début du XVIe siècle qui en provient est conservé au musée Unterlinden de Colmar.
+texte: Le bourg lui-même n'est pas templier. En 1312, Henri II de Ribeaupierre le fortifie et l'offre en fief à l'empereur Henri VII ; il obtient en 1313 un droit d'asile. Ses remparts, des XIVe et XVe siècles, restaurés de 2006 à 2011, et sa Porte Haute, élevée au XIVe siècle et remaniée au XVIe, la seule des trois portes à subsister, sont l'œuvre de la ville et de ses seigneurs. Le Tempelhof, inscrit au titre des monuments historiques le 25 février 2000 (façades, toiture, décors anciens, cave), est une propriété privée visible de la route.
+repere: 1257 — Alexandre IV accorde une indulgence pour l'église des Templiers de Bergheim.
+repere: 1312 — La maison passe aux Hospitaliers de Sélestat.
+repere: 1313 — Le bourg, fortifié par Henri de Ribeaupierre, reçoit un droit d'asile.
+repere: 1525 — Le Tempelhof est dévasté pendant la guerre des Paysans.
+repere: 1557-1559 — Reconstruction du logis.
+repere: 25 février 2000 — Inscription du Tempelhof au titre des monuments historiques.
+attention: La Porte Haute et les remparts de Bergheim ne doivent rien au Temple : ils sont du XIVe siècle, postérieurs à la suppression de l'ordre. Le logis du Tempelhof lui-même date de la reconstruction de 1557-1559, sous les Hospitaliers.
+geo: 48.2093, 7.3446
+lieu: Bergheim, Haut-Rhin, France
+lien: wp Le Tempelhof
+lien: wp Bergheim
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA68000027 = la notice Mérimée du Tempelhof
+sources: notice Mérimée PA68000027 ; Wikipédia (fr) : Le Tempelhof, Bergheim, Liste des commanderies templières en Alsace ; condensé du dossier « Templiers en Alsace » (Drive) ; coordonnées : Wikipédia et OpenStreetMap (Tempelhof)
+voir: temple-en-alsace, templiers-et-saint-empire, hospitaliers, commanderie, economie-du-temple
+
+# ── Bourgogne et Franche-Comté ──────────────────────────────────────────────
+
+@ voulaines
+cat: france
+nom: Commanderie de Voulaines-les-Templiers
+alias: Voulaines, Voulaines-les-Templiers, grand prieuré de Champagne, villa fratrum Templi, Châtillonnais
+dates: 1163 – 1792
+an: 1163
+fin: 1792
+def: Village du Châtillonnais donné aux Templiers par l'évêque de Langres en 1163, devenu en 1317 le siège du grand prieuré hospitalier de Champagne ; de la commanderie, démantelée après la Révolution, ne reste qu'une tour.
+texte: En 1163, l'évêque de Langres cède le village de Voulaines aux [[ordre-du-temple|Templiers]], qui en font une [[commanderie]] du plateau du Châtillonnais, dans le diocèse de Langres, à la limite de la Bourgogne et de la Champagne ; un acte de 1180 la nomme *villa fratrum Templi*, « le domaine des frères du Temple », et la forme « Voulaines-les-Templiers » apparaît dès 1323. Elle voisine, sur le même plateau, avec la maison plus ancienne de [[bure-les-templiers|Bure]].
+texte: Son grand destin est hospitalier. En 1317, le pape Jean XXII détache du prieuré de France un grand prieuré de Champagne, dont le siège s'établit à Voulaines et qui administre jusqu'à la Révolution vingt-six commanderies, celles de Champagne, de Bourgogne et de Lorraine (voir [[devolution-des-biens|la dévolution des biens]]). Les [[hospitaliers|Hospitaliers]] fortifient le château en 1362 : un donjon à cinq tours, puis une enceinte de dix tours. Le grand prieur Michel de Sèvre le reconstruit en grande partie de 1572 à 1590 ; une description de 1574 décrit une chapelle voûtée au rez-de-chaussée du donjon. Vendu à la Révolution, l'ensemble est presque entièrement détruit ; le donjon est démoli en 1825, et Joseph Pétot bâtit à sa place une maison bourgeoise, le « château de Voulaines ». Il ne reste qu'une tour, qui abritait la chapelle privée du prieur, dans une propriété privée.
+repere: 1163 — L'évêque de Langres cède Voulaines aux Templiers.
+repere: 1180 — Un acte nomme le lieu *villa fratrum Templi*.
+repere: 1317 — Voulaines devient le siège du grand prieuré hospitalier de Champagne.
+repere: 1362 — Les Hospitaliers fortifient le château.
+repere: 1572-1590 — Reconstruction par le grand prieur Michel de Sèvre.
+repere: 1825 — Démolition du donjon.
+attention: Le « château » de Voulaines n'a rien de templier : c'est une maison bourgeoise de 1825 ; les fortifications disparues étaient hospitalières, et le nom du village, « les-Templiers », est tout ce qui rappelle l'ordre.
+geo: 47.8196, 4.7770
+lieu: Voulaines-les-Templiers, Côte-d'Or, France
+lien: wp Voulaines-les-Templiers
+sources: Wikipédia (fr) : Voulaines-les-Templiers, Liste des commanderies templières en Bourgogne, Commanderie de Bure ; condensé du dossier « Ordre du Temple en Champagne » (Drive) ; coordonnées : fiche Voulaines de l'application Sites templiers (2026)
+voir: bure-les-templiers, epailly, temple-en-champagne, devolution-des-biens, hospitaliers, temple-en-lorraine
+
+@ bure-les-templiers
+cat: france
+nom: Commanderie de Bure
+alias: Bure-les-Templiers, commanderie de Bure-les-Templiers, Païen de Bure, Bures
+dates: v. 1120-1133 – 1312 (Temple)
+an: 1133
+fin: 1312
+def: L'une des premières maisons du Temple de Bourgogne, sur le plateau du Châtillonnais, dont la fondation est placée entre 1120 et 1133 ; Hugues de Pairaud la commanda en 1289. Dynamitée en 1958 par un chercheur de trésor, elle garde une église restaurée.
+texte: Bure-les-Templiers est un village du haut plateau châtillonnais, au nord de Dijon. Sa fondation est discutée : des auteurs la placent vers 1120, d'autres en 1127, quand les seigneurs de Grancey prennent la maison sous leur protection ; une charte de l'évêque de Langres de 1133 rappelle la donation d'un certain Païen de Bure, que l'historien Jean-Marc Roger tient pour antérieure à l'acte. Dans tous les cas, c'est l'une des plus anciennes [[commanderie|commanderies]] de Bourgogne. Son premier commandeur connu, Achard de Châtillon, apparaît en 1174 ; [[hugues-de-pairaud|Hugues de Pairaud]], futur visiteur de France, la dirige en 1289, et Pierre de Sivrey en 1304.
+texte: Les [[hospitaliers|Hospitaliers]] la reçoivent au plus tard en 1314. Elle perd ensuite son commandeur propre et dépend de [[voulaines|Voulaines]], siège du grand prieuré de Champagne ; au début du XVIe siècle, le grand prieur Jacques Aymer en rebâtit une grande partie. La dalle funéraire du commandeur Guillaume de Fougerolles, mort en 1353, est dans l'église. En 1958, le propriétaire des ruines les fait sauter à la dynamite pour y chercher le [[tresor-des-templiers|trésor des Templiers]], et endommage gravement ce qui restait. L'église, inscrite au titre des monuments historiques en 1927, est restaurée par la commune à partir de 2010 ; une association des amis de la commanderie, fondée en 2009, s'occupe des vestiges, restaurés depuis 2006.
+repere: 1133 — Charte de l'évêque de Langres rappelant la donation de Païen de Bure.
+repere: 1174 — Achard de Châtillon, premier commandeur connu.
+repere: 1289 — Hugues de Pairaud est commandeur de Bure.
+repere: 1314 — Au plus tard, la maison passe aux Hospitaliers.
+repere: 1353 — Mort du commandeur Guillaume de Fougerolles, inhumé dans l'église.
+repere: 1927 — Inscription de l'église au titre des monuments historiques.
+repere: 1958 — Le propriétaire dynamite les ruines pour chercher un trésor.
+attention: La date de « 1120 », fondation « du vivant d'Hugues de Payns », n'est pas prouvée : le premier acte sûr est de 1133. Et le dynamitage de 1958 montre ce que la légende du trésor a coûté au patrimoine réel.
+geo: 47.7381, 4.8956
+lieu: Bure-les-Templiers, Côte-d'Or, France
+lien: wp Commanderie de Bure
+sources: Wikipédia (fr) : Commanderie de Bure, Liste des commanderies templières en Bourgogne ; Roger, thèse sur le prieuré de Champagne des Hospitaliers, 2003 (citée par Wikipédia) ; coordonnées : fiche Bure-les-Templiers de l'application Sites templiers (2026)
+voir: voulaines, epailly, hugues-de-pairaud, tresor-des-templiers, commanderie, hospitaliers
+
+@ epailly
+cat: france
+nom: Commanderie d'Épailly
+alias: Épailly, Courban, chapelle Saint-Georges d'Épailly, tour Saint-Jean, Othon de Grandson, Milon de Bar-sur-Seine
+dates: v. 1200 – 1312 (Temple)
+an: 1200
+fin: 1312
+def: Commanderie du Châtillonnais, sur la commune de Courban, dotée vers 1210 par le comte Milon de Bar-sur-Seine ; sa grande chapelle gothique Saint-Georges, du XIIIe siècle, classée en 2010, est l'une des plus remarquables que le Temple ait laissées en France.
+texte: Épailly est un hameau de Courban, dans la vallée qui descend du plateau du Châtillonnais vers la Champagne. Un premier acte, perdu et connu seulement par un inventaire, cite la maison vers 1200 ; les donations affluent vers 1210, et le comte Milon de Bar-sur-Seine, de la famille qui dota [[avalleur|Avalleur]], en est le principal bienfaiteur. En 1260, les frères acquièrent la seigneurie de Beauvoir. Plusieurs futurs dignitaires y passent : [[hugues-de-pairaud|Hugues de Pairaud]] en est commandeur en 1280-1284, avant de devenir visiteur de France ; Laurent de Beaune le dernier, de 1304 à 1307. La chapelle Saint-Georges est bâtie au XIIIe siècle : longue de trente et un mètres, large de dix, haute de dix mètres et demi sous voûte, elle aligne trois doubles travées autrefois couvertes de voûtes sexpartites et se termine par un chevet à cinq pans dont la voûte rayonnante, à fortes nervures et clé sculptée, est encore en place ; des sondages y ont retrouvé un décor du XIIIe siècle à faux joints rouges sur fond ocré (voir [[architecture-templiere]]).
+texte: Le sort de la maison après le procès est singulier. En 1308, Clément V la donne à Othon de Grandson, chevalier savoyard au service des rois d'Angleterre ; les [[hospitaliers|Hospitaliers]] ne l'obtiennent qu'après sa mort, en 1328, au terme d'un différend avec son héritier. Ils la fortifient aux XIVe et XVe siècles, ajoutent contre la chapelle la tour Saint-Jean, à la fin du XVe siècle, et y placent de grands commandeurs, comme Girard de Vienne, futur prieur de France. Devenue exploitation agricole, la chapelle perd une partie de ses voûtes dans les années 1950. Elle est classée au titre des monuments historiques en 2010, les autres bâtiments inscrits ; l'ensemble, privé, se visite sur rendez-vous et lors des Journées du patrimoine.
+repere: v. 1200 — Premier acte connu citant la maison d'Épailly.
+repere: v. 1210 — Donations du comte Milon de Bar-sur-Seine.
+repere: 1280-1284 — Hugues de Pairaud est commandeur d'Épailly.
+repere: 1308 — Clément V donne Épailly à Othon de Grandson.
+repere: 1328 — Mort d'Othon ; la commanderie passe aux Hospitaliers.
+repere: fin XVe siècle — Construction de la tour Saint-Jean.
+repere: 2010 — Classement de la chapelle au titre des monuments historiques.
+attention: La tour Saint-Jean accolée à la chapelle, qu'on prend volontiers pour une défense templière, date de la fin du XVe siècle et des Hospitaliers. La chapelle, elle, est bien l'œuvre du Temple.
+geo: 47.9306, 4.7183
+lieu: Courban, Côte-d'Or, France
+lien: wp Commanderie d'Épailly
+lien: url https://www.commanderie-templiers-epailly.com/ = le site de la commanderie (visites, histoire, chapelle)
+sources: Wikipédia (fr) : Commanderie d'Épailly ; site de la commanderie d'Épailly (page « La chapelle Saint-Georges ») ; Vaivre, La commanderie d'Épailly et sa chapelle templière, 2005 (cité par Wikipédia) ; notice Mérimée PA00112238 ; coordonnées : Wikipédia (IGN)
+voir: voulaines, bure-les-templiers, avalleur, hugues-de-pairaud, architecture-templiere, hospitaliers, clement-v
+
+@ molay
+cat: france
+nom: Molay, pays de Jacques de Molay
+alias: Molay (Haute-Saône), Rahon, Molay (Jura), lieu de naissance de Jacques de Molay, château de Jacques de Molay
+dates: naissance de Jacques de Molay v. 1244-1249
+an: 1244
+def: Village de Haute-Saône que la plupart des historiens tiennent pour le berceau de la famille de [[jacques-de-molay|Jacques de Molay]], dernier maître de l'ordre ; ni la date ni le lieu exacts de sa naissance ne sont connus, et rien de templier n'y subsiste.
+texte: Jacques de Molay est né dans le comté de Bourgogne, l'actuelle Franche-Comté, vers le milieu du XIIIe siècle. Sa date se déduit de ses propres déclarations au procès : reçu dans l'ordre à Beaune en 1265 par Humbert de Pairaud, en présence du maître de France Amaury de La Roche, il avait alors l'âge d'un jeune adulte, ce qui place sa naissance vers 1244-1249, peut-être entre 1240 et 1250. Les sources sur sa jeunesse sont rares, imprécises et indirectes. Il était issu d'une famille de petite ou moyenne noblesse, dont le nom renvoie à un lieu appelé Molay. Demurger penche pour Molay, dans le nord-ouest de l'actuelle Haute-Saône, tout en jugeant la question secondaire. Des ouvrages plus anciens, comme la *Catholic Encyclopedia* de 1911, le faisaient naître à Rahon, dans le Jura, voisin d'un autre village nommé Molay.
+texte: Molay (Haute-Saône) compte aujourd'hui quelques dizaines d'habitants. Un manoir du XVe siècle, voisin de la mairie et très ruiné depuis l'incendie du 13 juin 1933, est appelé localement « château de Jacques de Molay » : rien ne prouve qu'il s'élève sur l'emplacement de la demeure de sa famille. En 2007, la commune a acquis un linteau de ce manoir, à l'inscription non déchiffrée, et l'a scellé dans la façade de la mairie ; une rue Jacques-de-Molay a été baptisée la même année. Le lieu est une mémoire, non un monument (voir [[bucher-de-jacques-de-molay|le bûcher de 1314]]).
+repere: v. 1244-1249 — Naissance probable de Jacques de Molay, en comté de Bourgogne.
+repere: 1265 — Il est reçu dans l'ordre à Beaune par Humbert de Pairaud.
+repere: 1292 — Il est élu maître de l'ordre.
+repere: mars 1314 — Il est brûlé à Paris.
+repere: 2007 — La commune de Molay acquiert le linteau du manoir et baptise une rue à son nom.
+attention: Le « château de Jacques de Molay » est un manoir du XVe siècle, postérieur de deux siècles au maître, et sans lien prouvé avec sa famille. Le choix entre Molay (Haute-Saône) et Rahon (Jura) reste une hypothèse : aucun document ne nomme le lieu de naissance.
+geo: 47.7333, 5.7421
+lieu: Molay, Haute-Saône, France
+lien: wp Molay (Haute-Saône)
+lien: wp Jacques de Molay
+sources: Wikipédia (fr) : Jacques de Molay, Molay (Haute-Saône) ; Demurger, Jacques de Molay. Le crépuscule des Templiers, 2007 (cité par Wikipédia, éd. 2014) ; Catholic Encyclopedia, article « Jacques de Molai », 1911 ; coordonnées : fiche Molay de l'application Sites templiers (2026)
+voir: jacques-de-molay, bucher-de-jacques-de-molay, hugues-de-pairaud, maitres-de-l-ordre, reception-dans-l-ordre, epailly
+
+# ── Bretagne, Poitou et Saintonge ───────────────────────────────────────────
+
+@ carentoir
+cat: france
+nom: Le Temple de Carentoir
+alias: commanderie de Carentoir, Le Temple (Carentoir), église Saint-Jean-Baptiste du Temple, saint Dormant, tombeau du Templier, Karantoe
+dates: XIIe siècle – 1312 (Temple)
+an: 1182
+fin: 1312
+def: Hameau du Morbihan où le Temple tint sa principale maison de Bretagne, devenue la première commanderie hospitalière du duché ; son église conserve un arc roman et une statue funéraire en bois de la fin du XIIIe siècle, le « saint Dormant ».
+texte: Les [[ordre-du-temple|Templiers]] reçoivent leurs premiers biens bretons vers 1130, dans le pays de Retz, et en 1141 le duc Conan III leur accorde des concessions que confirment la duchesse Constance en 1201 et Pierre Mauclerc en 1217. Leurs maisons forment une baillie de Bretagne rattachée à la province d'Aquitaine. Carentoir, aux confins du Morbihan et de l'Ille-et-Vilaine, en est la plus importante. Son nom, *Karantoe*, figure dans une charte de 1182 attribuée au duc Conan IV, qui énumère les possessions de l'ordre dans le duché : la pièce est douteuse, puisque Conan IV était mort en 1171, et l'on pense qu'elle fut rédigée à la fin du XIIIe siècle pour justifier des droits. L'origine de la maison reste donc sans acte sûr ; sa fondation par les ducs est vraisemblable. Elle commande des dépendances, dont la chapelle Saint-Jean-Baptiste de Lantierne, à Arzal, romane du XIIe siècle.
+texte: Après la suppression de l'ordre, les biens bretons passent aux [[hospitaliers|Hospitaliers]] en mai 1313, et Carentoir demeure leur première commanderie de Bretagne jusqu'à la Révolution ; le dernier commandeur, des Valettes, est cité en 1790. L'église Saint-Jean-Baptiste du Temple n'a gardé de l'époque templière que l'arc roman entre la nef et le chœur ; le reste a été rebâti au fil des siècles. Elle abrite, dans un enfeu du mur nord du chœur, une statue funéraire en bois du dernier quart du XIIIe siècle, dite le « saint Dormant » ou « tombeau du Templier », classée en 1923. L'église ouvre lors des Journées du patrimoine, et la commune a balisé un circuit de randonnée « des Templiers ».
+repere: 1141 — Le duc Conan III accorde des concessions aux Templiers de Bretagne.
+repere: 1182 — Date d'une charte attribuée à Conan IV, qui nomme Karantoe ; pièce douteuse.
+repere: fin XIIIe siècle — Statue funéraire en bois du « saint Dormant ».
+repere: mai 1313 — Les biens du Temple en Bretagne passent aux Hospitaliers.
+repere: 8 mai 1923 — Classement de la statue au titre des monuments historiques.
+attention: La statue du « saint Dormant » est un gisant de la fin du XIIIe siècle ; qu'il représente un Templier est une tradition, que rien n'établit. Quant à la charte de 1182, elle ne prouve pas la date de fondation : c'est sans doute un faux plus tardif. Le chanoine Guillotin de Corson, dont l'ouvrage de 1902 nourrit les récits locaux, est à lire avec prudence.
+geo: 47.8212, -2.0922
+lieu: Carentoir, Morbihan, France
+lien: wp Commanderie de Carentoir
+lien: wp Liste des commanderies templières en Bretagne
+lien: url https://pop.culture.gouv.fr/notice/palissy/PM56000163 = la notice Palissy de la statue du « saint Dormant »
+sources: Wikipédia (fr) : Commanderie de Carentoir, Liste des commanderies templières en Bretagne ; notices Palissy PM56000163 et Mérimée PA00090983 (Lantierne) ; Guillotin de Corson, Les Templiers et les Hospitaliers de Saint-Jean de Jérusalem en Bretagne, 1902 (cité par Wikipédia) ; Josserand, travaux sur les Templiers en Bretagne, 2012 (cité par Wikipédia) ; coordonnées : OpenStreetMap et fiche Carentoir de l'application Sites templiers (2026)
+voir: provinces-du-temple, hospitaliers, coudrie, commanderie, devolution-des-biens
+
+@ coudrie
+cat: france
+nom: Commanderie de Coudrie
+alias: Coudrie, Challans, chapelle de Coudrie, marais breton-vendéen
+dates: XIIe siècle – 1312 (Temple)
+an: 1130
+fin: 1312
+def: Commanderie du marais breton-vendéen, à Challans, que la notice des Monuments historiques date de 1130 et dit la plus ancienne du Poitou ; il en reste une chapelle rectangulaire à chevet plat de la première moitié du XIIe siècle, classée en 1995.
+texte: Coudrie était une petite paroisse, réunie à Challans par ordonnance royale du 11 juillet 1827, aux confins du marais breton et du bocage vendéen. La maison du Temple y est fondée, selon la notice de protection, en 1130, ce qui en ferait la plus ancienne du Poitou ; nous n'avons pas trouvé l'acte qui fonde cette date. La chapelle, seul bâtiment ancien conservé, est de la première moitié du XIIe siècle : un rectangle aux épais contreforts, fermé d'un chevet plat, selon le modèle sobre des chapelles de l'ordre (voir [[architecture-templiere]]). Elle a été remaniée au dernier quart du XVe siècle et garde des traces de décor peint du XVIe siècle.
+texte: Après la suppression du Temple, la [[commanderie]] passe aux [[hospitaliers|Hospitaliers]] et reste à l'ordre de Malte jusqu'à la Révolution. Devenue propriété de la commune de Challans, la chapelle est classée au titre des monuments historiques le 30 janvier 1995. Depuis 2024, des bénévoles du chantier CHAM y travaillent, et les découvertes archéologiques du site sont présentées au public lors des Journées européennes de l'archéologie ; le reste de l'année, on la voit de l'extérieur.
+repere: 1130 — Fondation donnée par la notice des Monuments historiques.
+repere: XIIe siècle — Construction de la chapelle à chevet plat.
+repere: fin XVe siècle — Remaniement de la chapelle par les Hospitaliers.
+repere: 11 juillet 1827 — La commune de Coudrie est réunie à Challans.
+repere: 30 janvier 1995 — Classement de la chapelle au titre des monuments historiques.
+attention: Le titre de « plus ancienne commanderie du Poitou » repose sur une date donnée sans référence ; il faut le tenir pour probable, non pour établi.
+geo: 46.8542, -1.7921
+lieu: Challans, Vendée, France
+lien: wp Challans
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00110312 = la notice Mérimée de la commanderie de Coudrie
+sources: notice Mérimée PA00110312 ; Wikipédia (fr) : Challans ; présentation du chantier CHAM à Challans ; coordonnées : fiche Coudrie de l'application Sites templiers (2026), OpenStreetMap
+voir: commanderie, architecture-templiere, carentoir, les-epeaux, hospitaliers
+
+@ la-rochelle
+cat: france
+nom: La Rochelle
+alias: commanderie de La Rochelle, maison du Temple de La Rochelle, Domus Templi de Rupella, cour de la Commanderie, rue du Temple, rue des Templiers, flotte de La Rochelle
+dates: 1139 – 1312 (Temple)
+an: 1139
+fin: 1312
+def: Port de l'Aunis où les Templiers reçurent des moulins en 1139, avec la confirmation d'Aliénor d'Aquitaine, et tinrent une maison prospère tournée vers le commerce du vin ; la légende d'une flotte partie de là en 1307 est du XXe siècle.
+texte: La Rochelle est au XIIe siècle une ville neuve, née d'un port sur la côte de l'Aunis. En 1139, Gangan de Taunay donne aux [[ordre-du-temple|Templiers]] des moulins et un bâtiment au centre de la ville ; la duchesse Aliénor d'Aquitaine, alors reine de France, confirme le don et exempte les frères de taxes sur leurs biens, et Richard Cœur de Lion renouvelle la confirmation en 1189 (voir [[richard-coeur-de-lion]]). La maison occupe un vaste enclos, avec sa chapelle et ses dépendances, à l'emplacement de l'actuelle cour de la Commanderie, dans le quartier où subsistent la rue du Temple et la rue des Templiers. Elle vit du vin, que les frères exportent vers l'Angleterre et la Flandre, de moulins à marée et de l'assèchement des marais de Marans ; vers 1230, des navires qui lui appartiennent sont nommés, la *Templère*, la *Buszarde de Templo*, le *Buscart*, et l'ordre affrète aussi des bâtiments marchands (voir [[flotte-du-temple]]). Un commandeur, Pierre Liège, meurt en 1268 ; sa dalle funéraire a été retrouvée.
+texte: En 1307, la maison est saisie comme les autres et passe en 1312 aux [[hospitaliers|Hospitaliers]]. La chapelle est saccagée en 1562, au début des guerres de Religion, et la commanderie presque entièrement détruite pendant le siège de 1573. Les fouilles commencées en 1982 ont livré une salle basse voûtée, des fragments de dalles funéraires — dont celles de Pierre Liège et de bourgeois du XIVe siècle, déposées à la cathédrale — et les restes d'une porte de la chapelle. Le quartier, au cœur de la vieille ville, garde la cour de la Commanderie et les rues qui portent le nom de l'ordre.
+texte: La Rochelle doit pourtant sa célébrité templière à une légende. Dix-sept ou dix-huit navires du Temple en seraient partis dans la nuit du 12 octobre 1307, chargés du trésor et des archives, vers l'Écosse, le Portugal ou l'Amérique. Le récit s'appuie sur une seule déposition du procès, celle du frère Jean de Châlons, qui rapporte par ouï-dire une fuite par mer avec dix-huit galères ; il s'est fixé à La Rochelle au XXe siècle (voir [[flotte-de-la-rochelle|la flotte de La Rochelle]] et [[templiers-en-amerique|les Templiers en Amérique]]).
+repere: 1139 — Gangan de Taunay donne des moulins aux Templiers ; Aliénor confirme le don.
+repere: 1189 — Richard Cœur de Lion confirme les biens de la maison.
+repere: v. 1230 — Mention de navires du Temple à La Rochelle.
+repere: 1268 — Mort du commandeur Pierre Liège.
+repere: 1312 — La maison passe aux Hospitaliers.
+repere: 1573 — La commanderie est presque entièrement détruite pendant le siège.
+repere: 1982 — Début des fouilles sur le site de la commanderie.
+attention: Aucun document médiéval ne décrit le départ d'une flotte templière de La Rochelle à la veille des arrestations : l'ordre secret de Philippe le Bel fut bien gardé, et la flotte du Temple, modeste, servait au commerce et au passage vers l'Orient.
+geo: 46.1592, -1.1530
+lieu: La Rochelle, Charente-Maritime, France
+lien: wp Commanderie de La Rochelle
+lien: wp Liste des commanderies templières en Charente-Maritime
+sources: Wikipédia (fr) : Commanderie de La Rochelle, Liste des commanderies templières en Charente-Maritime ; Demurger, Les Templiers, 2005 ; Legras, Les commanderies des Templiers et des Hospitaliers en Saintonge et en Aunis, 1983 (cité par Wikipédia) ; coordonnées : OpenStreetMap (cour de la Commanderie)
+voir: flotte-du-temple, flotte-de-la-rochelle, tresor-des-templiers, les-epeaux, richard-coeur-de-lion, hospitaliers, templiers-en-amerique
+
+@ les-epeaux
+cat: france
+nom: Commanderie des Épeaux
+alias: Les Épeaux, Meursac, Domus Templi de Espaucis, l'Espal, Saintonge templière
+dates: XIIe siècle – 1312 (Temple)
+an: 1227
+fin: 1312
+def: Principale maison du Temple de Saintonge, au hameau des Épeaux à Meursac, chef-lieu d'une baillie au XIIIe siècle ; sa chapelle, en partie démolie à la Révolution, et une partie de ses bâtiments sont restaurées par leur propriétaire.
+texte: La [[commanderie]] des Épeaux naît au XIIe siècle sur un terroir appelé l'Espal, en lisière des forêts de Baconnais et de La Lande, à une quinzaine de kilomètres au sud-ouest de Saintes. Les frères y défrichent, y cultivent les terres et y plantent la vigne, sous la protection des rois d'Angleterre, ducs d'Aquitaine. En 1227, le frère Pierre en est commandeur. Au XIIIe siècle, la maison a rang de baillie : elle rattache celle de Villeneuve, à Saint-Romain-de-Benet, et surveille Béloire et le Breuil-du-Pas ; à la fin du XIIIe siècle et au début du XIVe, son précepteur Thibaud de Tours reçoit des frères dans les maisons voisines, comme à Civrac. Hugues de Narsac la dirige en 1307. Les actes du procès la nomment *Domus Templi de Espaucis*.
+texte: En 1312, les [[hospitaliers|Hospitaliers]] reprennent les Épeaux ; la guerre de Cent Ans ruine le domaine au XIVe siècle, et il se relève mal. À la Révolution, la chapelle est en partie démolie. Une partie des bâtiments subsiste au lieu-dit la Commanderie, sur la route de Thaims ; leur propriétaire, Jacques Tourneur, les restaure et a reçu pour ce travail le prix Chanoine-Tonnellier de l'Académie de Saintonge en 2003. Le site est privé et se voit depuis la route.
+repere: 1227 — Le frère Pierre est commandeur des Épeaux.
+repere: v. 1286 — Jacques de Noian est précepteur.
+repere: v. 1296 — Thibaud de Tours, précepteur, reçoit des frères dans les maisons voisines.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 2003 — Prix de l'Académie de Saintonge pour la restauration du site.
+attention: On rattache volontiers les maisons de Saintonge à la « flotte » templière de [[la-rochelle|La Rochelle]] : Les Épeaux étaient une exploitation rurale de l'intérieur, chef-lieu administratif des maisons voisines, sans rôle maritime connu.
+geo: 45.6422, -0.7902
+lieu: Meursac, Charente-Maritime, France
+lien: wp Meursac
+lien: wp Liste des commanderies templières en Charente-Maritime
+sources: Wikipédia (fr) : Meursac, Liste des commanderies templières en Charente-Maritime ; Legras, Les commanderies des Templiers et des Hospitaliers en Saintonge et en Aunis, 1983 (cité par Wikipédia) ; coordonnées : fiche Les Épeaux de l'application Sites templiers (2026), OpenStreetMap
+voir: la-rochelle, commanderie, provinces-du-temple, hospitaliers, cressac, coudrie
+
+@ cressac
+cat: france
+nom: Chapelle de Cressac
+alias: chapelle des Templiers de Cressac, commanderie du Dognon, Cressac-Saint-Genis, Coteaux-du-Blanzacais, fresques de Cressac, la Bocquée
+dates: v. 1150 – 1160 (chapelle) ; fresques fin XIIe siècle
+an: 1160
+def: Chapelle de la commanderie du Dognon, en Charente, dont le mur nord porte des peintures de la fin du XIIe siècle montrant des chevaliers croisés au combat, rapprochées de la victoire de la Bocquée sur Nur ad-Din (1163) ; l'un des rares décors militaires peints conservés dans une chapelle templière.
+texte: La chapelle du Dognon, sur l'ancienne commune de Cressac-Saint-Genis, aujourd'hui Coteaux-du-Blanzacais, à une vingtaine de kilomètres au sud d'Angoulême, est le seul bâtiment qui subsiste d'une [[commanderie]] fondée par les [[ordre-du-temple|Templiers]] au XIIe siècle ; elle aurait été bâtie vers 1150-1160. C'est un rectangle aux murs épais renforcés de contreforts. On connaît quelques commandeurs à la fin du XIIIe siècle : Pierre de Banhal vers 1286, Barthélemi Merlot vers 1302-1303, Élie Raynaud en 1307. Les actes du procès écrivent son nom de bien des manières, *Dompnio*, *Dongno*.
+texte: Ce qui la rend célèbre, ce sont ses peintures, de la fin du XIIe siècle. Au mur nord, la frise haute montre des cavaliers armés de lances et de boucliers sortant d'une ville fortifiée pour poursuivre des assaillants qui se retirent ; la frise basse paraît représenter un échange de prisonniers, avec un évêque. L'historien de l'art Paul Deschamps y a reconnu la bataille de la Bocquée, en 1163, où des croisés venus d'Occident, parmi lesquels Hugues de Lusignan et Geoffroy Martel, frère du comte d'Angoulême, battirent Nur ad-Din au pied du Krak des Chevaliers : des seigneurs de la région en revenaient, ce qui rend l'hypothèse séduisante sans la prouver (voir [[templiers-et-musulmans|les Templiers et les musulmans]]). Les murs est et ouest portent aussi des peintures, dont une barque à voile carrée. À la fin du XIXe siècle, le peintre Eugène Sadoux a repris et complété les fresques, et des restaurations jugées trop radicales ont suivi avant 1969 : une partie de ce qu'on voit est moderne.
+texte: Après 1312, la commanderie passe aux [[hospitaliers|Hospitaliers]], puis, vendue à la Révolution, sert à l'agriculture. Au début du XXe siècle, l'Église protestante de Barbezieux l'achète ; elle en est toujours propriétaire et y célèbre le culte. La chapelle est classée au titre des monuments historiques le 9 mai 1914 ; une campagne de restauration des peintures a commencé en septembre 2013. Elle se visite sur réservation auprès de l'office de tourisme.
+repere: v. 1150-1160 — Construction de la chapelle du Dognon.
+repere: 1163 — Victoire des croisés sur Nur ad-Din à la Bocquée, scène que l'on croit reconnaître au mur nord.
+repere: fin XIIe siècle — Peinture des fresques.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 9 mai 1914 — Classement au titre des monuments historiques.
+repere: septembre 2013 — Début de la restauration des peintures.
+attention: L'identification avec la Bocquée est une hypothèse : aucune inscription ne nomme la bataille ni les combattants. Et les fresques ont été retouchées à la fin du XIXe siècle : on ne peut pas tirer de chaque détail un témoignage sur l'équipement des Templiers.
+geo: 45.4605, 0.0200
+lieu: Coteaux-du-Blanzacais, Charente, France
+lien: wp Commanderie de Cressac
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00104351 = la notice Mérimée de la chapelle
+sources: Wikipédia (fr) : Commanderie de Cressac, Liste des commanderies templières en Charente ; notice Mérimée PA00104351 ; Deschamps et Thibout, La peinture murale en France, 1951, et Curzi, La pittura dei Templari, 2002 (cités par Wikipédia) ; condensés des dossiers « Réseau territorial » et « Sites templiers en France » (Drive), section Réserves ; coordonnées : OpenStreetMap
+voir: templiers-et-musulmans, architecture-templiere, armement-et-equipement, commanderie, hospitaliers, les-epeaux

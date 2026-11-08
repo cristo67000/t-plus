@@ -1,0 +1,101 @@
+/*
+ * T+ — les couleurs et les mesures.
+ *
+ * Clair par défaut : un parchemin, une encre brune, le rouge de la croix pour
+ * l'accent et un or discret. Sombre selon le réglage du système, ou celui de
+ * l'application (html[data-theme="sombre"]).
+ */
+:root {
+  --papier: #f6f1e7;
+  --papier-2: #ece5d6;
+  --surface: #fffdf9;
+  --surface-2: #f8f3ea;
+  --encre: #241c16;
+  --encre-2: #52463b;
+  --discret: #74695c;
+  --trait: #e1d8c7;
+  --trait-fort: #c8bba4;
+  --or: #9c7c2b;
+  --or-clair: #ead9ad;
+  --rouge: #a7322f;
+  --rouge-clair: #f1dcd8;
+  --accent: #8d2a28;
+  --bleu: #2f5fa3;
+  --ombre: 0 1px 2px rgba(40, 30, 10, 0.08), 0 6px 20px rgba(40, 30, 10, 0.08);
+  --ombre-forte: 0 2px 6px rgba(40, 30, 10, 0.14), 0 16px 40px rgba(40, 30, 10, 0.18);
+  --rayon: 14px;
+  --rayon-petit: 8px;
+  --serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, "Noto Serif", Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif;
+  --barre: 56px;
+  --nav: 60px;
+  --sup: env(safe-area-inset-top, 0px);
+  --inf: env(safe-area-inset-bottom, 0px);
+  --melange: 86%;
+  /* la carte */
+  --c-mer: #dfe8ea;
+  --c-terre: #f3ecdd;
+  --c-lac: #d2e0e4;
+  --c-fleuve: #b9cdd3;
+  --c-frontiere: #c9bda6;
+  --c-ville: #8b7f70;
+  color-scheme: light;
+}
+
+html[data-theme="sombre"] {
+  --papier: #17141a;
+  --papier-2: #1f1a21;
+  --surface: #26212a;
+  --surface-2: #2d2731;
+  --encre: #ede6da;
+  --encre-2: #cbc2b3;
+  --discret: #a59c8e;
+  --trait: #352f3a;
+  --trait-fort: #4c4552;
+  --or: #d8b65b;
+  --or-clair: #4a3f22;
+  --rouge: #e07a77;
+  --rouge-clair: #4a2a2a;
+  --accent: #e8908c;
+  --bleu: #8fb0ea;
+  --ombre: 0 1px 2px rgba(0, 0, 0, 0.3), 0 6px 20px rgba(0, 0, 0, 0.35);
+  --ombre-forte: 0 2px 6px rgba(0, 0, 0, 0.4), 0 16px 40px rgba(0, 0, 0, 0.5);
+  --melange: 72%;
+  --c-mer: #1d2630;
+  --c-terre: #2e2a2f;
+  --c-lac: #222c36;
+  --c-fleuve: #3a4a58;
+  --c-frontiere: #4c4552;
+  --c-ville: #a59c8e;
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="clair"]) {
+    --papier: #17141a;
+    --papier-2: #1f1a21;
+    --surface: #26212a;
+    --surface-2: #2d2731;
+    --encre: #ede6da;
+    --encre-2: #cbc2b3;
+    --discret: #a59c8e;
+    --trait: #352f3a;
+    --trait-fort: #4c4552;
+    --or: #d8b65b;
+    --or-clair: #4a3f22;
+    --rouge: #e07a77;
+    --rouge-clair: #4a2a2a;
+    --accent: #e8908c;
+    --bleu: #8fb0ea;
+    --ombre: 0 1px 2px rgba(0, 0, 0, 0.3), 0 6px 20px rgba(0, 0, 0, 0.35);
+    --ombre-forte: 0 2px 6px rgba(0, 0, 0, 0.4), 0 16px 40px rgba(0, 0, 0, 0.5);
+    --melange: 72%;
+    --c-mer: #1d2630;
+    --c-terre: #2e2a2f;
+    --c-lac: #222c36;
+    --c-fleuve: #3a4a58;
+    --c-frontiere: #4c4552;
+    --c-ville: #a59c8e;
+    color-scheme: dark;
+  }
+}

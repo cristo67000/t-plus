@@ -1,0 +1,396 @@
+# T+ — lot 08 : l'Europe hors de France. Le Portugal (Tomar, Almourol, la synthèse
+# portugaise), la couronne d'Aragon (Miravet, Monzón, Peñíscola), la Castille-León
+# (Ponferrada, la Vera Cruz de Ségovie), les îles Britanniques (Temple Church, Cressing,
+# Garway, Balantrodoch), l'Italie (San Bevignate), l'Empire et ses marges (Tempelhof,
+# Chwarszczany, Templštejn). Coordonnées : Wikipédia et Wikidata, 4 décimales.
+
+# ── Le Portugal ─────────────────────────────────────────────────────────────
+
+@ tomar
+cat: europe
+nom: Tomar
+alias: château de Tomar, couvent du Christ, Convento de Cristo, charola de Tomar, rotonde de Tomar, Gualdim Pais, siège de l'ordre du Christ, Thomar
+dates: fondé en 1160
+an: 1160
+def: Château bâti à partir de 1160 par le maître templier Gualdim Pais au-dessus du Nabão, avec sa rotonde, la charola ; siège des Templiers portugais puis de l'ordre du Christ, le couvent est inscrit au patrimoine mondial depuis 1983.
+texte: Tomar naît d'une décision des [[templiers-au-portugal|Templiers du Portugal]]. En 1147, la prise de Santarém, à laquelle des frères ont pris part, a porté la frontière du royaume jusqu'au Tage, et il faut tenir le pays qui s'étend entre Coimbra et le fleuve. Le maître de l'ordre au Portugal, Gualdim Pais, né en 1118 à Amares, près de Braga, revenu de Terre sainte et placé à la tête de la province en 1157, choisit une colline qui domine la rivière Nabão. Une inscription gravée dans les murs date du 1er mars 1160 le début des travaux, en comptant selon l'ère hispanique (1198). En 1162, il donne une charte de franchises, un *foral*, à la ville qui se forme au pied du château. Tomar devient le siège de l'ordre au Portugal et la tête d'une ligne de forteresses tendue face aux Almohades : [[almourol|Almourol]], Pombal, Zêzere, Cardiga (voir [[templiers-et-reconquista|Templiers et Reconquista]]).
+texte: L'épreuve vient en 1190. Le calife almohade Abu Yusuf Yaqub al-Mansur, qui a repris Silves et l'Algarve, remonte vers le nord ; une plaque posée sur l'escalier qui mène à la rotonde commémore le siège du 13 juillet 1190, que le château soutient sans être pris. Gualdim Pais meurt à Tomar en 1195 ; il est enterré, comme les maîtres provinciaux, à Santa Maria do Olival, au pied de la ville. Le château templier comprend une enceinte flanquée de tours, une citadelle, l'*alcáçova*, et un donjon, l'un des premiers du Portugal. Dans l'enceinte se dresse la charola : une rotonde de la seconde moitié du XIIe siècle, polygone de seize pans à l'extérieur, dont le centre est un octogone entouré d'un déambulatoire. C'était l'oratoire des frères, et c'est l'un des édifices templiers les plus importants d'Occident.
+texte: Après la suppression du Temple, le roi [[denis-ier-de-portugal|Denis Ier]] obtient du pape Jean XXII, le 14 mars 1319, la création de l'[[ordre-du-christ|ordre du Christ]], qui reçoit les biens des Templiers portugais. Le nouvel ordre siège d'abord à Castro Marim, à l'embouchure du Guadiana, puis s'installe à Tomar, où il est établi en 1357, et le couvent grandit autour du château. L'infant Henri le Navigateur, gouverneur de l'ordre à partir de 1420, fait bâtir deux cloîtres ; le roi Manuel Ier fait orner la rotonde à partir de 1499, puis, à partir de 1510, ouvrir à l'ouest une nef de style manuélin, œuvre de Diogo de Arruda et de João de Castilho : la charola en devient le chœur, et la fenêtre de la salle capitulaire, attribuée à Arruda, est la pièce la plus célèbre du couvent. Sous Jean III, Diogo de Torralva dessine en 1557 le grand cloître, que Filippo Terzi achève en 1591. L'ordre du Christ disparaît, avec les autres ordres religieux portugais, en 1834.
+texte: Le couvent est classé monument national en 1907, le château en 1910, et l'ensemble est inscrit au patrimoine mondial de l'UNESCO en 1983. On y visite l'enceinte et la citadelle templières, la charola, dont le décor peint et sculpté date pour l'essentiel de l'époque manuéline, la nef et les cloîtres de l'ordre du Christ. En bas de la ville, l'église Santa Maria do Olival garde le souvenir des sépultures des maîtres.
+repere: 1157 — Gualdim Pais devient maître de l'ordre au Portugal.
+repere: 1er mars 1160 — Début de la construction du château, selon l'inscription de fondation.
+repere: 1162 — Gualdim Pais accorde un *foral* à la ville de Tomar.
+repere: 13 juillet 1190 — L'armée almohade assiège Tomar sans prendre le château.
+repere: 1195 — Mort de Gualdim Pais à Tomar.
+repere: 14 mars 1319 — Le pape Jean XXII crée l'ordre du Christ, héritier des biens du Temple au Portugal.
+repere: 1357 — L'ordre du Christ est établi à Tomar.
+repere: 1510 — Début de la nef manuéline du couvent.
+repere: 1983 — Inscription du couvent au patrimoine mondial de l'UNESCO.
+attention: On présente souvent le couvent du Christ comme « le château des Templiers » : la part templière est l'enceinte, la citadelle et la structure de la charola ; la nef, la fenêtre, les cloîtres et la plupart des décors sont l'œuvre de l'ordre du Christ, aux XVe et XVIe siècles. Et l'ordre du Christ, créé par le pape en 1319, n'est pas le Temple continué en secret : il en a reçu les biens et une partie des frères, sous une autorité nouvelle.
+geo: 39.6036, -8.4193
+lieu: Tomar, district de Santarém, Portugal
+lien: pt Convento de Cristo
+lien: en Convent of Christ (Tomar)
+lien: pt Castelo de Tomar
+sources: Wikipédia (pt : Convento de Cristo, Castelo de Tomar, Gualdim Pais, Ordem de Cristo ; en : Convent of Christ (Tomar), Knights Templar in Portugal) ; Wikidata (coordonnées du couvent)
+voir: templiers-au-portugal, almourol, ordre-du-christ, denis-ier-de-portugal, templiers-et-reconquista, architecture-templiere
+
+@ templiers-au-portugal
+cat: europe
+nom: Les Templiers au Portugal
+alias: Templiers portugais, Ordem do Templo, château de Soure, Gualdim Pais, ligne du Tage, Ad ea ex quibus, Gil Martins, province du Portugal
+dates: 1128 – 1319
+an: 1128
+fin: 1319
+def: Établis dès 1128 au château de Soure, les Templiers défendirent au Portugal la frontière face aux musulmans d'al-Andalus et aux Almohades par une ligne de châteaux sur le Tage ; en 1319, le roi Denis obtint que leurs biens passent à un ordre nouveau, l'ordre du Christ.
+texte: Le 19 mars 1128, la comtesse Thérèse, qui gouverne le comté de Portugal pendant la jeunesse de son fils Alphonse Henriques, donne aux Templiers le château de Soure, au sud de Coimbra ; l'acte est passé à Braga. C'est l'une des toutes premières donations faites à l'ordre en Occident, un an avant le [[concile-de-troyes|concile de Troyes]]. Soure est alors une place de frontière : en 1144, le gouverneur musulman de Santarém l'attaque, défait les frères et pille le château. Le royaume avance vers le sud, et l'ordre avec lui : en 1147, des Templiers participent à la prise de Santarém, enlevée de nuit, et à la conquête d'Alcácer do Sal. Au Portugal, la guerre sainte se fait sur place, sans passer la mer (voir [[templiers-et-reconquista|Templiers et Reconquista]]).
+texte: L'homme de cette expansion est Gualdim Pais (1118-1195). Né à Amares, dans la région de Braga, il a combattu en Orient : l'inscription qu'il fait graver en 1171 au-dessus de la porte d'[[almourol|Almourol]] rappelle sa lutte contre les musulmans d'Égypte et de Syrie, puis son élévation à la tête de la maison du Temple au Portugal, en 1157. Il fonde en 1160 le château de [[tomar|Tomar]], qui devient le siège de la province, et la même inscription énumère les forteresses qu'il a bâties : Pombal, Tomar, Zêzere, Cardiga et Almourol. D'autres suivent : Monsanto, reçu en 1165, Idanha-a-Nova, fondée vers 1205, Castelo Branco, sur les terres de l'Açafa données en 1199. Cette ligne, adossée au Tage, tient en 1190 face à l'offensive du calife almohade, qui assiège Tomar en vain. En 1212, des Templiers portugais combattent à Las Navas de Tolosa sous leur chef Gomes Ramires.
+texte: L'affaire de 1307 prend au Portugal un tour particulier. Le roi [[denis-ier-de-portugal|Denis Ier]] tarde à exécuter les ordres de [[clement-v|Clément V]], puis fait saisir les biens de l'ordre en 1309 ; les enquêtes menées dans la péninsule ne prouvent rien contre les frères, et le Portugal n'a connu ni torture ni bûcher. En 1310, Denis s'entend avec les rois de Castille et d'Aragon pour défendre les droits de leurs couronnes sur ces biens, et il s'oppose à leur remise aux [[hospitaliers|Hospitaliers]], que prévoit en 1312 la bulle *Ad providam* (voir [[devolution-des-biens|dévolution des biens]]). Sa patience est payée : le 14 mars 1319, par la bulle *Ad ea ex quibus*, le pape Jean XXII crée l'[[ordre-du-christ|ordre du Christ]], et le roi remet à son premier maître, Gil Martins, venu de l'ordre d'Avis, tous les biens, rentes et droits qui avaient été ceux du Temple.
+texte: L'ordre du Christ siège d'abord à Castro Marim, puis à Tomar, où il est établi en 1357. Il tient les anciennes commanderies templières, et c'est lui que gouverne, à partir de 1420, l'infant Henri le Navigateur. Avec l'Aragon et Valence, où naît en 1317 l'[[ordre-de-montesa|ordre de Montesa]], le Portugal est ainsi l'un des pays où l'héritage matériel du Temple est resté dans un ordre national, au lieu de passer aux Hospitaliers.
+repere: 19 mars 1128 — La comtesse Thérèse donne aux Templiers le château de Soure.
+repere: 1147 — Des Templiers participent à la prise de Santarém.
+repere: 1157 — Gualdim Pais devient maître de l'ordre au Portugal.
+repere: 1er mars 1160 — Début de la construction du château de Tomar.
+repere: 1171 — Une inscription d'Almourol énumère les châteaux bâtis par Gualdim Pais.
+repere: 1190 — Le calife almohade assiège Tomar sans le prendre.
+repere: 1212 — Des Templiers portugais combattent à Las Navas de Tolosa.
+repere: 14 mars 1319 — La bulle *Ad ea ex quibus* crée l'ordre du Christ.
+attention: Le Portugal n'a pas été le refuge où le Temple aurait survécu en secret, ni la destination d'une flotte partie de La Rochelle avec un trésor (voir [[flotte-de-la-rochelle|flotte de La Rochelle]]) : l'ordre du Christ est une création pontificale, qui reçut les biens et une partie des frères du Temple. La bulle de fondation est datée selon les sources du 14 ou du 15 mars 1319.
+lien: en Knights Templar in Portugal
+lien: pt Gualdim Pais
+lien: pt Ordem de Cristo
+sources: Wikipédia (en : Knights Templar in Portugal, Trials of the Knights Templar ; pt : Gualdim Pais, Castelo de Almourol, Castelo de Soure, Ordem de Cristo ; fr : Procès de l'ordre du Temple)
+voir: tomar, almourol, ordre-du-christ, denis-ier-de-portugal, templiers-et-reconquista, devolution-des-biens, ordre-de-montesa
+
+@ almourol
+cat: europe
+nom: Château d'Almourol
+alias: Almourol, Castelo de Almourol, Almorolan, château du Tage
+dates: relevé en 1171
+an: 1171
+def: Château dressé sur un îlot rocheux du Tage, en aval du confluent du Zêzere, que le maître templier Gualdim Pais releva en 1171 ; poste de la ligne du Tage, il a été largement restauré au XXe siècle, ce qui explique son aspect intact.
+texte: Le château occupe un rocher de granit qui émerge du Tage, en face de Tancos, à quelques centaines de mètres en aval du confluent du Zêzere, sur la commune de Vila Nova da Barquinha. Le site était occupé bien avant le Moyen Âge, et l'on ignore quand fut élevée la première forteresse. Pris en 1129 par les Portugais, il est confié aux [[templiers-au-portugal|Templiers du Portugal]] et rebâti par leur maître, Gualdim Pais. Au-dessus de la porte principale, une inscription datée de l'ère 1209, soit 1171, rappelle son origine, la région de Braga, ses combats contre les musulmans en Égypte et en Syrie, son élévation à la tête du Temple au Portugal et la construction des châteaux de Pombal, [[tomar|Tomar]], Zêzere, Cardiga et Almourol ; une seconde inscription, sur la porte intérieure, date de la même année la construction d'Almourol.
+texte: L'enceinte extérieure, basse, est rythmée de tours rondes ; l'enceinte haute enferme un donjon de trois niveaux, élément nouveau dans l'Ouest de la péninsule, qui y apparaît au XIIe siècle après celui de Tomar. Le château surveillait le fleuve, qui était alors la frontière, au cœur de la ligne défensive tenue par l'ordre (voir [[chateaux-du-temple|châteaux du Temple]]). Quand la frontière descendit vers le sud, il perdit son rôle et tomba en ruine. Le XIXe siècle romantique en fit un décor de légendes. Classé monument national le 16 juin 1910, il est restauré à partir de 1939 : chemin de ronde, angle du donjon reconstruit, consolidations de 1958-1959. Il servit même de résidence officielle de la République dans les années 1940 et 1950. On n'y accède qu'en bateau, depuis la rive.
+repere: 1129 — Les Portugais prennent Almourol.
+repere: 1171 — Gualdim Pais fait graver les inscriptions de la reconstruction.
+repere: 16 juin 1910 — Le château est classé monument national.
+repere: 1939 — Début des grandes restaurations.
+attention: L'image d'un château templier « intact » doit beaucoup aux restaurations du XXe siècle. Et les inscriptions de 1171 sont presque les seuls documents sur la présence de l'ordre : on en ignore la garnison et l'histoire au XIIIe siècle.
+geo: 39.4620, -8.3839
+lieu: Praia do Ribatejo, Vila Nova da Barquinha, district de Santarém, Portugal
+lien: wp Château d'Almourol
+lien: pt Castelo de Almourol
+lien: en Castle of Almourol
+sources: Wikipédia (fr : Château d'Almourol ; pt : Castelo de Almourol ; en : Castle of Almourol, Knights Templar in Portugal)
+voir: tomar, templiers-au-portugal, templiers-et-reconquista, chateaux-du-temple, ordre-du-christ
+
+# ── La couronne d'Aragon ────────────────────────────────────────────────────
+
+@ miravet
+cat: europe
+nom: Château de Miravet
+alias: Castell de Miravet, Castillo de Miravet, Miravet, siège de 1308, Ramon de Guardia, Ramon Saguàrdia, tour du Trésor, tour du Sang
+dates: templier de 1153 à 1308
+an: 1153
+fin: 1308
+def: Forteresse de l'Èbre, en Catalogne, donnée aux Templiers en 1153 par le comte de Barcelone et devenue l'une de leurs principales maisons de la couronne d'Aragon ; ses frères y soutinrent un siège d'un an avant de se rendre en décembre 1308.
+texte: Le château couronne une colline d'une centaine de mètres au-dessus de l'Èbre. C'était une forteresse d'al-Andalus, l'un des derniers points d'appui musulmans en Catalogne. Les Templiers l'assiègent et la prennent en 1152, et en 1153 Raimond-Bérenger IV, comte de Barcelone, la leur donne pour garder la frontière méridionale de son comté (voir [[templiers-et-reconquista|Templiers et Reconquista]]). Les frères gardent l'enceinte basse, d'origine andalouse, et bâtissent au sommet une forteresse neuve, un trapèze fermé par des murs d'environ vingt-cinq mètres, autour d'une cour. On y voit encore l'église romane, la salle capitulaire, le réfectoire, le cellier, les écuries, la citerne et les silos ; une tour passe pour avoir abrité les archives et le trésor de la maison.
+texte: En 1307, après les arrestations de France, les Templiers de Miravet s'enferment dans leur château, sous la conduite de Ramon de Guardia, commandeur du [[mas-deu|Mas Deu]], et résistent aux troupes de [[jacques-ii-d-aragon|Jacques II]] pendant près d'un an ; ils se rendent en décembre 1308. Les officiers du roi trouvent dans le château 650 florins d'or, 5 463 tournois d'argent, 2 487 sous de Jaca et 663 sous de Barcelone, avec d'autres objets de prix : la réserve d'une grande maison, non un [[tresor-des-templiers|trésor caché]]. Le 4 novembre 1312, le concile de Tarragone déclare les Templiers de la province innocents, et Ramon de Guardia, acquitté, se retire au Mas Deu. Miravet passe alors aux [[hospitaliers|Hospitaliers]]. Le château sert encore dans les guerres carlistes, et les troupes franquistes l'occupent le 5 avril 1938, pendant la guerre civile. Il est classé bien d'intérêt culturel en 1988.
+repere: 1153 — Raimond-Bérenger IV donne Miravet aux Templiers.
+repere: 1307 — Les Templiers de Miravet s'enferment dans le château.
+repere: décembre 1308 — Après un an de siège, ils se rendent aux troupes de Jacques II.
+repere: 4 novembre 1312 — Le concile de Tarragone déclare innocents les Templiers de la province.
+repere: 5 avril 1938 — Les troupes franquistes occupent Miravet.
+attention: On montre à Miravet la « tour du Sang », où six frères qui refusaient de se rendre auraient été mis à mort : c'est une légende, les derniers défenseurs s'étant rendus quelques jours après les autres. Et les sommes trouvées en 1308 sont connues par l'inventaire : rien ne permet d'imaginer un trésor soustrait au roi.
+geo: 41.0356, 0.5936
+lieu: Miravet, Ribera d'Ebre, Catalogne, Espagne
+lien: wp Château de Miravet
+lien: es Castillo de Miravet
+sources: Wikipédia (fr : Château de Miravet ; es : Castillo de Miravet ; ca : Castell de Miravet ; fr : Procès de l'ordre du Temple)
+voir: monzon, peniscola, jacques-ii-d-aragon, templiers-et-reconquista, mas-deu, proces-des-templiers, tresor-des-templiers
+
+@ monzon
+cat: europe
+nom: Château de Monzón
+alias: Castillo de Monzón, Monzón, Montsó, Guillem de Montredon, enfance de Jacques Ier, testament d'Alphonse le Batailleur
+dates: templier de 1143 à 1309
+an: 1143
+fin: 1309
+def: Forteresse aragonaise cédée au Temple en 1143, chef-lieu de l'ordre en Aragon, où le jeune roi Jacques Ier fut élevé sous la garde des Templiers ; ses frères résistèrent à Jacques II jusqu'en mai 1309.
+texte: Monzón est une forteresse musulmane du Xe siècle, prise en 1089 par le roi Sanche Ramírez. Le roi Alphonse Ier le Batailleur, mort sans héritier en 1134, avait légué son royaume aux trois ordres de Jérusalem, le Saint-Sépulcre, l'Hôpital et le Temple ; le testament ne fut pas appliqué, mais il fallut dédommager les ordres. En 1143, au terme de neuf ans de négociations, un accord donne au Temple plusieurs forteresses, dont Monzón, avec des privilèges fiscaux et des terres ; le pape Eugène III le confirme en mars 1150 (voir [[templiers-et-reconquista|Templiers et Reconquista]]). Monzón devient le siège de l'ordre en Aragon, à la tête d'une trentaine de villages, et les frères y ajoutent murailles, tours, écuries, réfectoire et dortoirs.
+texte: En 1213, le roi Pierre II d'Aragon est tué à Muret. Son fils, Jacques, né en 1208, est entre les mains de Simon de Montfort, qui doit le rendre, sur l'ordre du pape, en 1214 ; l'enfant est confié aux Templiers de Monzón et à leur maître en Aragon et en Provence, Guillem de Montredon. Il y reste jusqu'en 1217, quand les Templiers et des nobles fidèles le conduisent à Saragosse : ce sera Jacques Ier le Conquérant. En 1303 encore, le roi confie les joyaux de la couronne à la garde de Monzón. Après les arrestations de 1307, les frères s'y enferment à leur tour ; l'armée de [[jacques-ii-d-aragon|Jacques II]] les assiège, et ils ne se rendent qu'en mai 1309. Le château passe ensuite aux [[hospitaliers|Hospitaliers]]. Place forte jusqu'au XIXe siècle, assiégé en 1642 et en 1643, repris aux Français en février 1814, il prend au XVIIIe siècle la silhouette qu'on lui voit. Il est classé en 1949.
+texte: De l'époque templière restent la chapelle Saint-Nicolas, du XIIe siècle, à abside en hémicycle, la salle capitulaire avec sa citerne, la tour dite des Templiers, qui abritait les dortoirs, et un donjon dont la date est discutée.
+repere: 1089 — Sanche Ramírez prend la forteresse musulmane de Monzón.
+repere: 1143 — Un accord cède Monzón et d'autres forteresses au Temple.
+repere: 1214 — Le jeune Jacques Ier est confié aux Templiers de Monzón.
+repere: 1217 — Les Templiers conduisent le jeune roi à Saragosse.
+repere: mai 1309 — Les Templiers de Monzón se rendent à l'armée de Jacques II.
+repere: 1949 — Le château est classé bien d'intérêt culturel.
+attention: La silhouette actuelle du château est celle d'une place forte de l'époque moderne : seuls quelques bâtiments de l'enceinte, la chapelle, la salle capitulaire et les dortoirs, remontent sûrement aux Templiers.
+geo: 41.9091, 0.1916
+lieu: Monzón, province de Huesca, Aragon, Espagne
+lien: wp Château de Monzón
+lien: es Castillo de Monzón
+lien: en Monzón Castle
+sources: Wikipédia (fr : Château de Monzón ; es : Castillo de Monzón ; en : Monzón Castle, James I of Aragon)
+voir: miravet, peniscola, jacques-ii-d-aragon, templiers-et-reconquista, provinces-du-temple, ordre-du-saint-sepulcre, hospitaliers
+
+@ peniscola
+cat: europe
+nom: Peñíscola
+alias: château de Peñíscola, Castillo de Peñíscola, Paníscola, château du pape Luna, Benoît XIII, Berenguer de Cardona, Arnau de Banyuls
+dates: bâti de 1294 à 1307
+an: 1294
+fin: 1307
+def: Château construit par les Templiers de 1294 à 1307 sur le rocher de Peñíscola, au royaume de Valence, reçu de Jacques II en échange de leur part de Tortosa ; passé à l'ordre de Montesa, il fut la résidence du pape Benoît XIII de 1411 à 1423.
+texte: Peñíscola est un rocher presque détaché de la côte, relié à la terre par un isthme. La forteresse musulmane résiste en 1225 au roi Jacques Ier et se rend par capitulation en 1233. Le 27 août 1294, Berenguer de Cardona, maître du Temple en Aragon et en Catalogne, échange avec [[jacques-ii-d-aragon|Jacques II]] la part de l'ordre dans la ville catalane de Tortosa contre Peñíscola, Ares, Coves et d'autres lieux ; l'acte est approuvé par [[jacques-de-molay|Jacques de Molay]]. De 1294 à 1307, sur les restes de l'alcazar, les frères élèvent un château neuf, à l'initiative de Berenguer de Cardona et d'Arnau de Banyuls, commandeur de Peñíscola : un plan régulier, des tours sur cinq côtés, une entrée frappée d'une frise d'écus, une chapelle à l'étage de la tour nord, une place d'armes, et en bas les salles militaires, la citerne, la prison. C'est l'un des derniers grands châteaux que l'ordre ait bâtis (voir [[chateaux-du-temple|châteaux du Temple]]).
+texte: Après la suppression, Peñíscola et les autres biens templiers du royaume de Valence passent en 1317 au nouvel [[ordre-de-montesa|ordre de Montesa]]. Le château doit sa célébrité à un autre hôte : Pedro de Luna, élu pape en Avignon sous le nom de Benoît XIII, qui refuse de céder pendant le Grand Schisme, s'y établit à la fin de 1411 et y meurt en 1423 ; son successeur abdique à Peñíscola en 1429. La couronne rend le château à Montesa en 1441, puis le reprend définitivement en 1488. Au XVIe siècle, Philippe II fait moderniser les défenses de la ville par l'ingénieur Giovanni Battista Antonelli. En 1814, le bombardement qui chasse les Français détruit les logis et les dortoirs templiers. Le château, classé en 1931, appartient à la commune.
+repere: 1233 — La forteresse musulmane se rend à Jacques Ier.
+repere: 27 août 1294 — Les Templiers reçoivent Peñíscola en échange de leur part de Tortosa.
+repere: 1307 — Achèvement du château templier.
+repere: 1317 — Le château passe à l'ordre de Montesa.
+repere: 1411 — Le pape Benoît XIII s'installe à Peñíscola, où il meurt en 1423.
+repere: 1814 — Un bombardement détruit les logis templiers.
+attention: Le « château du pape Luna » est un château templier : Benoît XIII n'en fut que l'occupant. À l'inverse, les remparts de la ville qu'on longe pour y monter datent pour l'essentiel du XVIe siècle. La Tortosa de l'échange de 1294 est la ville catalane de l'Èbre, non la Tortose de Syrie.
+geo: 40.3588, 0.4079
+lieu: Peñíscola, province de Castellón, Communauté valencienne, Espagne
+lien: wp Château de Peñíscola
+lien: es Castillo Palacio de Peñíscola
+sources: Wikipédia (fr : Château de Peñíscola ; es : Castillo Palacio de Peñíscola ; ca : Castell de Miravet, bibliographie de J. Fuguet Sans)
+voir: miravet, monzon, ordre-de-montesa, jacques-ii-d-aragon, chateaux-du-temple, devolution-des-biens
+
+# ── La Castille et le León ──────────────────────────────────────────────────
+
+@ ponferrada
+cat: europe
+nom: Château de Ponferrada
+alias: Castillo de Ponferrada, Castillo de los Templarios, château des Templiers de Ponferrada, Bierzo, Noches Templarias
+dates: templier v. 1178 – 1312
+an: 1178
+fin: 1312
+def: Forteresse du Bierzo, au royaume de León, sur le chemin de Saint-Jacques, que les Templiers tinrent de la fin du XIIe siècle au début du XIVe ; l'essentiel de ce qu'on voit aujourd'hui date pourtant des XIVe et XVe siècles.
+texte: Vers 1178, le roi Ferdinand II de León autorise les Templiers à fonder une commanderie dans la petite ville de Ponferrada, née un siècle plus tôt autour d'un pont sur le Sil, et lui donne en 1180 un *fuero* pour la repeupler. Une première fortification est mentionnée vers 1187. Les frères y servent la politique des rois de León : en 1196, Alphonse IX, en guerre contre la Castille, leur reprend la ville ; il la leur rend en 1211, en échange d'autres châteaux. Lors de la crise de l'ordre, le dernier maître de la province, Rodrigo Yáñez, remet la ville à l'infant Philippe, frère du roi, pour éviter qu'elle ne soit confisquée (voir [[templiers-et-reconquista|Templiers et Reconquista]]).
+texte: L'histoire du château continue sans eux. En 1340, Alphonse XI le donne à Pedro Fernández de Castro, qui commence le « vieux château » ; en 1440, Pedro Álvarez Osorio, premier comte de Lemos, l'obtient et conduit les grands travaux du XVe siècle ; les révoltés irmandiños l'assiègent en 1467, et les Rois Catholiques le prennent en 1486. Au XIXe siècle, la ville l'utilise comme carrière, vend ses murs en 1850 et en fait sauter une partie en 1923 pour un terrain de sport. Le classement comme monument national, le 7 février 1924, arrête la destruction. De la forteresse templière, il reste la partie nord de l'enceinte, du XIIe siècle : les restes d'une barbacane, une tour elliptique, une tour de trois niveaux, la tour Malvecino et une tour à porte en arc brisé. Restauré au XXIe siècle, le château accueille chaque été une fête templière.
+repere: 1178 — Ferdinand II de León autorise les Templiers à s'établir à Ponferrada.
+repere: 1196 — Alphonse IX reprend la ville aux Templiers.
+repere: 1211 — Le roi rend Ponferrada à l'ordre.
+repere: 1440 — Le comte de Lemos obtient le château et l'agrandit.
+repere: 7 février 1924 — Le château est classé monument national.
+attention: Le « château des Templiers », nom sous lequel on le visite, est surtout l'œuvre des seigneurs qui l'ont tenu après 1340 : seule la partie nord remonte à l'ordre. La fête templière est une création moderne.
+geo: 42.5440, -6.5937
+lieu: Ponferrada, province de León, Castille-et-León, Espagne
+lien: wp Château de Ponferrada
+lien: es Castillo de Ponferrada
+sources: Wikipédia (fr : Château de Ponferrada ; es : Castillo de Ponferrada)
+voir: templiers-et-reconquista, chateaux-du-temple, monzon, miravet, devolution-des-biens
+
+@ segovie-vera-cruz
+cat: europe
+nom: La Vera Cruz de Ségovie
+alias: église de la Vera Cruz, Iglesia de la Vera Cruz, Vraie Croix de Ségovie, église templière de Ségovie, Zamarramala, Saint-Sépulcre de Ségovie
+dates: consacrée le 13 avril 1208
+an: 1208
+def: Église dodécagonale consacrée en 1208 hors les murs de Ségovie, longtemps dite « des Templiers » ; son inscription de dédicace parle d'une église du Saint-Sépulcre, et l'on y voit aujourd'hui plutôt une fondation des chanoines du Saint-Sépulcre.
+texte: L'église se dresse dans la campagne, au nord de Ségovie, sur la route de Zamarramala, face à l'Alcázar. Son plan est centré : une nef à douze pans tourne autour d'un édicule central à deux étages ; trois absides, une sacristie en hémicycle et une tour carrée, d'abord isolée, s'y ajoutent. Des restes de peintures murales subsistent sur les murs de la nef. Une plaque près de la porte latérale commémore la dédicace d'une « église du Saint-Sépulcre » aux ides d'avril de l'ère 1246, soit le 13 avril 1208. En 1216, le pape Honorius III lui accorde un fragment de la vraie Croix, d'où son nom de Vera Cruz.
+texte: La tradition attribue l'église aux Templiers. On pense aujourd'hui qu'elle fut bâtie par l'ordre du Saint-Sépulcre de Jérusalem (voir [[ordre-du-saint-sepulcre|chanoines du Saint-Sépulcre]]), dont elle était une commanderie, rattachée à la collégiale de Toro. Les biens de cet ordre ayant été réunis à ceux de Saint-Jean au XVIe siècle, l'église passe aux [[hospitaliers|Hospitaliers]]. En 1692, la paroisse est transférée à Zamarramala, avec la relique ; en 1836, la desamortización la fait vendre aux enchères, et elle sert de grange à foin. Rendue au culte au début du XXe siècle, classée monument national en 1919, elle est depuis le 31 mai 1951 entretenue par l'ordre de Malte.
+texte: L'attribution templière repose sur la forme ronde, qui rappelle le Saint-Sépulcre comme la [[temple-church-londres|Temple Church]] de Londres ou la charola de [[tomar|Tomar]]. Mais ce plan n'appartient pas aux seuls Templiers : il est celui du tombeau du Christ, que les chanoines du Saint-Sépulcre avaient toutes les raisons de reproduire (voir [[architecture-templiere|architecture templière]]).
+repere: 13 avril 1208 — Consécration de l'église, selon l'inscription de dédicace.
+repere: 1216 — Honorius III accorde à l'église une relique de la vraie Croix.
+repere: 1692 — La paroisse et la relique sont transférées à Zamarramala.
+repere: 1919 — L'église est classée monument national.
+repere: 31 mai 1951 — L'ordre de Malte prend l'église en charge.
+attention: Rien ne prouve que les Templiers aient bâti ou tenu la Vera Cruz : l'inscription et l'histoire de la relique la rattachent au Saint-Sépulcre. Une église ronde n'est pas en soi un indice templier, et les trésors gardés par des chevaliers qu'on y place relèvent de la légende.
+geo: 40.9557, -4.1323
+lieu: Ségovie, Castille-et-León, Espagne
+lien: wp Église de la Vera Cruz
+lien: es Iglesia de la Vera Cruz (Segovia)
+sources: Wikipédia (fr : Église de la Vera Cruz ; es : Iglesia de la Vera Cruz (Segovia))
+voir: ordre-du-saint-sepulcre, architecture-templiere, temple-church-londres, tomar, laon, metz, hospitaliers
+
+# ── Les îles Britanniques ───────────────────────────────────────────────────
+
+@ temple-church-londres
+cat: europe
+nom: Temple Church (Londres)
+alias: Temple Church, église du Temple de Londres, Nouveau Temple, New Temple, Inner Temple, Middle Temple, gisants du Temple, Guillaume le Maréchal, Master of the Temple
+dates: consacrée le 10 février 1185
+an: 1185
+def: Église du Nouveau Temple de Londres, chef-lieu de l'ordre en Angleterre, dont la nef ronde fut consacrée le 10 février 1185 par le patriarche Héraclius ; passée aux juristes de l'Inner et du Middle Temple, elle abrite les gisants de Guillaume le Maréchal et de ses fils.
+texte: Les Templiers de Londres s'établissent d'abord au milieu du XIIe siècle à Holborn, au « Vieux Temple ». Le lieu devenant trop petit, l'ordre achète dans les années 1160 un terrain au bord de la Tamise, entre la Cité et Westminster, et y bâtit une église ronde ; il y transporte son siège anglais en 1185. Le 10 février 1185, Héraclius, patriarche de Jérusalem venu chercher des secours en Occident, consacre l'église, sans doute en présence du roi Henri II. La nef ronde, de dix-sept mètres de diamètre, reprend le plan du Saint-Sépulcre. Le chœur, reconstruit au XIIIe siècle en trois vaisseaux de même largeur, est consacré le jour de l'Ascension 1240 (voir [[templiers-en-angleterre|Templiers en Angleterre]]).
+texte: Le Nouveau Temple est aussi une banque et un coffre. Sous Jean sans Terre, il sert de trésor royal ; Henri III y installe sa garde-robe en 1225, et Édouard Ier y puise de force en 1283 (voir [[banque-du-temple|le Temple et l'argent]]). En janvier 1215, Guillaume le Maréchal y négocie une rencontre entre le roi Jean et les barons révoltés, prélude à la Grande Charte de juin. Le Maréchal, régent du royaume après la mort de Jean, entre dans l'ordre sur son lit de mort, accomplissant un vœu de croisade, et meurt le 14 mai 1219 ; il est enterré dans la nef, où neuf gisants de marbre du XIIIe siècle représentent des chevaliers, ses fils parmi eux.
+texte: Le 8 janvier 1308, [[edouard-ii|Édouard II]] ordonne de saisir les Templiers du royaume. Leur procès se tient du 22 octobre 1309 au 18 mars 1310 devant Déodat, abbé de Lagny, et Sicard de Vaur ; les frères n'avouent pas les crimes, et le dernier maître d'Angleterre, Guillaume de La More, qui refuse jusqu'au bout de reconnaître les faits, meurt prisonnier à la Tour de Londres. La bulle *Ad providam* n'est appliquée qu'en 1324 : le Temple passe aux [[hospitaliers|Hospitaliers]], qui en louent une partie à deux sociétés de juristes, l'Inner Temple et le Middle Temple. Henri VIII supprime les Hospitaliers en 1540, et Jacques Ier accorde en 1608 aux deux corporations l'usage perpétuel de l'église, qui est toujours leur chapelle ; son desservant porte encore le titre de *Master of the Temple*. Incendiée par les bombes allemandes le 10 mai 1941, l'église est restaurée et consacrée de nouveau en novembre 1958.
+repere: 10 février 1185 — Le patriarche Héraclius consacre l'église ronde.
+repere: janvier 1215 — Guillaume le Maréchal négocie au Temple entre le roi Jean et les barons.
+repere: 1240 — Consécration du chœur, le jour de l'Ascension.
+repere: 8 janvier 1308 — Édouard II ordonne l'arrestation des Templiers d'Angleterre.
+repere: 1324 — Le Temple passe aux Hospitaliers, qui le louent à des juristes.
+repere: 1608 — Jacques Ier en accorde l'usage aux deux Inns of Court.
+repere: 10 mai 1941 — Des bombes incendiaires détruisent l'intérieur de l'église.
+repere: novembre 1958 — L'église restaurée est consacrée de nouveau.
+attention: Les gisants ne sont pas ceux de Templiers, quoi qu'on lise parfois : ce sont des seigneurs proches de l'ordre, inhumés dans son église, dont Guillaume le Maréchal, qui ne reçut l'habit qu'à sa mort. La nef ronde imite le Saint-Sépulcre, non le Temple de Salomon, et le rôle que lui donne le roman *Da Vinci Code* est une fiction.
+geo: 51.5132, -0.1104
+lieu: Temple, Cité de Londres, Royaume-Uni
+lien: wp Église du Temple (Londres)
+lien: en Temple Church
+lien: url https://www.templechurch.com/ = site officiel de la Temple Church
+sources: Wikipédia (fr : Église du Temple (Londres), Templiers en Angleterre ; en : Temple Church, Knights Templar in England, William Marshal, 1st Earl of Pembroke) ; site officiel templechurch.com (sommaire historique)
+voir: templiers-en-angleterre, edouard-ii, banque-du-temple, architecture-templiere, cressing-temple, garway, hospitaliers
+
+@ cressing-temple
+cat: europe
+nom: Cressing Temple
+alias: Cressing, Cressing Temple Barns, grange de l'orge, grange du blé, Barley Barn, Wheat Barn, Mathilde de Boulogne, Witham
+dates: donné aux Templiers en 1136
+an: 1136
+def: Domaine de l'Essex donné aux Templiers en 1136 par la reine Mathilde de Boulogne ; ses deux granges de charpente, celle de l'orge (vers 1220) et celle du blé (vers 1280), comptent parmi les plus anciennes d'Angleterre.
+texte: En 1136, Mathilde de Boulogne, épouse du roi Étienne, donne aux Templiers le manoir de Cressing, dans l'Essex ; c'est l'un de leurs tout premiers domaines anglais. Ils reçoivent bientôt des terres à Witham, entre 1138 et 1148, et, dans l'inventaire de leurs biens dressé en 1185, Cressing vient en tête de liste. Le domaine, d'environ 1 400 acres, soit quelque 570 hectares, est une grande exploitation de céréales dont les revenus partent pour la Terre sainte (voir [[economie-du-temple|économie du Temple]]). Il en reste deux granges de chêne, classées au premier rang des monuments anglais : la grange de l'orge, du début du XIIIe siècle, vers 1220, dont le toit de tuiles pesait près de soixante-dix tonnes, et la grange du blé, vers 1280, remaniée au XVIe et au XVIIIe siècle.
+texte: Au début du XIVe siècle, le domaine passe aux [[hospitaliers|Hospitaliers]], qui conservent les chartes templières parmi leurs archives. Le 10 juin 1381, pendant la révolte des paysans, des insurgés pillent Cressing, emportent armures, ornements et vaisselle et brûlent des livres. Confisqué par Henri VIII en 1540, le domaine est donné l'année suivante à des particuliers ; une grande maison y est bâtie, avec un jardin clos de murs de brique au milieu du XVIe siècle, puis un grenier, après 1575. Le comté d'Essex achète les granges en 1987, les fait fouiller dans les années 1990 et les ouvre au public, avec un jardin d'époque Tudor recréé dans l'enceinte ancienne.
+repere: 1136 — Mathilde de Boulogne donne Cressing aux Templiers.
+repere: 1185 — Cressing figure en tête de l'inventaire des biens anglais de l'ordre.
+repere: v. 1220 — Construction de la grange de l'orge.
+repere: v. 1280 — Construction de la grange du blé.
+repere: 10 juin 1381 — Les révoltés de la jacquerie anglaise pillent le domaine des Hospitaliers.
+repere: 1987 — Le comté d'Essex acquiert les granges.
+attention: Les granges de Cressing montrent les Templiers comme ils furent le plus souvent en Occident : des propriétaires et des exploitants agricoles. Le jardin et les autres bâtiments du site datent de l'époque Tudor. Le site du comté d'Essex date la donation de 1137, la page Wikipédia de 1136.
+geo: 51.8372, 0.6110
+lieu: Cressing, Essex, Angleterre, Royaume-Uni
+lien: en Cressing Temple
+lien: url https://www.explore-essex.com/places-to-go/find-whats-near-me/cressing-temple-barns = Cressing Temple Barns, site du comté d'Essex
+sources: Wikipédia (en : Cressing Temple ; fr : Templiers en Angleterre) ; Explore Essex, page Cressing Temple Barns (comté d'Essex)
+voir: templiers-en-angleterre, temple-church-londres, economie-du-temple, commanderie, garway, hospitaliers
+
+@ garway
+cat: europe
+nom: Garway
+alias: église Saint-Michel de Garway, St Michael's Church, pigeonnier de Garway, Garway Dovecote, Herefordshire
+dates: templier à partir de 1180
+an: 1180
+def: Village du Herefordshire, près du pays de Galles, où les Templiers s'établirent vers 1180 ; l'église Saint-Michel garde un arc roman et les fondations d'une nef ronde, et un pigeonnier daté de 1326 rappelle les Hospitaliers qui leur succédèrent.
+texte: Garway domine la vallée de la Monnow, dans l'ouest du Herefordshire. Un monastère y est attesté dès le VIIe siècle ; l'histoire du lieu se précise quand les Templiers s'y installent, vers 1180, et y bâtissent une église à nef ronde, en l'honneur du Saint-Sépulcre. Les fondations de cette rotonde ont été dégagées en 1927. L'église actuelle, Saint-Michel, date surtout du XIIIe siècle ; elle conserve l'arc triomphal roman, sculpté, de l'église templière, et une grosse tour défensive, d'abord isolée, dont l'axe ne suit pas celui de la nef. Les sculptures, dedans et dehors, montrent un homme vert, un poisson, un serpent et une épée que l'on dit templière.
+texte: Après 1312, Garway passe aux [[hospitaliers|Hospitaliers]]. C'est à eux que l'on doit le pigeonnier rond voisin de l'église : une inscription au-dessus de la porte, lue au XIXe siècle par le révérend John Webb et aujourd'hui illisible, disait qu'il fut construit en 1326 par un frère Richard. On le tient pour le plus ancien pigeonnier isolé d'Angleterre dont la date soit sûre. L'église et le pigeonnier sont classés au premier rang des monuments anglais.
+repere: v. 1180 — Les Templiers s'établissent à Garway et bâtissent une église ronde.
+repere: 1326 — Un frère hospitalier, Richard, fait construire le pigeonnier.
+repere: 1927 — Des fouilles dégagent les fondations de la nef ronde.
+attention: Le pigeonnier, souvent dit templier, est hospitalier. On lui prête 666 nids, chiffre qui nourrit des lectures ésotériques ; les comptages publiés ne concordent pas, et l'on a aussi décrit vingt rangs de trente-trois nids.
+geo: 51.8976, -2.7929
+lieu: Garway, Herefordshire, Angleterre, Royaume-Uni
+lien: en Garway
+sources: Wikipédia (en : Garway) ; extraits de la fiche Historic England du pigeonnier, de A. O. Cooke (The Book of Dovecotes) et de l'Archaeological Journal de 1845, consultés par recherche ; Wikidata (coordonnées du pigeonnier)
+voir: templiers-en-angleterre, temple-church-londres, cressing-temple, architecture-templiere, hospitaliers
+
+@ balantrodoch
+cat: europe
+nom: Balantrodoch (Temple, Écosse)
+alias: Balantrodoch, Ballentrodoch, Temple, Midlothian, Temple Old Parish Church, preceptory of Balantrodoch, Templiers d'Écosse, Walter de Clifton
+dates: attesté à la fin du XIIe siècle
+an: 1175
+def: Principale maison des Templiers en Écosse, au sud d'Édimbourg, dans le village qui en a pris le nom de Temple ; attestée à la fin du XIIe siècle, elle passa aux Hospitaliers après le procès de 1309 et ne garde qu'une église en ruine, plus tardive.
+texte: Le village de Temple s'étend sur la South Esk, dans le Midlothian, au sud d'Édimbourg. Une tradition, que reprennent bien des notices, veut que le roi David Ier ait donné Balantrodoch à [[hugues-de-payns|Hugues de Payns]] lors de son voyage de 1128 ; Historic Environment Scotland date de 1175-1199 la première trace écrite de la maison, et le nom de Ballentrodoch apparaît en 1237. Ce fut le chef-lieu de l'ordre en Écosse. Le procès y fut bref : deux frères seulement, Walter de Clifton, précepteur de Balantrodoch, et William de Middleton, sont entendus le 17 novembre 1309 à Holyrood, à Édimbourg, par l'évêque de Saint Andrews, William Lamberton ; ils n'avouent rien, sinon l'usage des absolutions données par des laïcs. Les témoins étrangers à l'ordre, une cinquantaine, n'apportent rien de plus (voir [[templiers-en-ecosse|Templiers en Écosse]]).
+texte: Les biens passent ensuite aux [[hospitaliers|Hospitaliers]], dont le chef-lieu écossais est Torphichen. La chapelle de la maison devient l'église paroissiale ; elle l'est en 1426, et c'est d'elle que la paroisse prend en 1618 le nom de Temple. L'église en ruine qu'on voit dans le cimetière, la Temple Old Parish Church, souvent remaniée et abandonnée pour une église neuve au XIXe siècle, est un monument classé ; ses parties les plus anciennes sont attribuées au XIVe siècle.
+repere: 1128 — Selon la tradition, David Ier donne Balantrodoch à Hugues de Payns.
+repere: fin du XIIe siècle — Première mention sûre de la maison du Temple.
+repere: 17 novembre 1309 — Deux Templiers sont interrogés à Holyrood et n'avouent rien.
+repere: 1618 — La paroisse prend le nom de Temple.
+attention: Aucune source médiévale ne montre des Templiers venus d'Écosse combattre à Bannockburn en 1314, ni un trésor caché à Balantrodoch ou acheminé vers Rosslyn : ces récits sont nés de la franc-maçonnerie et des livres récents (voir [[chapelle-de-rosslyn|chapelle de Rosslyn]]). L'église en ruine, maintes fois remaniée, n'est pas telle quelle la chapelle des Templiers.
+geo: 55.8169, -3.0944
+lieu: Temple, Midlothian, Écosse, Royaume-Uni
+lien: en Temple, Midlothian
+lien: url https://portal.historicenvironment.scot/designation/SM1191 = Temple, Old Parish Church : fiche du monument classé (Historic Environment Scotland)
+sources: Wikipédia (en : Temple, Midlothian ; fr : Procès de l'ordre du Temple) ; Historic Environment Scotland, fiche SM1191 ; extraits de recherche (Canmore, History Scotland) sur le procès de 1309 ; Wikidata (coordonnées de l'église)
+voir: templiers-en-ecosse, templiers-en-angleterre, chapelle-de-rosslyn, hugues-de-payns, hospitaliers, proces-des-templiers
+
+# ── L'Italie ────────────────────────────────────────────────────────────────
+
+@ san-bevignate
+cat: europe
+nom: San Bevignate (Pérouse)
+alias: San Bevignate, Chiesa di San Bevignate, commanderie de Pérouse, Bonvicino, fresques templières de Pérouse, flagellants
+dates: bâtie de 1256 à 1262
+an: 1256
+def: Église que les Templiers bâtirent de 1256 à 1262 aux portes de Pérouse ; ses fresques, peintes vers 1260-1270, montrent des frères combattant les musulmans et une procession de flagellants, rare image de l'ordre peinte pour l'ordre.
+texte: L'église se dresse dans le quartier de Monteluce, à l'est de Pérouse, sur des terres où vécut et mourut un ermite local, Bevignate, dont l'existence même est incertaine. Sa construction s'étend de 1256 à 1262 ; le projet est mené par un frère templier, Bonvicino, influent auprès des papes Grégoire IX, Innocent IV et Alexandre IV. Les Templiers y transfèrent le siège de leur commanderie quand ils perdent San Giustino d'Arna, à la fin des années 1270 ou au début des années 1280. La ville soutient le culte de l'ermite, que les autorités proclament saint en 1453 sans que l'Église l'ait jamais canonisé selon les règles. Pérouse est alors le berceau d'un mouvement de pénitents : c'est là que commencent en 1260 les processions de flagellants de Raniero Fasani.
+texte: Les fresques de l'abside et de la nef, peintes vers 1260-1270, montrent une bataille entre Templiers et musulmans, une procession de flagellants, la légende de saint Bevignate, des croix et des étoiles ; une bannière mi-partie de blanc et de noir y figure le [[baucent|baucent]] de l'ordre. Des apôtres sont ajoutés vers 1280. Après 1312, le complexe passe aux [[hospitaliers|Hospitaliers]] ; en 1324, un marchand, Ricco di Corbolo, l'achète et y installe des religieuses sous la règle de Saint-Jean, qui partent en 1517. Propriété de la commune depuis 1860, endommagée par le séisme de 1997, l'église restaurée a rouvert le 20 mars 2009 ; sous la nef, les fouilles ont mis au jour un atelier romain de foulage des étoffes, que l'on visite (voir [[templiers-et-musulmans|Templiers et musulmans]]).
+repere: 1256 — Début de la construction de l'église.
+repere: 1260 — Le mouvement des flagellants commence à Pérouse.
+repere: 1324 — Ricco di Corbolo achète le complexe et y installe des religieuses.
+repere: 1860 — L'église devient propriété de la commune.
+repere: 20 mars 2009 — L'église restaurée rouvre au public.
+attention: Les croix et les étoiles de l'abside ont reçu des lectures ésotériques : aucune source du temps ne dit ce que les frères y mettaient (voir [[symbolisme-templier|symbolisme templier]]). La date du départ de San Giustino d'Arna varie selon les auteurs, 1277 ou 1283.
+geo: 43.1106, 12.4093
+lieu: Pérouse, Ombrie, Italie
+lien: wp Commanderie de Pérouse
+sources: Wikipédia (it : Chiesa di San Bevignate ; fr : Commanderie de Pérouse ; en : Baucent)
+voir: templiers-et-musulmans, baucent, architecture-templiere, symbolisme-templier, cressac, hospitaliers
+
+# ── L'Empire et ses marges ──────────────────────────────────────────────────
+
+@ tempelhof
+cat: europe
+nom: Tempelhof (Berlin)
+alias: Tempelhof, Komturei Tempelhof, commanderie de Tempelhof, Tempelhove, Dorfkirche Tempelhof, Teltow, Mariendorf, Marienfelde, Rixdorf, traité de Kremmen
+dates: v. 1200 – 1318
+an: 1200
+fin: 1318
+def: Ancienne commanderie templière du Teltow, au sud de Berlin, née vers 1200 de la colonisation du Brandebourg ; passée aux Hospitaliers en 1318 et vendue à Berlin et Cölln en 1435, elle a laissé son nom à un quartier, à un aéroport et à une église de village.
+texte: Vers 1200, au plus tard en 1210, les Templiers reçoivent quelque deux cents manses sur le plateau du Teltow, au sud des deux bourgs qui deviendront Berlin. Le pays est alors en pleine colonisation : les margraves de Brandebourg y attirent des paysans venus de l'ouest, et l'ordre fonde ou reçoit quatre villages, Tempelhof, Mariendorf, Marienfelde et Rixdorf. Les premières mentions sont discutées : un « maître Hermann du Temple » témoin d'une charte de Walkenried en 1247 n'atteste pas sûrement la commanderie, et la charte de 1290 qui nomme Tempelhof est indirecte. L'église du village, qui était celle de la commanderie, a eu au moins un prédécesseur, vers 1200 ; le bâtiment actuel remonte au XIIIe siècle (voir [[templiers-et-saint-empire|Templiers dans l'Empire]]).
+texte: L'ordre supprimé, les margraves gardent ses biens quelques années ; le 29 janvier 1318, le traité de Kremmen les remet aux [[hospitaliers|Hospitaliers]] contre 1 250 marcs. Un commandeur hospitalier est nommé à Tempelhof en 1344 ; en 1360, Rixdorf est détaché du domaine. En 1435, après une querelle de bornage qui tourne à la guerre privée, les Hospitaliers vendent leurs villages aux villes jumelles de Berlin et de Cölln. Le domaine devient ensuite un bien seigneurial, puis il est loti après 1863. L'église, très endommagée par les bombardements de 1943 et de 1944, dont seuls les murs ont survécu, est reconstruite de 1954 à 1956. Le nom du lieu est passé au quartier, puis à l'aéroport de Tempelhof, aujourd'hui fermé et devenu un parc, le Tempelhofer Feld ; depuis 1957, la croix templière figure dans les armes de l'arrondissement.
+repere: v. 1200 — Les Templiers reçoivent des terres sur le Teltow.
+repere: 1247 — Un « maître Hermann du Temple » paraît dans une charte de Walkenried.
+repere: 29 janvier 1318 — Le traité de Kremmen remet les biens templiers aux Hospitaliers.
+repere: 1435 — Les Hospitaliers vendent Tempelhof à Berlin et à Cölln.
+repere: 1943 — Les bombardements ruinent l'église du village.
+repere: 1956 — Fin de la reconstruction de l'église.
+attention: On lit que Tempelhof aurait été fondé par des Templiers chassés de Terre sainte en 1291 : la commanderie existait depuis près d'un siècle. Le souterrain qui l'aurait reliée à Berlin, légende notée en 1878, a été démenti par les travaux du métro dans les années 1930.
+geo: 52.4636, 13.3832
+lieu: Tempelhof, Berlin, Allemagne
+lien: de Komturei Tempelhof
+lien: de Dorfkirche Tempelhof
+lien: wp Berlin-Tempelhof
+sources: Wikipédia (de : Komturei Tempelhof, Dorfkirche Tempelhof ; en : Tempelhof) ; Wikidata (coordonnées de l'église)
+voir: templiers-et-saint-empire, chwarszczany, hospitaliers, commanderie, devolution-des-biens, provinces-du-temple
+
+@ chwarszczany
+cat: europe
+nom: Chwarszczany
+alias: Quartschen, chapelle templière de Chwarszczany, kaplica templariuszy, église Saint-Stanislas-Kostka, Bernhard von Eberstein, Władysław Odonic
+dates: templier de 1232 à 1312
+an: 1232
+fin: 1312
+def: Village de l'ouest de la Pologne, l'ancien Quartschen, donné aux Templiers en 1232 ; sa chapelle de brique, l'un des rares édifices templiers d'Europe centrale, fut le siège d'un maître provincial avant de passer aux Hospitaliers.
+texte: Chwarszczany se trouve près de l'Oder, au sud de Kostrzyn, dans l'actuelle voïvodie de Poméranie occidentale. En 1232, le duc de Grande-Pologne Władysław Odonic donne aux Templiers ce village et un millier de manses, avec le droit de tenir marché, et l'évêque de Lebus leur cède la dîme ; certains historiens attribuent la donation, ou une première donation vers 1229, au duc de Silésie Henri le Barbu. En 1234, le duc de Poméranie Barnim Ier y ajoute un village voisin. La commanderie prend de l'importance : en 1291, elle est la résidence du maître provincial Bernhard von Eberstein (voir [[templiers-et-saint-empire|Templiers dans l'Empire]]).
+texte: La chapelle de brique, dédiée d'abord à tous les saints, a succédé à une chapelle romane de granite du milieu du XIIIe siècle, retrouvée par les fouilles. Sa date est discutée : on la tient pour l'église consacrée par l'évêque de Lebus le 23 avril 1280, ou pour un édifice gothique de la première moitié du XIVe siècle. Les biens passent aux [[hospitaliers|Hospitaliers]], confirmés en 1318, qui font peindre les murs vers 1400. En 1540, le margrave Jean de Küstrin prend la commanderie, et la chapelle devient un temple protestant. Endommagée en 1758 par la bataille de Zorndorf, voisine, elle est relevée en 1760. Église catholique depuis 1948, sous le vocable de saint Stanislas Kostka, elle a retrouvé ses peintures à partir de 1996 ; des fouilles, depuis 2004, ont mis au jour un cimetière du XIIIe siècle et une sépulture de l'époque templière.
+repere: 1232 — Władysław Odonic donne Quartschen aux Templiers.
+repere: 23 avril 1280 — L'évêque de Lebus consacre une église neuve.
+repere: 1291 — Le maître provincial Bernhard von Eberstein réside à Quartschen.
+repere: 1318 — La possession des Hospitaliers est confirmée.
+repere: 1540 — La commanderie est sécularisée par le margrave.
+repere: 2004 — Début des fouilles archéologiques.
+attention: Les peintures que l'on voit dans la chapelle sont hospitalières, vers 1400, non templières. Et la date du bâtiment varie d'un demi-siècle selon les auteurs : les fouilles ont montré qu'il avait été précédé d'une chapelle plus ancienne.
+geo: 52.6869, 14.6361
+lieu: Chwarszczany, voïvodie de Poméranie-Occidentale, Pologne
+lien: wp Chwarszczany
+lien: de Chwarszczany
+lien: en Chwarszczany
+sources: Wikipédia (pl : Chwarszczany ; de : Chwarszczany ; fr : Chwarszczany)
+voir: tempelhof, templiers-et-saint-empire, hospitaliers, provinces-du-temple, architecture-templiere, templstejn
+
+@ templstejn
+cat: europe
+nom: Templštejn
+alias: Tempelstein, château de Templštejn, Jamolice, commanderie de Jamolice, Moravie templière, hrad Templštejn
+dates: fondé entre 1281 et 1298
+an: 1281
+def: Château en ruine de Moravie, sur un éperon qui domine la Jihlava, attribué aux Templiers de Jamolice, qui l'auraient fondé entre 1281 et 1298 ; agrandi par ses propriétaires suivants, il est l'un des rares châteaux que l'on rattache à l'ordre en pays tchèque.
+texte: Les ruines se dressent sur un éperon rocheux de la rive droite de la Jihlava, à trois kilomètres du village de Jamolice, près de Moravský Krumlov. Une commanderie du Temple est mentionnée à Jamolice en 1279 ; le château aurait été fondé par les frères entre 1281 et 1298. C'était d'abord une enceinte modeste, d'une quarantaine de mètres sur trente (voir [[templiers-et-saint-empire|Templiers dans l'Empire]]). Après la suppression de l'ordre, en 1312, ses biens sont confisqués, et le château est acheté par Bertold Pirkner, dont les fils le vendent en 1349. Les seigneurs de Lipá, qui le tiennent en 1379, l'agrandissent et le transforment ; il est abandonné, dit-on, après un incendie, dans la première moitié du XVIe siècle.
+texte: Il reste des pans du palais et de l'enceinte, une porte, un puits et un pignon, dans des cours comblées de plusieurs mètres de décombres. Protégé comme monument depuis 1973, laissé à l'abandon jusqu'en 2011, il a été vendu cette année-là à un particulier, qui le fait consolider ; des fouilles de sauvetage y sont menées depuis 2017.
+repere: 1279 — Première mention de la commanderie de Jamolice.
+repere: 1281 – 1298 — Fondation présumée du château par les Templiers.
+repere: 1349 — Les fils de Bertold Pirkner vendent le château.
+repere: 1379 — Les seigneurs de Lipá possèdent et agrandissent le château.
+repere: 2017 — Début des fouilles archéologiques.
+attention: La fondation templière repose sur peu de documents et sur le nom même du château, « la pierre du Temple » ; aucune fouille méthodique n'a encore été publiée, et la plupart des maçonneries visibles sont l'œuvre des seigneurs de Lipá. Il existe en Moravie une autre ruine du même nom, sur l'Oslava, près de Dolní Heřmanice.
+geo: 49.0906, 16.2486
+lieu: Jamolice, Moravie-du-Sud, Tchéquie
+lien: url https://commons.wikimedia.org/wiki/Category:Templ%C5%A1tejn_(Jamolice) = photographies du château (Wikimedia Commons)
+sources: Wikipédia (cs : Templštejn ; de : Templštejn, page d'homonymie) ; Wikidata (coordonnées)
+voir: chwarszczany, tempelhof, templiers-et-saint-empire, provinces-du-temple, chateaux-du-temple

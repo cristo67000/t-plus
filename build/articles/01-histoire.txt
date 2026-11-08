@@ -1,0 +1,668 @@
+# T+ — lot 01 : histoire. Les vingt-sept articles de la catégorie « histoire », de la
+# vue d'ensemble de l'ordre (1119-1314) aux Templiers d'Angleterre, dans l'ordre du plan.
+# Dates vérifiées sur Wikipédia (fr, en) et recoupées avec Demurger (Les Templiers, 2005 ;
+# Jacques de Molay, 2007) et Barber (The New Knighthood, 1994 ; The Trial of the Templars, 2006).
+
+# ── Vue d'ensemble ─────────────────────────────────────────────────────────
+
+@ ordre-du-temple
+cat: histoire
+nom: Ordre du Temple
+alias: Templiers, ordre des Templiers, Pauvres Chevaliers du Christ et du Temple de Salomon, milice du Temple, Pauperes commilitones Christi Templique Salomonici, chevaliers du Temple, Temple
+dates: 1119 ou 1120 – 1312
+an: 1119
+fin: 1312
+def: Ordre religieux et militaire né à Jérusalem en 1119 ou 1120 pour protéger les pèlerins, reconnu au concile de Troyes en 1129, devenu l'une des grandes puissances des États latins et de l'Occident, arrêté en France en 1307 et supprimé par le pape en 1312.
+texte: Vingt ans après la prise de Jérusalem par la première croisade (15 juillet 1099), les routes qui mènent de la côte aux Lieux saints restent dangereuses. Un chevalier champenois, [[hugues-de-payns|Hugues de Payns]], et quelques compagnons, dont le Flamand [[godefroy-de-saint-omer|Godefroy de Saint-Omer]], font vœu de vivre en religieux tout en gardant ces chemins les armes à la main. Le roi [[baudouin-ii-de-jerusalem|Baudouin II]] les loge dans une aile de son palais, la mosquée al-Aqsa, que les Francs appellent le Temple de Salomon : de là vient le nom de « Pauvres Chevaliers du Christ et du Temple de Salomon », vite réduit à « Templiers ». La [[fondation-de-l-ordre|fondation]] se place en 1119 ou en 1120 ; la petite confrérie reste obscure jusqu'au voyage d'Hugues en Occident (1127-1129) et au [[concile-de-troyes|concile de Troyes]], qui lui donne une règle le 13 janvier 1129, avec l'appui de [[bernard-de-clairvaux|Bernard de Clairvaux]].
+texte: L'ordre grandit alors très vite. Des donations affluent de Champagne, de Flandre, d'Anjou, d'Angleterre, de Provence, d'Aragon et du Portugal ; la bulle *[[omne-datum-optimum|Omne datum optimum]]* (1139) le soustrait aux évêques et le place sous la seule autorité du pape. Des [[chevaliers-du-temple|frères chevaliers]], une minorité, des [[sergents-du-temple|frères sergents]], plus nombreux, et des [[chapelains-du-temple|chapelains]] vivent sous une [[regle-du-temple|règle]] qui mêle les exigences du moine et celles du soldat : offices, repas en silence, obéissance, mais aussi chevaux, armes et discipline de bataille. En Occident, des centaines de [[commanderie|commanderies]] — environ sept cents maisons pour la seule France, selon les estimations des historiens — produisent les revenus envoyés chaque année en Orient. Le Temple reçoit aussi des dépôts et prête de l'argent : le Trésor du roi de France est gardé dans l'[[enclos-du-temple|enclos du Temple de Paris]].
+texte: En Terre sainte, les Templiers forment avec les [[hospitaliers|Hospitaliers]] l'armée permanente des États latins. Ils gardent des forteresses, [[gaza|Gaza]], [[safed|Safed]], [[tortose|Tortose]], [[chateau-pelerin|Château Pèlerin]], fournissent la cavalerie lourde des batailles et paient le prix du sang : le maître Bernard de Tremelay tombe au [[siege-d-ascalon|siège d'Ascalon]] (1153), les frères captifs sont exécutés après [[bataille-de-hattin|Hattin]] (1187), l'ordre est décimé à [[bataille-de-la-forbie|La Forbie]] (1244) et à [[mansourah|Mansourah]] (1250). Il connaît aussi des victoires, [[bataille-de-montgisard|Montgisard]] (1177), [[bataille-d-arsouf|Arsouf]] (1191), et des échecs politiques, comme son opposition à l'empereur [[frederic-ii|Frédéric II]]. Après la [[chute-d-acre|chute d'Acre]], le 18 mai 1291, où meurt le maître Guillaume de Beaujeu, l'ordre se replie à [[chypre-templiere|Chypre]] et tient encore l'îlot de [[ile-de-ruad|Ruad]] jusqu'en 1302.
+texte: La perte de la Terre sainte pose la question de son utilité. Des projets de [[projets-de-fusion-des-ordres|fusion]] avec l'Hôpital circulent, que le dernier maître, [[jacques-de-molay|Jacques de Molay]], refuse en 1306-1307. Le vendredi 13 octobre 1307, [[philippe-le-bel|Philippe le Bel]] fait [[arrestation-du-13-octobre-1307|arrêter]] tous les Templiers de son royaume et les accuse de renier le Christ, de cracher sur la croix, de baisers obscènes, de sodomie et d'idolâtrie. Les aveux arrachés à Paris, souvent sous la torture, puis rétractés, le bûcher de cinquante-quatre frères en 1310, la résistance des Templiers d'Aragon, l'absence d'aveux en Angleterre, à Chypre et dans l'Empire, font du [[proces-des-templiers|procès]] une affaire européenne. Le pape [[clement-v|Clément V]], qui n'a pu reprendre la main qu'en partie, supprime l'ordre au [[concile-de-vienne|concile de Vienne]] par la bulle *Vox in excelso* (22 mars 1312), sans le condamner ; ses biens vont aux Hospitaliers. Le 18 mars 1314 selon la date traditionnelle, le 11 mars selon des travaux récents, Molay et Geoffroy de Charnay, qui venaient de proclamer l'innocence de l'ordre, sont brûlés à Paris.
+texte: Pendant deux siècles, l'ordre du Temple a été une institution très ordinaire de la chrétienté : un ordre religieux exempt, riche de terres, de troupeaux et de moulins, qui vivait de l'aumône et du travail de ses paysans, et dont quelques centaines de combattants mouraient en Orient. Sa fin brutale a fait de lui autre chose. Dès le XVIIIe siècle, des francs-maçons s'en disent les héritiers ; le XIXe invente le [[baphomet|Baphomet]] et les doctrines secrètes ; le XXe le [[tresor-des-templiers|trésor]] caché et la flotte disparue. Les historiens, d'Alain Demurger et Malcolm Barber à Helen Nicholson et Julien Théry, lisent les sources autrement : la règle, les [[cartulaires-du-temple|cartulaires]], les chroniques et les [[actes-du-proces|actes du procès]] dessinent un ordre sans mystère, dont la chute s'explique par les ambitions de la monarchie française et la faiblesse de la papauté, non par un secret.
+repere: 1119 ou 1120 — Hugues de Payns et ses compagnons font vœu devant le patriarche de Jérusalem ; Baudouin II leur donne le Temple de Salomon.
+repere: 13 janvier 1129 — Le concile de Troyes approuve l'ordre et sa règle.
+repere: 29 mars 1139 — La bulle *Omne datum optimum* d'Innocent II place le Temple sous la seule autorité du pape.
+repere: 4 juillet 1187 — Désastre de Hattin ; Saladin fait exécuter les frères captifs et reprend Jérusalem en octobre.
+repere: 18 mai 1291 — Chute d'Acre ; l'ordre se replie à Chypre.
+repere: 13 octobre 1307 — Arrestation des Templiers de France sur ordre de Philippe le Bel.
+repere: 22 mars 1312 — La bulle *Vox in excelso* supprime l'ordre.
+repere: 11 ou 18 mars 1314 — Jacques de Molay et Geoffroy de Charnay sont brûlés à Paris.
+attention: Les chiffres que l'on lit souvent — quinze mille chevaliers, neuf mille commanderies, une flotte, une banque qui aurait dominé l'Europe — ne reposent sur aucune source. Les historiens comptent quelques milliers de frères en tout, dont une minorité de chevaliers, et quelques centaines de maisons par grande province. Et la suppression de 1312 n'est pas une condamnation : le pape a aboli l'ordre « par voie de provision », parce que le scandale le rendait inutile, sans dire qu'il était coupable.
+lien: wp Ordre du Temple
+lien: en Knights Templar
+sources: Wikipédia (fr : Ordre du Temple, Procès de l'ordre du Temple ; en : Knights Templar, Trials of the Knights Templar) ; condensés de l'atelier (01, 02, 04)
+voir: fondation-de-l-ordre, concile-de-troyes, regle-du-temple, maitres-de-l-ordre, proces-des-templiers, hospitaliers, tresor-des-templiers, chronologie-de-l-ordre
+
+# ── Les origines ───────────────────────────────────────────────────────────
+
+@ fondation-de-l-ordre
+cat: histoire
+nom: Fondation de l'ordre
+alias: naissance de l'ordre du Temple, 1118, 1119, 1120, neuf chevaliers, concile de Naplouse, vœu de Jérusalem, Pauvres Chevaliers du Christ
+dates: 1119 ou 1120
+an: 1119
+def: Naissance à Jérusalem, en 1119 ou en 1120, d'une confrérie de chevaliers qui font vœu de religion devant le patriarche pour protéger les pèlerins ; le roi Baudouin II leur donne pour demeure le Temple de Salomon, l'ancienne mosquée al-Aqsa.
+texte: Le récit le plus connu est celui de [[guillaume-de-tyr|Guillaume de Tyr]], écrit un demi-siècle plus tard. Quelques chevaliers, « hommes nobles et pieux », conduits par [[hugues-de-payns|Hugues de Payns]] et [[godefroy-de-saint-omer|Godefroy de Saint-Omer]], se vouent au service du Christ entre les mains du patriarche de Jérusalem, Gormond de Picquigny, et promettent pauvreté, chasteté et obéissance, comme des chanoines réguliers. Leur tâche : garder les chemins contre les brigands pour la sûreté des pèlerins, qu'on dépouillait et tuait entre Jaffa et Jérusalem ou sur la route du Jourdain. Faute de maison, le roi [[baudouin-ii-de-jerusalem|Baudouin II]] les loge dans son palais, l'ancienne mosquée al-Aqsa, sur l'esplanade que les Francs tiennent pour le Temple de Salomon ; les chanoines du [[ordre-du-saint-sepulcre|Saint-Sépulcre]], voisins, leur cèdent un terrain. Ils vivent d'aumônes, portent les vêtements qu'on leur donne, et sont si peu nombreux, dit Guillaume, qu'au bout de neuf ans ils n'étaient encore que neuf.
+texte: La date est discutée. Guillaume de Tyr place la fondation en 1118, l'année où Baudouin II devient roi, mais il écrit plus de cinquante ans après les faits et ses calculs sont flottants. D'autres indices tirent vers plus tard : le patriarche Gormond, entre les mains duquel les chevaliers prononcent leurs vœux, n'est élu qu'en 1118, et le concile de Naplouse, réuni en janvier 1120 par le roi et le patriarche pour réformer les mœurs du royaume, paraît être le moment où la confrérie a été reconnue et logée. La plupart des historiens, à la suite de Rudolf Hiestand, de Malcolm Barber et d'Alain Demurger, placent donc les premiers vœux à la fin de 1119 ou au tout début de 1120, et la reconnaissance officielle en janvier 1120 : d'où la formule « 1119 ou 1120 ». Les historiens s'accordent aussi sur l'essentiel : il ne s'agit pas d'une création d'un jour, mais d'un petit groupe de chevaliers pénitents, proches des chanoines du Saint-Sépulcre, que le roi et le patriarche ont peu à peu pris en main.
+texte: Le chiffre de neuf chevaliers vient de Guillaume de Tyr seul ; Michel le Syrien en compte trente. Les noms que la tradition ajoute à ceux d'Hugues et de Godefroy — Payen de Montdidier, Archambaud de Saint-Amand, Geoffroy Bisol, Roland, [[andre-de-montbard|André de Montbard]], Gondemar — sont ceux des frères qui accompagnent Hugues en Occident en 1127-1129 ou qui apparaissent dans les premières chartes : rien ne prouve qu'ils aient été à Jérusalem dès l'origine. Le nombre neuf a sans doute une valeur symbolique chez Guillaume, hostile aux privilèges de l'ordre, qui oppose la pauvreté des débuts à la richesse de son temps. Dès 1120, en tout cas, la confrérie attire des protecteurs : le comte [[foulques-d-anjou|Foulques d'Anjou]] s'y associe en 1120, le comte [[hugues-de-champagne|Hugues de Champagne]] y entre en 1125 ; et en 1127 le roi envoie Hugues de Payns en Europe chercher une règle, des recrues et des dons, mission qui aboutit au [[concile-de-troyes|concile de Troyes]].
+repere: 15 juillet 1099 — Prise de Jérusalem par la première croisade.
+repere: 1118 — Baudouin II devient roi de Jérusalem ; date de la fondation selon Guillaume de Tyr.
+repere: fin 1119 — Vœux d'Hugues de Payns et de ses compagnons devant le patriarche Gormond (date la plus probable).
+repere: janvier 1120 — Concile de Naplouse : la milice est reconnue et installée au Temple de Salomon.
+repere: 1125 — Le comte Hugues de Champagne entre dans l'ordre.
+repere: 1127 — Hugues de Payns part pour l'Occident.
+attention: Les « neuf chevaliers » restés neuf pendant neuf ans sont un chiffre de Guillaume de Tyr, écrivain tardif et critique ; aucune autre source ne le confirme. Et rien, dans les textes du XIIe siècle, ne parle de fouilles sous le Temple ni d'une mission secrète : la garde des pèlerins est la seule raison d'être que les contemporains donnent à l'ordre.
+lien: wp Ordre du Temple
+lien: en Knights Templar
+sources: Wikipédia (fr : Ordre du Temple ; en : Knights Templar) ; condensé de l'atelier 01
+voir: hugues-de-payns, godefroy-de-saint-omer, baudouin-ii-de-jerusalem, jerusalem-temple-de-salomon, concile-de-troyes, guillaume-de-tyr, ordre-du-saint-sepulcre, hugues-de-champagne
+
+@ concile-de-troyes
+cat: histoire
+nom: Concile de Troyes
+alias: concile de 1129, concile de 1128, règle latine, règle primitive, Mathieu d'Albano, approbation de l'ordre du Temple
+dates: 13 janvier 1129
+an: 1129
+def: Concile réuni à Troyes le 13 janvier 1129 sous la présidence du légat Mathieu d'Albano, qui reconnaît l'ordre du Temple et lui donne sa règle, rédigée avec le concours de Bernard de Clairvaux ; les actes le datent de 1128, selon l'ancien style.
+texte: Parti de Jérusalem en 1127 avec cinq frères, [[hugues-de-payns|Hugues de Payns]] parcourt l'Anjou, la Normandie, l'Angleterre, la Flandre et la Champagne, où il recueille des dons et des recrues. Le pape Honorius II accepte que son cas soit examiné par un concile provincial, qui se tient à Troyes, dans la cathédrale, sous la présidence de son légat, le cardinal Mathieu d'Albano, ancien prieur de Saint-Martin-des-Champs. Sont présents les archevêques de Reims et de Sens, une dizaine d'évêques (Chartres, Soissons, Paris, Troyes, Orléans, Auxerre, Meaux, Châlons, Laon, Beauvais), des abbés dont Étienne Harding, abbé de Cîteaux, et [[bernard-de-clairvaux|Bernard de Clairvaux]], des laïcs enfin, le comte Thibaud de Champagne, le comte de Nevers et le sénéchal André de Baudement. Hugues y expose la manière de vivre de ses frères ; les Pères la corrigent et l'approuvent.
+texte: Le résultat est la règle latine, dite règle primitive : soixante-douze articles, mis par écrit par le scribe Jean Michel, qui fixent les offices, les jeûnes, le vêtement — le manteau blanc est réservé aux chevaliers —, les repas, le nombre de chevaux, la discipline, et qui reprennent beaucoup de la règle de saint Benoît et des usages cisterciens. Le prologue dit que la règle fut rédigée « sur la prière du maître Hugues » et que Bernard, « abbé de Clairvaux », en loua les termes ; sa part exacte dans la rédaction est discutée, mais son appui, puis son traité *[[de-laude-novae-militiae|De laude novae militiae]]*, ont donné à l'ordre sa légitimité : un moine pouvait désormais être aussi un soldat sans cesser d'être moine. La règle sera complétée en Orient, traduite en français vers 1140 et augmentée des [[retraits]].
+texte: La date a longtemps fait difficulté. Les actes du concile portent « l'an 1128 de l'Incarnation, le jour de la Saint-Hilaire », soit le 13 janvier. Mais en Champagne, comme dans une grande partie de la France, l'année ne commençait pas le 1er janvier : elle courait de Pâques à Pâques ou de l'Annonciation (25 mars) à l'Annonciation. Un 13 janvier « 1128 » de ce calendrier est donc, pour nous, le 13 janvier 1129. L'historien allemand Rudolf Hiestand l'a établi en reconstituant l'itinéraire du légat et la liste des présents, que seule l'année 1129 permet de réunir. Le concile se tient donc neuf ans après la [[fondation-de-l-ordre|fondation]], ce qui s'accorde avec [[guillaume-de-tyr|Guillaume de Tyr]]. Hugues de Payns repart ensuite pour l'Orient, par l'Écosse et l'Angleterre, avec un ordre reconnu par l'Église.
+repere: 1127 — Hugues de Payns quitte Jérusalem pour l'Occident.
+repere: 13 janvier 1129 — Ouverture du concile de Troyes, fête de saint Hilaire.
+repere: 1129 — Hugues de Payns regagne la Terre sainte avec des recrues et des dons.
+repere: 29 mars 1139 — La bulle *Omne datum optimum* place l'ordre sous la seule autorité du pape.
+repere: v. 1140 — La règle latine est traduite en français.
+attention: On lit encore « concile de 1128 » : c'est la date des actes, dans un calendrier où l'année commençait au printemps ; le concile s'est tenu le 13 janvier 1129. Et Bernard de Clairvaux n'a pas « fondé » l'ordre ni écrit seul sa règle : il l'a soutenu, et le traité qu'il lui a consacré vient après le concile.
+lien: wp Concile de Troyes (1129)
+lien: en Knights Templar
+sources: Wikipédia (fr : Concile de Troyes (1129), Ordre du Temple) ; condensé de l'atelier 01
+voir: fondation-de-l-ordre, hugues-de-payns, bernard-de-clairvaux, regle-du-temple, troyes, de-laude-novae-militiae, temple-en-champagne, manteau-et-croix
+
+@ omne-datum-optimum
+cat: histoire
+nom: Omne datum optimum
+alias: bulle de 1139, Innocent II, Milites Templi, Militia Dei, privilèges du Temple, exemption, bulles pontificales
+dates: 29 mars 1139
+an: 1139
+def: Bulle d'Innocent II du 29 mars 1139 qui place l'ordre du Temple sous la seule autorité du pape et lui accorde des chapelains, le butin pris sur les infidèles et la libre disposition de ses biens ; *Milites Templi* (1144) et *Militia Dei* (1145) la complètent.
+texte: Dix ans après le [[concile-de-troyes|concile de Troyes]], l'ordre a changé d'échelle : des maisons en Champagne, en Flandre, en Angleterre, en Provence, en Aragon, en Portugal ; des forteresses en Orient. Il lui manque un statut dans l'Église. Le maître [[robert-de-craon|Robert de Craon]], qui a succédé à Hugues de Payns en 1136, l'obtient du pape Innocent II, auquel [[bernard-de-clairvaux|Bernard de Clairvaux]] avait assuré le trône lors du schisme d'Anaclet. La bulle *Omne datum optimum* (« Tout don excellent », premiers mots tirés de l'épître de Jacques), datée du Latran le 29 mars 1139, est adressée « à notre cher fils Robert, maître de la religion du Temple ».
+texte: Elle fait des Templiers un ordre exempt. Le maître et le chapitre gouvernent seuls, sans que nul évêque ou prince puisse changer la règle ; nul ne peut exiger des frères hommage ou serment ; ce qu'ils prennent aux Sarrasins leur appartient sans partage ; ils gardent les dîmes qu'on leur donne avec l'accord de l'évêque et sont dispensés de payer celles de leurs terres. Surtout, l'ordre peut recevoir des prêtres : des [[chapelains-du-temple|frères chapelains]], qui ne relèvent que du chapitre et non de l'évêque du lieu, confessent les frères, disent la messe dans les oratoires de l'ordre, où les Templiers et leurs familiers peuvent être enterrés. Le Temple devient ainsi une Église dans l'Église, directement soumise à Rome, comme Cluny ou Cîteaux. Les évêques le lui reprocheront longtemps ; [[guillaume-de-tyr|Guillaume de Tyr]] s'en fera l'écho.
+texte: Deux bulles complètent l'édifice. *Milites Templi*, de Célestin II (9 janvier 1144), ordonne au clergé de protéger les frères et accorde des indulgences à ceux qui leur font l'aumône ; elle permet aux quêteurs du Temple, une fois l'an, de faire rouvrir les églises d'un lieu frappé d'interdit pour y célébrer et recueillir des dons. *Militia Dei*, d'Eugène III (7 avril 1145), autorise l'ordre à bâtir ses propres oratoires et cimetières, où il enterre ses frères et ses familiers, avec les offrandes que cela rapporte. Le même pape, cistercien et disciple de Bernard, concède la [[manteau-et-croix|croix rouge]] sur le manteau en 1147. Ces textes seront confirmés et étendus par les papes suivants ; ils expliquent la richesse de l'ordre, ses conflits avec le clergé séculier, et l'attachement des Templiers à la papauté, leur seul juge jusqu'en 1307.
+repere: 1136 — Robert de Craon succède à Hugues de Payns.
+repere: 29 mars 1139 — Innocent II promulgue *Omne datum optimum*.
+repere: 9 janvier 1144 — *Milites Templi*, de Célestin II.
+repere: 7 avril 1145 — *Militia Dei*, d'Eugène III.
+repere: 1147 — Eugène III accorde aux Templiers la croix rouge.
+attention: L'exemption n'a pas fait du Temple un État indépendant : il relève du pape, qui le réforme, le juge et, en 1312, le supprime. Elle l'a soustrait aux évêques, non à l'Église.
+lien: wp Omne datum optimum
+lien: wp Ordre du Temple
+sources: Wikipédia (fr : Omne datum optimum, Ordre du Temple) ; condensé de l'atelier 02
+voir: robert-de-craon, chapelains-du-temple, privileges-et-critiques, manteau-et-croix, concile-de-troyes, bernard-de-clairvaux, regle-du-temple, guillaume-de-tyr
+
+# ── Le XIIe siècle en Orient ───────────────────────────────────────────────
+
+@ deuxieme-croisade
+cat: histoire
+nom: Deuxième croisade
+alias: seconde croisade, croisade de Louis VII, siège de Damas, mont Cadmos, Évrard des Barres
+dates: 1147 – 1149
+an: 1147
+fin: 1149
+def: Expédition prêchée par Bernard de Clairvaux après la chute d'Édesse et conduite par Louis VII et Conrad III ; les Templiers y sauvent l'armée française dans les défilés d'Anatolie, prêtent de l'argent au roi, et partagent l'échec devant Damas en juillet 1148.
+texte: La prise d'Édesse par Zengi, le 24 décembre 1144, provoque l'appel du pape Eugène III. [[bernard-de-clairvaux|Bernard de Clairvaux]] prêche la croix à Vézelay le 31 mars 1146 ; le roi de France Louis VII et l'empereur Conrad III prennent la route par terre. Le pape tient le 27 avril 1147 un chapitre du Temple à Paris, en présence du roi et de cent trente frères en manteau blanc, dit la chronique : c'est l'occasion, selon la tradition, où il leur accorde la croix rouge. L'armée française part le 11 juin 1147 avec un contingent de Templiers conduit par [[evrard-des-barres|Évrard des Barres]], maître de la province de France.
+texte: Conrad est écrasé à Dorylée le 25 octobre 1147. Louis VII traverse l'Anatolie à son tour et, au début de janvier 1148, son armée est coupée en deux dans les gorges du mont Cadmos, près de Laodicée ; le roi lui-même manque d'être pris. Il remet alors le commandement de la marche aux Templiers : Évrard des Barres divise l'armée en groupes de cinquante hommes, chacun confié à un frère, auquel les barons jurent obéissance, et impose la discipline de l'ordre, marcher serré, ne pas rompre le rang pour piller ou poursuivre. L'armée atteint Attalia, d'où le roi s'embarque pour Antioche (19 mars 1148). À court d'argent, Louis emprunte aux Templiers une somme importante et écrit à l'abbé Suger, régent du royaume, de la rembourser : c'est la première grande opération financière connue de l'ordre, qui garde ensuite le [[banque-du-temple|trésor du roi]].
+texte: Le 24 juin 1148, les croisés et les barons de Jérusalem, réunis à Acre, décident d'attaquer Damas, allié potentiel contre Nur ad-Din. Le siège (24-28 juillet 1148) tourne court : l'armée, déplacée des vergers de l'ouest vers l'est aride, se retire en quatre jours. Les chroniqueurs cherchent des traîtres : certains accusent les barons de Syrie, des annales allemandes les Templiers, qu'on aurait achetés. Rien ne l'établit ; [[guillaume-de-tyr|Guillaume de Tyr]], qui interrogea des témoins, rapporte plusieurs versions sans conclure. Conrad repart en septembre 1148, Louis après Pâques 1149. Évrard des Barres, élu maître de l'ordre à la mort de [[robert-de-craon|Robert de Craon]] (janvier 1149), suit le roi en France, puis abandonne sa charge pour se faire moine à Clairvaux. La croisade, qui n'a rien pris, a montré ce que valaient des moines-soldats disciplinés au milieu d'une armée féodale.
+repere: 24 décembre 1144 — Zengi prend Édesse.
+repere: 31 mars 1146 — Bernard de Clairvaux prêche la croisade à Vézelay.
+repere: 27 avril 1147 — Chapitre du Temple à Paris devant le pape Eugène III et Louis VII.
+repere: janvier 1148 — Désastre du mont Cadmos ; Louis VII confie la marche de l'armée aux Templiers.
+repere: 24-28 juillet 1148 — Échec du siège de Damas.
+repere: 1149 — Louis VII rentre en France ; Évrard des Barres devient maître de l'ordre.
+attention: L'accusation de trahison des Templiers devant Damas vient de chroniqueurs occidentaux lointains ; les sources proches de l'événement attribuent l'échec aux rivalités des princes et à une position intenable. Et le prêt au roi n'a rien de secret : la lettre de Louis VII à Suger le dit en clair.
+lien: wp Deuxième croisade
+lien: en Second Crusade
+sources: Wikipédia (fr : Deuxième croisade)
+voir: evrard-des-barres, bernard-de-clairvaux, banque-du-temple, manteau-et-croix, robert-de-craon, guillaume-de-tyr, siege-d-ascalon, chronologie-de-l-ordre
+
+@ siege-d-ascalon
+cat: histoire
+nom: Siège d'Ascalon
+alias: prise d'Ascalon, Ascalon 1153, Bernard de Tremelay, Baudouin III, Ashkelon
+dates: 25 janvier – 22 août 1153
+an: 1153
+def: Siège de la dernière place fatimide de Palestine par Baudouin III, de janvier à août 1153 ; le 16 août, le maître du Temple Bernard de Tremelay et une quarantaine de frères périssent dans la brèche, par cupidité selon Guillaume de Tyr, et la ville tombe le 19.
+texte: Ascalon, sur la côte au sud de Jaffa, est restée aux Fatimides d'Égypte après la première croisade : une base d'où partent chaque année des raids contre le royaume. Pour la bloquer, les rois de Jérusalem ont bâti des forteresses autour d'elle, Bethgibelin confié à l'Hôpital (1136), Ibelin, Blanchegarde, puis [[gaza|Gaza]], reconstruite vers 1149-1150 et remise aux Templiers. Le 25 janvier 1153, le roi Baudouin III, âgé d'une vingtaine d'années, met le siège devant la ville avec toute l'armée du royaume, le patriarche et la Vraie Croix, les Templiers du maître [[bernard-de-tremelay|Bernard de Tremelay]] et les Hospitaliers. Une flotte franque bloque le port ; une tour de siège en bois domine les remparts.
+texte: Le 15 ou le 16 août, les assiégés mettent le feu à la tour ; le vent rabat les flammes sur le mur, qui s'effondre au matin. [[guillaume-de-tyr|Guillaume de Tyr]] raconte que Bernard de Tremelay s'engouffre dans la brèche avec une quarantaine de frères et fait garder l'ouverture pour empêcher le reste de l'armée de suivre, afin que le butin revînt au Temple seul ; les Égyptiens, voyant qu'ils n'étaient que quelques dizaines, les massacrent et pendent leurs corps aux murailles ; le maréchal de l'ordre, Hugues Salomon du Quiliou, meurt aussi. L'archevêque de Tyr écrit trente ans plus tard et déteste l'ordre, dont il dénonce les privilèges ; d'autres récits laissent entendre que l'armée hésita et laissa les Templiers sans soutien, ou qu'ils voulaient couvrir le roi. Quelle qu'en soit la cause, l'ordre perd son maître et une partie de ses chevaliers d'Orient. Trois jours plus tard, le 19 août, un nouvel assaut emporte la ville ; les habitants obtiennent trois jours pour partir, et la place est remise le 22 août.
+texte: Ascalon devient une seigneurie du frère du roi, Amaury, et la porte de l'Égypte, où les Francs interviendront dans les années 1160. Les Templiers de Gaza y gagnent une frontière plus sûre. L'épisode de la brèche pèse sur leur réputation : c'est l'une des premières fois qu'un chroniqueur leur reproche l'avidité, grief qui reviendra dans les [[privileges-et-critiques|critiques]] du XIIIe siècle. [[andre-de-montbard|André de Montbard]], l'oncle de saint Bernard, est élu pour succéder à Tremelay. La ville sera démantelée par Saladin en 1191, puis, après une reconstruction franque, par Baybars en 1270 ; ses ruines se trouvent aujourd'hui dans le parc national d'Ashkelon.
+repere: 1136 — Le roi Foulques fait construire Bethgibelin, confié aux Hospitaliers, pour bloquer Ascalon.
+repere: v. 1149 — Gaza est rebâtie et confiée aux Templiers.
+repere: 25 janvier 1153 — Baudouin III met le siège devant Ascalon.
+repere: 16 août 1153 — Bernard de Tremelay et une quarantaine de Templiers sont tués dans la brèche.
+repere: 19 août 1153 — La ville tombe ; elle est remise aux Francs le 22 août.
+attention: La version de Guillaume de Tyr — des Templiers cupides qui interdisent la brèche aux autres — est celle d'un adversaire de l'ordre, écrite longtemps après ; elle est possible, non prouvée. On la cite souvent comme un fait établi.
+geo: 31.6671, 34.5481
+lieu: Ashkelon, Israël
+lien: wp Siège d'Ascalon (1153)
+lien: en Siege of Ascalon
+sources: Wikipédia (fr : Siège d'Ascalon (1153) ; en : Siege of Ascalon)
+voir: bernard-de-tremelay, andre-de-montbard, gaza, guillaume-de-tyr, privileges-et-critiques, deuxieme-croisade, bataille-de-montgisard, hospitaliers
+
+@ bataille-de-montgisard
+cat: histoire
+nom: Bataille de Montgisard
+alias: Mont Gisard, Montgisard 1177, Tell Gezer, Baudouin IV contre Saladin, Eudes de Saint-Amand
+dates: 25 novembre 1177
+an: 1177
+def: Victoire du jeune roi lépreux Baudouin IV sur Saladin, le 25 novembre 1177, près de Ramla ; le maître du Temple Eudes de Saint-Amand, sorti de Gaza avec quatre-vingts frères, mène la charge qui met en déroute l'armée égyptienne.
+texte: En novembre 1177, Saladin, maître de l'Égypte et de Damas, envahit le royaume de Jérusalem par le sud avec une grande armée, pendant que la plus grande partie des forces franques est partie vers le nord avec le comte Philippe de Flandre. Le roi [[baudouin-iv-de-jerusalem|Baudouin IV]], seize ans, déjà atteint de la lèpre, se porte à Ascalon avec quelques centaines de chevaliers, dont [[renaud-de-chatillon|Renaud de Châtillon]] et les frères d'Ibelin, et s'y trouve bloqué. Saladin, le jugeant hors de jeu, laisse ses troupes se disperser pour piller vers Ramla et Lydda. Le maître du Temple [[eudes-de-saint-amand|Eudes de Saint-Amand]], qui tenait [[gaza|Gaza]] avec quatre-vingts chevaliers de l'ordre, rejoint le roi ; l'armée franque sort d'Ascalon et surprend les musulmans le 25 novembre, près d'une colline que les sources appellent Mons Gisardi, à proximité de Ramla — on l'identifie souvent à Tell Gezer.
+texte: [[guillaume-de-tyr|Guillaume de Tyr]], notre source principale, donne aux Francs trois cent soixante-quinze chevaliers, dont les Templiers, et quelques milliers de fantassins, face à une armée qu'il dit de vingt-six mille cavaliers : les chiffres musulmans sont certainement gonflés. La charge de la chevalerie, la Vraie Croix portée par l'évêque de Bethléem, et la panique d'une armée en désordre font le reste. Saladin s'enfuit sur un chameau de course, perd ses bagages et une grande partie de ses hommes dans la retraite vers l'Égypte, et met des mois à s'en remettre. Les chroniques musulmanes confirment la défaite tout en minimisant son ampleur. Baudouin IV fait bâtir sur place un monastère dédié à sainte Catherine, dont c'était la fête.
+texte: Montgisard est la plus belle victoire des Templiers en rase campagne et elle fait la gloire d'Eudes de Saint-Amand, homme rude et peu aimé de Guillaume de Tyr. Elle montre aussi l'utilité d'une garnison permanente à la frontière d'Égypte : sans les frères de Gaza, le roi n'aurait eu qu'une poignée de chevaliers. Elle ne change pas pour autant l'équilibre des forces : deux ans plus tard, Saladin détruit le château du [[gue-de-jacob|Gué de Jacob]] et capture le maître ; dix ans plus tard, c'est [[bataille-de-hattin|Hattin]]. La bataille a été peinte au XIXe siècle pour les galeries des Croisades de Versailles, sous le titre de « bataille d'Ascalon », et nourrit encore l'image du roi lépreux victorieux.
+repere: 1174 — Baudouin IV devient roi de Jérusalem à treize ans ; Saladin prend Damas.
+repere: novembre 1177 — Saladin envahit le royaume par le sud ; le roi s'enferme dans Ascalon.
+repere: 25 novembre 1177 — Victoire franque à Montgisard ; Saladin regagne l'Égypte en déroute.
+repere: août 1179 — Saladin prend sa revanche au Gué de Jacob.
+attention: Les effectifs de Saladin donnés par Guillaume de Tyr (vingt-six mille cavaliers) sont ceux d'un chroniqueur du camp vainqueur ; les historiens les divisent largement. La localisation précise du champ de bataille reste hypothétique.
+geo: 31.8600, 34.9200
+lieu: Tell Gezer, près de Ramla, Israël
+lien: wp Bataille de Montgisard
+lien: en Battle of Montgisard
+sources: Wikipédia (fr : Bataille de Montgisard)
+voir: baudouin-iv-de-jerusalem, eudes-de-saint-amand, saladin, gaza, renaud-de-chatillon, gue-de-jacob, guillaume-de-tyr, bataille-de-hattin
+
+@ gue-de-jacob
+cat: histoire
+nom: Le Gué de Jacob (Chastellet)
+alias: Chastellet, Vadum Jacob, Vadum Iacob, Qasr al-Atra, Metzad Ateret, château du Gué de Jacob, siège du Gué de Jacob
+dates: octobre 1178 – 30 août 1179
+an: 1178
+fin: 1179
+def: Forteresse élevée par Baudouin IV sur le Jourdain, au nord du lac de Tibériade, d'octobre 1178 à l'été 1179, et confiée au Temple ; Saladin la prend et la rase en août 1179. Ses ruines, fouillées depuis les années 1990, livrent un chantier arrêté net.
+texte: Le gué de Jacob, sur le haut Jourdain, entre le lac Houleh et le lac de Tibériade, est le passage de la route de Damas vers Acre et la Galilée. En octobre 1178, le roi [[baudouin-iv-de-jerusalem|Baudouin IV]] y entreprend un château. Pendant six mois, l'armée du royaume travaille sur le chantier et élève une enceinte aux murs de pierres énormes, premier élément d'une forteresse qui devait en compter d'autres. Au printemps 1179, le roi remet la place aux Templiers d'[[eudes-de-saint-amand|Eudes de Saint-Amand]], qui doivent l'achever et la tenir, avec une garnison de chevaliers, de sergents, d'ouvriers et de prisonniers musulmans employés aux travaux.
+texte: [[saladin|Saladin]] sait ce que cette forteresse signifie pour Damas. Il offre au roi, dit-on, soixante mille puis cent mille dinars pour qu'il la démolisse ; on refuse. Le 10 juin 1179, il bat l'armée franque à Marj Ayun, où Eudes de Saint-Amand est fait prisonnier. Puis, le 23 août 1179, il met le siège devant le Chastellet encore inachevé, dont une partie des murs n'était pas montée. Les mineurs creusent sous l'angle nord-est et étayent la galerie de bois ; le premier feu échoue, le second fait tomber le mur le 29 ou le 30 août. La garnison est massacrée ou réduite en esclavage : les chroniqueurs parlent de sept cents tués et de huit cents captifs, les archers et les apostats étant exécutés sur-le-champ. Le roi, accouru de Tibériade, arrive trop tard. Saladin fait raser la forteresse.
+texte: Le site, Metzad Ateret en Israël, a été fouillé à partir des années 1990 par l'université hébraïque de Jérusalem, dans le cadre du Vadum Iacob Research Project dirigé par Ronnie Ellenblum. Les archéologues y ont retrouvé un chantier figé, des outils abandonnés et les restes de défenseurs tués dans l'assaut, avec les pointes de flèches qui les ont frappés. Le mur, bâti à cheval sur la faille du Jourdain, a été décalé par les séismes de 1202 et de 1759, ce qui a fait du Chastellet un lieu d'étude pour les géologues autant que pour les historiens. Pour l'ordre, deux ans après [[bataille-de-montgisard|Montgisard]], 1179 est une année noire : le maître meurt en captivité à Damas peu après, et le Temple a perdu l'un de ses [[chateaux-du-temple|châteaux]] avant même de l'avoir achevé.
+repere: octobre 1178 — Baudouin IV commence le château du Gué de Jacob.
+repere: printemps 1179 — La forteresse est confiée aux Templiers.
+repere: 10 juin 1179 — Défaite de Marj Ayun ; Eudes de Saint-Amand est capturé.
+repere: 23 août 1179 — Saladin assiège le Chastellet.
+repere: 29-30 août 1179 — Chute de la forteresse ; Saladin la fait raser.
+attention: Les sommes offertes par Saladin et les effectifs de la garnison viennent de chroniqueurs qui arrondissent ; les fouilles confirment en revanche la violence de la fin, inscrite dans les squelettes et les pointes de flèches.
+geo: 33.0142, 35.6286
+lieu: Metzad Ateret, Haute-Galilée, Israël
+lien: en Siege of Jacob's Ford
+sources: Wikipédia (en : Daughters of Jacob Bridge, Siege of Jacob's Ford, Ronnie Ellenblum)
+voir: baudouin-iv-de-jerusalem, eudes-de-saint-amand, saladin, chateaux-du-temple, bataille-de-montgisard, bataille-de-hattin, safed, chronologie-de-l-ordre
+
+@ bataille-de-hattin
+cat: histoire
+nom: Bataille de Hattin
+alias: Cornes de Hattin, Hattîn, Hittin, bataille de Tibériade, source de Cresson, fontaine du Cresson, 4 juillet 1187
+dates: 4 juillet 1187
+an: 1187
+def: Défaite de l'armée du royaume de Jérusalem devant Saladin, le 4 juillet 1187, aux Cornes de Hattin : la Vraie Croix est perdue, le roi Guy capturé, les Templiers et Hospitaliers prisonniers exécutés. Deux mois plus tôt, Gérard de Ridefort avait perdu ses chevaliers à Cresson.
+texte: Le prélude est la source de Cresson, le 1er mai 1187. Un corps de cavaliers musulmans, autorisé par le comte Raymond III de Tripoli à traverser la Galilée dans le cadre de sa trêve avec Saladin, est attaqué près de Nazareth par le maître du Temple [[gerard-de-ridefort|Gérard de Ridefort]], le maître de l'Hôpital Roger des Moulins et quelque cent quarante chevaliers. C'est un massacre : Roger des Moulins est tué, ainsi que le maréchal du Temple Jacques de Mailly ; Ridefort s'échappe avec deux ou trois des siens. Le choc réconcilie Raymond et le roi [[guy-de-lusignan|Guy de Lusignan]], mais il a vidé le Temple de ses meilleurs chevaliers au moment où Saladin s'apprête à franchir le Jourdain avec toute son armée. Les Francs rassemblent à Saforie la plus grande armée que le royaume ait jamais levée, peut-être vingt mille hommes, dont un à deux milliers de chevaliers, en payant les mercenaires sur l'argent qu'Henri II d'Angleterre avait déposé au Temple pour sa pénitence.
+texte: Le 2 juillet, Saladin prend Tibériade, dont la citadelle, tenue par la femme de Raymond, résiste. Au conseil, Raymond conseille d'attendre à Saforie, près de l'eau ; dans la nuit, Ridefort persuade le roi de marcher, lui rappelant qu'on le soupçonnait déjà de lâcheté. Le 3 juillet, l'armée s'avance dans la chaleur, harcelée par les archers montés, et campe sans eau sous les deux collines des Cornes de Hattin. Le 4 au matin, Saladin fait allumer les broussailles ; la fumée et la soif achèvent l'infanterie, qui se débande vers les hauteurs. Les charges des chevaliers, menées par Raymond puis par les ordres, ne percent pas ; Raymond passe à travers les lignes et s'échappe. Autour de la tente rouge du roi, les derniers combattants se rendent. La relique de la Vraie Croix est prise, Guy et la plupart des barons sont capturés. [[saladin|Saladin]] tue de sa main [[renaud-de-chatillon|Renaud de Châtillon]], qui avait rompu les trêves ; le lendemain, il fait acheter et décapiter les Templiers et les Hospitaliers prisonniers, plus de deux cents selon son secrétaire Imad ad-Din, par des hommes de religion et des soufis volontaires ; seul Ridefort est épargné ; il sera libéré l'année suivante contre la reddition de [[gaza|Gaza]].
+texte: En trois mois, Saladin prend Acre, Jaffa, Sidon, Beyrouth, Ascalon, puis Jérusalem, le 2 octobre 1187 ; le Temple perd sa maison mère, al-Aqsa redevient mosquée. Seuls Tyr, [[tortose|Tortose]] et quelques châteaux tiennent. Hattin est le désastre fondateur de la mémoire templière : les frères morts sans renier leur foi passent pour martyrs, et la [[troisieme-croisade|troisième croisade]] en sort. Les responsabilités ont été débattues dès l'époque : la [[ernoul|chronique d'Ernoul]], favorable aux Ibelin et à Raymond, charge Ridefort et le roi ; les historiens soulignent plutôt la logique d'une armée qui ne pouvait laisser tomber Tibériade sans perdre la face, et la supériorité tactique de Saladin.
+repere: 1er mai 1187 — Désastre de la source de Cresson ; mort de Roger des Moulins.
+repere: 2 juillet 1187 — Saladin prend la ville de Tibériade.
+repere: 3 juillet 1187 — L'armée franque quitte Saforie et campe sans eau.
+repere: 4 juillet 1187 — Bataille de Hattin ; perte de la Vraie Croix et capture du roi Guy.
+repere: 5 juillet 1187 — Exécution des Templiers et Hospitaliers prisonniers.
+repere: 2 octobre 1187 — Saladin entre dans Jérusalem.
+attention: Le nombre des frères exécutés varie selon les sources, de deux cents à trois cents ; et le rôle de Gérard de Ridefort est connu surtout par une chronique hostile. On ne peut pas faire de lui le seul responsable d'une défaite où le roi, les barons et la soif ont leur part.
+geo: 32.7983, 35.4596
+lieu: Cornes de Hattin, près de Tibériade, Israël
+lien: wp Bataille de Hattin
+lien: wp Bataille de La Fontaine du Cresson
+lien: en Battle of Hattin
+sources: Wikipédia (fr : Bataille de Hattin, Bataille de La Fontaine du Cresson)
+voir: gerard-de-ridefort, guy-de-lusignan, saladin, renaud-de-chatillon, ernoul, jerusalem-temple-de-salomon, troisieme-croisade, templiers-et-musulmans
+
+@ troisieme-croisade
+cat: histoire
+nom: Troisième croisade
+alias: croisade des rois, siège d'Acre 1189-1191, Richard Cœur de Lion en Terre sainte, achat de Chypre, Robert de Sablé
+dates: 1189 – 1192
+an: 1189
+fin: 1192
+def: Croisade lancée après Hattin, marquée par le long siège d'Acre (1189-1191), la victoire d'Arsouf et la trêve de 1192 ; les Templiers, reconstitués sous Robert de Sablé, ami de Richard Cœur de Lion, y achètent Chypre pour quelques mois et s'installent à Acre pour un siècle.
+texte: La nouvelle de [[bataille-de-hattin|Hattin]] et de la perte de Jérusalem frappe l'Occident à l'automne 1187. Le pape Grégoire VIII appelle à la croisade ; l'empereur Frédéric Barberousse, Philippe Auguste et Henri II, puis son fils [[richard-coeur-de-lion|Richard Cœur de Lion]], prennent la croix. En Orient, le roi [[guy-de-lusignan|Guy de Lusignan]], libéré par Saladin, met le siège devant Acre dès août 1189 avec les Templiers rescapés : le maître [[gerard-de-ridefort|Gérard de Ridefort]] y est tué le 4 octobre 1189. Barberousse se noie en Cilicie le 10 juin 1190 ; son armée fond. Philippe Auguste arrive devant Acre en avril 1191, Richard en juin, après s'être emparé en route, en mai, de l'île de Chypre sur l'usurpateur byzantin Isaac Comnène. La ville, assiégée depuis deux ans, capitule le 12 juillet 1191.
+texte: Les Templiers ont choisi un nouveau maître, [[robert-de-sable|Robert de Sablé]], seigneur angevin et compagnon de Richard, qui venait à peine d'entrer dans l'ordre. Richard leur vend Chypre pour cent mille besants, dont une partie seulement est versée ; les frères n'y envoient qu'une petite garnison, qui doit mater une révolte à Nicosie à Pâques 1192 et rend l'île au roi, lequel la cède à Guy de Lusignan en mai 1192. Philippe Auguste reparti, Richard descend la côte vers Jaffa. Le 7 septembre 1191, à [[bataille-d-arsouf|Arsouf]], les Templiers tiennent l'avant-garde et les Hospitaliers l'arrière-garde de l'armée en marche ; la charge prématurée des Hospitaliers, puis celle de toute la chevalerie, met Saladin en fuite. Après la bataille, l'armée réoccupe [[jaffa|Jaffa]], dont Richard relève les murs.
+texte: Richard, par deux fois, approche de Jérusalem (janvier et juin 1192) et renonce sur le conseil des Templiers et des Hospitaliers, qui jugent la ville imprenable à garder une fois l'armée repartie. Le traité de Jaffa, le 2 septembre 1192, laisse aux Francs la côte de Tyr à Jaffa et aux pèlerins le libre accès au Saint-Sépulcre. Richard s'embarque le 9 octobre ; selon la chronique, il voyage avec des Templiers et déguisé en frère de l'ordre, avant d'être arrêté près de Vienne par le duc d'Autriche. L'ordre sort de la croisade reconstitué et installé à [[acre]], où son quartier fortifié, au sud-ouest de la ville, sera son siège jusqu'en 1291 ; il a aussi découvert Chypre, où il se repliera un siècle plus tard. Robert de Sablé meurt en 1193.
+repere: août 1189 — Guy de Lusignan met le siège devant Acre.
+repere: 4 octobre 1189 — Gérard de Ridefort est tué devant Acre.
+repere: 10 juin 1190 — Frédéric Barberousse se noie dans le Saleph.
+repere: mai 1191 — Richard Cœur de Lion conquiert Chypre.
+repere: 12 juillet 1191 — Acre capitule ; Robert de Sablé est maître du Temple.
+repere: 7 septembre 1191 — Victoire d'Arsouf.
+repere: Pâques 1192 — Révolte de Nicosie ; les Templiers rendent Chypre à Richard.
+repere: 2 septembre 1192 — Traité de Jaffa entre Richard et Saladin.
+attention: Le prix de Chypre varie selon les sources, cent mille besants pour les chroniqueurs anglais, vingt-cinq mille marcs d'argent pour d'autres ; et l'ordre n'a tenu l'île que quelques mois. Le « déguisement » de Richard en Templier à son retour est un détail de chroniqueur, plausible, non assuré.
+lien: wp Troisième croisade
+lien: en Third Crusade
+sources: Wikipédia (fr : Troisième croisade)
+voir: richard-coeur-de-lion, robert-de-sable, gerard-de-ridefort, guy-de-lusignan, bataille-d-arsouf, acre, chypre-templiere, saladin
+
+# ── Le XIIIe siècle en Orient ──────────────────────────────────────────────
+
+@ cinquieme-croisade
+cat: histoire
+nom: Cinquième croisade
+alias: croisade de Damiette, 1217-1221, Guillaume de Chartres, Pierre de Montaigu, légat Pélage, Jean de Brienne
+dates: 1217 – 1221
+an: 1217
+fin: 1221
+def: Croisade dirigée contre l'Égypte : prise de Damiette (5 novembre 1219) après dix-huit mois de siège, où meurt le maître du Temple Guillaume de Chartres, puis marche sur Le Caire et capitulation dans la crue du Nil (30 août 1221), que raconte son successeur Pierre de Montaigu.
+texte: Le quatrième concile du Latran (1215) fixe le départ d'une nouvelle croisade, qui, pour la première fois, vise l'Égypte, cœur de la puissance ayyoubide, afin d'échanger ensuite ses conquêtes contre Jérusalem. Après une campagne sans résultat en Galilée (automne 1217) avec le roi André II de Hongrie, les croisés et les barons de Jean de Brienne, roi de Jérusalem, débarquent devant Damiette, à l'embouchure orientale du Nil, le 29 mai 1218. Les Templiers de [[guillaume-de-chartres|Guillaume de Chartres]], les Hospitaliers et les [[teutoniques|Teutoniques]] sont en première ligne. La tour de la chaîne, qui barre le fleuve, tombe le 24 août 1218 ; en septembre arrive le légat du pape, le cardinal Pélage, qui prétend diriger l'expédition.
+texte: Le siège s'éternise dans la boue et les épidémies. À l'été 1219, le sultan al-Kamil offre Jérusalem et l'ancien royaume, moins l'Outre-Jourdain, contre le départ des croisés : Jean de Brienne et les barons veulent accepter, Pélage, les Italiens et les ordres militaires refusent, les Templiers et les Hospitaliers jugeant la Ville sainte indéfendable sans ses châteaux. Guillaume de Chartres meurt de maladie le 26 août 1219 ; le chapitre élit [[pierre-de-montaigu|Pierre de Montaigu]], maître de Provence et d'Espagne. Le 5 novembre 1219, les croisés entrent dans une Damiette dépeuplée par la famine. [[jacques-de-vitry|Jacques de Vitry]], évêque d'Acre, qui est là, fait l'éloge des frères ; François d'Assise est venu prêcher au sultan pendant le siège.
+texte: Pendant un an et demi, l'armée attend l'empereur [[frederic-ii|Frédéric II]], qui a promis de venir et ne vient pas. Le 29 juin 1221, Pélage fait marcher sur Le Caire contre l'avis de Jean de Brienne ; le 24 juillet, l'armée est devant [[mansourah|Mansourah]], coincée entre le Nil et un bras du fleuve, au moment où commence la crue. Les Égyptiens ouvrent les digues et coupent la retraite ; le 26 août, les croisés reculent dans l'eau et la vase ; le 30 août, ils capitulent, Damiette contre la vie des hommes, et évacuent la ville le 7 septembre 1221. Pierre de Montaigu écrit à Alain Martel, maître du Temple en Angleterre, un récit lucide du désastre, que les chroniqueurs anglais ont conservé. La leçon servira peu : vingt-huit ans plus tard, [[louis-ix|Louis IX]] reprendra la même route.
+repere: novembre 1215 — Le concile du Latran décide la croisade.
+repere: 29 mai 1218 — Les croisés débarquent devant Damiette.
+repere: 24 août 1218 — Prise de la tour de la chaîne.
+repere: 26 août 1219 — Mort du maître Guillaume de Chartres ; Pierre de Montaigu lui succède.
+repere: 5 novembre 1219 — Les croisés entrent dans Damiette.
+repere: 24 juillet 1221 — L'armée est bloquée devant Mansourah par la crue du Nil.
+repere: 30 août 1221 — Capitulation ; Damiette est rendue le 7 septembre.
+attention: On impute souvent l'échec au seul légat Pélage ; les ordres militaires ont eux aussi refusé l'offre d'al-Kamil en 1219, pour des raisons militaires qu'ils jugeaient solides. Le refus n'était pas seulement l'orgueil d'un clerc.
+lien: wp Cinquième croisade
+lien: en Fifth Crusade
+sources: Wikipédia (fr : Cinquième croisade)
+voir: guillaume-de-chartres, pierre-de-montaigu, damiette, mansourah, jacques-de-vitry, frederic-ii, teutoniques, septieme-croisade
+
+@ sixieme-croisade
+cat: histoire
+nom: Sixième croisade et Frédéric II
+alias: croisade de Frédéric II, croisade de l'empereur excommunié, traité de Jaffa 1229, Jérusalem rendue par traité, 1228-1229
+dates: 1228 – 1229
+an: 1228
+fin: 1229
+def: Expédition de l'empereur Frédéric II, excommunié, qui obtient Jérusalem par traité avec le sultan al-Kamil (18 février 1229) sans combattre ; les Templiers refusent de servir sous un excommunié, l'empereur les persécute, et la Ville sainte, indéfendable, est perdue en 1244.
+texte: [[frederic-ii|Frédéric II]], roi de Sicile et empereur, a pris la croix en 1215 et promis dix fois de partir. Devenu par mariage roi de Jérusalem (1225), il s'embarque enfin en septembre 1227, tombe malade et rentre ; le pape Grégoire IX l'excommunie à la fin de septembre 1227. L'empereur repart tout de même de Brindisi le 28 juin 1228 et débarque à Acre le 7 septembre. Il y trouve une Église et des ordres divisés : les Teutoniques, dont le maître Hermann de Salza est son ami, le suivent ; les Templiers de [[pierre-de-montaigu|Pierre de Montaigu]] et les Hospitaliers refusent de marcher sous la bannière d'un excommunié. Quand l'armée descend vers Jaffa en novembre, les deux ordres la suivent à une journée de distance, jusqu'à ce qu'on convienne que les ordres seraient donnés « au nom de Dieu et de la chrétienté », non de l'empereur.
+texte: Frédéric négocie depuis des mois avec le sultan d'Égypte al-Kamil, en guerre contre son frère de Damas. Le traité de Jaffa, conclu le 18 février 1229 pour dix ans, rend aux Francs Jérusalem, Bethléem, Nazareth et un couloir vers la côte, mais laisse aux musulmans l'esplanade du Temple avec ses mosquées : le Temple de Salomon, maison mère de l'ordre, reste donc à l'islam, et la ville est livrée sans remparts. Le 17 mars 1229, l'empereur entre dans Jérusalem ; le 18, il se couronne lui-même au Saint-Sépulcre, sans prêtre, tandis que le patriarche Gérold met la ville en interdit. Les Templiers n'ont rien obtenu et dénoncent un traité qui, disent-ils, trahit la croisade ; selon des chroniqueurs hostiles, l'empereur les accuse en retour d'avoir voulu le livrer aux musulmans, histoire que les historiens tiennent pour une calomnie.
+texte: De retour à Acre, Frédéric fait cerner le quartier du Temple, en interdit la prédication aux frères mendiants, puis quitte la ville le 1er mai 1229 sous les huées et les tripes jetées par les bouchers de la rue. En Sicile, il confisque les biens de l'ordre, qui ne seront rendus qu'avec la paix de San Germano (1230) et par étapes. La haine est durable : pendant vingt ans, les Templiers soutiennent contre les officiers impériaux les barons du royaume menés par les Ibelin, et l'empereur fait d'eux, dans ses lettres, les ennemis de la chrétienté. Jérusalem, mal défendue, est prise une première fois en 1239, rendue en 1241, puis emportée par les Khwarezmiens en août 1244, deux mois avant [[bataille-de-la-forbie|La Forbie]]. Le Temple y avait retrouvé pour quelques années sa première maison : on sait par les textes qu'il y avait repris possession de l'esplanade en 1243-1244.
+repere: fin septembre 1227 — Grégoire IX excommunie Frédéric II.
+repere: 28 juin 1228 — L'empereur s'embarque à Brindisi.
+repere: 7 septembre 1228 — Débarquement à Acre ; les Templiers refusent de servir sous sa bannière.
+repere: 18 février 1229 — Traité de Jaffa avec al-Kamil : Jérusalem rendue sans l'esplanade du Temple.
+repere: 18 mars 1229 — Frédéric se couronne au Saint-Sépulcre.
+repere: 1er mai 1229 — Il quitte Acre sous les huées.
+repere: 23 août 1244 — Les Khwarezmiens prennent définitivement Jérusalem.
+attention: Le traité de 1229 n'a pas rendu le Temple de Salomon aux Templiers : l'esplanade et ses mosquées sont restées musulmanes. Et le « complot » des Templiers pour livrer l'empereur à al-Kamil n'est rapporté que par des sources impériales ou tardives ; aucun historien sérieux ne le retient.
+lien: wp Sixième croisade
+lien: en Sixth Crusade
+sources: Wikipédia (fr : Sixième croisade)
+voir: frederic-ii, pierre-de-montaigu, jerusalem-temple-de-salomon, teutoniques, acre, bataille-de-la-forbie, armand-de-perigord, templiers-et-hospitaliers
+
+@ bataille-de-la-forbie
+cat: histoire
+nom: Bataille de La Forbie
+alias: Harbiya, Hiribya, bataille de Gaza 1244, Forbie, 17-18 octobre 1244, Khwarezmiens
+dates: 17 – 18 octobre 1244
+an: 1244
+def: Défaite des Francs et de leurs alliés de Damas devant l'armée d'Égypte et les cavaliers khwarezmiens, les 17 et 18 octobre 1244, au nord-est de Gaza ; le maître du Temple Armand de Périgord disparaît, et les ordres militaires y perdent presque tous leurs chevaliers, comme à Hattin.
+texte: En 1244, le royaume de Jérusalem est allié aux princes ayyoubides de Damas et de Homs contre le sultan d'Égypte al-Salih Ayyub, qui a fait appel aux Khwarezmiens, cavaliers venus d'Asie centrale chassés par les Mongols. Ceux-ci traversent la Syrie, prennent Jérusalem en août, massacrent les habitants et profanent le Saint-Sépulcre, puis rejoignent l'armée égyptienne près de Gaza. L'armée franque, la plus forte depuis [[bataille-de-hattin|Hattin]], se rassemble à Acre sous le comte Gautier IV de Brienne, avec le patriarche Robert, les Templiers d'[[armand-de-perigord|Armand de Périgord]], les Hospitaliers, les Teutoniques, les chevaliers de [[ordre-de-saint-lazare|Saint-Lazare]], et les contingents musulmans d'al-Mansur Ibrahim de Homs et de Damas.
+texte: Le 17 octobre 1244, les deux armées se trouvent face à face dans la plaine sablonneuse de La Forbie (Hiribya), au nord-est de Gaza. L'émir de Homs conseille de se retrancher et d'attendre que les Khwarezmiens, indisciplinés, se lassent ; Gautier de Brienne et les ordres veulent la bataille. Elle s'engage le 18 au matin. Les Khwarezmiens enfoncent les Syriens de Damas, qui s'enfuient ; les Francs, débordés, sont pris entre les Égyptiens, que commande le jeune mamelouk [[baybars|Baybars]], et les cavaliers des steppes. Gautier de Brienne est capturé et mourra au Caire ; Armand de Périgord disparaît, tué ou prisonnier, et l'on ne sait pas ce qu'il devint. La lettre du patriarche aux prélats d'Occident donne la mesure du désastre : trente-trois Templiers, vingt-sept Hospitaliers et trois Teutoniques seulement en réchappent.
+texte: La bataille montre aussi le prix des alliances de revers : les Francs s'étaient liés à des princes musulmans contre d'autres, et ce sont leurs alliés de Damas qui ont cédé les premiers. Les conséquences sont moins immédiates qu'après Hattin, parce que les villes de la côte restent fortifiées et que l'Égypte, victorieuse, se tourne contre Damas. Mais le royaume a perdu son armée de campagne et Jérusalem pour toujours ; les ordres militaires doivent se reconstituer avec les recrues d'Occident. La nouvelle, portée en Europe par les lettres et par [[matthieu-paris|Matthieu Paris]], prépare la croisade de [[louis-ix|Louis IX]], qui fait vœu en décembre 1244. Le Temple reste plusieurs mois sans maître connu : [[richard-de-bures|Richard de Bures]], dont l'existence même est discutée, puis [[guillaume-de-sonnac|Guillaume de Sonnac]] lui succèdent.
+repere: 23 août 1244 — Les Khwarezmiens prennent Jérusalem.
+repere: 17 octobre 1244 — Les armées se font face à La Forbie.
+repere: 18 octobre 1244 — Défaite des Francs ; disparition d'Armand de Périgord.
+repere: décembre 1244 — Louis IX, malade, fait vœu de croisade.
+repere: 1247 — Guillaume de Sonnac est maître de l'ordre.
+attention: Les chiffres des rescapés viennent de lettres destinées à émouvoir l'Occident et à obtenir des secours : ils donnent un ordre de grandeur, non un décompte. Le sort exact d'Armand de Périgord reste inconnu.
+geo: 31.6058, 34.5464
+lieu: Hiribya (La Forbie), au nord-est de Gaza, Israël
+lien: wp Bataille de La Forbie
+lien: en Battle of Forbie
+sources: Wikipédia (fr : Bataille de La Forbie)
+voir: armand-de-perigord, baybars, gaza, ordre-de-saint-lazare, matthieu-paris, septieme-croisade, bataille-de-hattin, richard-de-bures
+
+@ septieme-croisade
+cat: histoire
+nom: Septième croisade
+alias: croisade de saint Louis, croisade d'Égypte, Damiette 1249, Mansourah 1250, rançon de saint Louis, Guillaume de Sonnac, Renaud de Vichiers
+dates: 1248 – 1254
+an: 1248
+fin: 1254
+def: Croisade de Louis IX en Égypte : Damiette prise sans combat (6 juin 1249), désastre de Mansourah où meurt le maître Guillaume de Sonnac (février 1250), capture du roi, rançon que Joinville va chercher de force sur les galères du Temple, puis quatre ans de travaux en Terre sainte.
+texte: [[louis-ix|Louis IX]] prend la croix en décembre 1244, malade, et part d'Aigues-Mortes le 25 août 1248 avec une armée nombreuse, embarquée sur des navires génois et marseillais. Après un hiver à Chypre, la flotte paraît devant Damiette le 5 juin 1249 ; le débarquement est si violent que la garnison abandonne la ville, occupée le 6 juin. Les Templiers du maître [[guillaume-de-sonnac|Guillaume de Sonnac]] sont de l'expédition avec leurs frères d'Orient. On attend la fin de la crue ; le 20 novembre 1249, l'armée marche sur Le Caire par la même route que la [[cinquieme-croisade|cinquième croisade]], et se trouve, en décembre, arrêtée par le bras du Nil devant [[mansourah|Mansourah]].
+texte: Le 8 février 1250, un gué est trouvé. L'avant-garde, Robert d'Artois, frère du roi, les Templiers et les Anglais, passe la première avec ordre d'attendre ; le comte charge le camp égyptien, puis, contre l'avis de Sonnac et du maître des Anglais, se jette dans la ville de Mansourah, où les Mamelouks de Baybars taillent en pièces la chevalerie dans les ruelles. Robert d'Artois est tué ; les Templiers perdent deux cent quatre-vingts chevaliers, dit [[jean-de-joinville|Joinville]], qui n'en vit revenir que quelques-uns ; Guillaume de Sonnac perd un œil. Le gros de l'armée tient le champ de bataille au prix d'une journée terrible. Le 11 février, nouvelle attaque égyptienne : Sonnac, blessé à l'autre œil, meurt. Bloquée, décimée par le scorbut et la dysenterie, l'armée recule vers Damiette au début d'avril ; le 6 avril 1250, à Fariskur, elle est enveloppée et le roi est pris avec presque toute sa noblesse.
+texte: La rançon est fixée à cinq cent mille livres tournois pour les captifs et à la restitution de Damiette pour la personne du roi ; selon Joinville, le sultan en remit ensuite cent mille. Joinville raconte comment, pour compléter la première moitié, il monta sur la galère du Temple où était le trésor : le commandeur Étienne d'Otricourt refusa de donner un dépôt qui ne lui appartenait pas, le maréchal [[renaud-de-vichiers|Renaud de Vichiers]] suggéra qu'on le prît de force, et Joinville, une hache à la main, obtint les coffres. Le roi, libéré le 6 mai 1250, choisit de rester en Terre sainte : il fait élire Vichiers maître du Temple, fortifie Acre, Césarée, Jaffa et Sidon, et impose à l'ordre une discipline publique en 1252, quand les frères négocient avec Damas sans lui : le maître doit demander pardon pieds nus devant l'armée, et le maréchal est banni. Louis rembarque le 24 avril 1254. La croisade a coûté au Temple son maître et sa chevalerie d'Orient ; elle a montré aussi qu'un roi de France pouvait humilier l'ordre.
+repere: décembre 1244 — Louis IX fait vœu de croisade.
+repere: 25 août 1248 — Départ d'Aigues-Mortes.
+repere: 6 juin 1249 — Prise de Damiette.
+repere: 8 février 1250 — Bataille de Mansourah ; mort de Robert d'Artois et de la plupart des Templiers.
+repere: 11 février 1250 — Mort du maître Guillaume de Sonnac.
+repere: 6 avril 1250 — Louis IX est fait prisonnier à Fariskur.
+repere: 6 mai 1250 — Le roi est libéré ; Joinville a pris la rançon sur les galères du Temple.
+repere: 24 avril 1254 — Louis IX quitte Acre.
+attention: Le Temple n'a pas « prêté » la rançon de saint Louis : l'argent pris par Joinville était un dépôt de particuliers que le commandeur refusait de livrer, et le maréchal n'a cédé qu'à la force, sous couvert de la volonté du roi. L'épisode dit la rigueur des frères en matière de dépôts autant que la puissance de leur trésor.
+lien: wp Septième croisade
+lien: en Seventh Crusade
+sources: Wikipédia (fr : Septième croisade)
+voir: louis-ix, guillaume-de-sonnac, renaud-de-vichiers, jean-de-joinville, mansourah, damiette, banque-du-temple, cinquieme-croisade
+
+@ chute-de-safed
+cat: histoire
+nom: Chute de Safed
+alias: siège de Safed, Saphet, Saphed, Tsfat, Safed 1266, Baybars à Safed, De constructione castri Saphet, sergent Léon
+dates: 13 juin – 23 juillet 1266
+an: 1266
+def: Prise par le sultan Baybars, le 23 juillet 1266, du grand château des Templiers en haute Galilée, rebâti par l'ordre à partir de 1240 ; la garnison, qui croyait avoir obtenu la vie sauve, est massacrée après sa reddition.
+texte: Safed domine la haute Galilée, à mi-chemin d'Acre et du Jourdain. Le roi Foulques y fait élever une forteresse vers 1140 ; elle passe ensuite aux Templiers, et [[saladin|Saladin]] la prend en décembre 1188. Démantelée par les Ayyoubides en 1220, elle revient aux Francs par un traité de 1240, et l'ordre entreprend aussitôt de la rebâtir. Un petit texte latin, le *De constructione castri Saphet*, écrit vers 1260 dans l'entourage de l'évêque de Marseille Benoît d'Alignan, qui avait poussé à l'entreprise, décrit le chantier et le château achevé : murs et tours énormes, fossés taillés dans le roc, citernes, moulins, ateliers où l'on fabrique armes et machines de guerre, et une garnison qui compte mille sept cents personnes en temps de paix, deux mille deux cents en temps de guerre. C'est l'une des plus grandes forteresses de l'Orient latin et l'un des plus puissants [[chateaux-du-temple|châteaux du Temple]].
+texte: Le sultan mamelouk [[baybars|Baybars]], maître de l'Égypte et de la Syrie depuis 1260, mène contre les Francs une guerre méthodique : Césarée et Arsouf tombent en 1265. Le 13 juin 1266, il met le siège devant Safed. Les premiers assauts échouent ; les mineurs et les machines prennent le relais. Baybars joue alors de la division de la garnison : il fait promettre la vie sauve aux sergents et archers syriens, chrétiens d'Orient, qui forment une grande partie des défenseurs, et sème la défiance entre eux et les frères. Pour négocier, les assiégés envoient un frère sergent syrien, Léon, que la chronique de Limoges présente comme le châtelain ; Baybars lui promet la vie s'il obtient la reddition. Le 23 juillet 1266, les Templiers sortent, persuadés d'avoir un sauf-conduit. Le sultan ne le respecte pas : la garnison est conduite sur une colline voisine et exécutée. Deux sources, l'une arabe, l'autre latine, parlent de deux mille chrétiens tués ; d'autres donnent un décompte plus bas, une dizaine de chevaliers, vingt-sept frères sergents, quelque sept cent soixante-dix soldats et quatre franciscains. Léon resta auprès de Baybars et se fit musulman.
+texte: Baybars fait aussitôt réparer et garnir le château, dont il surveille encore les travaux en juin 1267 : Safed devient une place mamelouke face à Acre. Pour l'ordre et pour le maître [[thomas-berard|Thomas Bérard]], la perte est irréparable ; elle ouvre une série de désastres, [[jaffa|Jaffa]], [[beaufort|Beaufort]] et [[antioche|Antioche]] en 1268, [[bagras|Bagras]] la même année, [[chastel-blanc|Chastel Blanc]] en 1271. Le massacre de Safed a pris place, dans la mémoire des Templiers, à côté de celui de [[bataille-de-hattin|Hattin]] : celui de frères morts pour n'avoir pas renié leur foi. Des restes du château subsistent sur la colline qui domine la ville de Safed.
+repere: v. 1140 — Le roi Foulques fait bâtir une forteresse à Safed.
+repere: décembre 1188 — Saladin prend Safed.
+repere: 1220 — Le château est démantelé par les Ayyoubides.
+repere: 1240 — Safed revient aux Francs ; les Templiers la rebâtissent.
+repere: 13 juin 1266 — Baybars met le siège devant le château.
+repere: 23 juillet 1266 — Reddition de la garnison, massacrée malgré le sauf-conduit.
+repere: juin 1267 — Baybars surveille encore la remise en état de la forteresse.
+attention: Les chiffres du massacre varient du simple au triple selon les sources, et le rôle exact du sergent Léon, traître pour les chroniques latines, n'est connu que par elles. Tous les récits s'accordent en revanche sur l'essentiel : une reddition négociée, et une promesse que le sultan n'a pas tenue.
+geo: 32.9656, 35.4997
+lieu: Safed (Tsfat), Haute-Galilée, Israël
+lien: en Siege of Safed (1266)
+lien: wp Safed
+sources: Wikipédia (en : Siege of Safed (1266) ; fr : Safed)
+voir: safed, baybars, thomas-berard, chateaux-du-temple, beaufort, chute-d-acre, bataille-de-hattin, templiers-et-musulmans
+
+@ chute-d-acre
+cat: histoire
+nom: Chute d'Acre
+alias: siège d'Acre 1291, Saint-Jean-d'Acre 1291, prise d'Acre, al-Ashraf Khalil, mort de Guillaume de Beaujeu, fin des États latins, Tour maudite
+dates: avril – 28 mai 1291
+an: 1291
+def: Siège et prise d'Acre, capitale des États latins, par le sultan mamelouk al-Ashraf Khalil au printemps 1291 ; le maître du Temple Guillaume de Beaujeu est mortellement blessé le 18 mai, la forteresse de l'ordre tient jusqu'au 28, et les dernières villes franques de Syrie sont évacuées dans l'été.
+texte: Acre est le siège de l'ordre depuis 1191 : son quartier, fermé de murs, occupe le sud-ouest de la ville, au bord de la mer, autour d'une forteresse dont la grosse tour garde le port. Le sultan Qalawun a pris [[tripoli|Tripoli]] en 1289 ; le maître [[guillaume-de-beaujeu|Guillaume de Beaujeu]], bien informé par ses contacts à la cour mamelouke, a averti en vain les Acconitains. En août 1290, des croisés italiens fraîchement débarqués massacrent des marchands musulmans dans la ville : Qalawun y trouve son prétexte, et son fils al-Ashraf Khalil, qui lui succède en novembre, arrive devant Acre au début d'avril 1291 (le 5 ou le 6 selon les sources) avec une armée immense et des dizaines de machines. La ville compte peut-être trente à quarante mille habitants et une quinzaine de milliers de combattants, dont quelques centaines de chevaliers des ordres.
+texte: Le 15 avril, Beaujeu tente une sortie de nuit contre le camp ennemi ; elle échoue. Le roi Henri II de Chypre arrive le 4 mai avec des renforts. Le 15 mai, une partie de la Tour neuve s'effondre sous les sapes. Le 18 mai à l'aube, l'assaut général emporte la Tour maudite ; Beaujeu, armé à la hâte, court avec le maître de l'Hôpital à la porte Saint-Antoine et reçoit un javelot sous l'aisselle. Le [[templier-de-tyr|Templier de Tyr]], son secrétaire, lui prête ces mots : « Seigneurs, je ne puis plus, car je suis mort ; voyez le coup ». Il meurt dans la forteresse du Temple, où l'on a pu le ramener. La ville tombe dans la journée ; on s'écrase au port, le patriarche se noie. Le Temple tient encore, plein de réfugiés, sous le maréchal Pierre de Sevry. Le commandeur de la terre, [[thibaud-gaudin|Thibaud Gaudin]], gagne Sidon par mer avec le trésor de l'ordre. Une capitulation est négociée, puis rompue quand des Mamelouks entrés dans la forteresse s'en prennent aux femmes ; Sevry, sorti parlementer, est décapité. Le 28 mai, la tour, minée, s'écroule.
+texte: Tyr est abandonnée sans combat. À Sidon, les Templiers tiennent le château de mer, d'où Gaudin, élu maître, part pour Chypre ; la ville est prise le 14 juillet, Beyrouth en juillet aussi. Les Templiers évacuent [[tortose|Tortose]] le 3 août et [[chateau-pelerin|Château Pèlerin]] le 14 août, sans combat. Il ne reste plus aux Francs que l'îlot de [[ile-de-ruad|Ruad]]. Acre est rasée ; de la forteresse du Temple ne subsistent que des vestiges souterrains (voir [[acre]]). La perte, qui met fin à deux siècles d'États latins, retombe sur les ordres militaires : on leur reproche leurs rivalités et leurs richesses, et l'Occident commence à se demander à quoi ils servent.
+repere: 1289 — Qalawun prend Tripoli.
+repere: août 1290 — Massacre de marchands musulmans à Acre par des croisés italiens.
+repere: avril 1291 — Al-Ashraf Khalil met le siège devant Acre.
+repere: 15 mai 1291 — Une partie de la Tour neuve s'effondre.
+repere: 18 mai 1291 — Assaut général ; Guillaume de Beaujeu est mortellement blessé ; la ville tombe.
+repere: 28 mai 1291 — Chute de la forteresse du Temple.
+repere: 14 juillet 1291 — Prise de Sidon.
+repere: 14 août 1291 — Les Templiers évacuent Château Pèlerin.
+attention: L'effondrement final de la tour du Temple sur les vainqueurs, détail héroïque des récits chrétiens, est contredit par des sources mameloukes, selon lesquelles la tour avait été vidée de ses prisonniers et de son butin avant de tomber. Et le départ de Thibaud Gaudin avec le trésor n'est pas une désertion : il le mettait à l'abri, et le chapitre l'élut maître à Sidon.
+geo: 32.9333, 35.0833
+lieu: Akko (Saint-Jean-d'Acre), Israël
+lien: wp Siège de Saint-Jean-d'Acre (1291)
+lien: en Siege of Acre (1291)
+sources: Wikipédia (fr : Siège de Saint-Jean-d'Acre (1291) ; en : Siege of Acre (1291))
+voir: acre, guillaume-de-beaujeu, thibaud-gaudin, templier-de-tyr, chateau-pelerin, tortose, sidon, chypre-templiere
+
+@ ile-de-ruad
+cat: histoire
+nom: Ruad, le dernier poste
+alias: Arwad, Rouad, Arados, île de Ruad, chute de Ruad, siège de Ruad 1302, Barthélemy de Quincy
+dates: 1300 – 26 septembre 1302
+an: 1300
+fin: 1302
+def: Îlot de la côte syrienne, en face de Tortose, où les Templiers entretinrent de 1300 à 1302 une garnison, dernier poste franc du Levant ; assiégés par les Mamelouks, ils se rendent le 26 septembre 1302 contre la vie sauve, promesse non tenue.
+texte: Après la [[chute-d-acre|chute d'Acre]], les ordres militaires se sont repliés à [[chypre-templiere|Chypre]], d'où ils espèrent reprendre pied sur le continent. Une occasion paraît en 1299-1300 : l'ilkhan mongol de Perse, Ghazan, envahit la Syrie mamelouke, et les Francs comptent agir de concert avec lui. Ruad, l'antique Arados, est un îlot sans eau à quelque trois kilomètres de [[tortose|Tortose]], que le Temple avait tenue jusqu'en 1291. En novembre 1300, une expédition partie de Chypre y débarque environ six cents hommes, dont cent cinquante Templiers, et lance contre Tortose un raid de vingt-cinq jours. Les Mongols n'arrivant pas, la troupe se retire à Chypre, mais laisse une garnison dans l'île.
+texte: En novembre 1301, le pape Boniface VIII donne Ruad aux Templiers. Le maître [[jacques-de-molay|Jacques de Molay]] y installe une force permanente, cent vingt chevaliers, cinq cents archers et quatre cents serviteurs, sous le commandement du maréchal Barthélemy de Quincy, et fait renforcer les défenses : l'îlot doit servir de tête de pont à une future croisade. En 1302, une flotte mamelouke de seize navires partie d'Égypte débarque des troupes en deux points de l'île et l'assiège. Sans eau, la garnison ne peut tenir ; une flotte de secours chypriote part trop tard. Le 26 septembre 1302, frère Hugues de Dampierre négocie une reddition : les défenseurs pourront gagner librement une terre chrétienne de leur choix. À leur sortie, la promesse est rompue et le combat reprend. Barthélemy de Quincy est tué, les archers et les fantassins syriens sont exécutés ; les frères survivants, quelques dizaines, sont emmenés au Caire. Une quarantaine d'entre eux y étaient encore prisonniers des années plus tard et seraient morts de faim.
+texte: Ruad est le dernier point d'appui des croisés sur la côte du Levant. Sa chute clôt l'histoire militaire du Temple en Orient : il ne reste à l'ordre que ses maisons de Chypre et ses [[flotte-du-temple|navires]], qui mènent quelques raids. Quand Molay rédige pour le pape, en 1306, ses projets de croisade, il insiste sur la nécessité d'une grande expédition, les petites ayant toutes échoué : on peut y lire la leçon de Ruad. L'îlot est aujourd'hui syrien et habité.
+repere: 1291 — Après la chute d'Acre, l'ordre se replie à Chypre.
+repere: novembre 1300 — Débarquement à Ruad et raid contre Tortose.
+repere: novembre 1301 — Boniface VIII donne l'île aux Templiers.
+repere: 1302 — Une flotte mamelouke assiège Ruad.
+repere: 26 septembre 1302 — Reddition de la garnison ; les frères survivants sont emmenés au Caire.
+attention: Ruad n'est pas un « dernier bastion » tenu par désespoir : c'est une tête de pont conçue pour une reconquête avec les Mongols, qui ne vinrent pas. Quelques auteurs placent sa chute en 1303 ; la plupart retiennent le 26 septembre 1302.
+geo: 34.8561, 35.8583
+lieu: Arwad, gouvernorat de Tartous, Syrie
+lien: wp Chute de Ruad
+lien: en Fall of Ruad
+sources: Wikipédia (fr : Chute de Ruad ; en : Fall of Ruad, Arwad)
+voir: tortose, jacques-de-molay, chypre-templiere, chute-d-acre, flotte-du-temple, chateaux-du-temple, projets-de-fusion-des-ordres, templier-de-tyr
+
+@ projets-de-fusion-des-ordres
+cat: histoire
+nom: Projets de fusion des ordres
+alias: union des ordres, union du Temple et de l'Hôpital, De unione Templi et Hospitalis, Rex bellator, ordre du Saint-Esprit, Raymond Lulle, Pierre Dubois, Charles II d'Anjou
+dates: 1274 – 1312
+an: 1274
+fin: 1312
+def: Projets, évoqués au concile de Lyon de 1274 et relancés après la chute d'Acre, de réunir le Temple et l'Hôpital en un seul ordre ; Jacques de Molay les combattit en 1306, et la remise des biens du Temple à l'Hôpital, en 1312, en fut l'issue imprévue.
+texte: Les deux grands ordres militaires se disputent depuis longtemps biens, préséances et politique ; ils se sont battus à Acre pendant la guerre de Saint-Sabas, dans les années 1250 (voir [[templiers-et-hospitaliers|Templiers et Hospitaliers]]). Au deuxième concile de Lyon, que le pape Grégoire X réunit en 1274 pour préparer une croisade, plusieurs des avis qu'il a sollicités dénoncent cette rivalité, et l'union des ordres y est évoquée, sans décision. L'idée revient avec force après la [[chute-d-acre|chute d'Acre]] (1291) : le pape Nicolas IV consulte les conciles provinciaux sur la croisade et sur l'union, et plusieurs se prononcent pour la fusion ; le roi de Naples Charles II d'Anjou propose, dans un mémoire sur la reconquête, un ordre unique sous un seul maître.
+texte: Les théoriciens de la croisade vont plus loin. Le Majorquin Raymond Lulle, qui défend l'union depuis les années 1290, propose en 1305, dans son *Liber de fine*, un ordre unique, qu'il appelle ordre du Saint-Esprit, placé sous l'autorité d'un roi guerrier, le *rex bellator*, qui deviendrait roi de Jérusalem. L'avocat normand Pierre Dubois, dans son *De recuperatione Terre Sancte* (vers 1306), veut lui aussi fondre les ordres et employer leurs revenus à la croisade. Derrière ces projets se profile la monarchie française : un ordre unique, commandé par un prince capétien, servirait autant le roi que la Terre sainte. Le nouveau pape [[clement-v|Clément V]], élu en 1305, reprend la question. Le 6 juin 1306, il convoque à Poitiers les maîtres du Temple et de l'Hôpital pour en débattre avec la croisade ; [[jacques-de-molay|Jacques de Molay]] quitte Chypre le 15 octobre et rencontre le pape au printemps 1307.
+texte: Molay a préparé deux mémoires, l'un sur la croisade, l'autre sur l'union, qu'il rejette. Il y fait valoir que les deux ordres ont des missions différentes, l'hospitalité et les armes, et qu'ils sont plus utiles séparés ; que leur émulation a toujours servi la Terre sainte ; qu'on ne peut obliger un frère à entrer dans un ordre qu'il n'a pas choisi ; qu'une fusion ferait naître des querelles entre des hommes de coutumes diverses et détournerait les donateurs attachés à l'un ou à l'autre. Il concède quelques avantages, une économie de moyens, une force plus grande. Le débat est emporté par l'[[arrestation-du-13-octobre-1307|arrestation des Templiers]], quelques mois plus tard. Au [[concile-de-vienne|concile de Vienne]], plutôt que de créer l'ordre nouveau que certains envisageaient, Clément V remet en 1312 les biens du Temple aux [[hospitaliers|Hospitaliers]] (voir [[devolution-des-biens|dévolution des biens]]) : une union de fait, au profit de l'ordre qui n'avait pas été accusé.
+repere: 1274 — Le deuxième concile de Lyon évoque l'union des ordres militaires.
+repere: 1291 — Après la chute d'Acre, Nicolas IV consulte les conciles provinciaux sur l'union.
+repere: 1305 — Raymond Lulle propose dans le *Liber de fine* un ordre unique sous un *rex bellator*.
+repere: 6 juin 1306 — Clément V convoque à Poitiers les maîtres du Temple et de l'Hôpital.
+repere: 1306 — Jacques de Molay rédige son mémoire contre l'union.
+repere: printemps 1307 — Molay rencontre le pape à Poitiers.
+repere: 2 mai 1312 — La bulle *Ad providam* donne les biens du Temple à l'Hôpital.
+attention: On présente parfois le refus de Molay comme la cause de la perte du Temple : c'est une lecture rétrospective. Un mémoire ne pouvait suffire à condamner l'ordre ; seule une accusation d'hérésie permettait au roi d'agir, et ses légistes la préparaient de leur côté.
+lien: wp Rex Bellator
+lien: en Jacques de Molay
+sources: Wikipédia (fr : Rex Bellator, Jacques de Molay ; en : Jacques de Molay)
+voir: jacques-de-molay, templiers-et-hospitaliers, hospitaliers, clement-v, philippe-le-bel, devolution-des-biens, concile-de-vienne, chute-d-acre
+
+@ arrestation-du-13-octobre-1307
+cat: histoire
+nom: L'arrestation du 13 octobre 1307
+alias: vendredi 13 octobre 1307, arrestation des Templiers, ordre du 14 septembre 1307, Maubuisson, une chose amère, coup de filet de Philippe le Bel
+dates: 14 septembre – 13 octobre 1307
+an: 1307
+def: Le vendredi 13 octobre 1307, à l'aube, sur un ordre secret daté du 14 septembre, les baillis et sénéchaux de Philippe le Bel arrêtent les Templiers du royaume et saisissent leurs biens ; les interrogatoires, souvent sous la torture, commencent à Paris le 19 octobre.
+texte: Les rumeurs courent depuis 1305. Un homme de Béziers, [[esquieu-de-floyran|Esquieu de Floyran]], qui avait en vain proposé ses révélations au roi d'Aragon, les porte au roi de France : les Templiers renieraient le Christ lors de leur réception. Le maître, [[jacques-de-molay|Jacques de Molay]], arrivé en France pour discuter avec le pape de la croisade et de l'union des ordres, voit le roi à Paris le 24 juin 1307 et, inquiet, demande lui-même une enquête : [[clement-v|Clément V]] l'accorde le 24 août. Le roi et ses légistes décident de prendre les devants. Le 14 septembre 1307, jour de l'Exaltation de la sainte Croix, depuis l'abbaye de Maubuisson, près de Pontoise, [[philippe-le-bel|Philippe le Bel]] fait expédier à ses baillis et sénéchaux des lettres closes, à n'ouvrir qu'au jour dit. Le préambule commence par ces mots : « Une chose amère, une chose déplorable ». Le 22 septembre, [[guillaume-de-nogaret|Guillaume de Nogaret]] reçoit la garde du sceau royal.
+texte: Les instructions sont précises : arrêter tous les frères le même jour, saisir les biens, en dresser l'inventaire devant des témoins, garder les maisons, puis interroger les prisonniers avec les commissaires de l'inquisiteur, en recourant à la torture s'il le faut, et faire écrire les aveux. La veille, Molay tient encore un cordon du poêle aux funérailles de Catherine de Courtenay, belle-sœur du roi. Le vendredi 13 octobre à l'aube, Nogaret entre dans l'[[enclos-du-temple|enclos du Temple]] de Paris ; Molay et cent trente-huit frères y sont pris sans résistance. Dans tout le royaume, l'opération réussit : seule une poignée de frères échappe à la rafle. Les prisonniers sont enfermés à Paris, à Caen, à Rouen, à [[gisors|Gisors]] et dans les châteaux royaux. Le coffre du visiteur [[hugues-de-pairaud|Hugues de Pairaud]] est saisi. Les inventaires dressés alors, dont certains sont conservés, décrivent des fermes, du bétail, du grain, des outils et des ornements liturgiques, plus que des trésors.
+texte: Le roi s'emploie aussitôt à convaincre. Nogaret expose les accusations dès le 14 octobre aux maîtres de l'Université et au clergé de Paris. Le 19 octobre, dans les salles du Temple, l'inquisiteur de France, [[guillaume-de-paris|Guillaume de Paris]], confesseur du roi, commence les interrogatoires : jusqu'au 24 novembre, cent trente-huit frères sont entendus, et quatre seulement n'avouent rien. [[geoffroy-de-charnay|Geoffroy de Charnay]] avoue le 21 octobre, Molay le 24 ; le 25, il répète ses aveux devant les maîtres de l'Université. Un frère dira plus tard que trente-six de ses compagnons étaient morts des tortures à Paris. Le 27 octobre, le pape, mis devant le fait accompli, écrit au roi pour protester ; il reprend la main un mois plus tard, avec la bulle qui ouvre le [[proces-des-templiers|procès]] dans toute la chrétienté.
+repere: 1305 — Esquieu de Floyran porte ses accusations au roi de France.
+repere: 24 juin 1307 — Jacques de Molay rencontre Philippe le Bel à Paris.
+repere: 24 août 1307 — Clément V accorde l'enquête demandée par le maître.
+repere: 14 septembre 1307 — Le roi signe à Maubuisson l'ordre d'arrestation.
+repere: 22 septembre 1307 — Guillaume de Nogaret reçoit la garde du sceau.
+repere: 13 octobre 1307 — Arrestation des Templiers du royaume.
+repere: 19 octobre 1307 — Début des interrogatoires de Paris.
+repere: 24 octobre 1307 — Aveux de Jacques de Molay.
+attention: La superstition du [[vendredi-13|vendredi 13]] ne vient pas de cette arrestation : elle n'est pas attestée avant le XIXe siècle. Et la [[flotte-de-la-rochelle|flotte templière]] qui aurait quitté La Rochelle la veille, chargée du trésor, est une légende du XXe siècle : l'opération fut l'un des secrets les mieux gardés du règne, et presque tous les frères furent pris.
+lien: wp Procès de l'ordre du Temple
+lien: en Trials of the Knights Templar
+sources: Wikipédia (fr : Procès de l'ordre du Temple, Ordre du Temple) ; condensés de l'atelier 02 et 04
+voir: philippe-le-bel, guillaume-de-nogaret, guillaume-de-paris, esquieu-de-floyran, enclos-du-temple, proces-des-templiers, vendredi-13, flotte-de-la-rochelle
+
+@ proces-des-templiers
+cat: histoire
+nom: Procès des Templiers
+alias: procès de l'ordre du Temple, affaire des Templiers, Pastoralis praeeminentiae, Faciens misericordiam, commission pontificale, cent vingt-sept articles, relaps, cinquante-quatre Templiers brûlés, 12 mai 1310
+dates: 1307 – 1314
+an: 1307
+fin: 1314
+def: Procédure ouverte par Philippe le Bel en 1307 contre l'ordre du Temple, accusé d'hérésie, puis menée par l'Église jusqu'à la suppression de l'ordre par Clément V en 1312 ; les aveux, arrachés en France par la torture et souvent rétractés, manquent presque partout ailleurs.
+texte: Les accusations portées au moment de l'[[arrestation-du-13-octobre-1307|arrestation]] sont celles des grands procès d'hérésie du temps : lors de leur [[reception-dans-l-ordre|réception]], les frères auraient renié le Christ et craché sur la croix, échangé des baisers obscènes, reçu permission de la sodomie ; ils adoreraient une idole, une tête que la légende appellera [[baphomet|Baphomet]] ; leurs prêtres omettraient les paroles de la consécration, et le maître absoudrait les péchés, lui qui n'est pas prêtre. Dressée en 1308, la liste officielle comptera cent vingt-sept articles. À Paris, les interrogatoires d'octobre et de novembre 1307 obtiennent des aveux de presque tous, par la torture, la menace et la faim. Le pape [[clement-v|Clément V]] proteste, puis tente de reprendre l'affaire : le 22 novembre 1307, la bulle *Pastoralis praeeminentiae* ordonne aux princes chrétiens d'arrêter les Templiers au nom de l'Église. Le 24 décembre, devant deux cardinaux, [[jacques-de-molay|Jacques de Molay]] rétracte ses aveux, et en février 1308 le pape suspend les inquisiteurs.
+texte: L'année 1308 est celle du bras de fer. Le roi fait consulter les maîtres en théologie de Paris, qui lui répondent, le 25 mars, qu'il ne peut juger seul ; il réunit en mai les états du royaume à Tours, puis vient à Poitiers, où son légiste [[guillaume-de-plaisians|Guillaume de Plaisians]] somme le pape d'agir, le 29 mai et le 14 juin. Fin juin, soixante-douze Templiers choisis par les gens du roi répètent leurs aveux devant Clément V. Le 12 août, la bulle *Faciens misericordiam* organise deux procédures : les personnes seront jugées par les évêques réunis en conciles provinciaux, l'ordre lui-même par une commission pontificale, et un concile général tranchera ; la bulle *Regnans in coelis* le convoque à Vienne. Du 17 au 20 août, à Chinon, trois cardinaux entendent et absolvent Molay et quatre dignitaires (voir [[parchemin-de-chinon|parchemin de Chinon]]).
+texte: La commission pontificale, présidée par l'archevêque de Narbonne, Gilles Aycelin, siège à Paris à partir de novembre 1309. Molay, entendu les 26 et 28 novembre, se dit incapable de défendre l'ordre et ne veut parler qu'au pape. Les frères, eux, se ressaisissent : en février et en mars 1310, cinq cent quatre-vingt-dix-sept d'entre eux se déclarent prêts à défendre le Temple ; le 28 mars, cinq cent quarante-six sont rassemblés dans le jardin de l'évêché, et quatre procureurs sont désignés, dont les prêtres [[pierre-de-bologne|Pierre de Bologne]] et Renaud de Provins, qui dénoncent la torture et le mensonge des aveux. Le roi frappe alors par l'autre procédure. Le concile de la province de Sens, dont dépend Paris, réuni par l'archevêque [[philippe-de-marigny|Philippe de Marigny]], frère d'un ministre du roi, juge les frères qui ont rétracté leurs aveux : ce sont des relaps. Le 12 mai 1310, cinquante-quatre d'entre eux sont brûlés vifs dans un champ près de la porte Saint-Antoine ; d'autres le seront à Senlis et ailleurs. La défense s'effondre, Pierre de Bologne disparaît, et la commission, qui a entendu deux cent trente et un témoins, clôt ses travaux le 5 juin 1311.
+texte: Hors de France, le procès prend un autre visage. Là où la torture n'est pas employée, ou l'est tard et peu, les aveux manquent : en Angleterre (voir [[templiers-en-angleterre|Templiers en Angleterre]]), à Chypre, où les soixante-seize frères entendus en mai 1310 nient tout, dans l'Empire, où les conciles de Mayence et de Trèves les déclarent innocents (voir [[templiers-et-saint-empire|Templiers dans l'Empire]]), en Aragon, où les frères soutiennent des sièges avant d'être reconnus innocents par le concile de Tarragone le 4 novembre 1312 (voir [[templiers-et-reconquista|Templiers et Reconquista]]). Le concile de Ravenne refuse la torture le 18 juin 1311. Au [[concile-de-vienne|concile de Vienne]], ouvert le 16 octobre 1311, la plupart des prélats veulent entendre la défense ; Philippe le Bel arrive avec une armée le 20 mars 1312, et deux jours plus tard la bulle *Vox in excelso* supprime l'ordre par « provision apostolique », sans condamnation. Les biens vont aux Hospitaliers (voir [[devolution-des-biens|dévolution des biens]]) ; le sort des frères est réglé le 6 mai. Les dignitaires, réservés au pape, sont condamnés en mars 1314 à la prison perpétuelle ; Molay et Geoffroy de Charnay, qui protestent de l'innocence de l'ordre, finissent sur le [[bucher-de-jacques-de-molay|bûcher]].
+texte: Les historiens ont longtemps discuté de la culpabilité de l'ordre. Raynouard le défendait dès 1813 ; Michelet, qui publia les procès-verbaux de la commission pontificale (1841-1851), hésitait (voir [[actes-du-proces|actes du procès]]). Le consensus actuel, celui de Malcolm Barber et d'Alain Demurger, est net : l'hérésie n'est pas établie, et les aveux s'expliquent par la torture, la menace et des mois de détention ; les seuls points qui reviennent avec insistance, le reniement et le crachat sur la croix demandés au nouveau frère, pourraient relever d'une épreuve d'obéissance ou d'une brimade, dont on ignore l'origine (voir [[geoffroy-de-gonneville|Geoffroy de Gonneville]]). Sur les mobiles du roi, les avis divergent : ses besoins d'argent comptent, mais Julien Théry y voit d'abord une « hérésie d'État », où la monarchie se pose en gardienne de la foi à la place du pape, et Demurger juge que le sort du Temple a été réglé par la logique de la monarchie française, non par la sienne propre (voir [[historiographie-des-templiers|historiographie]]).
+repere: 13 octobre 1307 — Arrestation des Templiers de France.
+repere: 22 novembre 1307 — La bulle *Pastoralis praeeminentiae* étend les arrestations à la chrétienté.
+repere: 24 décembre 1307 — Jacques de Molay rétracte ses aveux devant deux cardinaux.
+repere: mai 1308 — États du royaume à Tours ; entrevue de Poitiers.
+repere: 12 août 1308 — La bulle *Faciens misericordiam* organise la double procédure.
+repere: novembre 1309 — La commission pontificale commence ses auditions à Paris.
+repere: 28 mars 1310 — Cinq cent quarante-six frères réunis pour défendre l'ordre.
+repere: 12 mai 1310 — Cinquante-quatre Templiers brûlés comme relaps près de la porte Saint-Antoine.
+repere: 22 mars 1312 — La bulle *Vox in excelso* supprime l'ordre.
+repere: 11 ou 18 mars 1314 — Molay et Charnay sont brûlés à Paris.
+attention: Le procès ne s'est pas conclu par une condamnation de l'ordre : faute de preuves recevables, Clément V l'a supprimé par une mesure d'autorité. Et il n'y eut pas « des milliers » de Templiers brûlés : les exécutions certaines se comptent par dizaines, en France seulement.
+lien: wp Procès de l'ordre du Temple
+lien: en Trials of the Knights Templar
+sources: Wikipédia (fr : Procès de l'ordre du Temple, Ordre du Temple ; en : Trials of the Knights Templar) ; condensés de l'atelier 02 et 04
+voir: arrestation-du-13-octobre-1307, parchemin-de-chinon, concile-de-vienne, bucher-de-jacques-de-molay, actes-du-proces, philippe-le-bel, clement-v, jacques-de-molay
+
+@ parchemin-de-chinon
+cat: histoire
+nom: Parchemin de Chinon
+alias: charte de Chinon, Chinon parchment, absolution de Chinon, Barbara Frale, Processus contra Templarios, Archives vaticanes
+dates: 17 – 20 août 1308
+an: 1308
+def: Procès-verbal des interrogatoires de Jacques de Molay et de quatre dignitaires du Temple par trois cardinaux, au château de Chinon, du 17 au 20 août 1308, conclu par leur absolution ; Barbara Frale en a retrouvé l'original aux Archives vaticanes en 2001, publié en fac-similé en 2007.
+texte: À l'été 1308, Clément V veut entendre lui-même les chefs de l'ordre. Les gens du roi conduisent les dignitaires de Paris vers Poitiers, mais les arrêtent à [[chinon|Chinon]], en disant que certains sont trop malades pour chevaucher. Le pape envoie donc au château trois cardinaux : Bérenger Frédol, Étienne de Suisy et Landolfo Brancaccio. Le 17 août, ils entendent [[raimbaud-de-caron|Raimbaud de Caron]], précepteur d'Outremer, [[geoffroy-de-charnay|Geoffroy de Charnay]], précepteur de Normandie, et [[geoffroy-de-gonneville|Geoffroy de Gonneville]], précepteur d'Aquitaine et de Poitou ; le 19, [[hugues-de-pairaud|Hugues de Pairaud]], visiteur de France ; le 20, [[jacques-de-molay|Jacques de Molay]]. Des notaires en dressent un acte authentique.
+texte: Les dignitaires renouvellent une partie de leurs aveux. Ils reconnaissent avoir renié le Christ lors de leur réception et, pour la plupart, avoir craché sur la croix ; Gonneville seul dit n'avoir fait ni l'un ni l'autre. Ils nient la sodomie et présentent les baisers rituels comme des marques de respect ; Pairaud admet avoir vu à Montpellier une tête qu'on lui désignait comme une idole. Tous demandent pardon, abjurent toute hérésie, et les cardinaux, au nom du pape, leur donnent l'absolution et les réintègrent dans la communion de l'Église et l'usage des sacrements. Les cardinaux en informent le roi.
+texte: Le texte était connu par une copie : l'érudit Étienne Baluze l'avait publié au XVIIe siècle, dans ses *Vitae paparum Avenionensium*. L'original, mal classé aux Archives secrètes du Vatican, a été identifié en 2001 par l'historienne italienne Barbara Frale, qui l'a présenté dans le *Journal of Medieval History* en 2004 ; le Vatican l'a reproduit en fac-similé en 2007 dans une édition de luxe des pièces du procès, *Processus contra Templarios*. La presse y a vu une « réhabilitation » des Templiers par l'Église.
+texte: Le document dit moins que cela, et pourtant beaucoup. Il prouve que le pape, en 1308, traitait les dignitaires comme des pénitents réconciliés, non comme des hérétiques à livrer au bras séculier, et qu'il entendait garder la main sur l'affaire face au roi. Barbara Frale en conclut que Clément V voulait sauver l'ordre en le réformant. Il ne prouve pas l'innocence du Temple : les cinq hommes y confirment le reniement, et l'absolution est l'issue ordinaire d'une procédure contre des suspects qui avouent et abjurent. Il n'annule pas non plus la suite : la commission pontificale, le [[concile-de-vienne|concile de Vienne]] et la suppression de l'ordre en 1312. Il éclaire enfin le [[bucher-de-jacques-de-molay|bûcher de 1314]] : absous en 1308, Molay et Charnay ne furent déclarés relaps que pour être revenus sur leurs aveux.
+repere: fin juin 1308 — Soixante-douze Templiers répètent leurs aveux devant le pape à Poitiers.
+repere: 17 août 1308 — Les cardinaux entendent Caron, Charnay et Gonneville au château de Chinon.
+repere: 19 août 1308 — Audition d'Hugues de Pairaud.
+repere: 20 août 1308 — Audition et absolution de Jacques de Molay.
+repere: XVIIe siècle — Étienne Baluze publie le texte d'après une copie.
+repere: 2001 — Barbara Frale retrouve l'original aux Archives vaticanes.
+repere: 2007 — Fac-similé dans *Processus contra Templarios*.
+attention: Le parchemin de Chinon ne « réhabilite » pas les Templiers : il absout des hommes qui ont avoué et abjuré, il ne déclare pas l'ordre innocent. Et il n'a pas été « découvert » en 2001 : on connaissait le texte depuis le XVIIe siècle ; Barbara Frale en a retrouvé l'original.
+lien: wp Parchemin de Chinon
+lien: en Chinon Parchment
+sources: Wikipédia (fr : Parchemin de Chinon ; Procès de l'ordre du Temple) ; condensé de l'atelier 02
+voir: chinon, clement-v, jacques-de-molay, hugues-de-pairaud, geoffroy-de-gonneville, raimbaud-de-caron, actes-du-proces, proces-des-templiers
+
+@ concile-de-vienne
+cat: histoire
+nom: Concile de Vienne
+alias: quinzième concile œcuménique, concile de 1311-1312, Vox in excelso, Ad providam, Considerantes dudum, Regnans in coelis, Alma mater, suppression de l'ordre du Temple
+dates: 16 octobre 1311 – 6 mai 1312
+an: 1311
+fin: 1312
+def: Concile œcuménique réuni par Clément V à Vienne, en Dauphiné, d'octobre 1311 à mai 1312 ; sous la pression de Philippe le Bel, le pape y supprime l'ordre du Temple sans le condamner (*Vox in excelso*, 22 mars 1312) et attribue ses biens aux Hospitaliers (*Ad providam*, 2 mai).
+texte: La bulle *Regnans in coelis*, du 12 août 1308, convoque un concile général pour le 1er octobre 1310 ; la bulle *Alma mater*, du 4 avril 1310, le reporte d'un an, parce que les enquêtes sur les Templiers ne sont pas achevées. Le lieu, Vienne, sur le Rhône, est une cité d'Empire, aux portes du royaume de France. L'ordre du jour tient en trois points : l'affaire du Temple, la croisade, la réforme de l'Église. Le concile s'ouvre le 16 octobre 1311 dans la cathédrale Saint-Maurice ; un peu plus d'une centaine d'évêques y siègent, avec des abbés et des procureurs, la plupart français et italiens.
+texte: Une commission de prélats étudie les résumés des enquêtes, qui, selon Malcolm Barber, laissent de côté la plupart des protestations d'innocence. À la fin d'octobre 1311, sept Templiers, bientôt neuf, se présentent pour défendre l'ordre, assurant que mille cinq cents à deux mille frères errent dans la région de Lyon ; le pape les fait arrêter. En décembre, la plupart des Pères demandent qu'on entende la défense ; seuls les prélats français s'y opposent. [[philippe-le-bel|Philippe le Bel]], qui attendait à Lyon avec une armée, arrive à Vienne le 20 mars 1312 avec une forte escorte. Le 22, en consistoire secret, une large majorité de la commission se résigne à la suppression, et [[clement-v|Clément V]] signe la bulle *Vox in excelso*. Elle est lue devant le concile, en présence du roi, lors de la deuxième session, le 3 avril.
+texte: La bulle supprime l'ordre « non par sentence définitive », que les preuves ne permettent pas, mais par provision ou ordonnance apostolique : le Temple est aboli parce que le scandale l'a rendu inutile, et nul ne pourra plus y entrer ni en porter l'habit, sous peine d'excommunication. La bulle *Ad providam*, le 2 mai, donne ses biens aux [[hospitaliers|Hospitaliers]], sauf en Castille, en Aragon, au Portugal et à Majorque (voir [[devolution-des-biens|dévolution des biens]]). La bulle *Considerantes dudum*, le 6 mai, règle le sort des frères : ceux qui ont avoué ou ont été reconnus innocents recevront une pension et vivront dans des maisons religieuses, les impénitents et les relaps seront jugés selon le droit, les fugitifs ont un an pour se présenter, et le sort des dignitaires est réservé au pape. La troisième session, le 6 mai 1312, clôt le concile.
+texte: Le concile a fait d'autres travaux. Le décret *Ad nostrum* condamne les béguines et les bégards ; la constitution *Exivi de paradiso* tente d'apaiser la querelle franciscaine de la pauvreté ; le concile ordonne d'enseigner le grec, l'hébreu, l'araméen et l'arabe dans quelques universités, vœu cher à Raymond Lulle. Philippe le Bel y fait vœu, le 3 avril, de prendre la croix dans les six ans ; la croisade ne partira jamais. Pour les Templiers, Vienne marque la fin juridique de l'ordre ; il restait à régler le cas des dignitaires, qui conduisit au [[bucher-de-jacques-de-molay|bûcher de 1314]].
+repere: 12 août 1308 — La bulle *Regnans in coelis* convoque le concile.
+repere: 4 avril 1310 — La bulle *Alma mater* le reporte à octobre 1311.
+repere: 16 octobre 1311 — Ouverture du concile à la cathédrale Saint-Maurice.
+repere: décembre 1311 — La majorité des prélats demande que l'ordre puisse se défendre.
+repere: 20 mars 1312 — Philippe le Bel arrive à Vienne.
+repere: 22 mars 1312 — Bulle *Vox in excelso*, signée en consistoire secret.
+repere: 3 avril 1312 — Lecture de la bulle en séance solennelle.
+repere: 2 mai 1312 — Bulle *Ad providam*.
+repere: 6 mai 1312 — Bulle *Considerantes dudum* ; clôture du concile.
+attention: Le concile n'a pas voté la suppression du Temple : c'est une décision du pape, prise en consistoire secret, que les Pères ont entendue lire sans en débattre. Certaines sources placent la lecture publique le 4 avril plutôt que le 3.
+lien: wp Concile de Vienne
+lien: en Council of Vienne
+sources: Wikipédia (fr : Concile de Vienne, Procès de l'ordre du Temple ; en : Council of Vienne) ; condensé de l'atelier 02
+voir: clement-v, philippe-le-bel, proces-des-templiers, devolution-des-biens, hospitaliers, bucher-de-jacques-de-molay, parchemin-de-chinon, projets-de-fusion-des-ordres
+
+@ bucher-de-jacques-de-molay
+cat: histoire
+nom: Le bûcher de 1314
+alias: mort de Jacques de Molay, exécution de Jacques de Molay, supplice de Jacques de Molay, île aux Juifs, Geoffroy de Charnay, 11 mars 1314, 18 mars 1314
+dates: 11 ou 18 mars 1314
+an: 1314
+def: Le jour où trois cardinaux les condamnent à la prison perpétuelle, Jacques de Molay et Geoffroy de Charnay proclament l'innocence de l'ordre et sont brûlés comme relaps sur l'île aux Juifs, à Paris : le 18 mars 1314 selon la date traditionnelle, le 11 mars selon des travaux récents.
+texte: La bulle *Considerantes dudum* (1312) avait réservé au pape le sort des dignitaires. Le 22 décembre 1313, Clément V nomme une commission de trois cardinaux pour en finir. En mars 1314, à Paris, sur un échafaud dressé devant Notre-Dame, on lit les aveux des quatre hommes, [[jacques-de-molay|Jacques de Molay]], le visiteur de France [[hugues-de-pairaud|Hugues de Pairaud]], [[geoffroy-de-gonneville|Geoffroy de Gonneville]], précepteur d'Aquitaine et de Poitou, et [[geoffroy-de-charnay|Geoffroy de Charnay]], précepteur de Normandie, puis la sentence : la prison perpétuelle. Pairaud et Gonneville se taisent. Molay et Charnay protestent : l'ordre est saint, disent-ils, et leurs aveux étaient faux. Les cardinaux les remettent au prévôt de Paris en attendant d'en délibérer. Mais [[philippe-le-bel|Philippe le Bel]], averti, réunit son conseil sans les clercs et les fait brûler le soir même, comme relaps, sur une petite île de la Seine, entre le jardin du palais et le couvent des Augustins : l'[[ile-aux-juifs|île aux Juifs]], aujourd'hui rattachée à la pointe de l'île de la Cité, au square du Vert-Galant.
+texte: Deux chroniqueurs racontent la scène. Le continuateur de la chronique de Guillaume de Nangis, moine de Saint-Denis, admire la fermeté des deux hommes, qui frappa la foule. Geoffroi de Paris, clerc de la chancellerie royale, était présent ; dans sa chronique rimée, Molay demande qu'on lui délie les mains pour prier, tourné vers Notre-Dame, et dit que Dieu sait qui a tort, et que le malheur viendra bientôt sur ceux qui les condamnent à tort. Le chroniqueur florentin Giovanni Villani ajoute que, dans la nuit, des religieux recueillirent les cendres et les os comme des reliques. Les moines de Saint-Germain-des-Prés, qui revendiquaient la justice du lieu, obtinrent du roi une lettre reconnaissant que l'exécution ne portait pas atteinte à leurs droits.
+texte: La date est discutée. La continuation de Nangis, qui a longtemps fait autorité, conduit au lundi 18 mars 1314, et c'est la date qu'on lit dans la plupart des ouvrages anciens et dans beaucoup d'encyclopédies. Alain Demurger, dans la postface de la réédition de son *Jacques de Molay* (2014), et l'historienne américaine Elizabeth A. R. Brown ont plaidé, en relisant les sources, pour le lundi précédent, 11 mars 1314, que retiennent aujourd'hui la plupart des historiens. Les deux dates tombent un lundi.
+texte: La phrase de Geoffroi de Paris est le germe d'une légende. Clément V meurt le 20 avril 1314, Philippe le Bel le 29 novembre ; vers 1330, un chroniqueur italien fait citer le pape et le roi devant Dieu par un Templier anonyme, et en 1548 l'humaniste Paul Émile met l'assignation dans la bouche du grand maître : c'est la [[malediction-de-jacques-de-molay|malédiction de Jacques de Molay]], que Maurice Druon rendra populaire. La mort de Molay, homme qui avait avoué puis s'était rétracté, est ainsi devenue celle d'un martyr ; pour les historiens, elle est d'abord le dernier acte d'une procédure où le roi, une fois encore, a pris de vitesse le pape.
+repere: 6 mai 1312 — La bulle *Considerantes dudum* réserve au pape le sort des dignitaires.
+repere: 22 décembre 1313 — Clément V nomme trois cardinaux pour les juger.
+repere: 11 mars 1314 — Sentence et bûcher, selon Alain Demurger et Elizabeth Brown.
+repere: 18 mars 1314 — Date tirée de la continuation de Guillaume de Nangis.
+repere: 20 avril 1314 — Mort de Clément V.
+repere: 29 novembre 1314 — Mort de Philippe le Bel.
+attention: Molay n'a pas maudit nommément le pape, le roi et Nogaret « dans l'an et le jour » : Geoffroi de Paris, seul témoin, lui fait annoncer un châtiment divin ; l'assignation nominale est postérieure, et Nogaret était mort dès 1313. Et le bûcher ne fut pas dressé au Temple, mais sur une île de la Seine, près du palais.
+lien: wp Jacques de Molay
+lien: en Jacques de Molay
+sources: Wikipédia (fr : Jacques de Molay, Procès de l'ordre du Temple ; en : Jacques de Molay) ; condensés de l'atelier 02 et 04
+voir: jacques-de-molay, geoffroy-de-charnay, ile-aux-juifs, malediction-de-jacques-de-molay, hugues-de-pairaud, geoffroy-de-gonneville, philippe-le-bel, clement-v
+
+@ devolution-des-biens
+cat: histoire
+nom: La dévolution des biens
+alias: dévolution des biens du Temple, biens des Templiers, Ad providam, 200 000 livres, ordre de Montesa, ordre du Christ, pensions des Templiers
+dates: 1312 – 1324
+an: 1312
+fin: 1324
+def: Le transfert des biens du Temple après sa suppression : la bulle *Ad providam* (2 mai 1312) les donne aux Hospitaliers, qui doivent racheter la part française au roi et attendre 1324 en Angleterre, tandis que la péninsule Ibérique les réserve à des ordres nouveaux, Montesa et l'ordre du Christ.
+texte: Le pape aurait pu créer un ordre nouveau ; il choisit de donner l'héritage à un ordre existant, voué lui aussi à la Terre sainte. La bulle *Ad providam*, publiée au [[concile-de-vienne|concile de Vienne]] le 2 mai 1312, attribue aux [[hospitaliers|Hospitaliers]] tous les biens du Temple, sauf ceux des royaumes de Castille, d'Aragon, de Portugal et de Majorque, réservés en attendant un accord avec leurs rois. La bulle *Considerantes dudum*, le 6 mai, règle le sort des personnes : les frères réconciliés recevront une pension, prise sur les anciens biens de l'ordre, et vivront dans leurs anciennes maisons ou dans des monastères. Beaucoup vécurent ainsi des années, pensionnés par l'Hôpital ; d'autres entrèrent dans un autre ordre.
+texte: En France, les biens sont sous la main du roi depuis 1307. Le 28 mars 1313, [[philippe-le-bel|Philippe le Bel]] ordonne de les remettre à l'Hôpital, contre 200 000 livres tournois et le droit d'amortissement. Il meurt en novembre 1314 ; Louis X réclame davantage en 1316, et Philippe V fait saisir de nouveau les biens avant de les rendre par lettres du 5 mai 1317. Il faut ensuite reprendre une à une les terres que des seigneurs voisins se sont appropriées. L'Hôpital, déjà endetté par la conquête de Rhodes, entre ainsi en possession des [[commanderie|commanderies]] templières, dont l'[[enclos-du-temple|enclos du Temple]] de Paris, et les garde jusqu'à la Révolution.
+texte: Dans la péninsule Ibérique, les rois obtiennent ce qu'ils voulaient. En Aragon, [[jacques-ii-d-aragon|Jacques II]] obtient du pape Jean XXII la bulle *Ad fructus uberes* (10 juin 1317), qui crée l'[[ordre-de-montesa|ordre de Montesa]] dans le royaume de Valence avec les biens du Temple et de l'Hôpital situés dans ce royaume ; ailleurs, en Aragon et en Catalogne, les biens templiers vont à l'Hôpital. Au Portugal, [[denis-ier-de-portugal|Denis Ier]] obtient la bulle *Ad ea ex quibus* (14 mars 1319), qui fonde l'[[ordre-du-christ|ordre du Christ]] ; les biens lui sont remis en 1320, et de nombreux Templiers y entrent. En Castille, aucun des châteaux et des commanderies de l'ordre ne revient à l'Hôpital : la couronne, la noblesse et les ordres castillans se les partagent, et le pape Urbain V s'en plaint encore en 1366.
+texte: Ailleurs, la dévolution est lente et partielle. En Angleterre, la couronne et les barons retiennent les terres, et l'Hôpital ne reçoit l'église du Temple de Londres et une grande part des biens qu'en 1324 (voir [[templiers-en-angleterre|Templiers en Angleterre]]). Dans l'Empire, les biens vont aux Hospitaliers ou aux [[teutoniques|Teutoniques]], et des princes en gardent une part. Au total, l'essentiel du patrimoine templier passe à d'autres ordres religieux ; le roi de France en a tiré de l'argent, non des terres.
+repere: 2 mai 1312 — La bulle *Ad providam* attribue les biens du Temple aux Hospitaliers.
+repere: 6 mai 1312 — La bulle *Considerantes dudum* règle le sort des frères.
+repere: 28 mars 1313 — Philippe le Bel ordonne la remise des biens contre 200 000 livres tournois.
+repere: 5 mai 1317 — Lettres de Philippe V levant la nouvelle saisie.
+repere: 10 juin 1317 — Création de l'ordre de Montesa.
+repere: 14 mars 1319 — Création de l'ordre du Christ au Portugal.
+repere: 1324 — L'Hôpital entre en possession des biens anglais.
+repere: 1366 — Urbain V se plaint que l'Hôpital n'ait rien reçu en Castille.
+attention: Le « trésor des Templiers » n'apparaît dans aucun compte de la dévolution : ce qui changea de mains, ce furent des terres, des maisons, des moulins et des troupeaux. Le montant des sommes réclamées au-delà des 200 000 livres varie selon les auteurs, et rien ne prouve qu'elles aient été versées.
+lien: wp Dévolution des biens de l'ordre du Temple
+sources: Wikipédia (fr : Dévolution des biens de l'ordre du Temple ; en : Trials of the Knights Templar) ; condensé de l'atelier 02
+voir: hospitaliers, ordre-de-montesa, ordre-du-christ, concile-de-vienne, jacques-ii-d-aragon, denis-ier-de-portugal, enclos-du-temple, tresor-des-templiers
+
+@ templiers-et-reconquista
+cat: histoire
+nom: Les Templiers et la Reconquista
+alias: Templiers en Espagne, Templiers en Aragon, Temple en Catalogne, Templiers en Castille, testament d'Alphonse le Batailleur, accord de 1143, Miravet, Monzón, Soure, Calatrava
+dates: 1128 – 1312
+an: 1128
+fin: 1312
+def: L'autre guerre sainte du Temple : dans la péninsule Ibérique, l'ordre reçoit dès 1128 des châteaux de frontière, hérite en partie du royaume d'Aragon en 1131, combat les Almoravides et les Almohades aux côtés des rois d'Aragon, de Portugal et de Castille, et y survit après 1312 sous d'autres noms.
+texte: Les premiers dons viennent de la frontière. Le 19 mars 1128, avant même le concile de Troyes, la comtesse Thérèse de Portugal donne à l'ordre le château de Soure, sur le Mondego, face aux Almoravides ; les frères ne s'y installent vraiment qu'une dizaine d'années plus tard (voir [[templiers-au-portugal|Templiers au Portugal]]). En 1131, le comte de Barcelone Raimond-Bérenger III se fait recevoir dans l'ordre. La même année, au siège de Bayonne, en octobre, le roi d'Aragon et de Navarre Alphonse Ier le Batailleur, sans enfant, lègue ses royaumes à trois ordres de Jérusalem, le Temple, l'Hôpital et le Saint-Sépulcre ; il confirme son testament en 1134, peu avant de mourir. Les nobles d'Aragon et de Navarre refusent de l'appliquer. Le comte de Barcelone Raimond-Bérenger IV, devenu prince d'Aragon, négocie avec les ordres : par l'accord de 1143, le Temple renonce à sa part contre des châteaux, dont [[monzon|Monzón]], le dixième des revenus du comte et le cinquième des terres à conquérir.
+texte: Le Temple devient alors une puissance de la Couronne d'Aragon. Il participe aux conquêtes de Tortosa et de Lérida (1148-1149), puis tient la basse vallée de l'Èbre depuis le château de [[miravet|Miravet]]. Le jeune roi Jacques Ier est élevé dans le château de Monzón, sous la protection des Templiers ; devenu le Conquérant, il les emmène à Majorque (1229) et à Valence (1238), où l'ordre organise de nouvelles commanderies. À la fin du siècle, il bâtit sur la côte valencienne le château de [[peniscola|Peñíscola]]. Au Portugal, le maître Gualdim Pais fonde le château de [[tomar|Tomar]] le 1er mars 1160 et relève [[almourol|Almourol]] en 1171 ; Tomar résiste en 1190 au calife almohade venu en personne. En Castille, Alphonse VII confie aux Templiers la forteresse de Calatrava, qu'ils rendent au roi en 1157, faute de pouvoir la tenir : des moines cisterciens la reprennent, et de là naît l'[[ordre-de-calatrava|ordre de Calatrava]]. Le Temple tient aussi [[ponferrada|Ponferrada]], sur le chemin de Compostelle.
+texte: Cette guerre n'est pas celle de l'Orient. Les ordres y servent des rois qui les contrôlent étroitement ; ils fournissent des garnisons et des contingents plus qu'une armée, et doivent compter avec les ordres nés sur place, Calatrava, Santiago, Avis. Les Templiers ibériques envoient pourtant en Terre sainte une part de leurs revenus et des frères. Cet enracinement explique leur sort en 1307. Jacques II d'Aragon défend d'abord l'ordre, puis ordonne l'arrestation des frères le 1er décembre 1307 ; ceux-ci s'enferment dans leurs châteaux : Miravet capitule en décembre 1308, Monzón en mai 1309. Le concile de Tarragone les déclare innocents le 4 novembre 1312. Au Portugal, le roi Denis protège les frères, dont beaucoup entrent dans l'ordre du Christ (voir [[devolution-des-biens|dévolution des biens]]).
+repere: 19 mars 1128 — La comtesse Thérèse donne Soure aux Templiers.
+repere: octobre 1131 — Testament d'Alphonse le Batailleur en faveur des ordres de Jérusalem.
+repere: 1143 — Accord avec Raimond-Bérenger IV : châteaux, dixième des revenus, cinquième des conquêtes.
+repere: 1157 — Les Templiers rendent Calatrava au roi de Castille.
+repere: 1er mars 1160 — Gualdim Pais commence le château de Tomar.
+repere: 1190 — Tomar résiste au siège almohade.
+repere: 1er décembre 1307 — Jacques II ordonne l'arrestation des Templiers d'Aragon.
+repere: décembre 1308 — Reddition de Miravet ; Monzón tient jusqu'en mai 1309.
+repere: 4 novembre 1312 — Le concile de Tarragone déclare innocents les Templiers de Catalogne.
+attention: Le rôle des Templiers dans la Reconquista est souvent exagéré : ils furent un appoint, important sur certaines frontières, à côté des armées royales et des ordres ibériques. Et bien des châteaux qu'on montre comme templiers ont été remaniés après 1312 par Montesa, l'ordre du Christ ou l'Hôpital.
+lien: en Knights Templar in Portugal
+lien: url https://www.enciclopedia.cat/EC-GEC-0213020 = Orde del Temple, Gran Enciclopèdia Catalana
+sources: Gran Enciclopèdia Catalana (Orde del Temple) ; Wikipédia (en : Knights Templar in Portugal, Alfonso the Battler ; es : Castillo de Monzón, Castillo de Miravet)
+voir: templiers-au-portugal, tomar, miravet, monzon, ordre-de-calatrava, ordre-de-montesa, jacques-ii-d-aragon, peniscola
+
+@ templiers-et-saint-empire
+cat: histoire
+nom: Les Templiers dans l'Empire
+alias: Templiers en Allemagne, Templerorden, Templer, Tempelhof, Süpplingenburg, Supplingenburg, concile de Mayence 1310, Hugues de Grumbach, Pierre d'Aspelt, Trèves, Magdebourg
+dates: v. 1130 – 1312
+an: 1130
+fin: 1312
+def: Dans le Saint-Empire, où les Hospitaliers et les Teutoniques occupent le terrain, le Temple s'implante tard et modestement, surtout dans l'est et la vallée du Rhin ; son procès y tourne court, sans torture ni aveux, et les conciles de Mayence et de Trèves déclarent les frères innocents.
+texte: Les premiers dons à l'ordre dans l'Empire remontent aux années 1130, en Basse-Saxe ; Süpplingenburg, berceau de l'empereur Lothaire III, est donnée aux Templiers en 1173 par son petit-fils Henri le Lion. L'implantation reste pourtant mince au XIIe siècle. Elle se renforce au XIIIe, surtout à l'est de l'Elbe, dans le Brandebourg et la Poméranie, où les princes appellent des ordres pour défricher et peupler leurs terres : le village de « Tempelhoffe », attesté en 1290, a donné son nom au quartier berlinois de [[tempelhof|Tempelhof]], et la chapelle de [[chwarszczany|Chwarszczany]], aujourd'hui en Pologne, est l'un des rares édifices conservés. D'autres maisons s'égrènent le long du Rhin et de la Moselle, en Bohême et en Moravie ([[templstejn|Templštejn]]). La province d'Allemagne, organisée au XIIIe siècle, est divisée vers 1290 en trois circonscriptions. Les raisons de cette modestie sont claires : les [[teutoniques|Teutoniques]], ordre allemand né en 1190-1198 et favori des princes, et les Hospitaliers, venus plus tôt, ont pris la place.
+texte: Le procès suit la voie fixée par *Faciens misericordiam* : les évêques jugent. À Magdebourg, l'archevêque Burchard III fait arrêter en 1308 les frères de son diocèse, dont le maître d'Allemagne, Frédéric d'Alvensleben, et cherche à garder leurs biens, ce qui tourne à la guerre privée. À Mayence, l'archevêque Pierre d'Aspelt réunit en 1310 un concile provincial. Le 14 mai, selon une chronique plus tardive, le commandeur Hugues de Grumbach y entre avec une vingtaine de chevaliers en armes, en appelle au futur pape et affirme que les croix des frères brûlés en France sont restées intactes dans les flammes. L'enquête reprend le 1er juillet : trente-sept Templiers et douze témoins extérieurs déposent en faveur de l'ordre, et l'archevêque le déclare innocent, sentence que Clément V annule en se réservant la cause. À Trèves, une enquête menée la même année auprès de dix-sept témoins aboutit aussi à l'acquittement. On n'y employa pas la torture, et l'on n'y connaît pas d'aveux.
+texte: Après 1312, les biens vont aux Hospitaliers ou aux Teutoniques, au gré des accords avec les princes, et des frères entrent dans l'ordre Teutonique. Süpplingenburg ne passe aux Hospitaliers qu'en 1357. Il reste peu de chose : l'église villageoise de Tempelhof, quelques chapelles, des noms de lieux et de rues, et des traditions sans fondement, comme celle des derniers Templiers tombés en héros au château de Lahneck, sur le Rhin.
+repere: v. 1130 — Premiers dons à l'ordre en Basse-Saxe.
+repere: 1173 — Henri le Lion donne Süpplingenburg aux Templiers.
+repere: 1290 — Le village de Tempelhoffe est attesté près de Berlin.
+repere: 1308 — L'archevêque de Magdebourg fait arrêter les Templiers de son diocèse.
+repere: 14 mai 1310 — Hugues de Grumbach paraît en armes devant le concile de Mayence.
+repere: 1er juillet 1310 — L'enquête de Mayence est favorable à l'ordre ; le pape annule la sentence.
+repere: 1357 — Süpplingenburg passe aux Hospitaliers.
+attention: Le récit de l'irruption d'Hugues de Grumbach et des croix restées intactes dans les flammes vient d'une chronique écrite vers 1500, celle de Nauclerus : c'est une tradition, non un procès-verbal. Les sources ne s'accordent pas non plus sur l'absence de toute exécution à Magdebourg.
+lien: wp Templiers dans le monde germanique
+lien: de Templerorden
+sources: Wikipédia (fr : Templiers dans le monde germanique, Procès de l'ordre du Temple ; en : Süpplingenburg, Trials of the Knights Templar, Peter of Aspelt ; de : Templerorden)
+voir: tempelhof, chwarszczany, templstejn, teutoniques, hospitaliers, proces-des-templiers, temple-en-alsace, temple-en-lorraine
+
+@ templiers-en-angleterre
+cat: histoire
+nom: Les Templiers en Angleterre
+alias: Temple de Londres, New Temple, Old Temple, Temple Church, Cressing Temple, William de la More, Guillaume de la More, procès anglais, Aymeric de Saint-Maur
+dates: 1128 – 1312
+an: 1128
+fin: 1312
+def: L'une des grandes provinces de l'ordre : venus en 1128 avec Hugues de Payns, les Templiers d'Angleterre gardent l'argent des rois au Temple de Londres ; arrêtés en janvier 1308, ils n'avouent presque rien, et leurs biens ne passent à l'Hôpital qu'en 1324.
+texte: En 1128, pendant sa tournée d'Occident, [[hugues-de-payns|Hugues de Payns]] passe en Angleterre et en Écosse, où le roi Henri Ier le reçoit avec honneur et l'aide de son trésor. Les dons suivent. La reine Mathilde de Boulogne, femme du roi Étienne, donne en 1136 le manoir de Cressing, en Essex, l'un des premiers et des plus grands domaines de l'ordre en Angleterre, dont les deux granges du XIIIe siècle subsistent (voir [[cressing-temple|Cressing Temple]]). La première maison de Londres est remplacée, en 1184, par le New Temple, au bord de la Tamise, dont l'église ronde, consacrée en 1185 par le patriarche de Jérusalem Héraclius, venu chercher des secours, est la [[temple-church-londres|Temple Church]] d'aujourd'hui. La province d'Angleterre, dont dépendent l'Écosse et l'Irlande, compte des dizaines de maisons et de domaines, de l'Essex au Herefordshire ([[garway|Garway]]).
+texte: Le Temple de Londres devient, comme celui de Paris, un dépôt d'argent (voir [[banque-du-temple|Temple et argent]]). Les rois y font garder leur argent et leurs joyaux ; Jean sans Terre y réside au début de 1215, quand les barons lui présentent leurs exigences, et le maître de l'ordre en Angleterre, Aymeric de Saint-Maur, est à ses côtés à Runnymede, où il figure parmi les conseillers nommés dans la Grande Charte ; Henri III y installe sa garde-robe en 1225 et y fonde une chapellenie en 1231. Les maîtres d'Angleterre sont des hommes de cour, et les rois empruntent volontiers aux frères.
+texte: Le procès anglais montre ce que devenait l'accusation sans la torture. [[edouard-ii|Édouard II]], fiancé à la fille de Philippe le Bel, n'y croit pas : le 30 octobre 1307, il écrit au pape et aux rois d'Europe pour défendre l'ordre. Mais la bulle *Pastoralis praeeminentiae* lui parvient en décembre ; il fait arrêter les frères au début de janvier 1308, sans brutalité, et les laisse longtemps en détention douce. Le maître, William de la More, est enfermé. Deux inquisiteurs envoyés par le pape, l'abbé de Lagny Deodat et Sicard de Vaur, interrogent les frères à partir du 22 octobre 1309 : aucun n'avoue. Sous la pression du pape, le roi finit par autoriser la torture, à contrecœur ; elle obtient peu, et les rares aveux restent vagues. Au terme du procès, la plupart des frères se déclarent incapables de se laver de l'accusation, abjurent les hérésies dont on les soupçonne en termes généraux, et sont réconciliés avec l'Église puis répartis dans des monastères. William de la More refuse : il ne veut pas renoncer à la croyance que le maître pouvait absoudre ; il reste à la Tour de Londres jusqu'à sa mort.
+texte: La bulle de 1312 donne les biens à l'Hôpital, mais la couronne et les barons les retiennent ; ce n'est qu'en 1324 que les Hospitaliers reçoivent l'église du Temple et une grande partie des domaines, et le roi garde certains revenus jusqu'en 1338. Les Hospitaliers louèrent ensuite les bâtiments du Temple de Londres aux juristes, d'où sont nés l'Inner et le Middle Temple, qui y siègent encore.
+repere: 1128 — Hugues de Payns est reçu en Angleterre par Henri Ier.
+repere: 1136 — La reine Mathilde donne Cressing aux Templiers.
+repere: 1185 — Consécration de l'église ronde du New Temple.
+repere: 1215 — Aymeric de Saint-Maur, maître d'Angleterre, est aux côtés de Jean sans Terre à Runnymede.
+repere: 30 octobre 1307 — Édouard II écrit au pape et aux rois pour défendre l'ordre.
+repere: janvier 1308 — Arrestation des Templiers d'Angleterre.
+repere: 22 octobre 1309 — Les inquisiteurs pontificaux commencent les interrogatoires.
+repere: 1310-1311 — La plupart des frères abjurent et sont réconciliés avec l'Église.
+repere: 1324 — Les Hospitaliers entrent en possession des biens du Temple.
+attention: On dit que les Templiers anglais ne furent pas torturés : la torture fut autorisée, tard et à contrecœur, mais peu appliquée, et elle n'obtint presque rien. Quant aux Templiers qui auraient fui d'Angleterre en Écosse pour combattre à Bannockburn en 1314, aucune source ne les mentionne (voir [[templiers-en-ecosse|Templiers en Écosse]]).
+lien: en Knights Templar in England
+lien: en Trials of the Knights Templar
+sources: Wikipédia (en : Knights Templar in England, Trials of the Knights Templar, Cressing Temple)
+voir: temple-church-londres, cressing-temple, garway, balantrodoch, edouard-ii, templiers-en-ecosse, provinces-du-temple, proces-des-templiers

@@ -1,0 +1,145 @@
+# Frises de T+ — format des fichiers
+#
+#   @ identifiant                 une frise
+#   nom: …                        son nom court
+#   titre: …                      ce qu'elle montre
+#   couleur: #rrggbb              teinte de la frise
+#   voie: id | Nom                une voie (colonne) ; la première est la voie par défaut
+#   % id | Nom | début | fin | #rrggbb      une période ; ses lignes « titre: » et « voie: »
+#   titre: …                      s'appliquent aux mandats qui suivent, jusqu'à la période suivante
+#   = article | début | fin | Nom affiché | titre | note      un mandat ; « article » est l'identifiant
+#                                 d'un article de build/articles/, ou « - » quand il n'y en a pas
+#
+#   Dates : AAAA, AAAA-MM ou AAAA-MM-JJ ; « ~ » devant = approximatif.
+#   Les champs vides héritent : titre de la période, voie courante.
+#
+# Les dates des maîtres suivent Alain Demurger (Les Templiers, 2005 ; Jacques de Molay, 2007)
+# et Malcolm Barber (The New Knighthood, 1994) ; quand elles divergent, la note le dit.
+
+@ maitres
+nom: Maîtres du Temple
+titre: Les vingt-trois maîtres de l'ordre, de 1119 à 1314
+couleur: #a7322f
+voie: maitres | Temple
+
+% jerusalem | Jérusalem | 1119 | 1187 | #a7322f
+titre: maître de l'ordre du Temple
+= hugues-de-payns | ~1119 | 1136-05-24 | Hugues de Payns | | Fondateur ; règle approuvée au concile de Troyes (1129)
+= robert-de-craon | 1136 | 1149-01-13 | Robert de Craon | | Obtient la bulle Omne datum optimum (1139)
+= evrard-des-barres | 1149 | 1152 | Évrard des Barres | | Deuxième croisade ; se retire à Clairvaux
+= bernard-de-tremelay | 1152 | 1153-08-16 | Bernard de Tremelay | | Tué au siège d'Ascalon
+= andre-de-montbard | 1153 | 1156-01-17 | André de Montbard | | Oncle de saint Bernard
+= bertrand-de-blanquefort | 1156 | 1169-01-02 | Bertrand de Blanquefort | | Captif de Nur ad-Din de 1157 à 1159
+= philippe-de-milly | 1169 | 1171 | Philippe de Milly | | Seigneur d'Outre-Jourdain ; démissionne
+= eudes-de-saint-amand | 1171 | 1179-10 | Eudes de Saint-Amand | | Montgisard (1177) ; mort prisonnier de Saladin
+= arnaud-de-toroge | 1181 | 1184-09-30 | Arnaud de Toroge | | Mort à Vérone, en ambassade
+= gerard-de-ridefort | 1185 | 1189-10-04 | Gérard de Ridefort | | Hattin (1187) ; tué devant Acre
+
+% acre | Acre | 1191 | 1291 | #c0742f
+titre: maître de l'ordre du Temple
+= robert-de-sable | 1191 | 1193-09-23 | Robert de Sablé | | Compagnon de Richard Cœur de Lion ; achète Chypre
+= gilbert-herail | 1194 | 1200-12 | Gilbert Hérail | | Trêves avec les Ayyoubides
+= philippe-du-plessis | 1201 | 1209-11-12 | Philippe du Plessis
+= guillaume-de-chartres | 1210 | 1219-08-26 | Guillaume de Chartres | | Meurt au siège de Damiette
+= pierre-de-montaigu | 1219 | 1232-01-28 | Pierre de Montaigu | | Damiette ; s'oppose à Frédéric II
+= armand-de-perigord | 1232 | 1244-10-17 | Armand de Périgord | | Disparaît à La Forbie
+= richard-de-bures | 1245 | 1247-05-09 | Richard de Bures | | Existence discutée
+= guillaume-de-sonnac | 1247 | 1250-02-11 | Guillaume de Sonnac | | Tué à Mansourah
+= renaud-de-vichiers | 1250 | 1256-01-20 | Renaud de Vichiers | | La rançon de saint Louis
+= thomas-berard | 1256 | 1273-03-25 | Thomas Bérard | | Face à Baybars : Safed (1266), Beaufort (1268)
+= guillaume-de-beaujeu | 1273-05-13 | 1291-05-18 | Guillaume de Beaujeu | | Tué à la chute d'Acre
+= thibaud-gaudin | 1291 | 1292-04-16 | Thibaud Gaudin | | Replie l'ordre à Chypre
+
+% chypre | Chypre et procès | 1292 | 1314 | #6d6d6d
+titre: maître de l'ordre du Temple
+= jacques-de-molay | 1292 | 1314-03-11 | Jacques de Molay | | Arrêté le 13 octobre 1307 ; ordre supprimé en 1312 ; brûlé à Paris (11 ou 18 mars 1314)
+
+@ contexte
+nom: Le siècle des Templiers
+titre: Papes, rois de France et rois de Jérusalem, de 1095 à 1320
+couleur: #2f5fa3
+voie: papes | Papes
+voie: france | France
+voie: jerusalem | Jérusalem
+
+% papaute | Église romaine | 1088 | 1335 | #6b4c9a
+titre: pape
+voie: papes
+= - | 1088-03-12 | 1099-07-29 | Urbain II | | Prêche la croisade à Clermont (1095)
+= - | 1099-08-13 | 1118-01-21 | Pascal II | | Reconnaît l'Hôpital (1113)
+= - | 1118-01-24 | 1119-01-29 | Gélase II
+= - | 1119-02-02 | 1124-12-13 | Calixte II
+= - | 1124-12-21 | 1130-02-13 | Honorius II | | Le concile de Troyes se tient sous son pontificat
+= - | 1130-02-14 | 1143-09-24 | Innocent II | | Omne datum optimum (1139)
+= - | 1143-09-26 | 1144-03-08 | Célestin II | | Milites Templi (1144)
+= - | 1144-03-12 | 1145-02-15 | Lucius II
+= - | 1145-02-15 | 1153-07-08 | Eugène III | | Militia Dei (1145) ; la croix rouge (1147)
+= - | 1153-07-12 | 1154-12-03 | Anastase IV
+= - | 1154-12-04 | 1159-09-01 | Adrien IV
+= - | 1159-09-07 | 1181-08-30 | Alexandre III
+= - | 1181-09-01 | 1185-11-25 | Lucius III
+= - | 1185-11-25 | 1187-10-20 | Urbain III | | Meurt à la nouvelle de Hattin
+= - | 1187-10-21 | 1187-12-17 | Grégoire VIII | | Audita tremendi : la troisième croisade
+= - | 1187-12-19 | 1191-03-20 | Clément III
+= - | 1191-03-30 | 1198-01-08 | Célestin III
+= - | 1198-01-08 | 1216-07-16 | Innocent III | | Quatrième croisade ; Latran IV
+= - | 1216-07-18 | 1227-03-18 | Honorius III | | Cinquième croisade
+= - | 1227-03-19 | 1241-08-22 | Grégoire IX | | Excommunie Frédéric II
+= - | 1241-10-25 | 1241-11-10 | Célestin IV
+= - | 1243-06-25 | 1254-12-07 | Innocent IV
+= - | 1254-12-12 | 1261-05-25 | Alexandre IV
+= - | 1261-08-29 | 1264-10-02 | Urbain IV
+= - | 1265-02-05 | 1268-11-29 | Clément IV
+= - | 1271-09-01 | 1276-01-10 | Grégoire X | | Concile de Lyon II (1274) : la fusion des ordres débattue
+= - | 1276-01-21 | 1276-06-22 | Innocent V
+= - | 1276-07-11 | 1276-08-18 | Adrien V
+= - | 1276-09-08 | 1277-05-20 | Jean XXI
+= - | 1277-11-25 | 1280-08-22 | Nicolas III
+= - | 1281-02-22 | 1285-03-28 | Martin IV
+= - | 1285-04-02 | 1287-04-03 | Honorius IV
+= - | 1288-02-22 | 1292-04-04 | Nicolas IV | | Apprend la chute d'Acre
+= - | 1294-07-05 | 1294-12-13 | Célestin V
+= - | 1294-12-24 | 1303-10-11 | Boniface VIII | | Conflit avec Philippe le Bel ; Anagni (1303)
+= - | 1303-10-22 | 1304-07-07 | Benoît XI
+= - | 1305-06-05 | 1314-04-20 | Clément V | | Supprime l'ordre au concile de Vienne (1312)
+= - | 1316-08-07 | 1334-12-04 | Jean XXII | | Crée l'ordre de Montesa (1317) et l'ordre du Christ (1319)
+
+% capetiens | Capétiens | 1060 | 1328 | #2f5fa3
+titre: roi de France
+voie: france
+= - | 1060-08-04 | 1108-07-29 | Philippe Ier
+= - | 1108-07-29 | 1137-08-01 | Louis VI le Gros
+= - | 1137-08-01 | 1180-09-18 | Louis VII | | Deuxième croisade ; emprunte au Temple
+= - | 1180-09-18 | 1223-07-14 | Philippe II Auguste | | Troisième croisade
+= - | 1223-07-14 | 1226-11-08 | Louis VIII
+= - | 1226-11-08 | 1270-08-25 | Louis IX | | Septième et huitième croisades ; le Temple contribue à sa rançon (1250)
+= - | 1270-08-25 | 1285-10-05 | Philippe III le Hardi
+= - | 1285-10-05 | 1314-11-29 | Philippe IV le Bel | | Fait arrêter les Templiers (1307)
+= - | 1314-11-29 | 1316-06-05 | Louis X le Hutin
+= - | 1316-11-15 | 1316-11-20 | Jean Ier le Posthume
+= - | 1316-11-20 | 1322-01-03 | Philippe V le Long
+= - | 1322-01-03 | 1328-02-01 | Charles IV le Bel | | Dernier Capétien direct
+
+% royaume-latin | Royaume latin | 1099 | 1291 | #b4702e
+titre: roi de Jérusalem
+voie: jerusalem
+= - | 1099-07-22 | 1100-07-18 | Godefroy de Bouillon | avoué du Saint-Sépulcre
+= - | 1100-12-25 | 1118-04-02 | Baudouin Ier
+= baudouin-ii-de-jerusalem | 1118-04-14 | 1131-08-21 | Baudouin II | | Accueille les premiers Templiers
+= foulques-d-anjou | 1131-09-14 | 1143-11-13 | Foulques d'Anjou | | Avec la reine Mélisende
+= - | 1143-11-13 | 1163-02-10 | Baudouin III | | Ascalon (1153)
+= - | 1163-02-18 | 1174-07-11 | Amaury Ier
+= baudouin-iv-de-jerusalem | 1174-07-15 | 1185-03-16 | Baudouin IV le Lépreux | | Montgisard (1177)
+= - | 1185-03-16 | 1186-08 | Baudouin V
+= guy-de-lusignan | 1186-08 | 1192-04 | Guy de Lusignan | | Hattin (1187) ; reçoit Chypre
+= - | 1192-04-24 | 1192-04-28 | Conrad de Montferrat | | Élu roi, assassiné quatre jours plus tard
+= - | 1192-05-05 | 1197-09-10 | Henri II de Champagne | seigneur de Jérusalem | Jamais couronné
+= - | 1197-10 | 1205-04-01 | Amaury II de Lusignan | | Aussi roi de Chypre
+= - | 1205-04-05 | 1212 | Marie de Montferrat | reine de Jérusalem
+= - | 1210-10-03 | 1225 | Jean de Brienne | | Époux de Marie ; chef de la cinquième croisade
+= frederic-ii | 1225-11-09 | 1228-04-25 | Frédéric II | | Par mariage avec Isabelle II ; Jérusalem rendue par traité (1229)
+= - | 1228-04-25 | 1254-05-21 | Conrad II (IV de Germanie) | | Roi absent ; les baillis gouvernent
+= - | 1254-05-21 | 1268-10-29 | Conradin | | Roi absent ; décapité à Naples
+= - | 1268-10-29 | 1284-03-24 | Hugues III de Chypre | | Couronné à Tyr en 1269
+= - | 1284-03-24 | 1285-05-20 | Jean Ier de Chypre
+= - | 1285-05-20 | 1291-05-18 | Henri II de Chypre | | Chute d'Acre (1291) ; roi de Chypre jusqu'en 1324

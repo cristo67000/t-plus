@@ -1,0 +1,1414 @@
+# Les illustrations de T+, et d'où elles viennent.
+#
+#     python build/verifier_commons.py liste.txt   vérifie des propositions (existence, licence) avant de les ajouter ici
+#     python build/illustrer.py                    télécharge, vérifie la licence, convertit en WebP dans img/
+#                                                  et écrit build/illustrations.json
+#     node build/construire.mjs                    rattache ensuite chaque image à ses articles
+#
+# Toutes viennent de Wikimedia Commons. illustrer.py n'accepte que le domaine public,
+# CC0, CC BY et CC BY-SA ; l'application affiche alors l'auteur et la licence sous
+# l'image et au bas de l'article. Tout le reste (NC, ND, droits réservés) est refusé.
+#
+# ── Une image ───────────────────────────────────────────────────────────────
+#
+#   = sceau-du-temple             identifiant : le fichier sera img/sceau-du-temple.webp
+#   commons: Fichier.jpg          le fichier sur Wikimedia Commons, sans « File: »
+#   legende: Le sceau du Temple   ce qu'on lit sous l'image (*italique* permise)
+#   credit: Archives nationales   l'auteur, la date, le fonds — la licence s'ajoute seule
+#   pour: sceau-du-temple         les articles où elle paraît, en tête, séparés par des virgules
+#   largeur: 440                  (facultatif) largeur en pixels, 560 par défaut
+#   recadrer: 0.02 0 0.98 1       (facultatif) gauche haut droite bas, en fractions
+#
+# « % un titre » ouvre un lot : les champs écrits juste après valent pour toutes
+# les images suivantes, jusqu'au prochain « % ».
+#
+# Les portraits des maîtres sont tous imaginaires (aucun portrait contemporain
+# n'existe) : la légende le dit.
+
+# ── Les images (écrites par build/assembler_illustrations.py, ne pas retoucher à la main) ──
+
+= sainte-eulalie-de-cernon
+commons: Commandery in Ste-Eulalie-de-Cernon 03.jpg
+legende: La commanderie de Sainte-Eulalie-de-Cernon, chef-lieu du Larzac templier
+credit: Krzysztof Golik, 2020
+pour: sainte-eulalie-de-cernon, larzac-templier
+
+= sainte-eulalie-de-cernon-2
+commons: Commandery tower in Ste-Eulalie-de-Cernon.jpg
+legende: La tour de la commanderie de Sainte-Eulalie
+credit: Krzysztof Golik, 2020
+pour: sainte-eulalie-de-cernon
+
+= la-couvertoirade
+commons: Chateau La Couvertoirade.jpg
+legende: Les vestiges du château templier de La Couvertoirade
+credit: Myrabella, 2013
+pour: la-couvertoirade
+
+= la-couvertoirade-2
+commons: Ramparts of La Couvertoirade 04.jpg
+legende: Les remparts de La Couvertoirade, élevés par les Hospitaliers au XVe siècle
+credit: Krzysztof Golik, 2019
+pour: la-couvertoirade, larzac-templier
+
+= la-cavalerie
+commons: City walls of La Cavalerie 13.jpg
+legende: L'enceinte de La Cavalerie, bâtie au XVe siècle
+credit: Krzysztof Golik, 2020
+pour: la-cavalerie
+
+= viala-du-pas-de-jaux
+commons: Tower in Viala-du-Pas-de-Jaux 04.jpg
+legende: La tour-grenier du Viala-du-Pas-de-Jaux, élevée vers 1430
+credit: Krzysztof Golik, 2020
+pour: viala-du-pas-de-jaux
+
+= larzac-templier
+commons: Saint Jean d'Alcas-Portal.jpg
+legende: La porte du fort de Saint-Jean-d'Alcas, bâti par l'abbaye cistercienne de Nonenque
+credit: Daniel VILLAFRUELA, 2012
+pour: larzac-templier
+
+= montsaunes
+commons: Montsaunès - Eglise Saint-Christophe des Templiers - Façade.jpg
+legende: La façade de l'église Saint-Christophe de Montsaunès
+credit: Didier Descouens, 2018
+pour: montsaunes
+
+= montsaunes-2
+commons: Eglise Saint-Christophe-des-Templiers - Vue intérieure de la nef vers le choeur - Montsaunès - Médiathèque de l'architecture et du patrimoine - APMH00001759.jpg
+legende: La nef de Montsaunès et ses peintures, photographiées en 1883
+credit: Séraphin-Médéric Mieusement, 1883
+pour: montsaunes
+
+= mas-deu
+commons: Mas-deu-chapelle.jpg
+legende: La chapelle de la commanderie du Mas Deu, en Roussillon
+credit: Palauenc05, 2015
+pour: mas-deu, temple-en-occitanie
+
+= mas-deu-2
+commons: Mas-deu-commanderie.jpg
+legende: Les bâtiments de la commanderie du Mas Deu, à Trouillas
+credit: Palauenc05, 2015
+pour: mas-deu
+
+= campagne-sur-aude
+commons: Campagne (Aude) - Fonds Ancely - B315556101 A BERTHIER 074.jpg
+legende: Campagne-sur-Aude, lithographie du XIXe siècle
+credit: Eugène Wormser, lithographie, 1862
+pour: campagne-sur-aude
+
+= le-bezu
+commons: Chateau des Templiers 2.jpg
+legende: Les ruines du château du Bézu, dit « des Templiers »
+credit: Jcb-caz-11, 2017
+pour: le-bezu
+
+= vaour
+commons: Commanderie de Vaour (14).jpg
+legende: La commanderie de Vaour, dans le Tarn
+credit: Chris06, 2016
+pour: vaour, temple-en-occitanie
+
+= vaour-2
+commons: Restes du chateau de Vaour 01.jpg
+legende: Les ruines de la commanderie de Vaour
+credit: Krzysztof Golik, 2017
+pour: vaour
+
+= lacapelle-livron
+commons: Lacapelle-Livron - Ancienne commanderie des Templiers - 01.jpg
+legende: L'ancienne commanderie de Lacapelle-Livron
+credit: Antoine Garnier, 2022
+pour: lacapelle-livron
+
+= montricoux
+commons: Donjon du château de Montricoux (82) - 001.jpg
+legende: Le donjon de Montricoux
+credit: Thérèse Gaigé, 2015
+pour: montricoux
+
+= la-ville-dieu-du-temple
+commons: La Ville-Dieu-du-Temple église.JPG
+legende: L'église de La Ville-Dieu-du-Temple
+credit: Paternel 1
+pour: la-ville-dieu-du-temple
+
+= figeac
+commons: Commanderie des Templiers in Figeac 02.jpg
+legende: La maison dite « commanderie des Templiers », à Figeac
+credit: Krzysztof Golik, 2018
+pour: figeac
+
+= richerenches
+commons: Richerenches - enceinte de la commanderie.jpg
+legende: L'enceinte de la commanderie de Richerenches
+credit: Marianne Casamance, 2017
+pour: richerenches, temple-en-provence
+
+= richerenches-2
+commons: Cartulaire Richerenches 1907.jpg
+legende: Le cartulaire de Richerenches, dans son édition de 1907
+credit: page de titre de l'édition de 1907
+pour: richerenches, cartulaires-du-temple
+
+= roaix
+commons: Roaix by JM Rosier.jpg
+legende: Le village de Roaix
+credit: Jean-Marc Rosier, 2007
+pour: roaix
+
+= jales
+commons: PA00116646 Commanderie de Jalès 01.jpg
+legende: La commanderie de Jalès
+credit: Celeda, 2022
+pour: jales
+
+= jales-2
+commons: Commanderie de Jalès, vue aérienne du Nord Ouest.jpg
+legende: La commanderie de Jalès vue du ciel
+credit: Barge, 2009
+pour: jales
+
+= le-ruou
+commons: Commanderie du Ruou - Chapelle.JPG
+legende: La chapelle de la commanderie du Ruou
+credit: Edouard-rainaut, 2012
+pour: le-ruou, temple-en-provence
+
+= montfort-sur-argens
+commons: Chateau Montfort-sur-Argens 7308.JPG
+legende: Le château de Montfort-sur-Argens
+credit: SombreSanglier, 2012
+pour: montfort-sur-argens
+
+= hyeres
+commons: Tour des Templiers (Hyères).jpg
+legende: La tour des Templiers, à Hyères
+credit: Gzen92, 2016
+pour: hyeres
+
+= biot
+commons: PlaceDesArcadesBiot.JPG
+legende: La place des Arcades, à Biot
+credit: Lorenzo Piccardo, 2009
+pour: biot
+
+= marseille
+commons: Marsilia. (Marseille au commencement du XVIIe siècle) - dessin - btv1b52510777b (1 of 2).jpg
+legende: Marseille et son port au début du XVIIe siècle
+credit: dessin anonyme, Bibliothèque nationale de France
+pour: marseille
+
+= ydes
+commons: Ydes-Bourg - Eglise -13.JPG
+legende: L'église Saint-Georges d'Ydes
+credit: MOSSOT, 2010
+pour: ydes
+
+= celles
+commons: Celles commanderie.jpg
+legende: La commanderie de Celles
+credit: WCOMFR, 2012
+pour: celles
+
+= paulhac
+commons: Paulhac2.jpg
+legende: Les chapelles de la commanderie de Paulhac
+credit: Dupuis pierre
+pour: paulhac
+
+= paulhac-2
+commons: Paulhac8.jpg
+legende: L'intérieur de la chapelle Saint-Jean de Paulhac
+credit: Dupuis pierre
+pour: paulhac
+
+= blaudeix
+commons: Blaudeix église (1).jpg
+legende: L'église de Blaudeix, ancienne chapelle de la commanderie
+credit: Père Igor, 2024
+pour: blaudeix
+
+= andrivaux
+commons: Chancelade Andrivaux.JPG
+legende: La commanderie des Andrivaux, à Chancelade
+credit: Père Igor, 2008
+pour: andrivaux
+
+= sergeac
+commons: Eglise Saint-Pantaléon de Sergeac.jpg
+legende: L'église Saint-Pantaléon de Sergeac
+credit: Salomé08, 2019
+pour: sergeac
+
+= domme
+commons: Porte des Tours in Domme 02.jpg
+legende: La porte des Tours de Domme
+credit: Krzysztof Golik, 2017
+pour: domme
+
+= domme-2
+commons: Remparts - Porte des Tours - Vue d'ensemble extra-muros - Domme - Médiathèque de l'architecture et du patrimoine - APMH00001018.jpg
+legende: La porte des Tours de Domme, photographiée en 1888
+credit: Séraphin-Médéric Mieusement, 1888
+pour: domme, graffiti-de-domme-et-chinon
+
+= magrigne
+commons: Chapelle de Magrigne (1842).png
+legende: La chapelle de Magrigne en 1842
+credit: auteur inconnu, 1842
+pour: magrigne
+
+= magrigne-2
+commons: St Laurent d'Arce chapelle de Magrigne 2.jpg
+legende: La chapelle de Magrigne aujourd'hui
+credit: William Ellison, 2017
+pour: magrigne
+
+= marcenais
+commons: Marcenais église templière 1.JPG
+legende: L'église de Marcenais
+credit: William Ellison, 2015
+pour: marcenais
+
+= le-temple-sur-lot
+commons: Commanderie du Temple-sur-Lot.JPG
+legende: La commanderie du Temple-sur-Lot
+credit: Paternel 1
+pour: le-temple-sur-lot
+
+= aragnouet
+commons: Chapelle Notre-Dame de l'Assomption (des Templiers) du Plan (Hautes-Pyrénées) 1.jpg
+legende: La chapelle dite « des Templiers », au Plan d'Aragnouet
+credit: Sotos, 2014
+pour: aragnouet
+
+= luz-saint-sauveur
+commons: 2019 - Église des Templiers de Luz-Saint-Sauveur.jpg
+legende: L'église fortifiée de Luz-Saint-Sauveur, dite « des Templiers »
+credit: Moahim, 2017
+pour: luz-saint-sauveur
+
+= ordre-du-temple
+commons: Seal of Templars.jpg
+legende: Le sceau des maîtres du Temple : deux chevaliers sur un même cheval
+credit: dessin publié par T. A. Archer et C. L. Kingsford, 1894
+pour: ordre-du-temple, sceau-du-temple, chronologie-de-l-ordre
+
+= hugues-de-payns
+commons: Baldwin II ceeding the Temple of Salomon to Hugues de Payens and Gaudefroy de Saint-Homer.jpg
+legende: Baudouin II cède le Temple de Salomon à Hugues de Payns et Godefroy de Saint-Omer, miniature de l'*Histoire d'Outremer* de Guillaume de Tyr
+credit: enluminure anonyme, XIIIe siècle
+pour: hugues-de-payns, fondation-de-l-ordre, baudouin-ii-de-jerusalem, jerusalem-temple-de-salomon, ordre-du-temple, godefroy-de-saint-omer
+
+= hugues-de-payns-2
+commons: Hugues de Payens (Versailles).jpg
+legende: Hugues de Payns, portrait imaginaire peint pour la salle des Croisades de Versailles
+credit: Henri Lehmann, 1841
+pour: hugues-de-payns
+
+= maitres-de-l-ordre
+commons: Chapitre de l'Ordre du Temple tenu à Paris.png
+legende: Le chapitre de l'ordre tenu à Paris en avril 1147, tel que l'imagine Granet
+credit: François-Marius Granet, 1844
+pour: maitres-de-l-ordre, chapitre-general
+
+= evrard-des-barres
+commons: Evrard de Barres.png
+legende: Évrard des Barres, figure imaginée par Debacq pour la salle des Croisades
+credit: Charles-Alexandre Debacq, v. 1840
+pour: evrard-des-barres
+
+= andre-de-montbard
+commons: André de Montbard.jpg
+legende: Les sceaux d'André de Montbard, relevés au XIXe siècle
+credit: Ernest Petit, *Histoire des ducs de Bourgogne*
+pour: andre-de-montbard
+
+= arnaud-de-toroge
+commons: Sarcophagus of Arnau de Torroja (23328).jpg
+legende: Le sarcophage d'Arnaud de Toroge, à San Fermo Maggiore de Vérone
+credit: Adert, 2025
+pour: arnaud-de-toroge
+
+= gerard-de-ridefort
+commons: Gerard de Ridefort.jpg
+legende: Gérard de Ridefort dans une miniature du XIVe siècle (BnF, fr. 22495)
+credit: Maître du Roman de Fauvel, 1337
+pour: gerard-de-ridefort
+
+= guillaume-de-beaujeu
+commons: Akra1291.jpg
+legende: Le siège d'Acre en 1291, lettrine d'un manuscrit de l'*Estoire d'Eracles* (BnF, fr. 2825)
+credit: enluminure anonyme, v. 1300
+pour: guillaume-de-beaujeu, chute-d-acre
+
+= jacques-de-molay
+commons: Templars Burning.jpg
+legende: Le bûcher de Jacques de Molay et de Geoffroy de Charnay, dans les *Chroniques de France* (British Library)
+credit: atelier du Maître de Virgile, après 1380
+pour: jacques-de-molay, bucher-de-jacques-de-molay, geoffroy-de-charnay
+
+= jacques-de-molay-2
+commons: Ordination of Jacques de Molay in 1265 at the Beaune commandery by Marius Granet 1777 1849.jpg
+legende: La réception de Jacques de Molay dans l'ordre, à Beaune en 1265, imaginée par Granet
+credit: François-Marius Granet, 1843
+pour: jacques-de-molay, reception-dans-l-ordre
+
+= proces-des-templiers
+commons: Hinrichtung-Templer.jpg
+legende: Le supplice des Templiers dans un manuscrit du *Des cas des nobles hommes et femmes* de Boccace (BnF, fr. 229)
+credit: Maître du Roman de la Rose de Vienne, v. 1440
+pour: proces-des-templiers
+
+= philippe-le-bel
+commons: Filip4 templari exekuce Boccaccio15.jpg
+legende: Philippe le Bel et le supplice des Templiers, dans un Boccace enluminé (BnF, fr. 226)
+credit: Maître de Rohan, v. 1415-1420
+pour: philippe-le-bel
+
+= sceau-du-temple
+commons: Templari Paris.jpg
+legende: Deux Templiers sur un même cheval, comme sur le sceau de l'ordre : dessin de Matthieu Paris, XIIIe siècle
+credit: Matthieu Paris, *Historia Anglorum*, v. 1250
+pour: sceau-du-temple, privileges-et-critiques, matthieu-paris
+
+= regle-du-temple
+commons: Templari MatthewParis.jpg
+legende: Les Templiers vus par Matthieu Paris, moine de Saint-Albans, dans sa *Chronica majora*
+credit: Matthieu Paris, XIIIe siècle
+pour: regle-du-temple, effectifs-du-temple
+
+= sceau-du-temple-2
+commons: Wax cast of a Bristol Templar Seal.jpg
+legende: Moulage en cire d'un sceau du Temple trouvé à Bristol
+credit: The Museum of the Order of St. John and the University of Birmingham, 2016
+pour: sceau-du-temple
+
+= provinces-du-temple
+commons: SceauTempliersXIIIeProvence.jpg
+legende: Sceau du Temple en Provence, à l'Agneau pascal (XIIIe ou XIVe siècle)
+credit: Heurtelions, 2012
+pour: provinces-du-temple, temple-en-provence
+
+= chevaliers-du-temple
+commons: Fresque de la chapelle des templiers de Cressac.jpg
+legende: Un chevalier du Temple chargeant, sur la fresque de la chapelle de Cressac, fin du XIIe siècle
+credit: peinture murale anonyme, fin du XIIe siècle
+pour: chevaliers-du-temple, manteau-et-croix, cressac
+
+= baucent
+commons: San Bevignate battle fresco baucent.jpg
+legende: Le baucent, bannière mi-partie noire et blanche, sur la fresque de San Bevignate à Pérouse, XIIIe siècle
+credit: peinture murale anonyme, XIIIe siècle
+pour: baucent, san-bevignate
+
+= retraits
+commons: SCONTRO A NABLUS - AFFRESCHI CONTROFACCIATA S. BEVIGNATE.JPG
+legende: Templiers au combat, fresque de l'église San Bevignate de Pérouse, XIIIe siècle
+credit: photographie reproduite avec l'accord de la commune de Pérouse
+pour: retraits, san-bevignate
+
+= commanderie
+commons: Arville - Commanderie 01.jpg
+legende: La commanderie d'Arville, dans le Loir-et-Cher
+credit: Selbymay, 2012
+pour: commanderie, arville
+
+= vie-quotidienne
+commons: Commanderie de Coulommiers (1).JPG
+legende: La commanderie de Coulommiers, en Seine-et-Marne
+credit: Chris06, 2014
+pour: vie-quotidienne, coulommiers
+
+= chapelains-du-temple
+commons: Peinture St Georges commanderie des Templiers (Coulommiers).jpg
+legende: Saint Georges, peinture murale de la chapelle de la commanderie de Coulommiers
+credit: Tangopaso, 2011
+pour: chapelains-du-temple, coulommiers
+
+= freres-de-metier
+commons: Richerenches - commanderie.jpg
+legende: La commanderie de Richerenches, en Provence
+credit: Véronique PAGNIER, 2011
+pour: freres-de-metier
+
+= manteau-et-croix
+commons: Ferdinand von Quast - Chapelle des Templiers, Metz, portail à la croix pattée, Architekturmuseum TU Berlin 44284.jpg
+legende: La croix du portail de la chapelle des Templiers de Metz, relevée au XIXe siècle
+credit: Ferdinand von Quast, XIXe siècle
+pour: manteau-et-croix, metz
+
+= armement-et-equipement
+commons: Temple Church, Effigy of a knight City of London 1064646 20230821 0024.jpg
+legende: Gisant d'un chevalier en armes, église du Temple de Londres, XIIIe siècle
+credit: Tilman2007, 2023
+pour: armement-et-equipement, temple-church-londres
+
+= chevaux-et-cavalerie
+commons: La Forbie.jpg
+legende: La bataille de La Forbie (1244), dessinée par Matthieu Paris dans sa *Chronica majora*
+credit: Matthieu Paris, XIIIe siècle
+pour: chevaux-et-cavalerie, bataille-de-la-forbie
+
+= bataille-de-hattin
+commons: Battle of Cresson.jpg
+legende: Le combat de la source de Cresson, le 1er mai 1187, enluminé par Jean Colombe
+credit: Jean Colombe, v. 1490
+pour: bataille-de-hattin, gerard-de-ridefort
+
+= economie-du-temple
+commons: Cressing Temple, Wheat Barn.jpg
+legende: La grange au blé de Cressing Temple, en Essex, bâtie pour le Temple au XIIIe siècle
+credit: Michael Coppins, 2019
+pour: economie-du-temple, cressing-temple
+
+= banque-du-temple
+commons: Le donjon du Temple (en 1500) plus récemment prison de Louis XVI. Paris Musées 20231012220238.jpg
+legende: La tour du Temple de Paris, où fut gardé le trésor royal, gravure du XIXe siècle
+credit: G. Larbalestier, graveur, Paris Musées
+pour: banque-du-temple, enclos-du-temple
+
+= chateaux-du-temple
+commons: Safita overview.jpg
+legende: La tour de Chastel Blanc dominant Safita, en Syrie
+credit: Ahmadac
+pour: chateaux-du-temple, chastel-blanc
+
+= chateaux-du-temple-2
+commons: Tartus Cathedral of Our Lady of Tortosa 3640.jpg
+legende: La cathédrale Notre-Dame de Tortose, à Tartous
+credit: Dosseman, 2008
+pour: chateaux-du-temple, tortose
+
+= architecture-templiere
+commons: Laon (02) Chapelle des Templiers 01.JPG
+legende: La chapelle octogonale des Templiers de Laon
+credit: GO69, 2011
+pour: architecture-templiere, laon
+
+= architecture-templiere-2
+commons: Metz Chapelle des Templiers R01.jpg
+legende: La chapelle des Templiers de Metz
+credit: Marc Ryckaert, 2011
+pour: architecture-templiere, metz
+
+= tomar
+commons: Tomar-Convento de Cristo-Rotunda dos Templários-20140914.jpg
+legende: La rotonde des Templiers du couvent du Christ, à Tomar
+credit: Daniel VILLAFRUELA, 2014
+pour: tomar, architecture-templiere, templiers-au-portugal
+
+= templiers-et-hospitaliers
+commons: Krak des Chevaliers landscape (cropped).jpg
+legende: Le Krak des Chevaliers, forteresse des Hospitaliers en Syrie
+credit: Ergo et Nev1, 2011
+pour: templiers-et-hospitaliers, hospitaliers
+
+= tresor-des-templiers
+commons: Château de Gisors-donjon.jpg
+legende: Le donjon de Gisors, sous lequel Roger Lhomoy dit avoir vu les coffres du trésor
+credit: Anabase4
+pour: tresor-des-templiers, gisors
+
+= malediction-de-jacques-de-molay
+commons: Templars on Stake.jpg
+legende: Des Templiers sur le bûcher, miniature du XIVe siècle
+credit: enluminure anonyme, XIVe siècle
+pour: malediction-de-jacques-de-molay, philippe-de-marigny
+
+= baphomet
+commons: Baphomet.png
+legende: Le Baphomet dessiné par Éliphas Lévi pour *Dogme et rituel de la haute magie*
+credit: Éliphas Lévi, 1856
+pour: baphomet
+
+= baphomet-2
+commons: Portret van oriëntalist Joseph von Hammer-Purgstall, RP-P-1910-81.jpg
+legende: Joseph von Hammer-Purgstall, qui fit en 1818 du Baphomet une idole gnostique
+credit: gravure, Rijksmuseum
+pour: baphomet
+
+= templiers-et-graal
+commons: Codex Manesse 149v Wolfram von Eschenbach.jpg
+legende: Wolfram von Eschenbach, auteur du *Parzival*, dans le Codex Manesse
+credit: Codex Manesse, v. 1305-1315
+pour: templiers-et-graal
+
+= chapelle-de-rosslyn
+commons: Rosslyn Chapel Exterior.jpg
+legende: La chapelle de Rosslyn, au sud d'Édimbourg
+credit: Anthonyrandell, 2022
+pour: chapelle-de-rosslyn
+
+= chapelle-de-rosslyn-2
+commons: Apprentice Pillar in de Rosslyn Chapel Roslin 'Prentice Pillar (titel op object), RP-F-2001-7-343-18.jpg
+legende: Le « pilier de l'apprenti » de Rosslyn, photographié vers 1855
+credit: photographie anonyme, v. 1852-1862, Rijksmuseum
+pour: chapelle-de-rosslyn
+
+= templiers-en-ecosse
+commons: Old Parish Church, Temple, Western Facade.jpg
+legende: L'ancienne église de Temple, en Midlothian, sur le site de Balantrodoch
+credit: Wilmm, 2019
+pour: templiers-en-ecosse, balantrodoch
+
+= rennes-le-chateau
+commons: Rennes-le-Château - Tour Magdala 01.jpg
+legende: La tour Magdala, bâtie par l'abbé Saunière à Rennes-le-Château
+credit: Tylwyth Eldar, 2019
+pour: rennes-le-chateau
+
+= flotte-de-la-rochelle
+commons: Commanderie des Templiers de La Rochelle - Porte de la rue du Temple (1700).png
+legende: La porte de la maison du Temple de La Rochelle, rue du Temple, telle qu'elle était vers 1700
+credit: Émile Couneau, 1904
+pour: flotte-de-la-rochelle, la-rochelle
+
+= templiers-en-amerique
+commons: Island and Wharf, Oak Island, Nova Scotia, Canada, August 1931.jpg
+legende: Oak Island, en Nouvelle-Écosse, en août 1931
+credit: Richard McCully, 1931
+pour: templiers-en-amerique
+
+= templiers-en-amerique-2
+commons: Newport Tower - Newport, RI (51488606239).jpg
+legende: La tour de Newport (Rhode Island), un moulin du XVIIe siècle
+credit: Ajay_suresh, 2021
+pour: templiers-en-amerique
+
+= franc-maconnerie-et-templiers
+commons: Derla Manuscripts, The Strict Observance.jpg
+legende: Un manuscrit de la Stricte Observance templière, 1775
+credit: manuscrit anonyme, 1775
+pour: franc-maconnerie-et-templiers, stricte-observance
+
+= stricte-observance
+commons: Karl Gotthelf von Hund und Altengrotkau.jpg
+legende: Le baron Karl Gotthelf von Hund, fondateur de la Stricte Observance
+credit: auteur inconnu
+pour: stricte-observance
+
+= neo-templarisme
+commons: Fabré-Palaprat en grand-maître de l'odre des templiers.jpg
+legende: Bernard-Raymond Fabré-Palaprat en grand maître de son ordre du Temple « restauré »
+credit: auteur inconnu, 1838
+pour: neo-templarisme
+
+= vendredi-13
+commons: Tournachon, Gaspard-Félix - Gioacchino Rossini (1792-1868) (Zeno Fotografie).jpg
+legende: Gioacchino Rossini, photographié par Nadar : sa mort un vendredi 13, en 1868, fut remarquée
+credit: Nadar
+pour: vendredi-13
+
+= suaire-de-turin-et-templiers
+commons: Shroud of Lirey Pilgrim Badge.jpg
+legende: L'enseigne de pèlerinage de Lirey, la plus ancienne image du suaire, dessinée en 1865
+credit: Arthur Forgeais, 1865
+pour: suaire-de-turin-et-templiers
+
+= templiers-et-cathares
+commons: Cathars expelled.JPG
+legende: L'expulsion des habitants de Carcassonne en 1209, enluminure du XVe siècle
+credit: atelier du Maître de Boucicaut, v. 1415
+pour: templiers-et-cathares
+
+= templiers-dans-la-litterature
+commons: Leon Cogniet - Rebecca and Brian de Bois-Guilbert WLC WLC P279.jpg
+legende: Rebecca et le Templier Brian de Bois-Guilbert, personnages d'*Ivanhoé*, peints par Léon Cogniet
+credit: Léon Cogniet, 1828, Wallace Collection
+pour: templiers-dans-la-litterature
+
+= laon
+commons: Laon Chapelle des Templiers.JPG
+legende: La chapelle des Templiers de Laon, dont le plan centré a nourri les lectures symboliques
+credit: Claude Shoshany, 2002
+pour: laon, symbolisme-templier
+
+= graffiti-de-domme-et-chinon
+commons: Chinon (37) Forteresse royale - Tour du Coudray - 01.jpg
+legende: La tour du Coudray, à Chinon, où les dignitaires furent détenus en 1308
+credit: GO69, 2024
+pour: graffiti-de-domme-et-chinon, chinon
+
+= graffiti-de-domme-et-chinon-2
+commons: Eure Gisors Chateau Cour Prisonnier - panoramio.jpg
+legende: La tour du Prisonnier, au château de Gisors
+credit: Rene Boulay, 2015
+pour: graffiti-de-domme-et-chinon, gisors
+
+= chateau-pelerin
+commons: Ruins on the west side of Athlît. The fortress was built by the Templars in the year 1218 and was the last place held by the crusaders in Palestine. It was taken by the Sultan Melek el (NYPL b10607452-80631).jpg
+legende: Les ruines de Château Pèlerin, à Atlit, photographiées en 1881
+credit: photographie, 1881, New York Public Library
+pour: chateau-pelerin, tete-de-templiers
+
+= fondation-de-l-ordre
+commons: King Baldwin II and the Templars.jpg
+legende: Baudouin II tient conseil, et les premiers Templiers partent en mission : miniature de l'*Histoire d'Outremer*
+credit: enluminure anonyme, v. 1280
+pour: fondation-de-l-ordre
+
+= concile-de-troyes
+commons: Institution de l Ordre du Temple 1128 par Granet (restored).jpg
+legende: La reconnaissance de l'ordre du Temple au concile de Troyes, imaginée par Granet
+credit: François-Marius Granet, v. 1840
+pour: concile-de-troyes
+
+= omne-datum-optimum
+commons: Bene valete of Pope Innocent II.jpg
+legende: La souscription d'Innocent II, « Bene valete », au bas d'une charte de 1134
+credit: chancellerie pontificale, 1134
+pour: omne-datum-optimum
+
+= omne-datum-optimum-2
+commons: Pope Innocent II – Santa Maria in Trastevere.jpg
+legende: Innocent II, mosaïque de Santa Maria in Trastevere, à Rome
+credit: Hugo DK, 2019
+pour: omne-datum-optimum
+
+= deuxieme-croisade
+commons: Siege of Damascus, second crusade.jpg
+legende: Le siège de Damas (1148), enluminé par Jean Colombe dans les *Passages d'outremer*
+credit: Jean Colombe, v. 1474
+pour: deuxieme-croisade
+
+= deuxieme-croisade-2
+commons: Louis VII during the battle of Mount Cadmus, 1148.jpg
+legende: Louis VII au combat du mont Cadmos, en janvier 1148, gravure du XIXe siècle
+credit: gravure, v. 1886
+pour: deuxieme-croisade
+
+= siege-d-ascalon
+commons: Siege of Ascalon (1153).jpg
+legende: Le siège d'Ascalon par Baudouin III, enluminé par Jean Colombe
+credit: Jean Colombe, v. 1474
+pour: siege-d-ascalon
+
+= bataille-de-montgisard
+commons: Schlacht von Montgisard 2.jpg
+legende: La bataille de Montgisard (25 novembre 1177), peinte pour Versailles ; le titre du tableau la date à tort du 18 novembre
+credit: Charles-Philippe Larivière, 1842-1844
+pour: bataille-de-montgisard, baudouin-iv-de-jerusalem
+
+= gue-de-jacob
+commons: NEcornerChastellet2009.JPG
+legende: L'angle nord-est du Chastellet, au Gué de Jacob
+credit: Wilson44691, 2009
+pour: gue-de-jacob
+
+= bataille-de-hattin-2
+commons: Hattin Estoire d'Eracles.jpg
+legende: La bataille de Hattin dans un manuscrit de l'*Estoire d'Eracles*
+credit: enluminure anonyme, 1440-1445
+pour: bataille-de-hattin
+
+= bataille-de-hattin-3
+commons: Saladin Guy.jpg
+legende: Saladin enlève la Vraie Croix au roi Guy de Lusignan, dessin de Matthieu Paris
+credit: Matthieu Paris, XIIIe siècle
+pour: bataille-de-hattin, saladin, guy-de-lusignan
+
+= troisieme-croisade
+commons: Philippe Auguste et Richard Acre.jpg
+legende: Philippe Auguste et Richard Cœur de Lion reçoivent les clés d'Acre en 1191, dans les *Grandes Chroniques de France*
+credit: enluminure, v. 1375-1380
+pour: troisieme-croisade, richard-coeur-de-lion
+
+= septieme-croisade
+commons: Damiette1249.jpg
+legende: La prise de Damiette par Louis IX en 1249, dans un manuscrit de la *Vie de saint Louis* de Joinville
+credit: enluminure, 1330-1340
+pour: septieme-croisade, damiette, louis-ix, jean-de-joinville
+
+= chute-de-safed
+commons: Safed-52.jpg
+legende: Les vestiges de la forteresse de Safed, croisée puis mamelouke
+credit: Bukvoed, 2011
+pour: chute-de-safed, safed
+
+= chute-d-acre
+commons: 1291 siège d'Acre.jpg
+legende: Le siège d'Acre de 1291, peint par Dominique Papety pour la salle des Croisades de Versailles
+credit: Dominique Papety, 1845
+pour: chute-d-acre
+
+= ile-de-ruad
+commons: Castle in the island of Tortosa - Mayer Luigi - 1810.jpg
+legende: L'île de Ruad, face à Tortose, dessinée par Luigi Mayer à la fin du XVIIIe siècle
+credit: Luigi Mayer, publié en 1810
+pour: ile-de-ruad
+
+= projets-de-fusion-des-ordres
+commons: Ramon Llull, with his disciple Thomas le Myesier, presenting three anthologies to the Queen of France and Navarre.jpg
+legende: Raymond Lulle, partisan de la fusion des ordres, présente ses livres à la reine de France
+credit: miniature, v. 1325
+pour: projets-de-fusion-des-ordres
+
+= arrestation-du-13-octobre-1307
+commons: Maître de Boucicaut Clément V et Philippe le Bel.jpg
+legende: Clément V et Philippe le Bel face aux Templiers, enluminure du XVe siècle
+credit: atelier du Maître de Boucicaut, XVe siècle
+pour: arrestation-du-13-octobre-1307, clement-v
+
+= parchemin-de-chinon
+commons: Pergamino de chinon.jpg
+legende: Le parchemin de Chinon, procès-verbal de l'absolution accordée en août 1308
+credit: Archives apostoliques du Vatican
+pour: parchemin-de-chinon, hugues-de-pairaud, geoffroy-de-gonneville, raimbaud-de-caron
+
+= concile-de-vienne
+commons: Paul-Lacroix Council-Vienne.jpg
+legende: Le concile de Vienne, gravure du XIXe siècle
+credit: Paul Lacroix, XIXe siècle
+pour: concile-de-vienne
+
+= bucher-de-jacques-de-molay
+commons: Boucicaut Master Illuminator (French, active about 1390 - 1430) - The Knights Templar Burned in the Presence of Philip the Fair and His Courtiers - Google Art Project.jpg
+legende: Des Templiers brûlés en présence de Philippe le Bel, enluminure du Maître de Boucicaut (Getty Museum)
+credit: Maître de Boucicaut, v. 1413-1415
+pour: bucher-de-jacques-de-molay
+
+= devolution-des-biens
+commons: Ad Providam.jpg
+legende: La bulle *Ad providam* du 2 mai 1312, qui donne les biens du Temple aux Hospitaliers
+credit: Archives nationales, AE/II/1634
+pour: devolution-des-biens, hospitaliers
+
+= templiers-et-reconquista
+commons: Miravet, castell PM 45568.jpg
+legende: Le château de Miravet, sur l'Èbre, assiégé en 1308
+credit: PMRMaeyaert, 2010
+pour: templiers-et-reconquista, miravet
+
+= templiers-et-reconquista-2
+commons: Monzon - Castillo - Templo - Exterior.jpg
+legende: Le château de Monzón, en Aragon
+credit: Ecelan, 2006
+pour: templiers-et-reconquista, monzon
+
+= templiers-et-saint-empire
+commons: Dorfkirche Tempelhof mit Teich.jpg
+legende: L'église de village de Tempelhof, à Berlin, sur une ancienne terre du Temple
+credit: StefanWedrac, 2020
+pour: templiers-et-saint-empire, tempelhof
+
+= templiers-en-angleterre
+commons: Temple Church, Temple, London EC4 (2).jpeg
+legende: L'église du Temple, à Londres, consacrée en 1185
+credit: John Salmon, 2009
+pour: templiers-en-angleterre, temple-church-londres
+
+= bernard-de-clairvaux
+commons: K105354-Bernard of Clairvaux (British Library).jpg
+legende: Bernard de Clairvaux dans une enluminure des Pays-Bas du Sud
+credit: enluminure anonyme, XVe siècle, British Library
+pour: bernard-de-clairvaux, de-laude-novae-militiae
+
+= hugues-de-champagne
+commons: Charte Hugues de Champagne.jpg
+legende: Une charte du comte Hugues de Champagne pour l'abbaye Saint-Loup de Troyes
+credit: charte, fin du XIe siècle
+pour: hugues-de-champagne
+
+= baudouin-ii-de-jerusalem
+commons: Baldwin II, Fulk, and Melisende.jpg
+legende: Baudouin II, sur son lit de mort, confirme les droits de Foulques et de Mélisende
+credit: enluminure anonyme, XIIIe siècle
+pour: baudouin-ii-de-jerusalem, foulques-d-anjou
+
+= foulques-d-anjou
+commons: Couronnement de Foulque de Jérusalem - Français 2824.jpg
+legende: Le couronnement de Foulques, roi de Jérusalem (BnF, fr. 2824)
+credit: enluminure anonyme
+pour: foulques-d-anjou
+
+= baudouin-iv-de-jerusalem
+commons: Seal of Baldwin IV.png
+legende: Le sceau de Baudouin IV, roi de Jérusalem
+credit: sceau royal, 1174-1185
+pour: baudouin-iv-de-jerusalem
+
+= guy-de-lusignan
+commons: Français 2629, fol. 300, Couronnement de Gui de Lusignan.jpeg
+legende: Le couronnement de Guy de Lusignan (BnF, fr. 2629)
+credit: Maître de l'Échevinage de Rouen, XVe siècle
+pour: guy-de-lusignan
+
+= renaud-de-chatillon
+commons: Rnaud prissonier.jpg
+legende: Renaud de Châtillon prisonnier, dans une miniature de 1337
+credit: Maître du Roman de Fauvel, 1337
+pour: renaud-de-chatillon
+
+= saladin
+commons: Statue of Saladin Damascus.jpg
+legende: La statue équestre de Saladin devant la citadelle de Damas
+credit: Graham van der Wielen, 2008
+pour: saladin
+
+= richard-coeur-de-lion
+commons: Church of Fontevraud Abbey Richard I effigy.jpg
+legende: Le gisant de Richard Cœur de Lion à l'abbaye de Fontevraud
+credit: Adam Bishop, 2011
+pour: richard-coeur-de-lion
+
+= frederic-ii
+commons: Frederick II and eagle.jpg
+legende: Frédéric II et son faucon, dans son traité *De arte venandi cum avibus*
+credit: manuscrit du XIIIe siècle, Bibliothèque vaticane
+pour: frederic-ii
+
+= baybars
+commons: Sultan Al-Zahir Rukn al din Baybars, Minted at Alexandria, 1260-1277 CE, Fitzwilliam Museum.jpg
+legende: Une monnaie de Baybars frappée à Alexandrie (Fitzwilliam Museum)
+credit: SpeakingArch, 2026
+pour: baybars
+
+= philippe-le-bel-2
+commons: Philip iv and family.jpg
+legende: Philippe le Bel entouré de sa famille, enluminure du début du XIVe siècle
+credit: enluminure anonyme, v. 1313
+pour: philippe-le-bel
+
+= clement-v
+commons: Hayton of Corycus before Pope Clement V.jpg
+legende: Clément V reçoit le rapport de l'Arménien Hayton sur les Mongols, en 1307
+credit: Maître du Couronnement de Charles VI, v. 1400
+pour: clement-v
+
+= guillaume-de-nogaret
+commons: Lettre autographe de Guillaume de Nogaret à Etienne de Suisy 1 - Archives Nationales - AE-II-1713.jpg
+legende: Une lettre autographe de Guillaume de Nogaret, mars 1303
+credit: Archives nationales, AE/II/1713
+pour: guillaume-de-nogaret
+
+= guillaume-de-nogaret-2
+commons: BonifaciusVIII-Sciarra-Nogaret.jpg
+legende: L'attentat d'Anagni (1303) : Nogaret retient Sciarra Colonna, gravure du XIXe siècle
+credit: gravure anonyme, XIXe siècle
+pour: guillaume-de-nogaret
+
+= enguerrand-de-marigny
+commons: ExecutionMarigny.jpg
+legende: La pendaison d'Enguerrand de Marigny à Montfaucon, en 1315, vue au XIXe siècle
+credit: Alphonse de Neuville, 1883
+pour: enguerrand-de-marigny
+
+= roger-de-flor
+commons: Entrada de Roger de Flor en Constantinopla (Palacio del Senado de España).jpg
+legende: L'entrée de Roger de Flor à Constantinople, peinte en 1888
+credit: José Moreno Carbonero, 1888
+pour: roger-de-flor
+
+= jacques-ii-d-aragon
+commons: Envoys from Sicily in front of James II of Aragon, 1294.png
+legende: Des envoyés siciliens devant Jacques II d'Aragon, tableau du XIXe siècle
+credit: Josep Serra i Porsón, v. 1872
+pour: jacques-ii-d-aragon
+
+= denis-ier-de-portugal
+commons: Túmulo de D. Dinis, Mosteiro de Odivelas 03.jpg
+legende: Le tombeau de Denis Ier de Portugal au monastère d'Odivelas
+credit: GualdimG, 2023
+pour: denis-ier-de-portugal, ordre-du-christ
+
+= edouard-ii
+commons: Tomb of Edward II, Gloucester Cathedral 01.jpg
+legende: Le tombeau d'Édouard II, cathédrale de Gloucester
+credit: Poliphilo, 2020
+pour: edouard-ii
+
+= tomar-2
+commons: Castelo de Tomar 1.jpg
+legende: Le château de Tomar, élevé à partir de 1160 par Gualdim Pais
+credit: Sanrafae, 2021
+pour: tomar
+
+= templiers-au-portugal
+commons: D. Gualdim Pais, Mestre dos Templários - História de Portugal, popular e ilustrada.png
+legende: Gualdim Pais, maître du Temple au Portugal, tel que l'imagine un illustrateur de 1899
+credit: Alfredo Roque Gameiro, 1899
+pour: templiers-au-portugal
+
+= almourol
+commons: Castelo de Almourol - 1.jpg
+legende: Le château d'Almourol, sur un îlot du Tage
+credit: Marta Magalhães, 2012
+pour: almourol
+
+= miravet
+commons: 022 Castell de Miravet, muralla nord.JPG
+legende: Le mur nord du château de Miravet
+credit: Enfo, 2014
+pour: miravet
+
+= peniscola
+commons: Castillo de Peñíscola desde el mar.jpg
+legende: Le château de Peñíscola vu de la mer
+credit: Millars, 2006
+pour: peniscola
+
+= ponferrada
+commons: Castillo-templarios-ponferrada.jpg
+legende: Le château des Templiers de Ponferrada, sur le chemin de Compostelle
+credit: Antonio Moreno Nadal, 2021
+pour: ponferrada
+
+= segovie-vera-cruz
+commons: Iglesia de la Vera Cruz - 01.jpg
+legende: L'église de la Vera Cruz, à Ségovie
+credit: Carlos Delgado, 2012
+pour: segovie-vera-cruz
+
+= temple-church-londres
+commons: The round nave of the Temple Church - geograph.org.uk - 8094507.jpg
+legende: La nef ronde de l'église du Temple de Londres
+credit: Marathon, 2025
+pour: temple-church-londres
+
+= cressing-temple
+commons: Cressing Temple, Barley Barn.jpg
+legende: La grange à orge de Cressing Temple, en Essex
+credit: Michael Coppins, 2019
+pour: cressing-temple
+
+= garway
+commons: Garway, St. Michael's Church - geograph.org.uk - 4621911.jpg
+legende: L'église Saint-Michel de Garway, dans le Herefordshire
+credit: Michael Garlick, 2015
+pour: garway
+
+= san-bevignate
+commons: Complesso templare di San Bevignate.jpg
+legende: L'église San Bevignate, à Pérouse
+credit: photographie reproduite avec l'accord de la commune de Pérouse, 2002
+pour: san-bevignate
+
+= chwarszczany
+commons: Saint Stanislaus Kostka church in Chwarszczany (3).jpg
+legende: La chapelle des Templiers de Chwarszczany, en Poméranie occidentale
+credit: MOs810, 2017
+pour: chwarszczany
+
+= templstejn
+commons: Templštejn (2).jpg
+legende: Les ruines du château de Templštejn, en Moravie
+credit: Palickap, 2020
+pour: templstejn
+
+= guillaume-de-tyr
+commons: BNF, Mss fr 68, folio 251v.jpg
+legende: L'assemblée d'Acre de 1148, dans un manuscrit de la traduction française de Guillaume de Tyr (BnF, fr. 68)
+credit: enluminure, XVe siècle
+pour: guillaume-de-tyr
+
+= jacques-de-vitry
+commons: Seal of James of Vitry.jpg
+legende: Le sceau de Jacques de Vitry, évêque d'Acre
+credit: dessin publié par T. A. Archer et C. L. Kingsford, 1894
+pour: jacques-de-vitry
+
+= jacques-de-vitry-2
+commons: Houghton MS Riant 35 - de Vitry page 1.jpg
+legende: La première page des *Sermones vulgares* de Jacques de Vitry (Houghton Library)
+credit: manuscrit du XIIIe siècle
+pour: jacques-de-vitry
+
+= matthieu-paris
+commons: BritLibRoyal14CVIIFol006rMattParisSelfPort.jpg
+legende: Matthieu Paris se représente lui-même dans un de ses manuscrits (British Library, Royal 14 C VII)
+credit: Matthieu Paris, v. 1250
+pour: matthieu-paris
+
+= usama-ibn-munqidh
+commons: Shayzar3.jpg
+legende: Le château de Chayzar, en Syrie, berceau de la famille d'Usama
+credit: LorisRomito, 2007
+pour: usama-ibn-munqidh
+
+= jean-de-joinville
+commons: Jean de Joinville présente sa Vie de Saint Louis au roi Louis X le Hutin.jpg
+legende: Jean de Joinville présente sa *Vie de saint Louis* au roi Louis X
+credit: Mahiet, 1330-1340
+pour: jean-de-joinville
+
+= actes-du-proces
+commons: Exécution des Templiers - Français 236.jpg
+legende: L'exécution des Templiers, enluminure du XVe siècle (BnF, fr. 236)
+credit: enluminure anonyme, XVe siècle
+pour: actes-du-proces
+
+= historiographie-des-templiers
+commons: François Just Marie Raynouard.jpg
+legende: François Raynouard, qui défendit l'innocence des Templiers en 1813
+credit: gravure de Bonvoisin et Couché
+pour: historiographie-des-templiers
+
+= historiographie-des-templiers-2
+commons: Jules Michelet par Thomas Couture.jpg
+legende: Jules Michelet, éditeur des actes du procès, peint par Thomas Couture
+credit: Thomas Couture, v. 1865
+pour: historiographie-des-templiers
+
+= temple-en-champagne
+commons: Plan de la Ferme de Cerre (Arch Dép Aube 31 H 16ter).png
+legende: Plan de la ferme de Cerre, dans l'Aube, bien du Temple puis de l'Hôpital, d'après un arpentage ancien
+credit: Archives départementales de l'Aube, 31 H 16ter
+pour: temple-en-champagne
+
+= payns
+commons: Payns cuve baptismale Stat monum Aube 00684.JPG
+legende: La cuve baptismale de l'église de Payns, dessinée en 1884
+credit: Charles Fichot, 1884
+pour: payns
+
+= troyes
+commons: Hotel-du-Commandeur-a-Troyes DSC 373.jpg
+legende: L'hôtel du Commandeur, à Troyes
+credit: Pline, 2012
+pour: troyes
+
+= clairvaux
+commons: Abbaye de Clairvaux gravure XVIIIe.jpg
+legende: L'abbaye de Clairvaux, gravure ancienne
+credit: Israël Silvestre
+pour: clairvaux
+
+= foret-d-orient
+commons: Lac du temple (Aube).jpg
+legende: Le lac du Temple, dans la forêt d'Orient
+credit: Titoine08, 2009
+pour: foret-d-orient
+
+= avalleur
+commons: Commanderie d'Avalleur 07608.jpg
+legende: La commanderie d'Avalleur, dessinée en 1837
+credit: Charles Fichot, 1837
+pour: avalleur
+
+= coulours
+commons: Coulours, commanderie 01.jpg
+legende: La commanderie de Coulours, dans le pays d'Othe
+credit: Robin Chubret, 2018
+pour: coulours
+
+= enclos-du-temple
+commons: Hoffbauer-Brezet-Temple1734.jpg
+legende: L'enclos du Temple en 1734, d'après le plan dit de Turgot
+credit: Théodor Hoffbauer, 1882
+pour: enclos-du-temple
+
+= ile-aux-juifs
+commons: Square du Vert-Galant seen from the Seine.jpg
+legende: Le square du Vert-Galant, à la pointe de l'île de la Cité, là où se trouvait l'île aux Juifs
+credit: DiscoA340, 2022
+pour: ile-aux-juifs
+
+= la-villedieu-elancourt
+commons: Chapelle de la Commanderie de la Villedieu à Élancourt - 2013.JPG
+legende: La chapelle de la commanderie de la Villedieu, à Élancourt, après sa restauration
+credit: Fitamant, 2013
+pour: la-villedieu-elancourt
+
+= coulommiers
+commons: Coulommiers (77), commanderie de Coulommiers, salle capitulaire, vue depuis le sud-est.jpg
+legende: La salle capitulaire de la commanderie de Coulommiers
+credit: Pierre Poschadel, 2022
+pour: coulommiers
+
+= chevru
+commons: Commanderie de Chevru.jpg
+legende: La chapelle de la commanderie de Chevru
+credit: Anthony Rauchen, 2016
+pour: chevru
+
+= mont-de-soissons
+commons: Commanderie serches (3).JPG
+legende: La commanderie du Mont-de-Soissons, à Serches
+credit: Pascal3012, 2014
+pour: mont-de-soissons
+
+= neuilly-sous-clermont
+commons: Neuilly-sous-Clermont - Commanderie - 1.JPG
+legende: La commanderie de Neuilly-sous-Clermont
+credit: Benjism89, 2009
+pour: neuilly-sous-clermont
+
+= sours
+commons: Commanderie de Sours.JPG
+legende: La commanderie de Sours
+credit: Fitamant, 2015
+pour: sours
+
+= arville
+commons: Arville - Commanderie 06.jpg
+legende: Le colombier de la commanderie d'Arville
+credit: Selbymay, 2012
+pour: arville
+
+= gisors
+commons: Gisors - Tour du Prisonnier - Graffiti Templiers.jpg
+legende: Graffiti de la tour du Prisonnier, à Gisors, attribués sans preuve aux Templiers détenus
+credit: FHd, 2026
+pour: gisors, graffiti-de-domme-et-chinon
+
+= sainte-vaubourg
+commons: Grange dîmière de la commanderie de Sainte-Vaubourg 01.jpg
+legende: La grange de la commanderie de Sainte-Vaubourg
+credit: MAILLARDJL, 2018
+pour: sainte-vaubourg
+
+= temple-en-lorraine
+commons: Gelucourt remains of the Knights Templar's chapel.JPG
+legende: Les restes de la chapelle des Templiers de Gelucourt, en Moselle
+credit: Marc Baronnet, 2014
+pour: temple-en-lorraine
+
+= libdeau
+commons: Chapelle de la commanderie templière de Libdeau à Toul.jpg
+legende: La façade de la chapelle templière de Libdeau, à Toul
+credit: PIPERPA12, 2010
+pour: libdeau
+
+= xugney
+commons: Xugney, Chapelle Saint-Jean-Baptiste 1.jpg
+legende: La chapelle Saint-Jean-Baptiste de Xugney
+credit: Rauenstein, 2014
+pour: xugney
+
+= xugney-2
+commons: Chapelle de Xugney.jpg
+legende: Plan de la chapelle de Xugney, publié en 1913
+credit: Durand, 1913
+pour: xugney
+
+= marbotte
+commons: Marbotte-Apremont-1916.jpg
+legende: Marbotte en 1916, pendant la Grande Guerre
+credit: Agence Rol, 1916
+pour: marbotte
+
+= temple-en-alsace
+commons: Rixheim-Ancienne commanderie (1).jpg
+legende: La commanderie de Rixheim, teutonique et non templière, souvent confondue
+credit: Ji-Elle, 2012
+pour: temple-en-alsace
+
+= bergheim
+commons: Le Tempelhof. (1).jpg
+legende: Le Tempelhof de Bergheim
+credit: Espirat, 2024
+pour: bergheim
+
+= bure-les-templiers
+commons: Commanderie de Bures.jpg
+legende: La commanderie de Bure
+credit: Xavierrom
+pour: bure-les-templiers
+
+= epailly
+commons: Epailly05.jpg
+legende: La chapelle de la commanderie d'Épailly, à Courban
+credit: Mamapig, 2010
+pour: epailly
+
+= epailly-2
+commons: Epailly10.jpg
+legende: L'intérieur de la chapelle d'Épailly
+credit: Mamapig, 2010
+pour: epailly
+
+= molay
+commons: Molay 70120 vue depuis la Pierre qui vire 08 2009.JPG
+legende: Le village de Molay, en Haute-Saône
+credit: Rgis9713, 2009
+pour: molay
+
+= carentoir
+commons: Carentoir - Chapelle Saint-Jean-Baptiste, Le Temple 02.JPG
+legende: La chapelle Saint-Jean-Baptiste du Temple, à Carentoir
+credit: Pymouss, 2014
+pour: carentoir
+
+= coudrie
+commons: Commanderie de Coudrie (1).jpg
+legende: La commanderie de Coudrie, à Challans
+credit: Chris06, 2021
+pour: coudrie
+
+= la-rochelle
+commons: La Rochelle - un coin de la cour de la commanderie, 101324, R674.jpg
+legende: Un coin de la cour de la commanderie, à La Rochelle, peint par Corot
+credit: Jean-Baptiste Camille Corot
+pour: la-rochelle
+
+= cressac
+commons: Cressac-Saint-Genis 16 Chapelle Templiers façade 2013.jpg
+legende: La façade de la chapelle des Templiers de Cressac
+credit: JLPC, 2013
+pour: cressac
+
+= jerusalem-temple-de-salomon
+commons: Jerusalem Al-Aqsa Mosque BW 2010-09-21 06-38-12.JPG
+legende: La mosquée al-Aqsa, que les Francs appelaient Temple de Salomon, premier siège de l'ordre
+credit: Berthold Werner, 2010
+pour: jerusalem-temple-de-salomon
+
+= jerusalem-temple-de-salomon-2
+commons: Solomon's Stables LOC matpc.04873.jpg
+legende: Les « écuries de Salomon », sous l'esplanade, au début du XXe siècle
+credit: collection Matson, Library of Congress
+pour: jerusalem-temple-de-salomon
+
+= acre
+commons: Acre 201016 Templar Tunnel 01.jpg
+legende: Le tunnel des Templiers, à Acre
+credit: Oren Rozen, 2016
+pour: acre
+
+= chateau-pelerin-2
+commons: Atlit castel 1903.jpg
+legende: Château Pèlerin en 1903
+credit: William Sanday, 1903
+pour: chateau-pelerin
+
+= safed
+commons: Citadel Garden Safed Avney Moreshet 4bb310cb.jpg
+legende: La citadelle de Safed
+credit: Shlomo Rodad, 2012
+pour: safed
+
+= tortose
+commons: Tartus fortress chapel 0788.jpg
+legende: La chapelle du château templier de Tortose
+credit: Dosseman, 2010
+pour: tortose
+
+= chastel-blanc
+commons: Safita Chastel Blanc Church of St. Michael 3689.jpg
+legende: La chapelle Saint-Michel, au cœur du donjon de Chastel Blanc
+credit: Dosseman, 2008
+pour: chastel-blanc
+
+= beaufort
+commons: Chateau de Beaufort.jpg
+legende: Le château de Beaufort, au-dessus du Litani
+credit: David Germain-Robin, 2005
+pour: beaufort
+
+= gaza
+commons: Grande Mosquée - Ancienne église du 12e siècle, destructions - Gaza - Médiathèque de l'architecture et du patrimoine - AP62T135806.jpg
+legende: La grande mosquée de Gaza, ancienne église du XIIe siècle, en 1918
+credit: Gabriel Bretocq, 1918
+pour: gaza
+
+= sidon
+commons: Sidon Sea Castle, Sidon, Lebanon.jpg
+legende: Le château de la mer, à Sidon
+credit: Vyacheslav Argenberg, 2008
+pour: sidon
+
+= chypre-templiere
+commons: Gastria.jpg
+legende: Les vestiges du château templier de Gastria, à Chypre
+credit: Palates2001, 2024
+pour: chypre-templiere
+
+= tripoli
+commons: The Citadel of Raymond de Saint-Gilles, Tripoli, Lebanon.jpg
+legende: La citadelle de Raymond de Saint-Gilles, à Tripoli
+credit: Vyacheslav Argenberg, 2008
+pour: tripoli
+
+= antioche
+commons: Antioch (Antakiyeh) and environs. City wall on Mt. Silpius LOC matpc.02194.jpg
+legende: Les murailles d'Antioche sur le mont Silpius, vers 1900
+credit: collection Matson, Library of Congress
+pour: antioche
+
+= jaffa
+commons: 141729 old jaffa st. peters church PikiWiki Israel.jpg
+legende: Le vieux Jaffa et l'église Saint-Pierre
+credit: Shlomo Rodad, PikiWiki Israel
+pour: jaffa
+
+= bataille-d-arsouf
+commons: Apollonia-Arsuf-104.jpg
+legende: Les ruines d'Arsouf, l'antique Apollonia, au nord de Tel-Aviv
+credit: Bukvoed, 2007
+pour: bataille-d-arsouf
+
+= damiette
+commons: Friezen vallen de toren van Damiate aan.jpg
+legende: Les croisés frisons attaquent la tour de la Chaîne, à Damiette, en 1218 : dessin de Matthieu Paris
+credit: Matthieu Paris, XIIIe siècle
+pour: damiette, cinquieme-croisade
+
+= mansourah
+commons: Mansura.jpg
+legende: La bataille de Mansourah dans un manuscrit de la *Vie de saint Louis* (BnF, fr. 5716)
+credit: enluminure anonyme, v. 1330
+pour: mansourah
+
+= hospitaliers
+commons: Seal of Raymond du Puy.jpg
+legende: Le sceau de Raymond du Puy, maître de l'Hôpital, dessiné en 1884
+credit: Whitworth Porter, 1884
+pour: hospitaliers
+
+= teutoniques
+commons: Panorama of Malbork Castle, part 4.jpg
+legende: Le château de Malbork, siège de l'ordre Teutonique en Prusse
+credit: DerHexer et Carschten, 2010
+pour: teutoniques
+
+= teutoniques-2
+commons: Montfort fortress 2014 (8).jpg
+legende: Le château de Montfort, en Galilée, première forteresse de l'ordre Teutonique
+credit: Athanasius Soter, 2014
+pour: teutoniques
+
+= ordre-de-calatrava
+commons: Calatrava la Nueva 4.jpg
+legende: Le château-couvent de Calatrava la Nueva
+credit: Xemenendura, 2019
+pour: ordre-de-calatrava
+
+= ordre-de-santiago
+commons: Uclés - Real Monasterio de Santiago 01.JPG
+legende: Le monastère d'Uclés, maison mère de l'ordre de Santiago
+credit: Zarateman, 2014
+pour: ordre-de-santiago
+
+= ordre-de-montesa
+commons: Castell de Montesa.jpg
+legende: Le château de Montesa
+credit: Enrique Calabuig, 2011
+pour: ordre-de-montesa
+
+= ordre-de-montesa-2
+commons: Paolo de San Leocadio - Virgin of the Knight of Montesa - WGA20715.jpg
+legende: La Vierge au chevalier de Montesa
+credit: Paolo da San Leocadio, fin du XVe siècle
+pour: ordre-de-montesa, ordres-militaires
+
+= ordre-du-christ
+commons: Order of Christ Portugal cross.png
+legende: La croix de l'ordre du Christ
+credit: RootOfAllLight, 2018
+pour: ordre-du-christ
+
+= ordre-du-saint-sepulcre
+commons: Church of the Holy Sepulchre, Jerusalem, 43.jpg
+legende: Le Saint-Sépulcre de Jérusalem
+credit: Hoshvilim, 2015
+pour: ordre-du-saint-sepulcre
+
+= ordres-militaires
+commons: Retrato de Jovem Cavaleiro da Ordem de Calatrava, c. 1592-1608, Juan Pantoja de la Cruz, PNSintra 01.jpg
+legende: Portrait d'un jeune chevalier de l'ordre de Calatrava, vers 1600
+credit: Juan Pantoja de la Cruz
+pour: ordres-militaires

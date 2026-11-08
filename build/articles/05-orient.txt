@@ -1,0 +1,468 @@
+# T+ — lot 05 : la Terre sainte et l'Orient. Dix-huit lieux : le siège de Jérusalem,
+# Acre, les châteaux du royaume et du comté de Tripoli, la marche de l'Amanus, Chypre,
+# les villes perdues, et les deux champs de bataille d'Égypte. Tous portent geo: et lieu:.
+
+@ jerusalem-temple-de-salomon
+cat: orient
+nom: Jérusalem, le Temple de Salomon
+alias: Templum Salomonis, mosquée al-Aqsa, al-Aqsa, esplanade des Mosquées, mont du Temple, Haram al-Charif, Écuries de Salomon, palais de Salomon, maison du Temple de Jérusalem
+dates: 1120 – 1187
+an: 1120
+fin: 1187
+def: La mosquée al-Aqsa, que les Francs appelaient Temple de Salomon, fut le premier siège de l'ordre, de 1120 à 1187 : les Templiers y ont pris leur nom, y ont bâti, et logeaient leurs chevaux dans les voûtes voisines dites Écuries de Salomon.
+texte: Quand les croisés prennent Jérusalem, le 15 juillet 1099, l'esplanade de l'ancien Temple porte deux sanctuaires musulmans. Le dôme du Rocher devient le *Templum Domini*, le Temple du Seigneur, dédié comme église en 1141 ; la mosquée al-Aqsa, au sud, est tenue pour le palais de Salomon, *Templum Salomonis*, et les premiers rois y logent. C'est dans une aile de ce palais que [[baudouin-ii-de-jerusalem|Baudouin II]] installe, en 1119 ou 1120, [[hugues-de-payns|Hugues de Payns]] et ses compagnons, et c'est de là que vient leur nom : les pauvres chevaliers du Christ et du Temple de Salomon (voir [[fondation-de-l-ordre]]). Le roi s'établit ensuite ailleurs dans la ville et laisse le bâtiment aux frères, qui en font leur maison chef : la résidence du maître, le lieu du [[chapitre-general|chapitre]], la caserne et l'écurie de l'ordre.
+texte: Les Templiers aménagent les lieux pendant près de soixante-dix ans. Ils agrandissent le porche — l'attribution est discutée —, ajoutent de part et d'autre de la salle de prière de longues annexes voûtées, dont celle de l'ouest est aujourd'hui la mosquée des femmes et celle de l'est abrite le Musée islamique, et bâtissent sur l'esplanade un cloître, une église et des dépendances. Les voûtes souterraines de l'angle sud-est, substructions antiques plusieurs fois rebâties, servent d'écuries : le pèlerin Jean de Wurtzbourg, vers 1165, dit qu'elles pouvaient contenir plus de deux mille chevaux et quinze cents chameaux, son compatriote Théodoric parle de dix mille chevaux ; les anneaux d'attache sont toujours visibles sur les piliers. C'est aussi là qu'[[usama-ibn-munqidh|Usama ibn Munqidh]], hôte des Templiers, priait dans un oratoire qu'ils lui laissaient.
+texte: Le 2 octobre 1187, [[saladin]] entre dans Jérusalem (voir [[bataille-de-hattin]]). En une semaine, il fait purifier al-Aqsa, enlever les latrines et les greniers installés par les Francs, et installer en novembre la chaire que Nur ad-Din avait fait faire pour ce jour. Les Templiers n'y reviendront pas : le traité de 1229 qui rend Jérusalem à [[frederic-ii|Frédéric II]] laisse l'esplanade aux musulmans (voir [[sixieme-croisade]]). De leur œuvre subsistent les annexes et des matériaux francs remployés dans la façade ; les écuries sont devenues en 1996 la mosquée Marwani. Le [[sceau-du-temple|sceau de l'ordre]] garda l'image d'un édifice à coupole, et le siège du Temple, passé à [[acre|Acre]] puis en [[chypre-templiere|Chypre]], ne porta plus jamais le nom qui l'avait fait naître.
+repere: 15 juillet 1099 — Prise de Jérusalem ; al-Aqsa devient le palais royal, dit Temple de Salomon.
+repere: 1120 — Baudouin II loge Hugues de Payns et ses compagnons dans une aile du palais.
+repere: 1141 — Dédicace du dôme du Rocher comme église du Temple du Seigneur.
+repere: v. 1165 — Jean de Wurtzbourg décrit les écuries des Templiers.
+repere: 2 octobre 1187 — Saladin reprend Jérusalem et rend al-Aqsa au culte musulman.
+repere: 1229 — Le traité de Jaffa rend la ville aux Francs, mais non l'esplanade.
+repere: 1996 — Les Écuries de Salomon sont aménagées en mosquée Marwani.
+attention: Aucune source médiévale ne dit que les Templiers aient fouillé sous le Temple à la recherche de l'arche d'alliance, du Graal ou d'un secret : l'idée vient de livres du XXe siècle (voir [[tresor-des-templiers]], [[templiers-et-graal]]). Les « Écuries de Salomon » ne doivent rien à Salomon non plus : ce sont des substructions hérodiennes, byzantines et omeyyades que les croisés ont baptisées ainsi.
+geo: 31.7761, 35.2356
+lieu: Esplanade des Mosquées, Jérusalem-Est, Israël / Palestine
+lien: wp Mosquée al-Aqsa
+lien: en Solomon's Stables
+sources: Wikipédia (fr) « Mosquée al-Aqsa » ; Wikipedia (en) « Al-Aqsa Mosque », « Solomon's Stables » ; Templerlexikon de l'université de Dresde, notices sur le Templum Salomonis
+voir: fondation-de-l-ordre, baudouin-ii-de-jerusalem, hugues-de-payns, sceau-du-temple, usama-ibn-munqidh, saladin, acre, sixieme-croisade
+
+@ acre
+cat: orient
+nom: Acre
+alias: Saint-Jean-d'Acre, Akko, Akka, Ptolémaïs, quartier du Temple d'Acre, forteresse du Temple d'Acre, tunnel des Templiers, Voûte d'Acre
+dates: 1191 – 1291
+an: 1191
+fin: 1291
+def: Port principal du royaume de Jérusalem et siège de l'ordre du Temple de 1191 à 1291, Acre a vu mourir Guillaume de Beaujeu et tomber la dernière forteresse templière de la ville, le 28 mai 1291 ; un tunnel redécouvert en 1994 relie encore son emplacement au port.
+texte: Prise par Baudouin Ier le 26 mai 1104 avec l'aide d'une flotte génoise, Acre devient le grand port du royaume : c'est là que débarquent pèlerins, croisés et marchandises d'Occident. Les [[ordre-du-temple|Templiers]] y ont une maison dès le XIIe siècle. La ville se rend à [[saladin]] après [[bataille-de-hattin|Hattin]], en 1187 ; les Francs l'assiègent d'août 1189 à juillet 1191 — [[gerard-de-ridefort|Gérard de Ridefort]] y est tué le 4 octobre 1189 — et [[richard-coeur-de-lion|Richard Cœur de Lion]] et Philippe Auguste la reprennent en juillet 1191 (voir [[troisieme-croisade]]). Jérusalem restant perdue, le maître et le couvent de l'ordre s'y établissent : pendant un siècle, Acre est la capitale du Temple, comme celle de l'[[hospitaliers|Hôpital]] et du royaume.
+texte: Le quartier du Temple occupe la pointe sud-ouest de la ville, au bord de la mer : une forteresse aux murs puissants flanquée de tours, la maison du maître, une église, des logis, que le [[templier-de-tyr|Templier de Tyr]], secrétaire du maître, a connus et décrits. De la forteresse, un passage souterrain d'environ 350 mètres, taillé dans le roc en demi-berceau et renforcé de pierres appareillées, mène au port intérieur, à l'est. Ce « tunnel des Templiers », comblé pendant des siècles, a été retrouvé en 1994, quand une habitante se plaignit d'un égout bouché, puis dégagé et ouvert aux visiteurs en 1999. La ville est aussi le théâtre des querelles des Latins : pendant la guerre de Saint-Sabas (1256-1258), les Templiers soutiennent Venise et les Hospitaliers Gênes (voir [[templiers-et-hospitaliers]]).
+texte: Le sultan mamelouk al-Ashraf Khalil met le siège devant Acre le 5 avril 1291 (voir [[chute-d-acre|chute d'Acre]]). Le 18 mai, les tours de l'enceinte puis la porte Saint-Antoine cèdent ; [[guillaume-de-beaujeu|Guillaume de Beaujeu]], atteint d'une flèche, meurt quelques heures plus tard dans la maison du Temple. La ville est prise, mais la forteresse des Templiers, la « Voûte d'Acre », tient encore dix jours, pleine de réfugiés. Le maréchal Pierre de Sevry, sorti négocier sur la foi d'un message du sultan, est tué ; le 28 mai, la dernière tour se rend et, minée, s'effondre. [[thibaud-gaudin|Thibaud Gaudin]] s'était échappé de nuit par mer vers [[sidon|Sidon]] avec le trésor de l'ordre. Les vainqueurs détruisent la plus grande partie de la ville.
+texte: De la forteresse du Temple, rien ne se voit plus : la sortie ouest du tunnel débouche près du phare actuel, à la pointe de la vieille ville, et la ville ottomane d'Ahmed al-Jazzar, à la fin du XVIIIe siècle, a recouvert les ruines franques. On visite le tunnel, ainsi que la grande salle et le réfectoire de la forteresse des Hospitaliers, au nord. La vieille ville d'Acre est inscrite au patrimoine mondial depuis 2001.
+repere: 26 mai 1104 — Baudouin Ier prend Acre.
+repere: Juillet 1191 — Richard Cœur de Lion et Philippe Auguste reprennent la ville ; le Temple y fixe son siège.
+repere: 1256 — Début de la guerre de Saint-Sabas, Templiers contre Hospitaliers dans les rues d'Acre.
+repere: 18 mai 1291 — Assaut général ; mort de Guillaume de Beaujeu ; la ville tombe.
+repere: 28 mai 1291 — Reddition et effondrement de la dernière tour du Temple.
+repere: 1994 — Redécouverte du tunnel des Templiers.
+repere: 2001 — La vieille ville d'Acre est inscrite au patrimoine mondial.
+attention: Les grandes salles voûtées que l'on visite à Acre sous le nom de « salles des chevaliers » sont celles de l'Hôpital, non du Temple. Le tunnel, lui, est attribué aux Templiers d'après son tracé, de leur forteresse au port, et non d'après un texte : la date de son percement est discutée. L'effondrement final de la tour est raconté de deux façons : œuvre des mineurs du sultan, ou des défenseurs eux-mêmes.
+geo: 32.9214, 35.0689
+lieu: Acre (Akko), Galilée, Israël
+lien: wp Saint-Jean-d'Acre
+lien: en Siege of Acre (1291)
+sources: Wikipédia (fr) « Saint-Jean-d'Acre », « Siège de Saint-Jean-d'Acre (1291) » ; Wikipedia (en) « Acre, Israel », « Siege of Acre (1291) » ; biblewalks.com, « Templars tunnel »
+voir: chute-d-acre, guillaume-de-beaujeu, thibaud-gaudin, templier-de-tyr, troisieme-croisade, templiers-et-hospitaliers, chateau-pelerin, chypre-templiere
+
+@ chateau-pelerin
+cat: orient
+nom: Château Pèlerin (Atlit)
+alias: Atlit, Athlit, Castrum Peregrinorum, Castel Pelegrin, forteresse d'Atlit, Le Destroit
+dates: 1218 – 1291
+an: 1218
+fin: 1291
+def: Forteresse élevée à partir de 1218 sur un promontoire de la côte du Carmel et tenue par les Templiers, jamais prise, évacuée le 14 août 1291 : c'est la dernière place que les Francs aient quittée en Terre sainte, et l'une des mieux connues par les fouilles.
+texte: Au début de 1218, pendant la [[cinquieme-croisade|cinquième croisade]], on entreprend au sud de Haïfa une forteresse neuve sur un promontoire rocheux entouré de mer sur trois côtés, à la place d'une petite tour, Le Destroit, qui surveillait la route côtière. Les [[ordre-du-temple|Templiers]] en sont les maîtres, et des croisés, dont Gautier d'Avesnes, y participent ; des pèlerins y auraient travaillé sans salaire, d'où le nom de Château Pèlerin, *Castrum Peregrinorum*. En 1220, les murs encore inachevés résistent au sultan de Damas al-Mu'azzam. L'ensemble mesure environ 280 mètres sur 160. Vers la terre, un fossé taillé dans le roc puis deux murailles successives le ferment : la première, haute de 15 mètres et épaisse de 6, porte trois tours ; la seconde, haute de 30 mètres et épaisse de 12, deux tours d'environ 34 mètres. À l'intérieur, une église polygonale, de grandes salles voûtées, trois puits d'eau douce, un port au sud ; au-dehors, un bourg qui sera fortifié, des salines exploitées par l'ordre, et un vaste cimetière.
+texte: Le château sert de base et de refuge : la reine Marguerite de Provence y donne naissance, le 29 juin 1251, à un fils de [[louis-ix|Louis IX]], Pierre, futur comte d'Alençon. En 1265, [[baybars]] l'assiège et détruit le bourg, sans pouvoir prendre la forteresse. Après la [[chute-d-acre|chute d'Acre]], la garnison évacue Château Pèlerin le 14 août 1291, onze jours après [[tortose|Tortose]], et se replie sur [[chypre-templiere|Chypre]] : la place n'a jamais été prise.
+texte: Les murs restent debout jusqu'au tremblement de terre de 1837 ; Ibrahim Pacha en tire ensuite des pierres pour Acre. De 1930 à 1934, l'archéologue C. N. Johns la fouille pour le Mandat britannique : il dégage les tours, les salles, le bourg, et le cimetière franc de la plage, long d'une centaine de mètres, avec ses centaines de tombes dont certaines portent des dalles sculptées. Le château est aujourd'hui enclos dans la base navale d'Atlit, en zone militaire fermée, et ne se visite pas.
+repere: 1218 — Début des travaux, au printemps.
+repere: 1220 — Le château inachevé repousse al-Mu'azzam, sultan de Damas.
+repere: 29 juin 1251 — Naissance au château de Pierre, fils de Louis IX.
+repere: 1265 — Baybars assiège le château et détruit le bourg.
+repere: 14 août 1291 — Évacuation du château, dernière place franque de Terre sainte.
+repere: 1837 — Un séisme abat une grande partie des murailles.
+repere: 1930 — Début des fouilles de C. N. Johns.
+attention: Les sources modernes ne s'accordent pas sur le maître d'ouvrage : pour les unes, les Templiers bâtissent eux-mêmes dès 1218 avec l'aide des croisés ; pour d'autres, ce sont les croisés, dont André II de Hongrie et Gautier d'Avesnes, qui commencent le chantier, et l'ordre ne reçoit le château qu'en 1220. De même, on lit que les Mamelouks l'ont démantelé, ou au contraire laissé intact jusqu'au séisme de 1837.
+geo: 32.7053, 34.9339
+lieu: Atlit, côte du Carmel, Israël
+lien: wp Château Pèlerin
+lien: en Château Pèlerin
+sources: Wikipédia (fr) « Château Pèlerin » ; Wikipedia (en) « Château Pèlerin » ; Wikipédia (fr) « Siège de Saint-Jean-d'Acre (1291) »
+voir: cinquieme-croisade, chateaux-du-temple, acre, chute-d-acre, guillaume-de-chartres, louis-ix, baybars, tortose
+
+@ safed
+cat: orient
+nom: Safed
+alias: Saphet, Safet, Tsfat, Zefat, forteresse de Safed, château de Safed, De constructione castri Saphet, Benoît d'Alignan
+dates: 1168 – 1266
+an: 1168
+fin: 1266
+def: Château de Haute Galilée tenu par le Temple de 1168 à 1188, puis rebâti à grands frais de 1240 à 1244 — le seul chantier templier décrit par un texte d'époque — et pris par Baybars en juillet 1266, qui en fit massacrer la garnison.
+texte: Le château de Safed, sur une hauteur qui domine le lac de Tibériade et la route de Damas, existe au moins depuis le milieu du XIIe siècle ; on en attribue souvent la construction au roi Foulques. En 1168, le roi Amaury Ier le rachète et le confie aux [[ordre-du-temple|Templiers]]. [[saladin]] le prend en novembre 1188, après un siège d'un mois, un an et demi après [[bataille-de-hattin|Hattin]] ; vers 1219-1220, le sultan al-Mu'azzam le fait démanteler, de peur que les croisés de Damiette ne le reprennent. Le traité conclu en 1240 par Thibaud de Navarre avec le sultan de Damas rend Safed aux Francs, en ruine.
+texte: La reconstruction est connue par un petit traité latin, le *De constructione castri Saphet*, écrit entre 1260 et 1266 dans l'entourage de Benoît d'Alignan, évêque de Marseille, peut-être pour appeler les dons. Pèlerin en 1240, l'évêque pousse les Templiers à rebâtir ; les travaux durent jusque vers 1243-1244. Le texte en donne le prix, 1 100 000 besants sarrasins, et le personnel prévu en temps de paix : 50 frères chevaliers, 30 frères sergents, 50 [[turcopoles]], 300 arbalétriers, 820 ouvriers et serviteurs, 400 esclaves, soit environ 1 700 personnes, et 2 200 en temps de guerre. C'est le document le plus précis qui existe sur un château d'ordre militaire, et une leçon sur ce que coûtait la défense de la Terre sainte (voir [[chateaux-du-temple]], [[economie-du-temple]]).
+texte: Le 13 juin 1266, [[baybars]] met le siège devant Safed (voir [[chute-de-safed]]). Les assauts échouent, mines et contre-mines se croisent sous les murs ; le sultan offre alors la vie sauve aux sergents et archers syriens pour diviser la garnison, et un sergent nommé Léon négocie la reddition contre un sauf-conduit. Le 22 ou le 23 juillet selon les sources, les Templiers sortent et sont mis à mort ; Léon reste auprès du sultan et se convertit. Baybars répare aussitôt le château, y installe une garnison et l'agrandit : la grande tour est achevée sous Qalawun, et l'église devient la mosquée Rouge (1275). Le séisme de 1837 dévaste la ville. Les vestiges de la citadelle, sur la colline qui domine la vieille ville, sont aujourd'hui un jardin public où les fouilles ont dégagé des restes des fortifications.
+repere: 1168 — Amaury Ier confie Safed aux Templiers.
+repere: Novembre 1188 — Saladin prend le château après un mois de siège.
+repere: 1240 — Le traité de Thibaud de Navarre rend Safed aux Francs ; Benoît d'Alignan pousse à la reconstruction.
+repere: v. 1244 — Fin des grands travaux.
+repere: 13 juin 1266 — Baybars ouvre le siège.
+repere: 23 juillet 1266 — Reddition et massacre de la garnison.
+repere: 1837 — Un séisme ravage Safed.
+attention: La défense de Safed est devenue légendaire : au procès des Templiers de Chypre, on l'évoque encore. Mais le nombre des tués est incertain, les chroniques parlant de quelques centaines d'hommes ou de deux mille chrétiens, selon qu'elles comptent les frères seuls ou toute la garnison ; les Hospitaliers présents auraient été épargnés.
+geo: 32.9678, 35.4953
+lieu: Safed (Tsfat), Haute Galilée, Israël
+lien: wp Forteresse de Safed
+lien: wp Siège de Safed (1266)
+lien: wp De constructione castri Saphet
+sources: Wikipédia (fr) « Forteresse de Safed », « Siège de Safed (1266) », « De constructione castri Saphet » ; Wikipedia (en) « Safed »
+voir: chute-de-safed, baybars, thomas-berard, armand-de-perigord, chateaux-du-temple, effectifs-du-temple, turcopoles, saladin
+
+@ tortose
+cat: orient
+nom: Tortose (Tartous)
+alias: Tartous, Tartus, Tortosa, Antaradus, cathédrale Notre-Dame de Tortose, château de Tortose, Ruad, Arouad
+dates: 1152 – 1291
+an: 1152
+fin: 1291
+def: Ville et forteresse de la côte syrienne confiées aux Templiers en 1152, centre de leur domaine dans le comté de Tripoli et dernière place de Syrie évacuée, le 3 août 1291 ; la cathédrale Notre-Dame et des pans du château subsistent dans la vieille ville.
+texte: Raymond de Saint-Gilles prend Tortose en février 1102, et la ville devient un évêché du comté de [[tripoli|Tripoli]]. Sa cathédrale Notre-Dame, élevée au XIIe siècle sur une église byzantine que vénéraient les pèlerins, est une grande église romane aux allures de forteresse. En 1152, Nur ad-Din s'empare un moment de la ville. L'évêque Guillaume la confie alors aux [[ordre-du-temple|Templiers]], sous le maître [[evrard-des-barres|Évrard des Barres]], à charge d'y bâtir un château : l'accord, passé après février 1152 et confirmé en 1157, a été retrouvé et publié en 1969 par Jonathan Riley-Smith, d'après une copie du XIVe siècle conservée à Madrid. Tortose devient le centre d'un vaste domaine qui s'étend jusqu'à [[chastel-blanc|Chastel Blanc]].
+texte: Le château, bâti vers 1165 au bord de l'eau, est l'un des plus puissants de l'ordre : un donjon, une double enceinte séparée par un fossé, une grande chapelle et une vaste salle. En 1188, [[saladin]] reprend la ville, mais échoue devant le donjon, que les frères tiennent et refortifient pendant un siècle. Tortose est alors la principale place du Temple dans le comté, le port d'où il communique avec [[chypre-templiere|Chypre]], et un lieu de pèlerinage à la Vierge. Le 3 août 1291, après la [[chute-d-acre|chute d'Acre]], les Templiers l'abandonnent sans combat, onze jours avant [[chateau-pelerin|Château Pèlerin]].
+texte: Ils ne renoncent pas pour autant. De l'île de Ruad, à trois kilomètres au large, [[jacques-de-molay|Jacques de Molay]] lance en novembre 1300 une expédition qui occupe la ville vingt-cinq jours, dans l'attente vaine des Mongols. L'île, concédée au Temple par le pape en novembre 1301, reçoit une garnison qui capitule le 26 septembre 1302 (voir [[ile-de-ruad]]). La vieille ville actuelle s'est construite à l'intérieur du château et sur ses murs ; le fossé sépare encore, au nord et à l'est, le vieux Tartous de la ville moderne, et l'on reconnaît la chapelle parmi les maisons. La cathédrale, devenue mosquée puis caserne, abrite depuis 1956 le musée de Tartous.
+repere: Février 1102 — Raymond de Saint-Gilles prend Tortose.
+repere: 1152 — L'évêque Guillaume remet la ville aux Templiers, qui doivent y bâtir un château.
+repere: v. 1165 — Construction du château templier.
+repere: 1188 — Saladin reprend la ville mais échoue devant le donjon.
+repere: 3 août 1291 — Les Templiers évacuent Tortose.
+repere: Novembre 1300 — L'expédition partie de Ruad occupe la ville vingt-cinq jours.
+repere: 26 septembre 1302 — Reddition de Ruad, dernier poste templier d'Orient.
+repere: 1956 — La cathédrale devient le musée de Tartous.
+attention: La date de 1123 parfois donnée pour la cathédrale n'est pas sûre : d'autres notices la disent seulement du XIIe siècle, et elle a été reprise après la prise de 1188. Et Tortose n'est pas la Tortosa de Catalogne, autre ville templière, sur l'Èbre.
+geo: 34.8917, 35.8784
+lieu: Tartous, Syrie
+lien: wp Tartous
+lien: en Tartus
+lien: en Fall of Ruad
+sources: Wikipédia (fr) « Tartous » ; Wikipedia (en) « Tartus », « Fall of Ruad » ; Riley-Smith, « The Templars and the Castle of Tortosa in Syria », English Historical Review, 1969 (présentation sur medievalists.net)
+voir: ile-de-ruad, chastel-blanc, tripoli, chute-d-acre, chateaux-du-temple, jacques-de-molay, saladin, evrard-des-barres
+
+@ chastel-blanc
+cat: orient
+nom: Chastel Blanc (Safita)
+alias: Safita, Castel Blanc, Castellum Album, Burj Safita, tour de Safita, église Saint-Michel de Safita
+dates: v. 1152 – 1271
+an: 1152
+fin: 1271
+def: Donjon-chapelle des Templiers dans les collines du comté de Tripoli, dépendance de Tortose, rebâti après les séismes de 1170 et 1202 et perdu en 1271 ; sa tour, l'une des mieux conservées d'un château templier, abrite toujours une église.
+texte: Safita domine les collines entre [[tortose|Tortose]] et le Krak des Chevaliers : du sommet de la tour, on voit la mer, les montagnes du Liban et le Krak. Les [[ordre-du-temple|Templiers]] tiennent la place, sous le nom de Chastel Blanc, au plus tard en 1152, avec Tortose. Nur ad-Din l'attaque en 1167, et les frères la reprennent ; les tremblements de terre de 1170 et de 1202 la ruinent, et [[saladin]] passe dans la région en 1188. La tour actuelle date pour l'essentiel de la reconstruction qui suivit le séisme de 1202.
+texte: C'est un donjon de calcaire de 31 mètres sur 18, haut de 28, aux murs épais de 3 mètres. Le rez-de-chaussée est une chapelle dédiée à saint Michel ; l'étage, percé d'archères, servait de dortoir, et la terrasse de poste de guet ; une citerne et une salle d'armes sont creusées dans le roc au-dessous. Des autres fortifications, il ne reste guère qu'une porte à quelque 45 mètres à l'est. Comme celle de [[chateau-pelerin|Château Pèlerin]], l'église de Safita montre que l'ordre bâtissait ses lieux de culte au cœur de ses forteresses, loin de la légende des églises rondes (voir [[architecture-templiere]]).
+texte: En 1271, [[baybars]], qui marche sur le Krak des Chevaliers, prend Chastel Blanc et le fait démanteler. La tour subsista. La chapelle est toujours l'église de la communauté grecque-orthodoxe de Safita, et le donjon, qui menaçait de s'effondrer, a été consolidé en 1946 par l'architecte Pierre Coupel. Sa grande cloche s'entend, dit-on, à cinq kilomètres.
+repere: v. 1152 — Les Templiers tiennent Chastel Blanc, avec Tortose.
+repere: 1167 — Attaque de Nur ad-Din ; les Templiers reprennent la place.
+repere: 1202 — Un séisme ruine le château ; la tour est rebâtie dans les années suivantes.
+repere: 1271 — Baybars prend Chastel Blanc.
+repere: 1946 — Consolidation de la tour par Pierre Coupel.
+attention: On lit que le soubassement de la tour serait « phénicien » : rien de publié ne l'établit, et la tour visible est une construction franque du XIIIe siècle, sur un site occupé depuis l'Antiquité. Les débuts de la place sont flous : certaines notices font arriver les Templiers dès 1110 ou 1117, ce que les sources ne confirment pas.
+geo: 34.8208, 36.1172
+lieu: Safita, gouvernorat de Tartous, Syrie
+lien: wp Chastel Blanc
+lien: en Chastel Blanc
+sources: Wikipédia (fr) « Chastel Blanc » ; Wikipedia (en) « Chastel Blanc »
+voir: tortose, chateaux-du-temple, architecture-templiere, baybars, thomas-berard, hospitaliers
+
+@ beaufort
+cat: orient
+nom: Beaufort (Qalaat al-Chaqif)
+alias: Qalaat al-Chaqif, Qal'at ash-Shaqif, Belfort, château de Beaufort, Arnoun, châteaux du Djebel Amel
+dates: 1260 – 1268
+an: 1260
+fin: 1268
+def: Château perché au-dessus de la vallée du Litani, acheté par les Templiers en 1260 au seigneur de Sidon ruiné, et pris par Baybars en avril 1268 après huit ans seulement entre leurs mains.
+texte: Le château de Beaufort, en arabe Qalaat al-Chaqif, « le château de l'escarpement », occupe un éperon au-dessus des gorges du Litani, d'où l'on voit la mer et le mont Hermon. Le roi Foulques le prend en 1139 et le donne aux seigneurs de Sidon, qui en font une forteresse franque. En 1189, [[saladin]] vient l'assiéger : Renaud de Sidon, qui négocie pour gagner du temps et fait réparer les murs, est jeté en prison, et la garnison ne cède qu'en avril 1190 pour obtenir sa libération. Un traité négocié par Thibaud de Navarre rend Beaufort aux Francs en 1240.
+texte: En 1260, Julien de Sidon, couvert de dettes après la ruine de sa ville par les Mongols, vend [[sidon|Sidon]] aux [[ordre-du-temple|Templiers]], puis Beaufort quelques mois plus tard. L'ordre, sous le maître [[thomas-berard|Thomas Bérard]], tient ainsi deux places de première ligne face à Damas. Il n'en profite pas longtemps : [[baybars]] paraît devant Beaufort le 4 avril 1268, après avoir pris [[jaffa|Jaffa]], commence le bombardement le 12, et les Templiers se rendent le 15, à condition que les femmes et les enfants puissent gagner Tyr ; les hommes de la garnison sont réduits en esclavage. Le sultan garde le château et le fait réparer.
+texte: L'émir Fakhr al-Din l'occupe au début du XVIIe siècle avant que les Ottomans n'en abattent les parties hautes ; Jazzar Pacha l'assiège en 1782, et le séisme de 1837 achève de le ruiner. Sa position en a de nouveau fait une place de guerre au XXe siècle : tenu par l'OLP à partir de 1976, il est pris par l'armée israélienne le 6 juin 1982 et occupé jusqu'en 2000. En juillet 2026, l'UNESCO l'a inscrit, avec les autres châteaux du Djebel Amel, sur la liste du patrimoine mondial en péril.
+repere: 1139 — Le roi Foulques prend Beaufort et le donne aux seigneurs de Sidon.
+repere: Avril 1190 — La garnison livre le château à Saladin pour la libération de Renaud de Sidon.
+repere: 1240 — Beaufort revient aux Francs par traité.
+repere: 1260 — Julien de Sidon vend le château aux Templiers.
+repere: 15 avril 1268 — Les Templiers rendent Beaufort à Baybars.
+repere: 6 juin 1982 — L'armée israélienne s'empare des ruines, tenues par l'OLP.
+repere: Juillet 2026 — Inscription au patrimoine mondial en péril.
+attention: Beaufort est souvent compté parmi les « grands châteaux templiers » : l'ordre ne l'a possédé que huit ans et rien n'indique qu'il y ait beaucoup construit ; l'essentiel de ce qui subsiste est l'œuvre des seigneurs de Sidon et des Mamelouks.
+geo: 33.3247, 35.5321
+lieu: Arnoun, district de Nabatieh, Liban
+lien: en Beaufort Castle, Lebanon
+lien: en Fall of Beaufort Castle (1268)
+sources: Wikipedia (en) « Beaufort Castle, Lebanon », « Fall of Beaufort Castle (1268) » ; Wikipédia (fr) « Julien Granier »
+voir: sidon, baybars, thomas-berard, chateaux-du-temple, jaffa, saladin
+
+@ gaza
+cat: orient
+nom: Gaza
+alias: Gadres, Gazara, château de Gaza, église Saint-Jean de Gaza, grande mosquée al-Omari
+dates: 1149 – 1187
+an: 1149
+fin: 1187
+def: Ville ruinée que Baudouin III releva en 1149 et confia aux Templiers pour bloquer Ascalon : première place forte tenue par l'ordre dans le royaume, base des frères de Montgisard en 1177, rendue à Saladin après Hattin pour racheter le maître Gérard de Ridefort.
+texte: Quand les croisés arrivent, Gaza n'est plus qu'une colline de ruines antiques entre Ascalon, encore fatimide, et l'Égypte. En 1149, le roi Baudouin III y bâtit un château et le remet aux [[ordre-du-temple|Templiers]], comme le rapporte [[guillaume-de-tyr|Guillaume de Tyr]] : c'est la première forteresse que l'ordre reçoit dans le royaume, et elle a pour mission de couper Ascalon de l'Égypte. La ville se repeuple à l'abri des murs ; en 1154, le géographe al-Idrisi la dit très peuplée. Ascalon tombe en août 1153 (voir [[siege-d-ascalon]]). Sur les ruines d'une église byzantine, devenue mosquée, les Francs élèvent une grande église, Saint-Jean, dont la façade, des colonnes et une partie des nefs se retrouvaient dans la grande mosquée al-Omari.
+texte: Gaza est la sentinelle du sud. En novembre 1177, [[saladin]] envahit le royaume pendant que l'armée franque est en Syrie du Nord ; les Templiers défendent Gaza, et [[baudouin-iv-de-jerusalem|Baudouin IV]] leur ordonne de la quitter pour le rejoindre. Le maître [[eudes-de-saint-amand|Eudes de Saint-Amand]] amène quatre-vingts chevaliers à l'armée royale, tandis qu'un autre détachement reste bloqué dans la ville : le 25 novembre, à [[bataille-de-montgisard|Montgisard]], Saladin est mis en déroute. Dix ans plus tard, tout est perdu : après [[bataille-de-hattin|Hattin]], le maître captif [[gerard-de-ridefort|Gérard de Ridefort]] achète sa liberté en faisant livrer à Saladin Gaza et les places templières du sud. Les Ayyoubides rasent les remparts en 1191 ; [[richard-coeur-de-lion|Richard Cœur de Lion]] les relève en 1192, et ils sont démantelés de nouveau en 1193, en application de la trêve.
+texte: Le Temple ne revint pas à Gaza. C'est au nord-est de la ville, à [[bataille-de-la-forbie|La Forbie]], que l'armée franque fut anéantie en octobre 1244. Les restes de l'église des croisés, intégrés à la grande mosquée al-Omari, ont été en grande partie détruits par un bombardement israélien en décembre 2023.
+repere: 1149 — Baudouin III bâtit le château de Gaza et le confie aux Templiers.
+repere: Août 1153 — Prise d'Ascalon.
+repere: 25 novembre 1177 — Les Templiers de Gaza combattent à Montgisard.
+repere: 1188 — Gérard de Ridefort, captif depuis Hattin, est libéré contre la reddition de Gaza.
+repere: 1193 — Les remparts sont démantelés en vertu de la trêve conclue avec Saladin.
+repere: Décembre 2023 — La grande mosquée al-Omari est en grande partie détruite.
+attention: La date exacte de la reddition de Gaza (fin 1187 ou été 1188) et les conditions de la libération de Ridefort varient selon les chroniques. L'église des croisés est dite cathédrale Saint-Jean par certaines notices, simple église paroissiale latine par d'autres.
+geo: 31.5040, 34.4644
+lieu: Gaza, Palestine
+lien: wp Gaza
+lien: en Great Mosque of Gaza
+sources: Wikipédia (fr) « Gaza », « Gérard de Ridefort » ; Wikipedia (en) « Gaza City », « Great Mosque of Gaza », « Battle of Montgisard »
+voir: siege-d-ascalon, bataille-de-montgisard, eudes-de-saint-amand, gerard-de-ridefort, bataille-de-la-forbie, baudouin-iv-de-jerusalem, saladin
+
+@ sidon
+cat: orient
+nom: Sidon
+alias: Saïda, Sayette, Sagette, château de la mer de Sidon, château de Sidon, Julien de Sidon, Julien Grenier, Julien Granier
+dates: 1260 – 1291
+an: 1260
+fin: 1291
+def: Port du Liban dont la seigneurie fut vendue aux Templiers en 1260 par Julien Grenier, ruiné par les Mongols ; son château de la mer, commencé par les croisés en 1227, accueillit en 1291 le maître Thibaud Gaudin et le trésor sauvé d'Acre avant d'être évacué à son tour.
+texte: Prise par les Francs en 1110, Sidon est la seigneurie des Grenier. Son château de la mer, *Sagette* pour les Francs, est commencé en 1227-1228 par des croisés sur un îlot relié au rivage, l'ancien emplacement d'un temple de Melqart. En 1260, les Mongols prennent Damas ; Julien Grenier, seigneur de Sidon, lance un raid contre eux, et ils ripostent en saccageant sa ville. Ruiné, et joueur, Julien vend Sidon aux [[ordre-du-temple|Templiers]], puis le château de [[beaufort]] quelques mois après. Il entre lui-même dans l'ordre, qui le renvoie pour une faute restée inconnue, et meurt chez les Trinitaires en 1275.
+texte: Pendant trente ans, Sidon est la seule seigneurie du royaume gouvernée par le Temple, qui tient le château de la mer et celui de la terre, dit de Saint-Louis. Après la [[chute-d-acre|chute d'Acre]], [[thibaud-gaudin|Thibaud Gaudin]] s'y réfugie avec le trésor de l'ordre et y est élu maître ; il part bientôt pour [[chypre-templiere|Chypre]] chercher des renforts qui ne viendront pas. Devant l'armée mamelouke, Sidon tombe le 14 juillet 1291.
+texte: Les Mamelouks détruisent en partie le château de la mer, puis le relèvent et lui donnent sa longue chaussée de pierre ; l'émir Fakhr al-Din le restaure au XVIIe siècle. Il en reste deux tours reliées par un mur : à l'ouest, la mieux conservée, rectangulaire, avec sa grande salle voûtée et, sur la terrasse, une petite mosquée à coupole d'époque ottomane ; à l'est, une tour dont l'étage supérieur est mamelouk.
+repere: 1110 — Prise de Sidon par les Francs.
+repere: 1227 — Début de la construction du château de la mer.
+repere: 1260 — Julien Grenier vend Sidon, puis Beaufort, aux Templiers.
+repere: 1291 — Thibaud Gaudin se replie sur Sidon avec le trésor du Temple et y est élu maître.
+repere: 14 juillet 1291 — Sidon tombe aux mains des Mamelouks.
+attention: Le château de la mer n'est pas une construction templière : il a été commencé par les croisés de 1227-1228 et refait par les Mamelouks. Et le trésor qu'y apporta Thibaud Gaudin est celui du couvent d'Acre ; il n'a rien à voir avec le [[tresor-des-templiers|trésor légendaire]] de 1307.
+geo: 33.5670, 35.3711
+lieu: Saïda (Sidon), Liban
+lien: wp Château de Sidon
+lien: en Sidon Sea Castle
+lien: wp Julien Granier
+sources: Wikipédia (fr) « Château de Sidon », « Julien Granier », « Siège de Saint-Jean-d'Acre (1291) » ; Wikipedia (en) « Sidon Sea Castle », « Siege of Acre (1291) »
+voir: beaufort, thibaud-gaudin, chute-d-acre, baybars, acre, chateaux-du-temple
+
+@ bagras
+cat: orient
+nom: Bagras (Gaston)
+alias: Gaston, Gastun, Baghras, Bağras, Pagrae, château de Gaston, forteresse de Baghras
+dates: v. 1153 – 1268
+an: 1153
+fin: 1268
+def: Forteresse de la marche de l'Amanus, au nord d'Antioche, rebâtie par les Templiers vers 1153, perdue en 1189, disputée aux Arméniens jusqu'en 1216, abandonnée en 1268 après la chute d'Antioche : le chef-lieu de leurs châteaux de montagne.
+texte: Bagras commande le col de Beylan, la « porte de Syrie » entre la Cilicie et la plaine d'Antioche. L'empereur byzantin Nicéphore Phocas y avait établi une place forte en 968. Les princes d'Antioche confient les cols de l'Amanus aux [[ordre-du-temple|Templiers]] au XIIe siècle, et ceux-ci rebâtissent Bagras vers 1153 sous le nom de Gaston (voir [[la-roche-guillaume]]). Le château, perché sur un piton, se déploie sur trois niveaux autour du rocher : plus de trente salles voûtées, des citernes, des cours étagées. Les frères y tiennent le passage et traitent avec leurs voisins arméniens presque comme une puissance.
+texte: Le 26 août 1189, la garnison se rend à [[saladin]], qui fait démanteler la place. En 1191, l'Arménien Léon II s'en empare et refuse de la rendre : la querelle de Bagras empoisonne pendant vingt-cinq ans les rapports entre l'Arménie, Antioche et le Temple. Rendu aux frères en 1216 (1215 selon d'autres sources), le château redevient leur quartier général du nord ; vers 1229, il résiste à l'émir d'Alep. En mai 1268, [[baybars]] prend [[antioche|Antioche]]. La garnison de Bagras perd courage : un frère déserte pour porter les clefs au sultan, et les autres détruisent ce qu'ils peuvent avant d'abandonner la place. Jugés à Acre pour l'avoir quittée sans ordre, ils sont privés de leur habit un an et un jour, mais non chassés : le cas est consigné, comme exemple, dans la version catalane de la [[regle-du-temple|règle]] (voir [[discipline-et-penalites]]).
+texte: Les ruines dominent toujours le village de Bakras, près d'İskenderun. L'archéologue A. W. Lawrence les a relevées en 1938, Robert Edwards en 1979 : l'essentiel de la maçonnerie est franque, avec des réparations arméniennes reconnaissables à leur appareil.
+repere: 968 — Nicéphore Phocas fortifie Pagrae contre Antioche.
+repere: v. 1153 — Les Templiers rebâtissent le château de Gaston.
+repere: 26 août 1189 — Reddition à Saladin.
+repere: 1191 — Léon II d'Arménie s'empare de Bagras et refuse de le rendre.
+repere: 1216 — Restitution aux Templiers.
+repere: 1268 — Après la chute d'Antioche, la garnison abandonne Bagras à Baybars.
+attention: La date à laquelle les Templiers reçurent la marche de l'Amanus est discutée : les années 1130 pour certains historiens, le milieu du siècle pour d'autres. Le château visible aujourd'hui doit beaucoup aux travaux postérieurs à 1216.
+geo: 36.4269, 36.2250
+lieu: Bakras (Bağras), province de Hatay, Turquie
+lien: wp Forteresse de Baghras
+lien: en Bagras
+lien: url https://deremilitari.org/2016/08/the-surrender-of-gaston-castle-1268-according-the-catalan-rule-of-the-templars/ = la reddition de Gaston (1268) d'après la règle catalane
+sources: Wikipédia (fr) « Forteresse de Baghras » ; Wikipedia (en) « Bagras » ; De Re Militari, « The surrender of Gaston castle (1268), according to the Catalan Rule of the Templars »
+voir: la-roche-guillaume, antioche, baybars, saladin, discipline-et-penalites, regle-du-temple, chateaux-du-temple, thomas-berard
+
+@ la-roche-guillaume
+cat: orient
+nom: La Roche-Guillaume et la marche de l'Amanus
+alias: Roche-Guillaume, Roche de Roissel, Roche-Roussel, Darbsak, Trapesac, Trapessac, Trapezac, Darbısak, marche de l'Amanus, Amanus, Nur Dağları
+dates: XIIe siècle – v. 1298
+an: 1155
+fin: 1298
+def: Les Templiers ont tenu pendant près d'un siècle et demi les cols de l'Amanus, entre Cilicie et Antioche, avec Bagras, Darbsak, la Roche de Roissel et la Roche-Guillaume ; cette dernière, perdue vers 1298, est le dernier château de l'ordre sur le continent, et son emplacement reste incertain.
+texte: L'Amanus, aujourd'hui Nur Dağları, sépare la plaine d'Antioche de la Cilicie arménienne. Les princes d'Antioche en remettent les cols aux [[ordre-du-temple|Templiers]] — dès les années 1130 selon certains historiens, vers 1153-1155 selon d'autres — qui y constituent une véritable marche : [[bagras]] et Darbsak (Trapesac) gardent le col de Beylan, la Roche de Roissel et la Roche-Guillaume les passages du nord, et l'ordre possède des ports au fond du golfe d'Alexandrette. C'est l'un des rares endroits où le Temple agit en seigneur d'une région entière plutôt qu'en garnison des princes (voir [[chateaux-du-temple]]).
+texte: Darbsak tombe la première : [[saladin]] l'assiège du 2 au 16 septembre 1188, et la garnison se rend après une résistance acharnée. Les Arméniens la tiennent au début du XIIIe siècle ; en 1237 (ou 1236), une expédition partie de Bagras pour la reprendre est surprise et taillée en pièces, sous le magistère d'[[armand-de-perigord|Armand de Périgord]]. Prise par les Mongols vers 1260, rendue aux Arméniens, elle est cédée aux Mamelouks en 1266 et occupée par [[baybars]] en 1268 ; il en reste des pans de mur, une citerne et quelques salles voûtées sur un éperon au nord de Kırıkhan. La Roche-Guillaume, elle, résiste en 1188 à un siège que Saladin lève pour rentrer en Palestine, passe aux Arméniens en 1203, revient aux Templiers en 1237 et leur reste après la chute d'[[antioche|Antioche]] et de Bagras en 1268. Elle n'est perdue qu'en 1298 ou 1299, devant les Mamelouks : c'est la dernière forteresse continentale de l'ordre, sept ans après [[chateau-pelerin|Château Pèlerin]].
+texte: Où était-elle ? Les textes la placent dans l'Amanus, sur la route qui descend du nord vers Antioche, sans la situer précisément. Wikipédia et Wikidata retiennent un sommet rocheux d'environ 1 250 mètres qui commande la vallée du Kara Su ; sur ce rocher subsistent des courtines et des tours fondées sur la roche taillée, du type que l'on retrouve à Bagras. Mais l'attribution de ces ruines à la Roche-Guillaume plutôt qu'à la Roche de Roissel, sa voisine, n'est pas établie.
+repere: 1155 — Date la plus souvent avancée pour la remise de la marche de l'Amanus aux Templiers.
+repere: 16 septembre 1188 — Saladin prend Darbsak après deux semaines de siège.
+repere: 1203 — Le roi d'Arménie enlève la Roche-Guillaume aux Templiers.
+repere: 1237 — Désastre de Darbsak ; les Templiers reprennent la Roche-Guillaume.
+repere: 1268 — Baybars prend Antioche ; la garnison de Bagras se rend.
+repere: v. 1298 — Les Mamelouks prennent la Roche-Guillaume, dernier château templier du continent.
+attention: La localisation de la Roche-Guillaume n'est pas assurée : les coordonnées données ici sont celles que retiennent Wikipédia et Wikidata, sur une identification de ruines discutée, et elles peuvent être fausses de plusieurs kilomètres. La date de sa chute (1298 ou 1299) est elle-même approximative, comme celle de l'arrivée des Templiers dans l'Amanus.
+geo: 36.6594, 36.3258
+lieu: Monts Amanus (Nur Dağları), province de Hatay, Turquie
+lien: wp Roche-Guillaume
+lien: wp Forteresse de Trapezac
+lien: en Trapessac
+sources: Wikipédia (fr) « Roche-Guillaume », « Forteresse de Trapezac », « Forteresse de Baghras » ; Wikipedia (en) « Roche-Guillaume », « Trapessac »
+voir: bagras, antioche, saladin, armand-de-perigord, chateaux-du-temple, baybars, jacques-de-molay
+
+@ chypre-templiere
+cat: orient
+nom: Chypre
+alias: Chypre templière, royaume de Chypre, Limassol, Nicosie, Gastria, Khirokitia, Yermasoyia, Kolossi, procès de Chypre
+dates: 1191 – 1313
+an: 1191
+fin: 1313
+def: Île achetée à Richard Cœur de Lion en 1191 et rendue au bout d'un an de révolte, Chypre devint après 1291 le refuge et le siège de l'ordre, à Limassol ; les Templiers y furent arrêtés en 1308, jugés sans aveux en 1310 et dépossédés en 1313.
+texte: En mai 1191, en route pour Acre, [[richard-coeur-de-lion|Richard Cœur de Lion]] conquiert Chypre sur l'usurpateur byzantin Isaac Comnène (voir [[troisieme-croisade]]). Il vend l'île aux [[ordre-du-temple|Templiers]] pour 100 000 besants, dont 40 000 payés comptant, sous le magistère de [[robert-de-sable|Robert de Sablé]]. Pour rentrer dans leurs frais, les frères pressurent les Grecs ; le jour de Pâques 1192, les Chypriotes tentent de les massacrer, les Templiers assiégés dans leur réduit de Nicosie font à l'aube une sortie sanglante, puis demandent à Richard de reprendre l'île. Celle-ci passe à [[guy-de-lusignan|Guy de Lusignan]], qui dédommage l'ordre : la dynastie des Lusignan régnera trois siècles. Le Temple garde quelques biens et un château à Gastria, et prend part aux querelles du royaume : en 1232, il refuse l'abri de Gastria aux partisans vaincus de [[frederic-ii|Frédéric II]], et en 1279 le roi Hugues III démantèle ce château et en chasse les frères, qui avaient soutenu Charles d'Anjou.
+texte: Après la [[chute-d-acre|chute d'Acre]], en 1291, le couvent de l'ordre s'établit à Limassol, et c'est à Chypre que [[jacques-de-molay|Jacques de Molay]] est élu maître. C'est de là que partent les raids sur les côtes d'Égypte et de Syrie et l'expédition de Ruad en 1300-1302 (voir [[ile-de-ruad]]). Le roi Henri II se méfie d'un ordre trop puissant sur une petite île ; son frère Amaury de Tyr, qui prend le gouvernement en 1306, passe pour lui être favorable. Quand arrivent les ordres du pape, Amaury tarde : les frères, retranchés à Limassol, ne se rendent qu'au début de juin 1308. Le maréchal et la moitié des frères sont internés à Khirokitia, le commandeur et l'autre moitié à Yermasoyia.
+texte: Le procès de Chypre, en mai 1310, est l'un des mieux documentés (voir [[proces-des-templiers]]) : soixante-seize frères comparaissent devant les évêques de Limassol et de Famagouste, et nient les accusations ; des témoins qui ne sont pas de l'ordre déposent en leur faveur, et l'on y rappelle la défense de [[safed|Safed]]. Amaury est assassiné la même année et Henri II reprend le pouvoir ; le pape, mécontent du résultat, réclame un nouvel examen. L'ordre supprimé, le légat Pierre de Rodez remet ses biens chypriotes aux [[hospitaliers|Hospitaliers]] le 7 novembre 1313. Les archives centrales du Temple, gardées à Chypre, ont disparu (voir [[cartulaires-du-temple]]). Le château de Limassol que l'on visite, refait par les Ottomans vers 1590 sur des restes médiévaux, abrite le musée médiéval de Chypre ; à Gastria, au bord de la baie de Famagouste, ne restent que le fossé taillé dans le roc et la citerne d'un petit fort.
+repere: Mai 1191 — Richard Cœur de Lion conquiert Chypre et la vend aux Templiers.
+repere: Pâques 1192 — Révolte de Nicosie ; les Templiers rendent l'île, qui passe à Guy de Lusignan.
+repere: 1279 — Hugues III démantèle Gastria et en chasse les Templiers.
+repere: 1291 — Le couvent du Temple s'installe à Limassol.
+repere: Juin 1308 — Reddition et internement des Templiers de Chypre.
+repere: Mai 1310 — Procès de Chypre : aucun aveu.
+repere: 7 novembre 1313 — Les biens du Temple en Chypre passent aux Hospitaliers.
+attention: Le château de Kolossi, près de Limassol, souvent présenté comme templier, est une commanderie des Hospitaliers. Les Templiers n'ont gouverné Chypre qu'un an, et rien dans le château de Limassol actuel n'est identifié comme leur œuvre. La datation des audiences de 1310 est elle-même discutée par les historiens.
+geo: 34.6723, 33.0416
+lieu: Limassol, Chypre
+lien: wp Royaume de Chypre
+lien: en Kingdom of Cyprus
+lien: en Gastria Castle
+sources: Wikipédia (fr) « Dévolution des biens de l'ordre du Temple », « Commanderie hospitalière de Kolossi » ; Wikipedia (en) « Kingdom of Cyprus », « Gastria Castle », « Limassol Castle » ; notices en ligne sur l'édition par Anne Gilmour-Bryson du procès de Chypre (1998)
+voir: troisieme-croisade, richard-coeur-de-lion, guy-de-lusignan, robert-de-sable, jacques-de-molay, ile-de-ruad, proces-des-templiers, cartulaires-du-temple
+
+@ tripoli
+cat: orient
+nom: Tripoli
+alias: Tripoli du Liban, Trablous, comté de Tripoli, Mont-Pèlerin, citadelle de Saint-Gilles, chute de Tripoli
+dates: 1109 – 1289
+an: 1109
+fin: 1289
+def: Capitale du comté franc où le Temple avait sa maison et dont dépendaient ses places de Tortose et Chastel Blanc ; sa chute devant Qalawun, le 26 avril 1289, deux ans avant Acre, avait été annoncée en vain par Guillaume de Beaujeu.
+texte: Raymond de Saint-Gilles assiège Tripoli depuis le château du Mont-Pèlerin qu'il élève en face d'elle ; la ville tombe en 1109, après sa mort, et devient la capitale du quatrième État latin, le comté de Tripoli. Les [[ordre-du-temple|Templiers]] y reçoivent une maison et, à partir de 1152, le nord du comté autour de [[tortose]] et de [[chastel-blanc|Chastel Blanc]] ; les [[hospitaliers|Hospitaliers]] tiennent le Krak des Chevaliers et Margat. Le comté, riche de ses ports et de ses jardins, vit sous la menace d'Alep et de Damas, puis des Mamelouks, qui prennent le Krak en 1271 et Margat en 1285.
+texte: À la mort du comte Bohémond VII, en 1287, une crise de succession oppose sa sœur Lucie aux chevaliers et aux bourgeois, qui forment une commune et appellent Gênes. Le sultan Qalawun y voit l'occasion. [[guillaume-de-beaujeu|Guillaume de Beaujeu]], maître du Temple, informé par ses espions de la cour mamelouke, fait prévenir Tripoli : on ne le croit pas. Qalawun arrive en mars 1289 avec une armée et des machines ; les Templiers de Geoffroy de Vendac, les Hospitaliers de Mathieu de Clermont, les galères de Venise et de Gênes et un contingent venu de Chypre défendent la ville. Le 26 avril, deux tours s'écroulent sous les pierrières et les Mamelouks entrent : la population est massacrée ou réduite en esclavage, et les fuyards réfugiés sur l'îlot de Saint-Thomas sont pris le 29. Qalawun fait raser la ville et en fonde une autre à quelques kilomètres à l'intérieur des terres, au pied du Mont-Pèlerin.
+texte: La Tripoli actuelle est cette ville mamelouke ; l'ancienne, sur la côte, est devenue le quartier du port. La citadelle qui domine la ville porte le nom de Raymond de Saint-Gilles et occupe le site du Mont-Pèlerin, mais elle a été reprise par les Mamelouks et les Ottomans. La chute de Tripoli, cent quatre-vingts ans après sa prise, montrait que les villes côtières ne tenaient plus ; Acre suivit deux ans plus tard (voir [[chute-d-acre]]).
+repere: 1109 — Prise de Tripoli par les Francs.
+repere: 1152 — Les Templiers reçoivent Tortose et le nord du comté.
+repere: 1271 — Baybars prend le Krak des Chevaliers.
+repere: 1287 — Mort de Bohémond VII ; crise de succession.
+repere: Mars 1289 — Qalawun met le siège devant Tripoli.
+repere: 26 avril 1289 — Chute et sac de la ville.
+attention: Les Templiers n'ont pas défendu seuls Tripoli, comme le disent certains récits : la garnison était composite, et le Temple n'y tenait qu'une maison. Son rôle majeur dans le comté se jouait plus au nord, à Tortose.
+geo: 34.4367, 35.8344
+lieu: Tripoli, Liban
+lien: wp Tripoli (Liban)
+lien: en Fall of Tripoli (1289)
+sources: Wikipédia (fr) « Tripoli (Liban) » ; Wikipedia (en) « Fall of Tripoli (1289) », « Guillaume de Beaujeu »
+voir: tortose, chastel-blanc, guillaume-de-beaujeu, templier-de-tyr, chute-d-acre, hospitaliers, templiers-et-hospitaliers
+
+@ antioche
+cat: orient
+nom: Antioche
+alias: Antakya, principauté d'Antioche, chute d'Antioche, siège d'Antioche de 1268, maison du Temple d'Antioche
+dates: 1098 – 1268
+an: 1098
+fin: 1268
+def: Capitale de la principauté franque du nord, dont les princes confièrent aux Templiers la marche de l'Amanus ; sa prise par Baybars le 18 mai 1268, suivie d'un massacre, entraîna l'abandon de Bagras par sa garnison templière.
+texte: Prise par la première croisade le 3 juin 1098, Antioche est la capitale d'une principauté qui s'étend de la Cilicie à Lattaquié. Les [[ordre-du-temple|Templiers]] y sont établis tôt : les princes leur remettent au XIIe siècle les cols de l'Amanus, et l'ordre a dans la ville une maison dont le commandeur regarde aussi vers [[bagras]] et les châteaux de la montagne (voir [[la-roche-guillaume]]). Les rapports avec les princes et avec les Arméniens voisins sont souvent tendus, à propos de Bagras surtout, mais la principauté dépend des frères pour la garde de sa frontière nord.
+texte: Au XIIIe siècle, les princes résident surtout à [[tripoli|Tripoli]], et Antioche, affaiblie par les luttes avec l'Arménie et les querelles internes, se gouverne presque seule. Bohémond VI s'est soumis aux Mongols vers 1260, ce qui lui vaut l'hostilité de [[baybars]]. Au printemps 1268, après [[jaffa|Jaffa]] et [[beaufort|Beaufort]], le sultan remonte vers le nord : le connétable Simon Mansel est capturé lors d'une sortie, et la ville, assiégée, tombe le 18 mai 1268, la citadelle deux jours plus tard. Le sac est l'un des plus terribles des croisades : les chroniques parlent de 17 000 morts et de 100 000 captifs, chiffres sans doute gonflés mais qui disent l'ampleur du désastre. Le sultan fait incendier la citadelle, et les grandes églises sont détruites. La nouvelle démoralise la garnison templière de Bagras, qui abandonne la place ; seule la Roche-Guillaume tient encore trente ans.
+texte: Antioche ne s'est jamais relevée : la ville ottomane puis turque d'Antakya n'occupe qu'une partie de l'enceinte antique, dont les murs courent encore sur le mont Silpius. Rien ne subsiste de la maison du Temple. Le séisme du 6 février 2023 a ravagé la ville et ses monuments.
+repere: 3 juin 1098 — Prise d'Antioche par la première croisade.
+repere: 1155 — Date la plus souvent avancée pour la remise de l'Amanus aux Templiers.
+repere: 1260 — Bohémond VI se soumet aux Mongols.
+repere: 18 mai 1268 — Baybars prend Antioche ; la citadelle tombe deux jours plus tard.
+repere: 1268 — La garnison templière abandonne Bagras.
+repere: 6 février 2023 — Un séisme dévaste Antakya.
+attention: Les chiffres du massacre de 1268 viennent de chroniques qui n'étaient pas de témoins directs ; les historiens les tiennent pour exagérés, sans douter du caractère exceptionnel de la violence, que la chancellerie du sultan revendiqua elle-même dans une lettre au prince absent.
+geo: 36.2025, 36.1606
+lieu: Antakya (Antioche), province de Hatay, Turquie
+lien: wp Antioche
+lien: en Siege of Antioch (1268)
+sources: Wikipédia (fr) « Antioche », « Forteresse de Baghras » ; Wikipedia (en) « Siege of Antioch (1268) », « Fall of Tripoli (1289) »
+voir: bagras, la-roche-guillaume, baybars, thomas-berard, tripoli, chute-de-safed, chateaux-du-temple
+
+@ jaffa
+cat: orient
+nom: Jaffa
+alias: Joppé, Japhe, Yafo, Tel Aviv-Jaffa, comté de Jaffa et d'Ascalon, château de Jaffa, chute de Jaffa
+dates: 1099 – 1268
+an: 1099
+fin: 1268
+def: Port des pèlerins de Jérusalem, Jaffa fut perdue et reprise plusieurs fois par les Francs ; Richard Cœur de Lion la reprit après Arsouf, Louis IX la refortifia en 1252, et Baybars la prit le 7 mars 1268, quelques semaines avant Beaufort et Antioche.
+texte: Jaffa est le port de Jérusalem : les pèlerins y débarquent et prennent la route que les premiers [[ordre-du-temple|Templiers]] avaient pour mission de garder. Prise en juin 1099, elle devient le chef-lieu du comté de Jaffa et d'Ascalon, vassal du royaume. [[saladin]] s'en empare en 1187 ; [[richard-coeur-de-lion|Richard Cœur de Lion]] la reprend le 10 septembre 1191, trois jours après [[bataille-d-arsouf|Arsouf]], et la défend en juillet 1192 ; la trêve conclue le 2 septembre 1192 porte son nom. En 1229, [[frederic-ii|Frédéric II]] y signe un autre traité de Jaffa, refortifie le château et fait graver sur le mur deux inscriptions, latine et arabe, déchiffrées en 2011.
+texte: [[louis-ix|Louis IX]], libéré de sa captivité d'Égypte, séjourne en Terre sainte de 1250 à 1254 et fait refaire à ses frais les fortifications de Jaffa, comme celles de Césarée. C'est pendant ce séjour, en 1252, qu'il humilie publiquement le maître du Temple, [[renaud-de-vichiers|Renaud de Vichiers]], pour un accord passé sans lui avec le sultan de Damas, scène que rapporte [[jean-de-joinville|Joinville]]. Le Temple avait sa maison à Jaffa, comme dans tous les ports du royaume, mais la ville appartenait aux comtes, les Ibelin.
+texte: Le 7 mars 1268, [[baybars]] paraît devant la ville, qu'il prend en douze heures ; les défenseurs réfugiés dans la citadelle se rendent et obtiennent de gagner Acre, et le sultan fait démolir la citadelle, envoyant ses bois et ses marbres au Caire pour la mosquée qu'il y bâtit. Les Francs n'y reviendront pas : en 1432, le voyageur Bertrandon de la Broquière n'y voit plus que des ruines et quelques tentes. La colline du vieux Jaffa, au sud de Tel-Aviv, porte aujourd'hui l'église Saint-Pierre et un quartier restauré.
+repere: Juin 1099 — Prise de Jaffa par les croisés.
+repere: 10 septembre 1191 — Richard Cœur de Lion reprend la ville.
+repere: 2 septembre 1192 — Trêve de Jaffa entre Richard et Saladin.
+repere: 1229 — Frédéric II refortifie Jaffa.
+repere: 1252 — Louis IX refait l'enceinte ; humiliation de Renaud de Vichiers.
+repere: 7 mars 1268 — Baybars prend Jaffa et rase la citadelle.
+attention: Jaffa n'a jamais été une ville « templière » : l'ordre y avait une maison comme dans tous les ports du royaume, et le château appartenait aux comtes. Le lieu exact de la scène de 1252 entre le roi et le maître du Temple n'est d'ailleurs pas toujours précisé par les récits.
+geo: 32.0545, 34.7530
+lieu: Jaffa (Tel Aviv-Jaffa), Israël
+lien: wp Jaffa
+lien: en Fall of Jaffa (1268)
+sources: Wikipédia (fr) « Jaffa » ; Wikipedia (en) « Jaffa », « Fall of Jaffa (1268) »
+voir: renaud-de-vichiers, louis-ix, jean-de-joinville, bataille-d-arsouf, richard-coeur-de-lion, frederic-ii, baybars, septieme-croisade
+
+@ bataille-d-arsouf
+cat: orient
+nom: Bataille d'Arsouf
+alias: Arsouf, Arsuf, Arsur, Apollonia, bataille d'Arsur, 7 septembre 1191
+dates: 7 septembre 1191
+an: 1191
+def: Victoire de Richard Cœur de Lion sur Saladin, le 7 septembre 1191, sur la route côtière d'Acre à Jaffa : les Templiers formaient l'avant-garde de la colonne, les Hospitaliers l'arrière-garde, et leur discipline de marche décida du succès.
+texte: Après la reprise d'[[acre|Acre]], en juillet 1191, [[richard-coeur-de-lion|Richard Cœur de Lion]] veut atteindre [[jaffa|Jaffa]] pour menacer Jérusalem (voir [[troisieme-croisade]]). Il part à la fin d'août le long de la côte, la flotte suivant au large avec les vivres, et marche lentement, le matin seulement, pour épargner les hommes. L'armée avance en colonne serrée : les [[ordre-du-temple|Templiers]] du maître [[robert-de-sable|Robert de Sablé]] en tête, puis les Angevins et les Bretons, les Poitevins avec [[guy-de-lusignan|Guy de Lusignan]], les Anglais et les Normands autour du grand étendard, les Français, les Flamands et les barons d'Outremer, et les [[hospitaliers|Hospitaliers]] de Garnier de Naplouse à l'arrière. [[saladin]], qui a réuni peut-être vingt-cinq mille hommes, surtout des cavaliers, harcèle la colonne jour après jour sans la rompre.
+texte: Le 7 septembre, à la sortie de la forêt d'Arsouf, il lance l'attaque générale sur l'arrière-garde. Les Hospitaliers, durement pressés, réclament de charger ; Richard refuse, voulant attendre que l'ennemi soit engagé. Le maréchal de l'Hôpital et un chevalier, Baudouin le Caron, n'y tiennent plus et chargent ; tout l'ordre suit, et Richard, pour ne pas les laisser seuls, lance la charge générale. L'aile droite de Saladin s'effondre ; le roi arrête la poursuite après un kilomètre et demi pour ne pas disperser ses hommes, puis charge encore deux fois. Les chroniqueurs chrétiens comptent sept mille morts et trente-deux émirs chez les musulmans, chiffres invérifiables ; les croisés n'ont perdu qu'un chef de marque, Jacques d'Avesnes. Richard entre à Jaffa le 10 septembre ; Saladin, qui ne peut plus tenir les forteresses du sud, fait démanteler Ascalon et [[gaza|Gaza]].
+texte: Arsouf est l'une des batailles rangées les mieux décrites des croisades, et l'une des rares où la cavalerie franque a chargé presque au moment voulu : les historiens y voient l'effet de la discipline des ordres militaires, habitués à marcher en rang et à ne pas quitter la [[baucent|bannière]] (voir [[chevaux-et-cavalerie]]). Le champ de bataille probable, au nord-est de la ville antique d'Apollonia-Arsouf, a été prospecté en 2013-2014 par l'université de Haïfa, qui y a recueilli des pointes de flèches et des pièces de harnais. La ville elle-même, où Jean d'Ibelin éleva un grand château à partir de 1241, achetée par les Hospitaliers en 1261 et prise par [[baybars]] en 1265, est aujourd'hui un parc national au bord de la mer.
+repere: Juillet 1191 — Reprise d'Acre ; Richard prépare la marche vers Jaffa.
+repere: Fin août 1191 — Départ de l'armée le long de la côte, Templiers en tête.
+repere: 7 septembre 1191 — Bataille d'Arsouf ; déroute de l'armée de Saladin.
+repere: 10 septembre 1191 — Richard entre à Jaffa.
+repere: 2 septembre 1192 — Trêve de Jaffa, fin de la troisième croisade.
+repere: 1265 — Baybars prend Arsouf aux Hospitaliers.
+attention: La charge « indisciplinée » des Hospitaliers est le récit de l'*Itinerarium peregrinorum*, favorable à Richard ; des historiens pensent aujourd'hui que le roi avait pu déléguer l'ordre de charger. Et la victoire, réelle, n'ouvrit pas Jérusalem : la trêve de 1192 n'accorda aux chrétiens que le libre accès des pèlerins.
+geo: 32.1944, 34.8069
+lieu: Arsouf (Apollonia), près de Herzliya, Israël
+lien: wp Bataille d'Arsouf
+lien: en Battle of Arsuf
+lien: wp Arsouf
+sources: Wikipédia (fr) « Bataille d'Arsouf », « Arsouf » ; Wikipedia (en) « Battle of Arsuf »
+voir: troisieme-croisade, richard-coeur-de-lion, robert-de-sable, saladin, jaffa, hospitaliers, baucent, chevaux-et-cavalerie
+
+@ damiette
+cat: orient
+nom: Damiette
+alias: Dumyat, Damietta, siège de Damiette, prise de Damiette, tour de la Chaîne
+dates: 1218 – 1250
+an: 1218
+fin: 1250
+def: Port du delta du Nil, clef de l'Égypte, assiégé et pris par la cinquième croisade en 1218-1219 puis occupé par Louis IX en 1249 : les Templiers y perdirent le maître Guillaume de Chartres et y commencèrent les deux campagnes qui finirent à Mansourah.
+texte: Les croisés du XIIIe siècle pensent que Jérusalem se gagne en Égypte, et Damiette, sur la branche orientale du Nil, en est la porte : une ville fortifiée que protège, sur le fleuve, une tour isolée. La [[cinquieme-croisade|cinquième croisade]] y débarque à la fin de mai 1218, avec Jean de Brienne, roi de Jérusalem, et les [[ordre-du-temple|Templiers]] du maître [[guillaume-de-chartres|Guillaume de Chartres]]. La tour tombe le 25 août, grâce à une tour de siège montée sur deux nefs liées ; le sultan al-Adil meurt le 31. Le légat Pélage arrive en septembre et dispute le commandement au roi. L'hiver est terrible, l'épidémie emporte le maître du Temple le 26 août 1219 ; [[pierre-de-montaigu|Pierre de Montaigu]] lui succède. Le sultan al-Kamil offre Jérusalem contre le départ des croisés ; Pélage, soutenu par les Templiers, les Hospitaliers et les Italiens, refuse. Le 5 novembre 1219, les Francs entrent dans une ville vidée par la famine et la maladie. François d'Assise était venu, pendant le siège, tenter de convertir le sultan.
+texte: L'armée reste près de deux ans à Damiette, dont la grande mosquée devient cathédrale. En juillet 1221, Pélage marche sur Le Caire malgré les mises en garde des ordres militaires ; piégée par la crue entre les canaux, l'armée capitule devant [[mansourah|Mansourah]] à la fin d'août, et Damiette est rendue le 8 septembre 1221. Trente ans plus tard, [[louis-ix|Louis IX]] recommence : il débarque au début de juin 1249, et la garnison égyptienne se retire ; la ville est occupée le 6 juin presque sans combat, avec les Templiers de [[guillaume-de-sonnac|Guillaume de Sonnac]]. Le roi y attend six mois la fin de la crue avant de marcher à son tour sur Mansourah (voir [[septieme-croisade]]). Capturé le 6 avril 1250, Louis rend Damiette dans le cadre de sa rançon.
+texte: Pour le Temple, Damiette fut deux fois le point de départ d'une guerre dont il ne contrôlait pas la conduite et qu'il paya cher : un maître mort de maladie en 1219, un maître tué et presque tous ses chevaliers perdus en 1250. La ville médiévale a été rasée par les Mamelouks après le départ des Francs et rebâtie plus loin de la mer ; la Damiette actuelle n'est donc pas celle des croisades.
+repere: Mai 1218 — Les premiers croisés débarquent devant Damiette.
+repere: 25 août 1218 — Prise de la tour du fleuve.
+repere: 26 août 1219 — Mort du maître Guillaume de Chartres, emporté par l'épidémie.
+repere: 5 novembre 1219 — Les croisés entrent dans Damiette.
+repere: 8 septembre 1221 — Damiette est rendue au sultan al-Kamil.
+repere: 6 juin 1249 — Louis IX occupe Damiette.
+repere: Mai 1250 — Damiette est rendue, en paiement d'une partie de la rançon du roi.
+attention: On a fait du refus de l'offre d'al-Kamil une faute des ordres militaires : le sultan gardait les châteaux d'Outre-Jourdain, Kerak et Montréal, sans lesquels Jérusalem était jugée indéfendable, et Pélage, plus que les ordres, porta la décision. Les sources ne s'accordent pas toujours sur l'année de la mort de Guillaume de Chartres, 1218 ou 1219.
+geo: 31.4167, 31.8214
+lieu: Damiette, delta du Nil, Égypte
+lien: wp Damiette
+lien: wp Siège de Damiette (1218-1219)
+lien: en Siege of Damietta (1249)
+sources: Wikipédia (fr) « Damiette », « Siège de Damiette (1218-1219) » ; Wikipedia (en) « Siege of Damietta (1218–1219) », « Siege of Damietta (1249) », « Battle of Mansurah (1221) »
+voir: cinquieme-croisade, septieme-croisade, guillaume-de-chartres, pierre-de-montaigu, guillaume-de-sonnac, louis-ix, mansourah, jean-de-joinville
+
+@ mansourah
+cat: orient
+nom: Mansourah
+alias: Mansoura, al-Mansura, El-Mansoura, bataille de Mansourah, bataille de la Mansourah, 8 février 1250, Dar Ibn Luqman
+dates: 1221 ; 8 – 11 février 1250
+an: 1250
+def: Ville du delta née d'un camp fortifié du sultan al-Kamil face aux croisés de Damiette, où la cinquième croisade capitula en 1221 et où, le 8 février 1250, la charge de Robert d'Artois fit périr presque tous les Templiers présents ; le maître Guillaume de Sonnac mourut trois jours plus tard.
+texte: Al-Mansura, « la Victorieuse », est d'abord le camp que le sultan al-Kamil fortifie, après la perte de [[damiette|Damiette]] en 1219, au bord du Nil et du canal d'Ashmum, pour barrer la route du Caire. En juillet 1221, le légat Pélage y conduit l'armée de la [[cinquieme-croisade|cinquième croisade]], malgré les avertissements des [[ordre-du-temple|Templiers]] et des autres ordres ; le 24, elle campe face à la ville, de l'autre côté du canal. La crue monte, al-Kamil fait ouvrir les digues, les Égyptiens coupent la retraite : du 26 au 28 août, les croisés, à moitié noyés, tentent de se dégager, puis demandent la paix. Ils obtiennent la vie sauve contre la restitution de Damiette et une trêve de huit ans.
+texte: En 1249, [[louis-ix|Louis IX]] suit le même chemin (voir [[septieme-croisade]]). Parti de Damiette à la fin de novembre, il campe en décembre devant le canal, face à l'armée égyptienne de l'émir Fakhr al-Din, et cherche pendant des semaines à le franchir. Un Bédouin révèle un gué. Le 8 février 1250, à l'aube, l'avant-garde passe : le comte Robert d'Artois, frère du roi, les Templiers de [[guillaume-de-sonnac|Guillaume de Sonnac]], les Anglais de Guillaume de Salisbury. Ils surprennent le camp ennemi, où Fakhr al-Din est tué. Il fallait alors attendre le roi ; Robert d'Artois veut poursuivre jusqu'à la ville, le maître du Temple s'y oppose, le comte le traite de lâche, et les Templiers le suivent pour n'être pas dits tels. Dans les ruelles de Mansourah, que [[baybars]] a laissées ouvertes pour les y attirer, ils sont enfermés et écrasés : Robert d'Artois et Salisbury sont tués, et des quelque deux cent quatre-vingts chevaliers du Temple présents, cinq seulement en réchappent, selon Matthieu Paris. Guillaume de Sonnac y perd un œil.
+texte: Le 11 février, les Égyptiens attaquent le camp du roi, installé sur la rive conquise ; [[jean-de-joinville|Joinville]] montre le maître du Temple tenant sa position derrière une barricade de machines prises à l'ennemi, puis tombant, l'autre œil crevé. Les Francs tiennent, mais ils sont perdus : la flotte égyptienne coupe le ravitaillement, la maladie décime l'armée, et la retraite ordonnée le 5 avril finit le lendemain à Fariskur par la capture du roi ; la rançon fut en partie avancée sur l'argent du Temple (voir [[renaud-de-vichiers]], [[banque-du-temple]]). La tradition locale montre la prison de Louis IX dans la maison d'Ibn Luqman, aujourd'hui un petit musée de Mansourah, grande ville universitaire du delta.
+repere: 1219 — Al-Kamil fortifie le camp d'al-Mansura face à Damiette.
+repere: 28 août 1221 — Capitulation de la cinquième croisade devant Mansourah.
+repere: Novembre 1249 — Louis IX quitte Damiette pour Mansourah.
+repere: 8 février 1250 — Passage du gué, mort de Fakhr al-Din, massacre des Templiers dans la ville.
+repere: 11 février 1250 — Mort de Guillaume de Sonnac dans la défense du camp.
+repere: 6 avril 1250 — Louis IX est fait prisonnier à Fariskur.
+attention: Le chiffre de deux cent quatre-vingts Templiers et de cinq survivants vient de Matthieu Paris, qui écrit en Angleterre et donne ailleurs d'autres nombres ; d'autres comptes parlent de quatre-vingts frères tués. La responsabilité du désastre est imputée à Robert d'Artois par toutes les sources françaises, mais les Templiers l'ont suivi, contre l'avis de leur maître.
+geo: 31.0456, 31.3826
+lieu: Mansourah (El-Mansoura), Dakahleya, Égypte
+lien: wp Bataille de Mansourah
+lien: en Battle of Mansurah (1221)
+lien: wp Mansourah (Égypte)
+sources: Wikipédia (fr) « Bataille de Mansourah », « Mansourah (Égypte) » ; Wikipedia (en) « Battle of Mansurah (1250) », « Battle of Mansurah (1221) », « Siege of Damietta (1249) »
+voir: septieme-croisade, cinquieme-croisade, guillaume-de-sonnac, louis-ix, jean-de-joinville, baybars, renaud-de-vichiers, damiette

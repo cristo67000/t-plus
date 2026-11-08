@@ -1,0 +1,583 @@
+# T+ — lot 02 : les maîtres de l'ordre. La fonction, puis les vingt-trois maîtres
+# d'Hugues de Payns à Jacques de Molay, dans l'ordre de la frise (build/frises.txt).
+# Les dates de mandat suivent Demurger (2005, 2007) et Barber (1994) ; les biographies
+# sont souvent lacunaires et le disent.
+
+@ maitres-de-l-ordre
+cat: maitres
+nom: Les maîtres de l'ordre
+alias: maître du Temple, grand maître des Templiers, magister Templi, liste des maîtres de l'ordre du Temple, élection du maître, commandeur de l'élection, grand commandeur
+dates: 1119 – 1314
+an: 1119
+fin: 1314
+def: Vingt-trois hommes ont dirigé l'ordre du Temple, d'[[hugues-de-payns|Hugues de Payns]] à [[jacques-de-molay|Jacques de Molay]]. Élu à vie par treize frères, le maître commande l'ordre en Orient et en Occident, mais la règle borne étroitement son pouvoir.
+texte: Dans les textes de l'ordre, le chef des Templiers s'appelle simplement le « maître » (*magister*), et parfois le « maître du Temple » ou le « maître d'outre-mer » pour le distinguer des maîtres de province. Le titre de « grand maître », que la tradition emploie pour tous, n'apparaît que tardivement, à la fin du XIIIe siècle et surtout dans les documents du [[proces-des-templiers|procès]] ; les historiens le réservent par commodité, en sachant que les frères du XIIe siècle ne l'ont jamais prononcé. Le maître réside au chef-lieu de l'ordre : le [[jerusalem-temple-de-salomon|Temple de Salomon]] à Jérusalem jusqu'en 1187, puis [[acre|Acre]] de 1191 à 1291, puis [[chypre-templiere|Chypre]]. De là il gouverne l'ensemble des [[provinces-du-temple|provinces]], dont les maîtres lui doivent obéissance et versent à l'Orient les revenus des [[commanderie|commanderies]].
+texte: Son élection est réglée par les [[retraits|retraits]], aux articles 198 à 223. À la mort du maître, le maréchal réunit les dignitaires présents, qui désignent un grand commandeur chargé de tenir sa place en attendant ; c'est le cas de Terricus en 1187 ou de Guillaume de Roquefort après La Forbie, que l'on compte parfois à tort parmi les maîtres. Quand les commandeurs d'Orient sont rassemblés, le [[chapitre-general|chapitre]] nomme un commandeur de l'élection, qui se choisit un compagnon ; ces deux frères en appellent deux autres, puis les quatre en appellent deux, et ainsi de suite jusqu'à douze, « en l'honneur des douze apôtres », auxquels s'ajoute un frère chapelain « pour tenir la place de Jésus-Christ ». Les treize électeurs comptent huit chevaliers, quatre sergents et un chapelain, pris si possible dans des pays différents. Ils se retirent, s'accordent sur un nom, et le commandeur de l'élection proclame l'élu devant le chapitre, qui chante le *Te Deum*. L'élection se fait à vie ; deux maîtres au moins ont pourtant renoncé à la charge, Évrard des Barres et Philippe de Milly, et on l'a supposé d'André de Montbard et de Thibaud Gaudin.
+texte: Le maître n'est pas un souverain. Il ne peut, sans le conseil du chapitre, aliéner une terre ou un château, engager l'ordre dans une guerre ou conclure une trêve, ni disposer librement du trésor, que tient le commandeur de la terre. Sur le champ de bataille, il décide en revanche seul de l'engagement, entouré de deux frères chevaliers qui forment son conseil permanent. La règle lui donne quatre montures, dont un turcoman de guerre, un chapelain, un clerc, un frère sergent, un maréchal-ferrant, un écrivain sarrasin qui lui sert d'interprète, un turcopole et un cuisinier ; en campagne il loge sous une tente ronde, signe de son rang. Il est soumis à la même discipline que les autres frères, et le chapitre peut le juger. Les dignitaires de la [[hierarchie-de-l-ordre|hiérarchie]] — sénéchal, maréchal, commandeur de la terre, drapier — tiennent de lui leur office mais lui opposent le poids du couvent.
+texte: Dix maîtres ont siégé à Jérusalem : Hugues de Payns (v. 1119-1136), [[robert-de-craon|Robert de Craon]] (1136-1149), [[evrard-des-barres|Évrard des Barres]] (1149-1152), [[bernard-de-tremelay|Bernard de Tremelay]] (1152-1153), [[andre-de-montbard|André de Montbard]] (1153-1156), [[bertrand-de-blanquefort|Bertrand de Blanquefort]] (1156-1169), [[philippe-de-milly|Philippe de Milly]] (1169-1171), [[eudes-de-saint-amand|Eudes de Saint-Amand]] (1171-1179), [[arnaud-de-toroge|Arnaud de Toroge]] (1181-1184) et [[gerard-de-ridefort|Gérard de Ridefort]] (1185-1189). Douze ont siégé à Acre : [[robert-de-sable|Robert de Sablé]] (1191-1193), [[gilbert-herail|Gilbert Hérail]] (1194-1200), [[philippe-du-plessis|Philippe du Plessis]] (1201-1209), [[guillaume-de-chartres|Guillaume de Chartres]] (1210-1219), [[pierre-de-montaigu|Pierre de Montaigu]] (1219-1232), [[armand-de-perigord|Armand de Périgord]] (1232-1244), [[richard-de-bures|Richard de Bures]] (1245-1247, dont la qualité de maître est discutée), [[guillaume-de-sonnac|Guillaume de Sonnac]] (1247-1250), [[renaud-de-vichiers|Renaud de Vichiers]] (1250-1256), [[thomas-berard|Thomas Bérard]] (1256-1273), [[guillaume-de-beaujeu|Guillaume de Beaujeu]] (1273-1291) et [[thibaud-gaudin|Thibaud Gaudin]] (1291-1292). Le dernier, Jacques de Molay (1292-1314), a gouverné depuis Chypre puis depuis les prisons du roi de France. Six sont morts au combat ou en captivité ; la plupart venaient du royaume de France, et beaucoup avaient d'abord dirigé une province d'Occident.
+repere: v. 1119 — Hugues de Payns prend la tête des premiers frères ; un acte de 1125 le nomme « maître des chevaliers du Temple ».
+repere: v. 1165 — Les retraits fixent la procédure d'élection et la maison du maître.
+repere: 1187 — Après Hattin, le grand commandeur Terricus gouverne l'ordre pendant la captivité de Gérard de Ridefort.
+repere: 1191 — Le siège du maître passe de Jérusalem, perdue en 1187, à Acre.
+repere: 1291 — Après la chute d'Acre, Thibaud Gaudin est élu à Sidon ; l'ordre se replie à Chypre.
+repere: 1292 — Élection de Jacques de Molay, vingt-troisième et dernier maître.
+attention: « Grand maître » est un titre tardif : les actes du XIIe et de la plus grande partie du XIIIe siècle disent « maître ». Et la liste des vingt-trois n'est pas tout à fait fixe : Richard de Bures n'y figure pas chez tous les historiens, et des lieutenants comme Terricus y ont parfois été glissés à tort.
+lien: wp Liste des maîtres de l'ordre du Temple
+lien: wp Hiérarchie de l'ordre du Temple en Orient
+lien: en List of grand masters of the Knights Templar
+sources: Règle du Temple, éd. Curzon, 1886 (art. 77-98, 198-223) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: hierarchie-de-l-ordre, chapitre-general, retraits, regle-du-temple, hugues-de-payns, jacques-de-molay, provinces-du-temple, sceau-du-temple
+
+@ hugues-de-payns
+cat: maitres
+nom: Hugues de Payns
+alias: Hugues de Payens, Hugo de Paganis, Hugues de Pains, Hugo de Peanz, premier maître du Temple, fondateur des Templiers
+dates: v. 1070 – 24 mai 1136
+an: 1119
+fin: 1136
+def: Chevalier champenois, vassal du comte de Champagne, fondateur et premier maître de l'ordre du Temple (v. 1119-1136). Sa tournée d'Occident de 1127 à 1129 aboutit au [[concile-de-troyes|concile de Troyes]], qui donne une règle à la nouvelle milice.
+texte: On connaît Hugues de Payns par une poignée d'actes, et presque rien de sa personne. Il est né vers 1070, sans doute à [[payns]], un village de la vallée de la Seine à une douzaine de kilomètres de Troyes : Guillaume de Tyr le dit « de lez Troyes », et Gautier Map, à la fin du XIIe siècle, le fait venir d'un village nommé Payns. Il paraît en 1100 comme témoin de deux chartes du comte [[hugues-de-champagne|Hugues de Champagne]], dont il est le vassal ; en 1113, une charte le nomme « Hugo, dominus de Peanz ». Il a épousé une Élisabeth de Chappes, dont il a eu au moins un fils, Thibaud, élu abbé de Sainte-Colombe de Sens en 1139. Qu'il ait suivi son comte en Terre sainte en 1104 puis en 1114 est vraisemblable, mais aucun document ne l'affirme ; ce qui est sûr, c'est qu'il se trouve à Jérusalem à la fin des années 1110 et qu'il n'en reviendra que pour une mission.
+texte: Vers 1119 ou 1120, avec [[godefroy-de-saint-omer|Godefroy de Saint-Omer]] et quelques compagnons, il fait vœu devant le patriarche Gormond de protéger les pèlerins sur les routes du royaume ; le roi [[baudouin-ii-de-jerusalem|Baudouin II]] leur donne un logis dans son palais, l'ancienne mosquée al-Aqsa tenue pour le [[jerusalem-temple-de-salomon|Temple de Salomon]]. Les historiens discutent de la part du concile de Naplouse (janvier 1120) dans cette [[fondation-de-l-ordre|fondation]] ; un acte de 1125 est le premier à nommer Hugues « maître des chevaliers du Temple ». La milice reste minuscule et pauvre, et c'est pour la faire reconnaître et recruter que Baudouin II envoie Hugues en Occident à l'automne de 1127, avec cinq frères.
+texte: La tournée dure deux ans. Hugues passe en Anjou, où le comte [[foulques-d-anjou|Foulques]], confrère de l'ordre depuis 1120, prend la croix en sa présence, en Normandie, puis en Angleterre, où la chronique anglo-saxonne note pour 1128 qu'il a reçu du roi Henri Ier de grands trésors et emmené « plus de gens qu'on n'en vit jamais depuis la première croisade » ; une tradition le fait passer aussi en Écosse chez David Ier. En Flandre et en Champagne, les premières donations affluent. Le 13 janvier 1129, il expose à Troyes, devant le légat Mathieu d'Albano, les usages de sa milice : le concile en tire la [[regle-du-temple|règle latine]], que [[bernard-de-clairvaux|Bernard de Clairvaux]] soutient de son autorité et dont il justifiera l'esprit dans le *[[de-laude-novae-militiae|De laude novae militiae]]*. Hugues repart à la fin de 1129 avec des recrues et de l'argent ; ses hommes participent en novembre à l'expédition manquée de Baudouin II contre Damas.
+texte: Ses dernières années sont muettes. Il est encore attesté en 1133-1134 ; l'obituaire de la commanderie de Reims commémore sa mort le 24 mai, et les chroniques la placent en 1136, sans dire où ni comment. Il avait une soixantaine d'années. Une tradition italienne du XVIIe siècle lui donne un tombeau à Ferrare, sans preuve. [[robert-de-craon|Robert de Craon]] lui succède. De l'homme, on ne sait ni le visage ni le caractère : les portraits de la salle des Croisades de Versailles et la statue de Dijon sont des inventions du XIXe siècle, et l'immense littérature qui lui prête des secrets n'a pas une ligne à tirer des sources.
+repere: 1100 — Hugues est témoin de chartes du comte Hugues de Champagne.
+repere: 1113 — Une charte le nomme seigneur de Payns ; il est marié à Élisabeth de Chappes.
+repere: v. 1119 — Avec Godefroy de Saint-Omer, il fonde à Jérusalem la milice des Pauvres Chevaliers du Christ.
+repere: 1125 — Un acte le qualifie pour la première fois de « maître des chevaliers du Temple ».
+repere: 1127 — Baudouin II l'envoie en Occident ; il passe en Anjou, en Normandie, en Angleterre et en Flandre.
+repere: 13 janvier 1129 — Il présente sa milice au concile de Troyes, qui lui donne une règle.
+repere: novembre 1129 — De retour en Orient, il prend part à l'expédition de Baudouin II contre Damas.
+repere: 24 mai 1136 — Mort d'Hugues de Payns ; l'obituaire de Reims en garde la date, non le lieu.
+attention: Hugues de Payns n'est pas italien : la forme latine *Hugo de Paganis* a fait chercher ses origines à Nocera dei Pagani, en Campanie, et une autre hypothèse le disait né au château de Mahun, en Vivarais, sur la foi d'un texte du XVIIe siècle tenu pour un faux ; les historiens écartent l'une et l'autre au profit de Payns, en Champagne. Il n'a jamais porté le titre de « grand maître », et le chiffre des « neuf chevaliers » vient de Guillaume de Tyr, qui écrit cinquante ans plus tard.
+lien: wp Hugues de Payns
+lien: en Hugues de Payens
+sources: Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Leroy, Hugues de Payns, 2001 (via Wikipédia) ; Wikipédia (fr, en) ; condensé 03-hugues-de-payns
+voir: fondation-de-l-ordre, concile-de-troyes, payns, temple-en-champagne, godefroy-de-saint-omer, hugues-de-champagne, bernard-de-clairvaux, robert-de-craon
+
+@ robert-de-craon
+cat: maitres
+nom: Robert de Craon
+alias: Robert le Bourguignon, Robertus de Credonio, deuxième maître du Temple
+dates: ? – 13 janvier 1149
+an: 1136
+fin: 1149
+def: Chevalier angevin, deuxième maître de l'ordre du Temple (1136-1149). Sous son gouvernement, la papauté accorde au Temple ses privilèges fondateurs, dont la bulle [[omne-datum-optimum|Omne datum optimum]] (1139), et l'ordre prend la forme d'une institution exempte.
+texte: Robert de Craon appartient à une famille de l'Anjou et du Maine : il est le fils cadet de Renaud le Bourguignon, seigneur de Craon, et d'Ennoguen de Vitré, d'où son surnom de Robert le Bourguignon. On ignore sa date de naissance. Une tradition rapportée par les chroniqueurs veut qu'il ait été fiancé à la fille d'un seigneur de l'Angoumois et qu'il ait renoncé au mariage pour partir en Terre sainte vers 1125, où il rejoint la milice d'[[hugues-de-payns|Hugues de Payns]]. Il n'assiste pas au [[concile-de-troyes|concile de Troyes]], mais des actes le montrent sénéchal de l'ordre en 1132-1134, c'est-à-dire second du maître, et de passage en Occident. À la mort d'Hugues, en 1136, il est élu maître, sans doute en juin ; certains auteurs anciens plaçaient cette élection en 1137.
+texte: Son mandat est celui des bulles. Le 29 mars 1139, Innocent II publie *Omne datum optimum*, qui place l'ordre sous la seule autorité du pape, l'exempte de la dîme, l'autorise à garder le butin pris sur les musulmans et à recruter ses propres prêtres, les [[chapelains-du-temple|frères chapelains]] ; Célestin II, par *Milites Templi* (9 janvier 1144), puis Eugène III, par *Militia Dei* (7 avril 1145), ajoutent le droit de quêter, d'ouvrir des oratoires et d'enterrer dans leurs cimetières. Au chapitre tenu à Paris le 27 avril 1147 devant Eugène III et Louis VII, les frères reçoivent le droit de porter la croix rouge sur leur [[manteau-et-croix|manteau blanc]]. Robert de Craon n'est pas l'auteur de ces textes, obtenus par les frères de Rome et les protecteurs de l'ordre, mais ils font de lui le maître sous lequel une confrérie de chevaliers est devenue un ordre religieux complet, doté de [[privileges-et-critiques|privilèges]] qui irriteront bientôt les évêques.
+texte: En Orient, son bilan militaire est plus mince. En 1139, des Templiers lancés à la poursuite de pillards venus d'Ascalon, au-delà de Tecua, se dispersent pour piller et sont massacrés : Guillaume de Tyr y voit la première leçon de l'indiscipline des frères. En 1148, Robert est à Jérusalem pour la [[deuxieme-croisade|deuxième croisade]] et au siège manqué de Damas, en juillet, tandis que son maître de France, [[evrard-des-barres|Évrard des Barres]], conduit l'armée de Louis VII à travers l'Anatolie. Il meurt le 13 janvier 1149, aux ides de janvier selon l'obituaire de Reims ; quelques listes anciennes avancent 1147, par confusion avec l'arrivée d'Évrard en Orient. Rien n'est connu de son caractère ni de sa sépulture.
+repere: v. 1125 — Robert part pour la Terre sainte et entre dans la milice d'Hugues de Payns, selon la tradition.
+repere: 1132 — Il est attesté sénéchal de l'ordre.
+repere: juin 1136 — Élu maître après la mort d'Hugues de Payns.
+repere: 29 mars 1139 — Innocent II publie la bulle Omne datum optimum.
+repere: 9 janvier 1144 — Milites Templi, de Célestin II ; le 7 avril 1145 suivra Militia Dei, d'Eugène III.
+repere: 27 avril 1147 — Au chapitre de Paris, Eugène III accorde la croix rouge aux frères.
+repere: 13 janvier 1149 — Mort de Robert de Craon.
+attention: Certaines listes anciennes font mourir Robert de Craon en 1147 et commencer Évrard des Barres la même année ; les obituaires et les actes conduisent plutôt à janvier 1149. Il n'a pas « rédigé » les bulles de 1139-1145, et son surnom de Bourguignon ne vient pas de la Bourgogne : c'est celui de son père, seigneur angevin.
+lien: wp Robert de Craon
+lien: en Robert de Craon
+sources: Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: omne-datum-optimum, hugues-de-payns, evrard-des-barres, chapelains-du-temple, manteau-et-croix, privileges-et-critiques, deuxieme-croisade
+
+@ evrard-des-barres
+cat: maitres
+nom: Évrard des Barres
+alias: Everard des Barres, Evrard de Barres, Eberhard von Barres, troisième maître du Temple
+dates: v. 1113 – novembre 1174
+an: 1149
+fin: 1152
+def: Templier champenois, maître de France puis troisième maître de l'ordre (1149-1152). Il sauve l'armée de Louis VII en Anatolie pendant la [[deuxieme-croisade|deuxième croisade]], puis renonce à sa charge pour finir moine à [[clairvaux|Clairvaux]].
+texte: Évrard des Barres est né vers 1113 dans la région de Meaux, en Brie champenoise, d'une famille de chevaliers dont le nom reste attaché à Oissery ; son frère Guillaume est le premier membre connu de la maison des Barres. On ne sait quand il entre dans l'ordre. Il est maître de France à partir de 1143, et c'est lui qui préside, le 27 avril 1147, le grand chapitre tenu dans la maison du Temple de Paris en présence du pape Eugène III et de Louis VII, où l'on compte, dit-on, cent trente chevaliers du Temple. La même année, il fait partie des ambassadeurs envoyés à Constantinople négocier le passage de l'armée avec l'empereur Manuel Comnène.
+texte: Son heure est celle de la croisade. En janvier 1148, après le désastre du mont Cadmos, Louis VII confie le commandement de la marche aux Templiers : Évrard partage l'armée en groupes placés chacun sous un frère, impose le silence, la discipline et l'ordre de bataille, et l'armée atteint Attalia à peu près intacte. Eudes de Deuil, chapelain du roi, le dit plein de piété et de vaillance. À Antioche puis à Acre, le roi, sans argent, l'envoie emprunter : Louis écrit à Suger que les Templiers lui ont avancé des sommes telles qu'ils risquent la ruine s'il ne les rembourse pas. C'est l'acte de naissance du crédit royal au Temple (voir [[banque-du-temple|le Temple et l'argent]]). Évrard est au siège de Damas, en juillet 1148, puis rentre en France avec le roi au printemps de 1149.
+texte: Entre-temps, [[robert-de-craon|Robert de Craon]] est mort, le 13 janvier 1149, et le chapitre a élu Évrard maître de l'ordre. Mais le nouveau maître ne revient pas en Orient. Le sénéchal [[andre-de-montbard|André de Montbard]] lui écrit en 1150, dans des lettres conservées, que le royaume est menacé, que l'ordre manque d'hommes et d'argent, et le supplie de rentrer. Évrard reste en France, attiré par la vie monastique, et finit par résigner sa charge en 1152 pour entrer à Clairvaux, auprès de [[bernard-de-clairvaux|Bernard]], le protecteur de l'ordre ; [[bernard-de-tremelay|Bernard de Tremelay]] lui succède. Il y vit vingt-deux ans dans la réputation d'un saint et y meurt en novembre 1174, le 12 ou le 18 selon les sources. Il est le premier maître à avoir quitté la charge de son vivant.
+repere: 1143 — Évrard des Barres devient maître du Temple en France.
+repere: 27 avril 1147 — Il préside le chapitre de Paris, devant Eugène III et Louis VII.
+repere: janvier 1148 — Louis VII lui confie la conduite de l'armée à travers l'Anatolie, après le mont Cadmos.
+repere: mai 1148 — À Antioche, le roi lui demande d'emprunter pour la croisade ; il obtient les fonds à Acre.
+repere: 1149 — Élu maître de l'ordre après la mort de Robert de Craon ; il rentre en France avec Louis VII.
+repere: 1150 — André de Montbard lui écrit pour le presser de revenir en Orient.
+repere: 1152 — Il résigne la maîtrise et entre à Clairvaux.
+repere: novembre 1174 — Mort à Clairvaux.
+attention: Des listes anciennes le font maître dès 1147 : il n'était alors que maître de France, chargé de l'armée du roi. Et sa démission n'est pas une disgrâce ; les lettres d'André de Montbard montrent un ordre qui l'attend et un homme qui choisit le monastère.
+lien: wp Évrard des Barres
+lien: en Everard des Barres
+sources: Eudes de Deuil, De profectione Ludovici VII (via Demurger) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: deuxieme-croisade, banque-du-temple, clairvaux, bernard-de-clairvaux, andre-de-montbard, robert-de-craon, bernard-de-tremelay
+
+@ bernard-de-tremelay
+cat: maitres
+nom: Bernard de Tremelay
+alias: Bernard de Tramelay, Bernard de Dramelay, Bernardus de Tremelai, quatrième maître du Temple
+dates: ? – 16 août 1153
+an: 1152
+fin: 1153
+def: Chevalier du comté de Bourgogne, quatrième maître de l'ordre du Temple (1152-1153), tué avec une quarantaine de frères dans la brèche d'Ascalon le 16 août 1153. Le récit de Guillaume de Tyr, qui l'accuse d'avoir voulu garder le butin, est discuté.
+texte: Bernard de Tremelay vient du Jura : le château de Tramelay ou Dramelay, près d'Arinthod, dans le comté de Bourgogne, terre d'Empire. Il serait fils d'un Humbert de Tramelay, aurait eu des frères, et une tradition locale le dit commandeur de Dole avant son départ pour l'Orient, ce qu'aucun acte ne confirme. On ne connaît ni sa date de naissance ni celle de son entrée dans l'ordre. Il est élu maître en 1152, après la démission d'[[evrard-des-barres|Évrard des Barres]] ; quelques listes avancent 1151, et Du Cange glisse entre les deux un certain Hugues, dont nul autre ne parle.
+texte: Son mandat ne dure qu'un an, et il est tout entier tourné vers Ascalon, la dernière place égyptienne de la côte, d'où partent les raids contre le sud du royaume. Le roi Baudouin III venait de confier aux Templiers la ville ruinée de [[gaza]], qu'ils ont relevée pour bloquer Ascalon par le sud. En janvier 1153, le roi met le siège devant la ville avec l'ost du royaume, le patriarche et la Vraie Croix, et les frères du Temple. Le siège traîne sept mois. Vers le 15 août, les assiégés mettent le feu à la grande tour roulante des Francs ; le vent rabat les flammes sur le rempart, dont un pan s'écroule dans la nuit.
+texte: Ce qui suit est rapporté par Guillaume de Tyr, trente ans plus tard. Au matin du 16 août, Bernard de Tremelay se précipite dans la brèche avec une quarantaine de frères et, dit le chroniqueur, empêche le reste de l'armée de suivre pour garder aux Templiers le pillage de la ville. Les quarante hommes, isolés dans les rues, sont massacrés ; les défenseurs exposent leurs corps sur les remparts et envoient leurs têtes au calife. Ascalon se rend pourtant quelques jours plus tard, le 19 ou le 22 août 1153. L'obituaire de Reims commémore le maître au 17 des calendes de septembre, soit le 16 août. Les historiens doutent de l'explication de Guillaume de Tyr, qui est hostile aux privilèges du Temple : elle ressemble à la défense des chefs de l'armée, qui n'ont pas suivi, et un chroniqueur de Damas raconte l'assaut sans parler des Templiers. Que Bernard ait voulu exploiter la brèche avant qu'elle ne soit colmatée est plus probable que la cupidité qu'on lui prête. [[andre-de-montbard|André de Montbard]] lui succède.
+repere: 1152 — Bernard de Tremelay est élu maître après la démission d'Évrard des Barres.
+repere: janvier 1153 — Baudouin III met le siège devant Ascalon ; les Templiers sont dans l'ost.
+repere: 15 août 1153 — L'incendie de la tour roulante ouvre une brèche dans le rempart.
+repere: 16 août 1153 — Bernard et une quarantaine de frères entrent dans la ville et y sont tués.
+repere: août 1153 — Ascalon se rend à Baudouin III quelques jours plus tard.
+attention: L'accusation de cupidité vient d'un seul auteur, Guillaume de Tyr, qui écrit longtemps après et n'aime pas les Templiers. On ne sait pas pourquoi Bernard de Tremelay s'est jeté dans la brèche sans l'armée ; on sait seulement qu'il y est mort.
+lien: wp Bernard de Tramelay
+lien: en Bernard de Tremelay
+sources: Guillaume de Tyr, Historia, XVII, 27 (via Barber) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: siege-d-ascalon, gaza, evrard-des-barres, andre-de-montbard, guillaume-de-tyr, privileges-et-critiques
+
+@ andre-de-montbard
+cat: maitres
+nom: André de Montbard
+alias: Andreas de Montebarro, Andrieu de Montbard, cinquième maître du Temple, oncle de saint Bernard
+dates: v. 1103 – 17 janvier 1156
+an: 1153
+fin: 1156
+def: Chevalier bourguignon, oncle de [[bernard-de-clairvaux|Bernard de Clairvaux]], sénéchal puis cinquième maître de l'ordre du Temple (1153-1156). Entré tôt dans la milice, il est le lien entre les premiers Templiers et Clairvaux.
+texte: André de Montbard est né vers 1103 au château de Montbard, en Bourgogne, dernier fils de Bernard, seigneur de Montbard, et d'Humberge. Sa sœur, ou demi-sœur, Aleth a épousé Tescelin le Roux et donné le jour, en 1090, à Bernard, le futur abbé de Clairvaux : André est donc l'oncle de saint Bernard, bien qu'il soit son cadet d'une dizaine d'années, ce qui a troublé plus d'un lecteur. Un autre frère, Rainard, a donné à Bernard les terres où Clairvaux fut fondée en 1115. La parenté est sûre ; la date de l'entrée d'André dans la milice du Temple l'est moins. Une tradition le range parmi les « neuf » premiers compagnons d'[[hugues-de-payns|Hugues de Payns]], mais Guillaume de Tyr ne le nomme pas, et la première trace de lui est une lettre du roi [[baudouin-ii-de-jerusalem|Baudouin II]] à Bernard de Clairvaux, dont il aurait été l'un des porteurs, datée selon les historiens entre 1119 et 1126 et dont l'authenticité est discutée : le roi y demande à l'abbé d'obtenir pour la milice une règle et l'appui du pape. Il serait donc l'un des artisans du [[concile-de-troyes|concile de Troyes]], sans qu'on sache s'il y était.
+texte: Il reparaît en Orient comme sénéchal de l'ordre, second du maître, attesté de 1148 à 1151 au moins. Ce sont ses lettres à [[evrard-des-barres|Évrard des Barres]], resté en France après la [[deuxieme-croisade|deuxième croisade]], qui éclairent le mieux l'ordre de ces années : il y décrit en 1150 un royaume menacé par Nur ad-Din, la mort de Raymond d'Antioche, les frères épuisés et le trésor vide, et supplie le maître de revenir. Évrard n'est pas revenu. Après la mort de [[bernard-de-tremelay|Bernard de Tremelay]] dans la brèche d'Ascalon, le 16 août 1153, André, qui a une cinquantaine d'années, est élu maître ; la première mention de sa fonction date du 27 mai 1155, dans un acte de Baudouin III, et certains placent l'élection seulement en 1154. Une tradition veut qu'il ait été préféré à un candidat soutenu par Louis VII, Guillaume de Chanaleilles ; rien ne l'établit.
+texte: De son court gouvernement, on ne sait presque rien : la consolidation de Gaza et des places du sud après la prise d'Ascalon, et la préparation de l'ordre à la guerre contre Nur ad-Din, qui coûtera si cher à son successeur. Il meurt le 17 janvier 1156, date du martyrologe de Reims ; Laurent Dailliez, d'après un obituaire de Bonlieu, donnait le 17 octobre. Le lieu est inconnu, sans doute Jérusalem ; une tradition, qui le fait finir à Clairvaux comme Évrard des Barres, n'a pas de source. [[bertrand-de-blanquefort|Bertrand de Blanquefort]] lui succède. Son sceau est connu par un dessin du XIXe siècle.
+repere: v. 1103 — Naissance à Montbard, en Bourgogne.
+repere: v. 1120 — Il aurait porté à Bernard de Clairvaux une lettre de Baudouin II en faveur de la milice (date discutée, entre 1119 et 1126).
+repere: 1148 — Il est attesté sénéchal de l'ordre.
+repere: 1150 — Ses lettres pressent Évrard des Barres de rentrer en Orient.
+repere: 1153 — Élu maître après la mort de Bernard de Tremelay ; première mention certaine le 27 mai 1155.
+repere: 17 janvier 1156 — Mort d'André de Montbard, selon le martyrologe de Reims.
+attention: André de Montbard est l'oncle de saint Bernard, non son neveu, bien qu'il soit plus jeune que lui : Aleth, mère de Bernard, était sa sœur. Son rang parmi les « fondateurs » est une tradition, non un fait établi, et sa parenté avec l'abbé de Clairvaux ne fait pas de Bernard le « fondateur caché » du Temple, comme l'ont écrit des auteurs ésotériques.
+lien: wp André de Montbard
+lien: en André de Montbard
+sources: Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Claverie, « Les débuts de l'ordre du Temple en Orient », Le Moyen Âge, 2005 (via Wikipédia) ; Wikipédia (fr, en)
+voir: bernard-de-clairvaux, clairvaux, fondation-de-l-ordre, concile-de-troyes, evrard-des-barres, bernard-de-tremelay, bertrand-de-blanquefort, hierarchie-de-l-ordre
+
+@ bertrand-de-blanquefort
+cat: maitres
+nom: Bertrand de Blanquefort
+alias: Bertrand de Blanchefort, Bertrandus de Blanchefort, sixième maître du Temple, maître par la grâce de Dieu
+dates: v. 1109 – 2 janvier 1169
+an: 1156
+fin: 1169
+def: Chevalier de Guyenne, sixième maître de l'ordre du Temple (1156-1169). Captif de Nur ad-Din pendant deux ans, il donne ensuite à l'ordre ses statuts hiérarchiques, les [[retraits|retraits]], et le titre de « maître par la grâce de Dieu ».
+texte: Bertrand de Blanquefort est né vers 1109 en Guyenne, sans doute à Blanquefort, près de Bordeaux, dans la famille d'un seigneur Godefroy de Blanquefort ; c'est à peu près tout ce qu'on sait de ses origines, et rien de sa carrière avant la maîtrise. Il est élu en octobre 1156, après la mort d'[[andre-de-montbard|André de Montbard]]. Son premier engagement tourne au désastre : le 19 juin 1157, au retour du ravitaillement de Panéas, l'armée de Baudouin III est surprise par Nur ad-Din près du gué de Jacob, sur le Jourdain ; le maître est pris avec plus de quatre-vingts frères et emmené à Alep. Il n'est libéré qu'en 1159, quand l'empereur Manuel Comnène, venu en Syrie du Nord, conclut la paix avec Nur ad-Din et obtient l'élargissement des captifs francs.
+texte: C'est après ce retour que l'ordre prend sa forme définitive. Les retraits, statuts qui règlent la vie militaire et les offices, le [[chapitre-general|chapitre]], la [[hierarchie-de-l-ordre|hiérarchie]] et l'élection du maître, sont rédigés vers 1165, sous son gouvernement ; ils limitent les pouvoirs du maître au profit du couvent, et l'on a vu dans cette rédaction une réponse aux imprudences des années précédentes. Il obtient d'Alexandre III, pour les maîtres, le droit de se dire « maître par la grâce de Dieu » (*Dei gratia magister*), formule des évêques et des princes, et de porter un bâton de commandement, l'*abacus* ; le titre marque l'indépendance d'un ordre qui ne relève que du pape.
+texte: Les dernières années sont celles de l'Égypte. Bertrand accompagne le roi Amaury Ier dans ses premières expéditions ; en 1164, pendant que le roi est sur le Nil, Nur ad-Din écrase à Harim l'armée du Nord et soixante Templiers y périssent. Vers 1166, Amaury fait pendre douze frères qui avaient rendu sans combat une grotte fortifiée au-delà du Jourdain : premier heurt entre le roi et l'ordre. En 1168, quand Amaury décide, contre le traité conclu l'année précédente avec le vizir Shawar, d'envahir l'Égypte, le maître refuse d'y conduire les Templiers : l'entreprise viole le traité, et Guillaume de Tyr ajoute que l'ordre voyait peut-être d'un mauvais œil un projet soutenu par l'Hôpital ; l'expédition échoue, Saladin entre en scène. Bertrand de Blanquefort meurt le 2 janvier 1169, date de l'obituaire de Reims, quelques listes donnant le 13 janvier. [[philippe-de-milly|Philippe de Milly]], un baron du royaume, lui succède.
+repere: octobre 1156 — Élection de Bertrand de Blanquefort.
+repere: 19 juin 1157 — Capturé par Nur ad-Din près du gué de Jacob avec plus de quatre-vingts frères.
+repere: 1159 — Libéré grâce à la paix conclue entre Manuel Comnène et Nur ad-Din.
+repere: 1164 — Défaite de Harim : une soixantaine de Templiers tués.
+repere: v. 1165 — Rédaction des retraits, les statuts hiérarchiques de l'ordre.
+repere: 1168 — Il refuse d'engager l'ordre dans l'invasion de l'Égypte par Amaury Ier.
+repere: 2 janvier 1169 — Mort de Bertrand de Blanquefort.
+attention: Le maître n'a rien à voir avec la famille de Blanchefort de l'Aude, voisine de Rennes-le-Château : ce rapprochement, né dans les années 1960 chez Gérard de Sède et repris par les auteurs du *Holy Blood and the Holy Grail*, repose sur une homonymie ; Bertrand venait de Guyenne.
+lien: wp Bertrand de Blanquefort
+lien: en Bertrand de Blanchefort
+sources: Guillaume de Tyr, Historia, XVIII, 14 et XX, 5 (via Barber) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: retraits, hierarchie-de-l-ordre, chapitre-general, andre-de-montbard, philippe-de-milly, gue-de-jacob, rennes-le-chateau, templiers-et-musulmans
+
+@ philippe-de-milly
+cat: maitres
+nom: Philippe de Milly (de Naplouse)
+alias: Philippe de Naplouse, Philippe de Nablus, Philip of Milly, seigneur d'Outre-Jourdain, septième maître du Temple
+dates: v. 1120 – 3 avril 1171
+an: 1169
+fin: 1171
+def: Baron du royaume de Jérusalem, seigneur de Naplouse puis d'Outre-Jourdain, septième maître de l'ordre du Temple (1169-1171). Seul maître dont on sache qu'il est né en Terre sainte, il renonce à la charge pour suivre le roi Amaury en ambassade.
+texte: Philippe de Milly est né vers 1120 dans le royaume de Jérusalem, fils de Guy de Milly, un officier du roi venu de Picardie, et d'Étiennette, qui lui apporte des biens autour de Naplouse. Il succède à son père comme seigneur de Naplouse en 1144, soutient la reine Mélisende dans sa querelle avec son fils Baudouin III, puis se rallie au roi, qu'il suit au [[siege-d-ascalon|siège d'Ascalon]] en 1153 et au secours de Panéas en 1157. En 1161, il échange Naplouse, que le roi veut dans son domaine, contre la grande seigneurie d'Outre-Jourdain, avec Montréal et le Krak de Moab, dont il renforce les murs. Il a épousé une Isabelle, dont il a eu un fils, Rainier, mort avant lui, et deux filles ; la cadette, Étiennette, dame d'Outre-Jourdain, épousera en troisièmes noces [[renaud-de-chatillon|Renaud de Châtillon]].
+texte: Veuf, il entre dans l'ordre du Temple en janvier 1166, à quarante-cinq ans passés, et renonce à ses fiefs, qui passent à sa fille aînée. Trois ans plus tard, en janvier 1169, le chapitre l'élit maître à la place de [[bertrand-de-blanquefort|Bertrand de Blanquefort]], qui venait de mourir après avoir refusé de suivre le roi en Égypte. Le choix d'un baron du royaume, familier du roi Amaury Ier et à peine templier, s'explique par cette crise : Amaury veut un Temple qui le suive, et il obtient le maître qu'il lui faut. Guillaume de Tyr, qui connaît Philippe, le range parmi les « hommes braves, vaillants aux armes et exercés dès l'enfance au métier de la guerre ». De son mandat, on ne retient qu'une défense de [[gaza]] contre un raid de Saladin, au moment où celui-ci prend Ayla, en 1170.
+texte: Au début de 1171, avant Pâques, il résigne la maîtrise, pour des raisons que les sources ne disent pas, et part avec Amaury pour Constantinople, où le roi va demander à Manuel Comnène une nouvelle expédition contre l'Égypte. Il meurt en route ou peu après l'arrivée : la date du 3 avril 1171 est celle que retiennent les historiens, mais elle n'est pas certaine. [[eudes-de-saint-amand|Eudes de Saint-Amand]], un autre officier du roi, lui succède. Philippe de Milly est un cas à part dans la liste des maîtres : un grand feudataire d'Orient, élu par la faveur royale, qui n'a gouverné l'ordre que deux ans et dont le passage marque la mainmise d'Amaury Ier sur le Temple.
+repere: v. 1120 — Naissance dans le royaume de Jérusalem.
+repere: 1144 — Philippe devient seigneur de Naplouse.
+repere: 1161 — Il échange Naplouse contre la seigneurie d'Outre-Jourdain (Montréal, Krak).
+repere: janvier 1166 — Veuf, il entre dans l'ordre du Temple.
+repere: janvier 1169 — Élu maître, avec l'appui du roi Amaury Ier.
+repere: 1171 — Il résigne la maîtrise avant Pâques et accompagne le roi à Constantinople.
+repere: 3 avril 1171 — Date retenue pour sa mort, qui reste incertaine.
+attention: On l'appelle aussi Philippe de Naplouse, du nom de sa première seigneurie ; c'est le même homme. Sa femme Isabelle est parfois donnée pour la fille du seigneur d'Outre-Jourdain, ce qui expliquerait l'échange de 1161 : les historiens tiennent cette filiation pour douteuse.
+lien: wp Philippe de Milly
+lien: en Philip of Milly
+sources: Guillaume de Tyr, Historia, XX (via Barber) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: bertrand-de-blanquefort, eudes-de-saint-amand, renaud-de-chatillon, siege-d-ascalon, gaza, saladin, reception-dans-l-ordre
+
+@ eudes-de-saint-amand
+cat: maitres
+nom: Eudes de Saint-Amand
+alias: Odon de Saint-Amand, Odo de Sancto Amando, Eudes de Saint-Amant, huitième maître du Temple
+dates: ? – octobre 1179
+an: 1171
+fin: 1179
+def: Ancien officier du roi de Jérusalem, huitième maître de l'ordre du Temple (1171-1179). Il défend l'exemption de l'ordre contre le roi Amaury, charge à [[bataille-de-montgisard|Montgisard]] et meurt dans les prisons de Saladin après la défaite de Marj Ayoun.
+texte: On donne à Eudes de Saint-Amand une origine limousine, sans qu'aucun acte la confirme, et l'on ignore sa date de naissance. Il est connu d'abord comme officier de la couronne de Jérusalem : maréchal du royaume en 1155-1156, puis vicomte de Jérusalem et échanson du roi. En 1165, Amaury Ier l'envoie à Constantinople, avec l'archevêque de Césarée, négocier son mariage avec une princesse byzantine, Marie Comnène, célébré en 1167. On ne sait quand il prend l'habit du Temple ; il est élu maître en 1171, à la suite de la démission de [[philippe-de-milly|Philippe de Milly]], et comme lui il vient de l'entourage du roi.
+texte: Il se révèle pourtant un maître jaloux de l'indépendance de l'ordre. En 1173, Amaury négocie avec le chef des Assassins, Sinan, qui propose, dit Guillaume de Tyr, de se convertir si les Templiers renoncent au tribut que ses villages leur versent ; au retour, l'envoyé de Sinan est assassiné par un frère, Gautier du Mesnil. Le roi exige le coupable ; Eudes refuse de le livrer à une justice laïque, invoquant les bulles qui ne soumettent les frères qu'au pape, et Amaury le fait enlever de force à Sidon. L'affaire, qui reste en suspens à la mort du roi en 1174, fixe pour longtemps l'image d'un ordre qui se croit tout permis (voir [[templiers-et-musulmans|les Templiers et les musulmans]]). Guillaume de Tyr, qui a vécu ces querelles, décrit Eudes comme un homme mauvais, orgueilleux et arrogant, « respirant la fureur par les narines », qui ne craint ni Dieu ni les hommes ; le jugement est celui d'un adversaire.
+texte: Le soldat vaut mieux que le portrait. Le 25 novembre 1177, à Montgisard, Eudes amène de [[gaza]] quatre-vingts chevaliers du Temple qui, avec la petite armée de [[baudouin-iv-de-jerusalem|Baudouin IV]], mettent en déroute [[saladin]]. En 1178-1179, le roi et l'ordre bâtissent le château du [[gue-de-jacob|gué de Jacob]], confié aux Templiers, qui verrouille la route de Damas. Mais le 10 juin 1179, à Marj Ayoun, la charge imprudente des Templiers rompt l'ordre de bataille, Saladin contre-attaque et l'armée franque se débande : Eudes est fait prisonnier. Saladin propose de l'échanger contre un de ses neveux captif ; selon la tradition, le maître refuse, disant qu'un Templier ne peut offrir pour rançon que sa ceinture et son couteau, et les négociations, de toute manière, traînent. En août, Saladin prend et rase le château du gué de Jacob. Eudes meurt dans sa prison, à Damas, en octobre 1179 selon la date le plus souvent retenue ; certaines listes donnent 1180. Le siège reste vacant plus d'un an, jusqu'à l'élection d'[[arnaud-de-toroge|Arnaud de Toroge]].
+repere: 1155 — Eudes de Saint-Amand est maréchal du royaume de Jérusalem.
+repere: 1165 — Ambassadeur d'Amaury Ier à Constantinople pour le mariage du roi.
+repere: 1171 — Élu maître de l'ordre après la démission de Philippe de Milly.
+repere: 1173 — Il refuse de livrer au roi le meurtrier de l'envoyé des Assassins, Gautier du Mesnil.
+repere: 25 novembre 1177 — Victoire de Montgisard, avec quatre-vingts Templiers venus de Gaza.
+repere: 10 juin 1179 — Défaite de Marj Ayoun ; le maître est capturé.
+repere: octobre 1179 — Mort en captivité à Damas (1180 selon certaines listes).
+attention: Le portrait d'Eudes en brute arrogante vient de Guillaume de Tyr, qui défendait les droits des évêques contre l'exemption du Temple. Et la fière réponse sur la ceinture et le couteau, souvent citée, relève de la tradition plus que d'un témoignage sûr ; l'affaire de Gautier du Mesnil est datée de 1172 ou de 1173 selon les auteurs.
+lien: wp Eudes de Saint-Amand
+lien: en Odo of St Amand
+sources: Guillaume de Tyr, Historia, XX-XXI (via Barber) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Hamilton, The Leper King, 2000 (via Wikipédia) ; Wikipédia (fr, en)
+voir: bataille-de-montgisard, gue-de-jacob, baudouin-iv-de-jerusalem, saladin, templiers-et-musulmans, philippe-de-milly, arnaud-de-toroge, guillaume-de-tyr
+
+@ arnaud-de-toroge
+cat: maitres
+nom: Arnaud de Toroge
+alias: Arnau de Torroja, Arnaud de Torroja, Arnaldus de Turre Rubea, neuvième maître du Temple
+dates: ? – 30 septembre 1184
+an: 1181
+fin: 1184
+def: Templier catalan, longtemps maître de Provence et d'Espagne, neuvième maître de l'ordre (1181-1184). Élu âgé, étranger aux querelles d'Orient, il meurt à Vérone pendant l'ambassade envoyée en Occident pour sauver le royaume de Jérusalem.
+texte: Arnaud de Toroge, Arnau de Torroja en catalan, appartient à une famille de la région de Solsona, dans la Catalogne du comte de Barcelone ; son frère Guillem est évêque de Barcelone (1144-1171), puis archevêque de Tarragone. On ne connaît pas sa date de naissance, mais il était un vieil homme quand il fut élu, de plus de soixante-dix ans, dit-on. Il a fait toute sa carrière en Occident : pendant de longues années, il est maître de la province « de Provence et de certaines parties d'Espagne », qui englobe la Catalogne, l'Aragon et le Midi, et dirige l'ordre dans la [[templiers-et-reconquista|Reconquista]] aux côtés d'Alphonse II d'Aragon. C'est un administrateur rompu aux donations, aux châteaux de frontière et aux cours royales, non un soldat d'Orient.
+texte: Son élection, à la fin de 1180 ou au début de 1181, après la longue vacance qui suit la mort d'[[eudes-de-saint-amand|Eudes de Saint-Amand]] en captivité, est un choix de compromis : le chapitre va chercher hors de Terre sainte un homme sans attaches dans les factions qui déchirent le royaume de [[baudouin-iv-de-jerusalem|Baudouin IV]]. L'historien Nikolas Jaspert y voit une décision énigmatique, qui dit la lassitude de l'ordre. Arnaud s'emploie à apaiser les querelles entre Templiers et [[hospitaliers]], par la médiation du pape Lucius III et du roi, et à soutenir la trêve conclue avec [[saladin]] en 1180, que les raids de [[renaud-de-chatillon|Renaud de Châtillon]] mettent à mal. En 1183, Saladin prend Alep ; l'encerclement du royaume est achevé.
+texte: En 1184, le roi lépreux, le patriarche Héraclius et les deux ordres militaires décident d'envoyer en Occident une grande ambassade pour implorer une croisade : le patriarche, le maître de l'Hôpital Roger des Moulins et Arnaud de Toroge s'embarquent à l'été. Ils doivent voir le pape à Vérone, puis les rois de France et d'Angleterre. Arnaud tombe malade en route et meurt à Vérone le 30 septembre 1184 ; une autre date, le 7 octobre, circule dans les listes. Ses compagnons poursuivent jusqu'à Paris et Londres sans obtenir de croisade. Il est enterré dans l'église San Fermo Maggiore de Vérone. En février 2018, des chercheurs des universités de Vérone, de Bologne et de Nottingham ont annoncé y avoir identifié son sarcophage, orné d'une croix pattée et contenant les restes d'un homme âgé et des fragments de soie du XIIe siècle ; l'identification, très probable, n'est pas définitivement établie. [[gerard-de-ridefort|Gérard de Ridefort]] lui succède, et avec lui reviennent les factions.
+repere: octobre 1179 — Mort d'Eudes de Saint-Amand en captivité ; le siège de maître reste vacant.
+repere: 1181 — Élu maître de l'ordre, après plus d'un an de vacance.
+repere: 1183 — Saladin s'empare d'Alep ; le royaume est encerclé.
+repere: été 1184 — Il s'embarque pour l'Occident avec le patriarche Héraclius et Roger des Moulins.
+repere: 30 septembre 1184 — Mort à Vérone, en route vers le pape Lucius III.
+repere: 2018 — Un sarcophage de San Fermo Maggiore, à Vérone, est identifié comme le sien.
+attention: Les listes hésitent entre 1180 et 1181 pour son élection et entre le 30 septembre et le 7 octobre 1184 pour sa mort. L'identification de sa tombe à Vérone, annoncée en 2018, est jugée presque certaine par ses auteurs ; elle attend toujours une confirmation publiée.
+lien: wp Arnau de Torroja
+lien: en Arnold of Torroja
+sources: Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Jaspert, dans Ordens militares, 2009 (via Wikipédia) ; Wikipédia (fr, en)
+voir: templiers-et-reconquista, eudes-de-saint-amand, gerard-de-ridefort, baudouin-iv-de-jerusalem, hospitaliers, templiers-et-hospitaliers, provinces-du-temple
+
+@ gerard-de-ridefort
+cat: maitres
+nom: Gérard de Ridefort
+alias: Gérard de Ridfort, Gerard of Ridefort, Gerardus de Rideforte, dixième maître du Temple
+dates: ? – 4 octobre 1189
+an: 1185
+fin: 1189
+def: Chevalier flamand devenu maréchal du royaume puis templier, dixième maître de l'ordre (1185-1189). Partisan de [[guy-de-lusignan|Guy de Lusignan]], il pousse à la bataille de Cresson et à celle de [[bataille-de-hattin|Hattin]], survit à la captivité et meurt devant Acre.
+texte: Gérard de Ridefort est né en Flandre, dans les années 1140, cadet d'une famille de chevaliers sans grande fortune. Il arrive en Orient vers 1173, au service du comte Raymond III de Tripoli, qui lui promet, dit la [[ernoul|chronique d'Ernoul]], la main de la première héritière vacante ; quand la seigneurie de Botron échoit à une jeune fille, Lucie, le comte la donne à un marchand pisan, Plivain, contre son poids d'or. Vraie ou enjolivée, l'histoire explique pour les contemporains la haine que Gérard voue dès lors à Raymond. Il passe au service du roi : maréchal du royaume en octobre 1179, il tombe gravement malade, fait vœu d'entrer au Temple et prend l'habit vers 1180. Sénéchal en 1183, il est élu maître à la fin de 1184 ou au début de 1185, après la mort d'[[arnaud-de-toroge|Arnaud de Toroge]] à Vérone.
+texte: Il met aussitôt l'ordre dans la balance des factions. À la mort du petit roi Baudouin V, en 1186, il soutient Sibylle et son époux Guy de Lusignan contre Raymond de Tripoli et les barons : il fait fermer les portes de Jérusalem aux envoyés des barons, et, selon Ernoul, quand le maître de l'Hôpital refuse de remettre sa clé du trésor où sont gardées les couronnes, lui livre aussitôt la sienne. Au printemps de 1187, envoyé auprès de Raymond pour le réconcilier avec le roi, il apprend qu'un détachement de Saladin traverse la Galilée avec le sauf-conduit du comte : le 1er mai, à la source de Cresson, près de Nazareth, il charge avec quelque cent trente chevaliers du Temple, de l'Hôpital et du pays contre plusieurs milliers de cavaliers ; le maître de l'Hôpital, Roger des Moulins, est tué, et Gérard, blessé, est l'un des trois Templiers qui en réchappent. Il recrute aussitôt des mercenaires avec le trésor que le roi Henri II d'Angleterre avait déposé au Temple.
+texte: Le 2 juillet 1187, Saladin assiège Tibériade, où se trouve la femme de Raymond. Au conseil du roi, Raymond conseille d'attendre ; Gérard, la nuit, persuade Guy de marcher. Le 4 juillet, à Hattin, l'armée franque, sans eau, est anéantie ; Gérard est pris avec le roi, tandis que Saladin fait exécuter les Templiers et les Hospitaliers captifs, quelque deux cents hommes. Le maître, épargné, est conduit devant [[gaza]], dont il ordonne la reddition, et libéré en 1188. Il défend ensuite [[tortose|Tortose]], puis rejoint Guy de Lusignan, libéré lui aussi, quand celui-ci met le siège devant Acre en août 1189. Le 4 octobre 1189, lors d'une sortie de la garnison de Saladin, il est capturé une seconde fois et aussitôt exécuté ; d'autres récits le font tomber les armes à la main. Le siège de l'ordre reste vacant deux ans, jusqu'à [[robert-de-sable|Robert de Sablé]]. De tous les maîtres, Gérard de Ridefort est celui qui a laissé la pire mémoire : Ernoul, qui écrit pour les Ibelin, ennemis de Guy, en fait le responsable de la perte du royaume, et le roman l'a suivi.
+repere: v. 1173 — Gérard arrive en Orient au service de Raymond III de Tripoli.
+repere: octobre 1179 — Il est maréchal du royaume de Jérusalem.
+repere: 1183 — Devenu templier, il est sénéchal de l'ordre.
+repere: 1185 — Élu maître après la mort d'Arnaud de Toroge.
+repere: 1186 — Il appuie le couronnement de Sibylle et de Guy de Lusignan.
+repere: 1er mai 1187 — Défaite de la source de Cresson ; il est l'un des trois Templiers survivants.
+repere: 4 juillet 1187 — Bataille de Hattin ; il est capturé, les Templiers prisonniers sont exécutés.
+repere: 4 octobre 1189 — Repris devant Acre, il est mis à mort.
+attention: Presque tout ce qu'on sait de Gérard vient de la chronique d'Ernoul, écrite dans le camp de ses adversaires : l'histoire de Botron, le conseil nocturne de Hattin, la cupidité et la fureur sont de sa plume. Les historiens tiennent Gérard pour imprudent et partisan, non pour le traître qu'on en a fait au cinéma.
+lien: wp Gérard de Ridefort
+lien: en Gerard of Ridefort
+sources: Chronique d'Ernoul (via Barber) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: bataille-de-hattin, guy-de-lusignan, saladin, renaud-de-chatillon, ernoul, troisieme-croisade, arnaud-de-toroge, robert-de-sable
+
+@ robert-de-sable
+cat: maitres
+nom: Robert de Sablé
+alias: Robert IV de Sablé, Robert de Sabloil, Robertus de Sabloilo, onzième maître du Temple
+dates: ? – 23 septembre 1193
+an: 1191
+fin: 1193
+def: Seigneur angevin et compagnon de [[richard-coeur-de-lion|Richard Cœur de Lion]], onzième maître de l'ordre du Temple (1191-1193). Élu à peine entré dans l'ordre, il achète Chypre au roi d'Angleterre puis la revend, et installe le siège du Temple à [[acre|Acre]].
+texte: Robert de Sablé est un baron du Maine angevin, seigneur de Sablé-sur-Sarthe, fils de Robert III de Sablé ; sa date de naissance est inconnue. Il a épousé en 1174 Clémence de Mayenne, dont il a eu un fils et deux filles, dont Marguerite, mariée à Guillaume des Roches, le futur sénéchal d'Anjou. Vassal d'Henri II Plantagenêt puis de Richard, il fonde en 1189 deux abbayes près d'Angers, le Perray-aux-Nonnains et le Bois-Renou, en présence de sa mère et de sa femme ; Clémence disparaît des actes après 1189, et il est sans doute veuf quand il part en croisade. Il est aussi un poète : une chanson de lui est citée au début du XIIIe siècle par Jean Renart. En 1190, Richard le nomme parmi les chefs de la flotte qui gagne la Méditerranée ; il est à Chypre en mai 1191 pour le mariage du roi avec Bérengère de Navarre.
+texte: C'est là, semble-t-il, qu'il prend l'habit du Temple. L'ordre n'a plus de maître depuis la mort de [[gerard-de-ridefort|Gérard de Ridefort]], en octobre 1189, et Robert de Sablé, sans doute porté par Richard, qui veut un Temple à sa main, est élu vers octobre 1191, quelques mois seulement après son entrée. Il a pris part à la fin du siège d'Acre, tombée le 12 juillet, et le 7 septembre 1191, à [[bataille-d-arsouf|Arsouf]], les Templiers tiennent l'avant-garde de l'armée de Richard qui repousse Saladin. Le maître suit le roi dans sa marche vers Jérusalem, deux fois arrêtée, et dans ses négociations avec le frère de Saladin.
+texte: L'affaire de Chypre est son œuvre la plus connue. Richard, qui a conquis l'île en mai 1191, la vend au Temple pour cent mille besants, dont quarante mille comptant ; l'ordre y envoie une petite garnison, une vingtaine de chevaliers, qui gouverne si durement qu'à Pâques 1192 les Grecs de Nicosie se soulèvent. Les Templiers écrasent la révolte mais rendent l'île au roi, qui la cède en mai 1192 à [[guy-de-lusignan|Guy de Lusignan]], lequel rembourse l'acompte : première et brève expérience d'un État templier, cent ans avant le repli de 1291 (voir [[chypre-templiere|Chypre]]). Après la trêve du 2 septembre 1192 et le départ de Richard en octobre, dont la légende veut qu'il ait quitté Acre déguisé en Templier, Robert de Sablé fixe la maison chevetaine de l'ordre dans le quartier du Temple d'Acre, à l'angle sud-ouest de la ville, où elle restera un siècle. Il meurt le 23 septembre 1193 ; des listes donnent le 30. Une dalle funéraire de Solesmes, qu'on lui attribue, est douteuse. [[gilbert-herail|Gilbert Hérail]] lui succède.
+repere: 1174 — Robert de Sablé épouse Clémence de Mayenne.
+repere: 1189 — Il fonde les abbayes du Perray-aux-Nonnains et du Bois-Renou, puis prend la croix.
+repere: 1190 — Richard Cœur de Lion lui confie une part du commandement de sa flotte.
+repere: 12 juillet 1191 — Prise d'Acre par les croisés.
+repere: octobre 1191 — Élu maître de l'ordre peu après son entrée au Temple.
+repere: 1192 — Révolte de Nicosie contre les Templiers ; Chypre revient à Richard, qui la donne à Guy de Lusignan.
+repere: 23 septembre 1193 — Mort de Robert de Sablé.
+attention: Le prix de Chypre varie selon les auteurs : cent mille besants, dont quarante mille versés comptant, chiffre le plus souvent retenu, ou vingt-cinq mille marcs d'argent. Le jeu vidéo *Assassin's Creed* fait mourir Robert de Sablé en 1191 de la main d'un assassin : il est mort dans son lit deux ans plus tard.
+lien: wp Robert IV de Sablé
+lien: en Robert IV of Sablé
+sources: Itinerarium peregrinorum et Ernoul (via Barber) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: richard-coeur-de-lion, troisieme-croisade, chypre-templiere, acre, bataille-d-arsouf, guy-de-lusignan, gerard-de-ridefort, gilbert-herail
+
+@ gilbert-herail
+cat: maitres
+nom: Gilbert Hérail
+alias: Gilbert Érail, Gilbert Horal, Gilbert Erail, Gilbertus Eral, douzième maître du Temple
+dates: ? – décembre 1200
+an: 1194
+fin: 1200
+def: Templier aragonais, longtemps dignitaire en Occident, douzième maître de l'ordre (1194-1200). Il tient la trêve conclue avec les Ayyoubides, ce que des contemporains lui reprochent, et voit Innocent III monter sur le trône de Pierre.
+texte: Gilbert Hérail, dont le nom s'écrit aussi Érail ou Horal, est né dans le royaume d'Aragon, à une date inconnue ; on ne sait rien de sa famille ni de son entrée dans l'ordre. Sa carrière est occidentale : il est maître de la province « de Provence et de certaines parties d'Espagne » de 1185 environ à 1189, comme [[arnaud-de-toroge|Arnaud de Toroge]] avant lui, puis grand commandeur, ou grand précepteur, en Occident. Il se trouve donc loin de Hattin et du siège d'Acre. À la mort de [[robert-de-sable|Robert de Sablé]], en septembre 1193, le chapitre l'élit : il est attesté maître en février 1194, et l'élection date de la fin de 1193 ou des premières semaines de 1194.
+texte: Son mandat est un temps de paix armée. La trêve conclue en septembre 1192 entre Richard et Saladin, puis celle de 1198 entre le roi Amaury de Lusignan et al-Adil, frère de Saladin, laissent au royaume réduit à la côte le temps de respirer, et Gilbert Hérail s'attache à les faire respecter ; il entretient des relations correctes avec al-Adil, ce que des croisés fraîchement débarqués et jusqu'au pape Innocent III, élu en janvier 1198, tiennent pour de la mollesse, voire de la collusion (voir [[templiers-et-musulmans|les Templiers et les musulmans]]). Les querelles avec les [[hospitaliers]], au sujet de châteaux et de terres dans le comté de Tripoli, dégénèrent en affrontements que le pape arbitre, souvent au profit de l'Hôpital. En 1194, Célestin III confirme pourtant les privilèges du Temple, et Innocent III renouvelle *[[omne-datum-optimum|Omne datum optimum]]* et les bulles qui en dérivent.
+texte: L'Occident reste son terrain. En Aragon, Alphonse II donne en 1196 aux Templiers la forteresse d'Alfambra, aux confins de Teruel, et leur transfère les biens de l'ordre de Montjoie, un petit ordre militaire fondé en Terre sainte et replié en Espagne ; le Temple d'Aragon devient la principale force militaire du royaume sur la frontière (voir [[templiers-et-reconquista|les Templiers et la Reconquista]]). Gilbert Hérail meurt en décembre 1200, le 21 selon la plupart des listes, à la veille de la quatrième croisade, qui n'atteindra jamais la Terre sainte. Son successeur, [[philippe-du-plessis|Philippe du Plessis]], hérite de la trêve et des querelles. Aucun portrait, aucun jugement contemporain sur l'homme ne nous est parvenu.
+repere: v. 1185 — Gilbert Hérail est maître de la province de Provence et d'Espagne.
+repere: 1193 — Mort de Robert de Sablé ; Gilbert est élu à la fin de l'année ou au tout début de 1194.
+repere: février 1194 — Première attestation de Gilbert comme maître de l'ordre.
+repere: 1194 — Célestin III confirme les privilèges du Temple.
+repere: 1196 — Alphonse II d'Aragon donne au Temple la forteresse d'Alfambra et les biens de l'ordre de Montjoie.
+repere: 1198 — Trêve entre Amaury de Lusignan et al-Adil ; Innocent III devient pape.
+repere: décembre 1200 — Mort de Gilbert Hérail.
+attention: Les listes donnent tantôt 1193, tantôt 1194 pour le début de son mandat : il a été élu à cheval sur les deux années et n'est attesté qu'en février 1194. Le reproche de « collusion » avec les musulmans qu'on lui a fait tient à la trêve qu'il respectait : c'est un trait de la politique du Temple en Orient, non une trahison.
+lien: wp Gilbert Hérail
+lien: en Gilbert Horal
+sources: Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Carraz, L'ordre du Temple dans la basse vallée du Rhône, 2005 (via Wikipédia) ; Wikipédia (fr, en)
+voir: robert-de-sable, philippe-du-plessis, templiers-et-musulmans, templiers-et-hospitaliers, templiers-et-reconquista, omne-datum-optimum, provinces-du-temple
+
+@ philippe-du-plessis
+cat: maitres
+nom: Philippe du Plessis
+alias: Philippe du Plaissis, Philippe du Plaissiez, Philippe du Plessiez, Philippus de Plesseio, treizième maître du Temple
+dates: ? – 12 novembre 1209
+an: 1201
+fin: 1209
+def: Chevalier angevin venu en Orient avec la troisième croisade, treizième maître de l'ordre du Temple (1201-1209). Son mandat est marqué par les trêves avec al-Adil, les conflits avec les [[hospitaliers]] et le roi d'Arménie, et les remontrances d'Innocent III.
+texte: Philippe du Plessis est né en Anjou, au château du Plessis-Macé, près d'Angers, dans la seconde moitié du XIIe siècle ; les listes qui le font naître en 1165 n'ont pas de source. Il prend la croix en 1189 et gagne la Terre sainte avec l'armée de la [[troisieme-croisade|troisième croisade]], comme simple chevalier ; c'est en Orient qu'il entre dans l'ordre du Temple, à une date inconnue. On ne sait rien de ses charges avant la maîtrise. Il est élu entre janvier et mars 1201, après la mort de [[gilbert-herail|Gilbert Hérail]].
+texte: Il hérite d'un royaume réduit à la côte et d'une paix fragile. Le 17 avril 1201, il conclut avec les Hospitaliers un accord sur les eaux et les moulins du comté de Tripoli, signe que les deux ordres savent aussi s'entendre. Le 20 mai 1202, un tremblement de terre ravage la Syrie et abat des pans de murailles à Acre, Tyr et Tripoli ; la famine suit. En 1204, la trêve avec al-Adil est renouvelée pour six ans, et Philippe du Plessis en est partisan, tandis que les Teutoniques puis les Hospitaliers négocient de leur côté : les trois ordres ne parlent pas d'une seule voix. Dans le Nord, le roi Léon II d'Arménie s'est emparé en 1191 du château templier de [[bagras|Bagras]], sur la route d'Antioche, et refuse de le rendre ; le conflit, où le Temple soutient Antioche contre l'Arménie, vaut aux frères d'être chassés de Cilicie et tourne à la guerre, malgré les enquêtes d'Innocent III. Bagras ne reviendra à l'ordre qu'en 1216.
+texte: Avec le pape, les rapports sont difficiles. Innocent III confirme en 1205 *[[omne-datum-optimum|Omne datum optimum]]*, mais en 1207 il adresse au maître et aux frères une lettre sévère : il leur reproche d'abuser de leurs privilèges, d'enterrer des excommuniés contre argent, de recevoir dans l'ordre des hommes indignes, de célébrer les offices dans des terres frappées d'interdit, et compare leurs pratiques à celles des démons ; en 1208, il rappelle à Philippe que l'obéissance est le premier des trois vœux et qu'y manquer fait du Templier un apostat. Ces textes, souvent cités, montrent que la critique de l'ordre (voir [[privileges-et-critiques|privilèges et critiques]]) vient aussi de ses protecteurs. Philippe du Plessis meurt le 12 novembre 1209, date de l'obituaire de Reims ; certaines listes donnent le 19. [[guillaume-de-chartres|Guillaume de Chartres]] lui succède. De sa personne, nous ne savons rien.
+repere: 1189 — Philippe du Plessis prend la croix et part pour la Terre sainte.
+repere: 1201 — Élu maître entre janvier et mars ; accord du 17 avril avec les Hospitaliers sur les eaux de Tripoli.
+repere: 20 mai 1202 — Un séisme ravage la Syrie franque.
+repere: 1204 — Renouvellement de la trêve avec al-Adil.
+repere: 1207 — Innocent III reproche aux Templiers l'abus de leurs privilèges.
+repere: 12 novembre 1209 — Mort de Philippe du Plessis.
+attention: Son nom s'écrit du Plessis, du Plaissis ou du Plaissiez selon les auteurs : c'est le même homme. La lettre de 1207 n'est pas une condamnation de l'ordre, mais une remontrance disciplinaire, comme Innocent III en adressait aussi aux Hospitaliers et aux cisterciens.
+lien: wp Philippe du Plaissis
+lien: en Philippe du Plessis
+sources: Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: gilbert-herail, guillaume-de-chartres, bagras, hospitaliers, templiers-et-hospitaliers, privileges-et-critiques, troisieme-croisade
+
+@ guillaume-de-chartres
+cat: maitres
+nom: Guillaume de Chartres
+alias: Guillelmus de Carnoto, Guillaume de Chartres (templier), quatorzième maître du Temple
+dates: ? – 26 août 1219
+an: 1210
+fin: 1219
+def: Quatorzième maître de l'ordre du Temple (1210-1219), d'origine discutée. Sous lui, l'ordre bâtit [[chateau-pelerin|Château Pèlerin]] et s'engage dans la [[cinquieme-croisade|cinquième croisade]] ; il meurt de maladie au siège de [[damiette|Damiette]].
+texte: Les généalogistes du XIXe siècle ont fait de Guillaume de Chartres un fils de Milon IV, comte de Bar-sur-Seine, ou un Guillaume de Ferrières, vidame de Chartres : les deux identifications sont réfutées, et le blason peint pour lui dans la salle des Croisades de Versailles repose sur la première. Ce qu'on sait tient à quelques actes : une famille de Chartres a donné à l'ordre, vers 1188, un commandeur de Safed du même nom, peut-être son oncle, et Guillaume est entré au Temple vers 1191-1192 ; un acte de 1204 le montre tombé malade lors d'un voyage d'Acre à Constantinople. Il est élu maître en 1210, après la mort de [[philippe-du-plessis|Philippe du Plessis]].
+texte: Le 3 octobre 1210, il assiste à Tyr au couronnement de Jean de Brienne et de Marie de Montferrat. En 1211, il est blessé dans une embuscade en Cilicie en tentant de ravitailler Port-Bonnel, dans la querelle qui oppose l'ordre au roi d'Arménie ; celle-ci se dénoue en 1216, quand Léon II rend [[bagras|Bagras]] aux Templiers. Son grand ouvrage est Château Pèlerin : à partir de l'hiver 1217-1218, avec l'aide de croisés venus d'Occident et l'argent du Temple, les frères élèvent sur le cap d'Atlit, au sud d'Acre, une forteresse de mer que les musulmans ne prendront jamais ; Jacques de Vitry et Olivier de Paderborn, témoins, en décrivent la construction et les trésors trouvés dans les fondations. L'ordre soutient en même temps les campagnes d'Espagne, où des frères combattent à Las Navas de Tolosa en 1212.
+texte: En 1218, la cinquième croisade porte la guerre en Égypte : le 27 mai, l'armée débarque devant Damiette, et Guillaume de Chartres y conduit les Templiers avec Jean de Brienne et le légat Pélage. Le siège s'éternise dans le delta ; les crues, la famine et une épidémie frappent le camp pendant l'hiver 1218-1219. Le maître meurt le 26 août 1219, de maladie et non au combat ; une autre date, le 18 août, circule, et certains auteurs placent à tort sa mort en 1218. Damiette tombe le 5 novembre suivant, et c'est [[pierre-de-montaigu|Pierre de Montaigu]], maître de Provence et d'Espagne, que le chapitre élit sous ses murs. De l'homme, les chroniqueurs ne disent que sa valeur ; son origine reste une question ouverte.
+repere: v. 1191 — Guillaume de Chartres entre dans l'ordre du Temple.
+repere: 1210 — Élu maître ; le 3 octobre, il assiste au couronnement de Jean de Brienne à Tyr.
+repere: 1211 — Blessé dans une embuscade en Cilicie, près de Port-Bonnel.
+repere: 1217 — Début de la construction de Château Pèlerin, sur le cap d'Atlit.
+repere: 27 mai 1218 — Les croisés débarquent devant Damiette ; les Templiers sont dans l'armée.
+repere: 26 août 1219 — Mort de Guillaume de Chartres, de maladie, au camp de Damiette.
+attention: Guillaume de Chartres n'est pas mort au combat ni en 1218, comme l'écrivent des listes anglaises : il a succombé à l'épidémie du camp de Damiette, à la fin d'août 1219. Sa filiation avec les comtes de Bar-sur-Seine, qui lui a valu un blason à Versailles, est une erreur du XIXe siècle.
+lien: wp Guillaume de Chartres (templier)
+lien: en William of Chartres (Templar)
+sources: Olivier de Paderborn et Jacques de Vitry (via Barber) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Bulst-Thiele, Sacrae domus militiae Templi magistri, 1974 (via Wikipédia) ; Wikipédia (fr, en)
+voir: cinquieme-croisade, damiette, chateau-pelerin, bagras, philippe-du-plessis, pierre-de-montaigu, jacques-de-vitry
+
+@ pierre-de-montaigu
+cat: maitres
+nom: Pierre de Montaigu
+alias: Peire de Montagut, Pedro de Montaigu, Petrus de Monteacuto, quinzième maître du Temple
+dates: ? – 28 janvier 1232
+an: 1219
+fin: 1232
+def: Quinzième maître de l'ordre du Temple (1219-1232), élu au siège de Damiette. Il refuse les offres du sultan pendant la [[cinquieme-croisade|cinquième croisade]], survit au désastre de 1221, puis s'oppose à l'empereur [[frederic-ii|Frédéric II]] en Terre sainte.
+texte: Pierre de Montaigu venait, selon le chroniqueur Albéric de Trois-Fontaines, d'Auvergne, et il était le frère de Garin de Montaigu, maître de l'Hôpital de 1207 à 1228, et d'Eustorge, archevêque de Nicosie : les deux ordres militaires auraient donc été gouvernés en même temps par deux frères, ce que certains historiens jugent trop beau et qui a fait chercher à Pierre une origine catalane. Sa carrière est plus sûre : il gouverne la province de Provence et d'Espagne au temps des grandes campagnes de la [[templiers-et-reconquista|Reconquista]], dont la victoire de Las Navas de Tolosa en 1212, et signe encore comme précepteur de Provence en novembre 1218. Après la mort de [[guillaume-de-chartres|Guillaume de Chartres]] au camp de [[damiette|Damiette]], en août 1219, le chapitre l'élit maître ; il n'en est informé qu'avec retard et rejoint l'armée en Égypte.
+texte: Il arrive pour la prise de Damiette, le 5 novembre 1219, et pour les dix-huit mois d'attente qui suivent. Quand le sultan al-Kamil propose de rendre Jérusalem et la Vraie Croix contre l'évacuation de l'Égypte, Pierre de Montaigu, avec le légat Pélage et les Hospitaliers, est de ceux qui refusent : une Jérusalem sans murs ni arrière-pays, à portée des forteresses d'Outre-Jourdain, leur paraît indéfendable, et les ordres veulent l'Égypte. En juillet 1221, l'armée marche sur Mansourah ; la crue du Nil et les barrages du sultan la piègent dans le delta, et à la fin d'août elle capitule : Damiette est rendue, la croisade finie. Peu après, le maître écrit à Alain Martel, commandeur d'Angleterre, une lettre qui est l'un des meilleurs témoignages du désastre.
+texte: Le dernier conflit est avec Frédéric II. L'empereur, excommunié par Grégoire IX, débarque à Acre en septembre 1228 ; Templiers et Hospitaliers refusent de marcher sous sa bannière et ne suivent l'armée que sous celle de Dieu et du roi. Le traité de Jaffa du 18 février 1229 rend Jérusalem aux chrétiens, mais laisse aux musulmans l'esplanade du Temple, et le maître ne pardonne pas à l'empereur d'avoir négocié sans lui. Frédéric tente de s'emparer de [[chateau-pelerin|Château Pèlerin]] et de la maison du Temple d'Acre, fait assiéger celle-ci, et quitte Acre en mai 1229 sous les huées ; en Sicile, il confisque les biens de l'ordre, que le pape défend. Pierre de Montaigu meurt le 28 janvier 1232 ; on ignore où et comment. [[armand-de-perigord|Armand de Périgord]] lui succède.
+repere: novembre 1218 — Pierre de Montaigu signe encore comme précepteur de Provence et d'Espagne.
+repere: 1219 — Élu maître après la mort de Guillaume de Chartres ; Damiette tombe le 5 novembre.
+repere: août 1221 — Capitulation de l'armée croisée dans le delta ; Damiette est rendue.
+repere: 1221 — Sa lettre à Alain Martel, commandeur d'Angleterre, raconte le désastre.
+repere: 18 février 1229 — Traité de Jaffa entre Frédéric II et al-Kamil, conclu sans les Templiers.
+repere: 28 janvier 1232 — Mort de Pierre de Montaigu.
+attention: Le refus des offres d'al-Kamil, en 1219-1221, passe souvent pour l'aveuglement du légat Pélage ; les maîtres du Temple et de l'Hôpital le partageaient, pour des raisons militaires. Et l'hostilité entre Pierre de Montaigu et Frédéric II tient à l'excommunication de l'empereur et au traité négocié sans l'ordre, non à une quelconque sympathie du Temple pour l'islam, comme on l'a écrit.
+lien: wp Pierre de Montaigu
+lien: en Peter of Montaigu
+sources: Lettre de Pierre de Montaigu à Alain Martel, 1221 (via Barber) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: cinquieme-croisade, damiette, mansourah, sixieme-croisade, frederic-ii, guillaume-de-chartres, armand-de-perigord, templiers-et-reconquista
+
+@ armand-de-perigord
+cat: maitres
+nom: Armand de Périgord
+alias: Hermann de Périgord, Armand de Peyragort, Armandus de Petragora, seizième maître du Temple
+dates: v. 1178 – après le 17 octobre 1244
+an: 1232
+fin: 1244
+def: Seizième maître de l'ordre du Temple (1232-1244), issu de la maison des comtes de Périgord. Allié de Damas contre l'Égypte, il reconstruit [[safed]] et retrouve Jérusalem, avant de disparaître dans le désastre de [[bataille-de-la-forbie|La Forbie]].
+texte: Armand de Périgord est présenté comme un fils du comte Hélie Talleyrand de Périgord et de Raymonde de Turenne, né vers 1178 ; la filiation est vraisemblable, mais mal assurée. Il fait carrière dans l'Italie du Sud : maître de la province de Pouille et de Sicile, attesté avec certitude en 1229, quand il fait confirmer les biens de l'ordre, et peut-être dès 1205 selon des listes sans source. Il est élu maître en 1232, après la mort de [[pierre-de-montaigu|Pierre de Montaigu]], et prend la tête d'un ordre que Frédéric II a dépouillé en Sicile et dont la rivalité avec les [[hospitaliers]] tourne à la guerre ouverte dans les rues d'Acre.
+texte: Ses premières années sont des échecs : des raids contre Cana, Safita et Séphorie, et surtout, en 1236, une embuscade près de Darbsak, aux confins de la Cilicie, où cent vingt chevaliers et leurs turcopoles sont massacrés, une vingtaine seulement regagnant [[bagras|Bagras]]. Quand la croisade des barons débarque en 1239, le maître et son homologue de l'Hôpital tentent de retenir Henri de Bar, qui veut frapper les Égyptiens à Gaza : il passe outre, et le 13 novembre 1239 sa colonne est anéantie. Armand tire alors l'ordre d'un autre côté : en 1240, pendant que les Hospitaliers s'entendent avec l'Égypte, le Temple s'allie au sultan de Damas, as-Salih Ismaïl, contre son neveu du Caire ; en échange, les Francs recouvrent Beaufort, Safed, Tibériade et, en 1243-1244, Jérusalem tout entière, y compris l'esplanade du Temple perdue en 1187. À partir de décembre 1240, les frères rebâtissent Safed, dont la reconstruction est racontée par le traité *De constructione castri Saphet* ; c'est la plus grande forteresse de l'ordre en Galilée.
+texte: L'alliance se paie en 1244. Le sultan d'Égypte appelle les cavaliers khwarezmiens, chassés d'Iran par les Mongols, qui envahissent Jérusalem pendant l'été, en obtiennent la citadelle le 23 août et massacrent les chrétiens. Le 17 octobre 1244, à La Forbie, près de Gaza, l'armée franque et ses alliés damasquins affrontent les Égyptiens et les Khwarezmiens ; les Damasquins lâchent pied, et c'est un second Hattin : sur plus de trois cents chevaliers du Temple, trente-trois en réchappent. Armand de Périgord disparaît dans la bataille. Les uns le disent tué ; d'autres le donnent pour prisonnier au Caire, où des négociations pour sa libération auraient échoué et où il serait mort vers 1247. L'ordre, privé de maître et peut-être de la certitude de sa mort, est gouverné par un vice-maître, Guillaume de Roquefort, puis par [[richard-de-bures|Richard de Bures]].
+repere: 1229 — Armand de Périgord est attesté maître de la province de Pouille et de Sicile.
+repere: 1232 — Élu maître de l'ordre après la mort de Pierre de Montaigu.
+repere: 1236 — Embuscade de Darbsak : cent vingt chevaliers du Temple périssent.
+repere: 13 novembre 1239 — Défaite d'Henri de Bar à Gaza, malgré les avertissements des maîtres.
+repere: décembre 1240 — Début de la reconstruction de Safed ; alliance du Temple avec Damas.
+repere: août 1244 — Jérusalem, retrouvée depuis 1243, tombe aux mains des Khwarezmiens.
+repere: 17 octobre 1244 — Bataille de La Forbie ; le maître disparaît, tué ou capturé.
+attention: On ne sait pas si Armand de Périgord est mort à La Forbie ou en captivité en Égypte, vers 1247 ; les listes de maîtres qui ferment son mandat en 1244 ou en 1247 traduisent cette incertitude, et non une erreur. La politique « pro-damasquine » du Temple, qu'on lui a reprochée, était partagée par les barons du royaume.
+lien: wp Armand de Périgord
+lien: en Armand de Périgord
+sources: Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: bataille-de-la-forbie, safed, gaza, pierre-de-montaigu, richard-de-bures, templiers-et-hospitaliers, jerusalem-temple-de-salomon
+
+@ richard-de-bures
+cat: maitres
+nom: Richard de Bures
+alias: Richard de Burès, Ricardus de Bures, dix-septième maître du Temple, vice-maître du Temple
+dates: 1245 – 1247
+an: 1245
+fin: 1247
+def: Dignitaire du Temple qui gouverne l'ordre de 1245 à 1247, entre la disparition d'[[armand-de-perigord|Armand de Périgord]] et l'élection de [[guillaume-de-sonnac|Guillaume de Sonnac]]. Les historiens discutent s'il fut élu maître ou s'il ne fit que tenir la place.
+texte: Richard de Bures est le plus mal connu des maîtres, si tant est qu'il en fut un. Son nom suggère la famille de Bures, dont une branche a tenu la principauté de Galilée au XIIe siècle, mais le lien n'est pas établi, et l'on ne sait pas davantage s'il était né en Orient ou en Normandie, d'où la famille venait. Les actes le montrent dans l'ordre au moins depuis le 18 novembre 1241, et châtelain de [[chastel-blanc|Chastel Blanc]], la forteresse du comté de Tripoli, avant d'être élu grand commandeur ; un historien a relevé que son entrée dans l'ordre pourrait s'être faite moyennant finance, pratique que la règle interdit et que les frères appelaient simonie.
+texte: Après le désastre de [[bataille-de-la-forbie|La Forbie]], le 17 octobre 1244, où le maître Armand de Périgord a disparu, l'ordre se donne un vice-maître, Guillaume de Roquefort, selon la procédure des [[retraits|retraits]] qui prévoit un grand commandeur en attendant l'élection. Dès 1245, c'est Richard de Bures qui dirige l'ordre : le chroniqueur [[matthieu-paris|Matthieu Paris]] l'appelle *vicemagister domus militiae Templi*, « vice-maître de la maison de la milice du Temple », titre qui désigne un lieutenant, non un maître élu. Toute la question est là. Marie Luise Bulst-Thiele, dans son étude des maîtres de l'ordre, et Alain Demurger à sa suite le comptent comme dix-septième maître, estimant qu'il a été élu après que la mort d'Armand fut tenue pour acquise ; Malcolm Barber ne l'inclut pas dans sa liste, ni la plupart des auteurs anglais, qui y voient un gouverneur par intérim pendant la captivité du maître. Si Armand de Périgord a survécu au Caire jusqu'en 1247, l'ordre ne pouvait élire son successeur de son vivant, ce qui expliquerait le titre.
+texte: Richard de Bures meurt en mai 1247, le 9 selon la date le plus souvent retenue, le 5 selon d'autres, à Tibériade peut-être ; la même année, le chapitre élit Guillaume de Sonnac, dont la qualité de maître n'est pas discutée. Le cas de Richard de Bures rappelle ce qu'est la liste des [[maitres-de-l-ordre|maîtres]] : une reconstitution des historiens à partir d'actes épars, d'obituaires et de chroniques, où les lieutenants se glissent aisément, et dont les numéros d'ordre, de un à vingt-trois, sont une commodité moderne.
+repere: 18 novembre 1241 — Richard de Bures est attesté dans l'ordre par une charte.
+repere: 17 octobre 1244 — Disparition du maître Armand de Périgord à La Forbie ; Guillaume de Roquefort est vice-maître.
+repere: 1245 — Richard de Bures gouverne l'ordre, comme maître ou comme lieutenant.
+repere: mai 1247 — Mort de Richard de Bures ; Guillaume de Sonnac est élu la même année.
+attention: Richard de Bures figure comme dix-septième maître dans les listes de Bulst-Thiele et de Demurger, mais non chez Barber : la seule source contemporaine qui le nomme, Matthieu Paris, l'appelle « vice-maître ». Le compte des vingt-trois maîtres en dépend.
+lien: wp Richard de Bures
+lien: en Richard de Bures
+sources: Matthieu Paris, Chronica majora (via Wikipédia) ; Bulst-Thiele, Sacrae domus militiae Templi magistri, 1974 et Burgtorf, The Central Convent, 2008 (via Wikipédia) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: armand-de-perigord, guillaume-de-sonnac, bataille-de-la-forbie, maitres-de-l-ordre, chastel-blanc, matthieu-paris, hierarchie-de-l-ordre
+
+@ guillaume-de-sonnac
+cat: maitres
+nom: Guillaume de Sonnac
+alias: Guillaume de Saunhac, Guillelmus de Sonayo, Guillaume de Sonac, dix-huitième maître du Temple
+dates: ? – 11 février 1250
+an: 1247
+fin: 1250
+def: Templier du Rouergue, précepteur d'Aquitaine puis dix-huitième maître de l'ordre (1247-1250). Il accompagne [[louis-ix|Louis IX]] en Égypte, perd un œil à [[mansourah|Mansourah]] et meurt trois jours plus tard, sous la plume de [[jean-de-joinville|Joinville]].
+texte: Guillaume de Sonnac est un homme du Rouergue, d'une famille de chevaliers que les généalogistes ont voulu rattacher aux Saunhac, sans convaincre ; le chroniqueur Matthieu Paris latinise son nom en *de Sonayo*. Sa carrière dans l'ordre est occidentale et bien attestée : commandeur de maisons du Midi, dont [[sainte-eulalie-de-cernon|Sainte-Eulalie]] sur le Larzac, puis précepteur de la province d'Aquitaine de 1236 à 1247, il y prépare la croisade avec Alphonse de Poitiers, frère du roi. Matthieu Paris le dit « homme discret et circonspect, habile et expérimenté dans les affaires de la guerre ». Élu maître en 1247, après la mort de [[richard-de-bures|Richard de Bures]], il arrive à Acre à l'automne et trouve un royaume qui a perdu depuis La Forbie Tibériade, le mont Thabor, Belvoir et Ascalon.
+texte: Louis IX débarque à Chypre le 17 septembre 1248 ; Sonnac vient l'y rejoindre. Quand un émir du sultan d'Égypte approche le maître pour négocier, le roi lui interdit tout pourparler sans son aveu : le Temple, habitué à traiter, doit se plier à un roi qui ne veut pas de trêve. Le 5 juin 1249, l'armée prend pied devant [[damiette]], qui tombe le lendemain presque sans combat ; Sonnac l'écrit aussitôt à Robert de Sandford, maître d'Angleterre. En novembre, la marche sur Le Caire commence ; les Templiers forment l'avant-garde avec Robert d'Artois, frère du roi, et un premier accrochage, en décembre, voit les frères charger sans ordre pour venger un des leurs.
+texte: Le 8 février 1250, un Bédouin indique un gué du canal d'Ashmoun. Robert d'Artois passe le premier, bouscule le camp égyptien et, contre les avis, poursuit les fuyards dans les rues de Mansourah ; les Templiers le suivent, dit Joinville, pour ne pas passer pour des lâches, tandis que Matthieu Paris prête au comte des insultes qui les y forcent. Dans la ville, les cavaliers sont pris au piège des ruelles : Robert d'Artois est tué, et sur deux cent quatre-vingts Templiers engagés, deux ou trois en reviennent. Guillaume de Sonnac s'en tire avec un œil crevé. Le vendredi 11 février, premier vendredi de carême, l'armée du sultan attaque le camp franc ; le maître, retranché derrière une palissade faite des engins pris à l'ennemi, se bat jusqu'à ce que le feu grégeois l'embrase ; il y perd l'autre œil et la vie, Joinville le raconte en témoin. L'ordre élit alors son maréchal, [[renaud-de-vichiers|Renaud de Vichiers]]. De tous les maîtres tués à l'ennemi, Sonnac est le mieux connu, grâce au chroniqueur qui l'a vu mourir.
+repere: 1236 — Guillaume de Sonnac devient précepteur de la province d'Aquitaine.
+repere: 1247 — Élu maître de l'ordre ; il arrive à Acre à l'automne.
+repere: 17 septembre 1248 — Louis IX débarque à Chypre ; le maître le rejoint.
+repere: 6 juin 1249 — Prise de Damiette ; Sonnac l'annonce au maître d'Angleterre.
+repere: 8 février 1250 — Bataille de Mansourah : la charge de Robert d'Artois ; le maître perd un œil.
+repere: 11 février 1250 — Mort de Guillaume de Sonnac lors de l'assaut égyptien contre le camp.
+attention: Des listes anglaises le font mourir le 6 avril 1250, à Fariskur : Joinville, qui était là, le fait tuer le premier vendredi de carême, trois jours après Mansourah, et cette date du 11 février est celle des historiens. L'idée qu'il aurait « codifié » la hiérarchie de l'ordre n'a pas de fondement : les retraits sont antérieurs d'un siècle.
+lien: wp Guillaume de Sonnac
+lien: en William of Sonnac
+sources: Jean de Joinville, Vie de saint Louis ; Matthieu Paris, Chronica majora (via Barber) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: septieme-croisade, mansourah, damiette, louis-ix, jean-de-joinville, renaud-de-vichiers, richard-de-bures, sainte-eulalie-de-cernon
+
+@ renaud-de-vichiers
+cat: maitres
+nom: Renaud de Vichiers
+alias: Renaud de Vichier, Renaud de Vichy, Reginald de Vichiers, Raynaldus de Vicheriis, dix-neuvième maître du Temple
+dates: ? – 20 janvier 1256
+an: 1250
+fin: 1256
+def: Ancien maître de France et maréchal de l'ordre, dix-neuvième maître du Temple (1250-1256), élu avec l'appui de [[louis-ix|Louis IX]]. Il laisse prendre sur le trésor du Temple de quoi compléter la rançon du roi, puis subit son humiliation publique dans l'affaire de Damas.
+texte: L'origine de Renaud de Vichiers est incertaine : on le dit champenois, ou fils cadet d'un coseigneur de Vichy, en Bourbonnais, ce qui ferait de lui un Renaud de Vichy. Il est précepteur d'Acre en 1240, puis maître de la province de France de 1242 à 1249 environ : c'est à Paris, où le Temple garde le Trésor royal, qu'il devient le familier de Louis IX préparant sa croisade. Il passe en Orient avec le roi et devient maréchal de l'ordre, le chef militaire du couvent, en 1249. En décembre 1249, dans la marche vers Mansourah, il conduit l'avant-garde des Templiers. Après la mort de [[guillaume-de-sonnac|Guillaume de Sonnac]], le 11 février 1250, et la capture du roi en avril, l'ordre l'élit maître ; la faveur de Louis IX, dit-on, y est pour beaucoup.
+texte: [[jean-de-joinville|Joinville]] raconte comment le Temple paie la rançon. Le roi doit verser un premier paiement de deux cent mille livres sur la rançon ; il en manque trente mille, et Joinville monte sur la galère du Temple où est le trésor. Le commandeur, Étienne d'Otricourt, refuse : les dépôts confiés à l'ordre ne peuvent être remis qu'à ceux qui les ont faits. Renaud de Vichiers, encore maréchal, suggère alors à Joinville de prendre l'argent par la force, pour sauver les formes ; le sénéchal lève une hache sur un coffre, et le commandeur cède. L'anecdote dit tout du [[banque-du-temple|Temple banquier]] : une caisse scrupuleuse, qu'on ne force qu'en jouant la comédie. Le roi, libéré, reste en Terre sainte quatre ans ; le 29 juin 1251, la reine accouche d'un fils, Pierre, dans la forteresse templière de [[chateau-pelerin|Château Pèlerin]].
+texte: La faveur se retourne en 1252. Le maréchal Hugues de Jouy, envoyé par Renaud, négocie avec le sultan de Damas le partage d'une terre que l'ordre revendique, sans en référer au roi ; Louis IX, qui traite lui-même avec Damas et l'Égypte, y voit une trahison. Joinville décrit la scène : le roi fait venir le maître et le couvent au camp, pieds nus, les contraint à désavouer l'accord devant l'envoyé du sultan, et exige le bannissement d'Hugues de Jouy de la Terre sainte ; Renaud de Vichiers se soumet. Les années suivantes sont celles des grands chantiers du roi, à [[jaffa|Jaffa]] et à Césarée, jusqu'à son départ en 1254. Renaud meurt le 20 janvier 1256 ; quelques listes donnent 1257, et une tradition sans fondement le fait se retirer dans un monastère dès 1252. [[thomas-berard|Thomas Bérard]] lui succède.
+repere: 1240 — Renaud de Vichiers est précepteur de la maison du Temple d'Acre.
+repere: 1242 — Il devient maître de la province de France, où il connaît Louis IX.
+repere: 1249 — Maréchal de l'ordre, il commande l'avant-garde dans la marche vers Mansourah.
+repere: mai 1250 — Il laisse Joinville prendre trente mille livres sur le trésor du Temple pour la rançon du roi, puis est élu maître.
+repere: 29 juin 1251 — Pierre, fils de Louis IX, naît dans la forteresse templière de Château Pèlerin.
+repere: 1252 — Affaire d'Hugues de Jouy : le roi humilie publiquement le maître et le couvent.
+repere: 20 janvier 1256 — Mort de Renaud de Vichiers.
+attention: L'épisode de la rançon est souvent raconté comme un prêt gracieux du Temple à saint Louis ; Joinville montre au contraire un ordre qui refuse de toucher aux dépôts et qu'il faut forcer pour la forme. La scène de 1252, où le maître paraît pieds nus devant le roi, est bien chez Joinville, mais la date et l'objet exact de la négociation d'Hugues de Jouy restent discutés.
+lien: wp Renaud de Vichiers
+lien: en Renaud de Vichiers
+sources: Jean de Joinville, Vie de saint Louis ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: septieme-croisade, louis-ix, jean-de-joinville, banque-du-temple, chateau-pelerin, jaffa, guillaume-de-sonnac, thomas-berard
+
+@ thomas-berard
+cat: maitres
+nom: Thomas Bérard
+alias: Thomas Béraud, Thomas Bérault, Thomas Berardi, vingtième maître du Temple
+dates: ? – 25 mars 1273
+an: 1256
+fin: 1273
+def: Vingtième maître de l'ordre du Temple (1256-1273), d'origine inconnue. Son long mandat est celui de la guerre de Saint-Sabas, de l'alerte mongole et des conquêtes de [[baybars]], qui enlève au Temple [[safed]], [[beaufort|Beaufort]] et ses châteaux du Nord.
+texte: On ne sait rien de Thomas Bérard avant son élection : ni sa famille, ni son pays, les uns le disant italien, les autres anglais, sans preuve, ni ses charges dans l'ordre. Il est élu en 1256, après la mort de [[renaud-de-vichiers|Renaud de Vichiers]] ; une lettre longtemps datée de 1252, et qui est de 1258, a fait avancer à tort son élection. Il prend la tête d'un ordre en guerre contre les [[hospitaliers]] : la guerre de Saint-Sabas, qui oppose de 1256 à 1258 Vénitiens et Génois dans les rues d'Acre, range le Temple du côté de Venise et l'Hôpital du côté de Gênes, et les deux couvents s'affrontent. En 1258, les maîtres des trois ordres, Thomas Bérard, Hugues de Revel et Anno de Sangershausen, s'engagent à régler leurs différends par arbitrage : c'est un des rares accords de ce genre (voir [[templiers-et-hospitaliers|Templiers et Hospitaliers]]).
+texte: En 1260, les Mongols de Hülegü prennent Alep et Damas, et la Syrie franque croit sa fin venue. Le maître écrit alors à l'Occident pour décrire l'effroi d'Acre et l'impossibilité de tenir sans secours ; ses lettres disent aussi la détresse financière de l'ordre, dont les revenus d'Occident ne suffisent plus. La victoire mamelouke d'Ayn Jalut, le 3 septembre 1260, écarte les Mongols, mais porte au pouvoir Baybars, qui s'attaque méthodiquement aux places franques. En 1265, Césarée et Arsouf tombent ; en juin-juillet 1266, Safed, la grande forteresse du Temple reconstruite depuis 1240, est assiégée, se rend sur la promesse de la vie sauve, et la garnison est décapitée (voir [[chute-de-safed|chute de Safed]]). En 1268, Baybars prend Jaffa, le château de Beaufort, que l'ordre avait acheté en 1260, puis Antioche, le 18 mai ; les Templiers abandonnent [[bagras|Bagras]], le maître leur ordonnant de se replier sur La Roche-Guillaume. En 1271, Thomas Bérard ordonne la reddition de [[chastel-blanc|Chastel Blanc]], et les Teutoniques perdent Montfort. Une trêve de dix ans, conclue en 1272 à la faveur de la croisade du prince Édouard d'Angleterre, arrête l'hémorragie.
+texte: Ses lettres au roi d'Angleterre Henri III et au pape, répétant l'appel au secours, sont restées sans grand effet ; la croisade promise, celle de Louis IX en 1270, s'arrête à Tunis, et celle du prince Édouard, en 1271-1272, n'obtient qu'une trêve. Sous ce maître dont on ne sait presque rien, l'ordre a perdu en sept ans l'essentiel de ses forteresses de l'intérieur ; il ne lui reste guère, outre sa maison d'Acre, que [[chateau-pelerin|Château Pèlerin]], Sidon, Tortose et La Roche-Guillaume. Thomas Bérard meurt le 25 mars 1273, selon le [[templier-de-tyr|Templier de Tyr]]. L'ordre élit [[guillaume-de-beaujeu|Guillaume de Beaujeu]], alors en Sicile.
+repere: 1256 — Thomas Bérard est élu maître ; début de la guerre de Saint-Sabas à Acre.
+repere: 1258 — Les trois ordres militaires conviennent de régler leurs querelles par arbitrage.
+repere: 1260 — Ses lettres à l'Occident décrivent la menace mongole et la détresse de l'ordre.
+repere: 1265 — Baybars prend Césarée et Arsouf.
+repere: juillet 1266 — Chute de Safed ; la garnison templière est massacrée.
+repere: 1268 — Perte de Jaffa, de Beaufort et d'Antioche ; abandon de Bagras.
+repere: 1271 — Reddition de Chastel Blanc sur ordre du maître.
+repere: 25 mars 1273 — Mort de Thomas Bérard.
+attention: Dix-sept ans de mandat, et pas une ligne sûre sur l'homme : les origines anglaise ou italienne qu'on lui prête sont des conjectures. La perte de Safed ne lui a pas été reprochée par les contemporains ; elle tient à la trahison d'un sergent syrien et au parjure de Baybars, non à une décision du maître.
+lien: wp Thomas Béraud
+lien: en Thomas Bérard
+sources: Lettre de Thomas Bérard du 4 mars 1260 (via Barber) ; Templier de Tyr, Gestes des Chiprois (via Wikipédia) ; Demurger, Les Templiers, 2005 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: baybars, chute-de-safed, safed, beaufort, bagras, chastel-blanc, templiers-et-hospitaliers, guillaume-de-beaujeu
+
+@ guillaume-de-beaujeu
+cat: maitres
+nom: Guillaume de Beaujeu
+alias: Guillaume de Beaujeu-Montpensier, William of Beaujeu, Guillelmus de Bello Joco, vingt et unième maître du Temple
+dates: v. 1230 – 18 mai 1291
+an: 1273
+fin: 1291
+def: Seigneur du Beaujolais apparenté aux Capétiens, vingt et unième maître de l'ordre du Temple (1273-1291). Diplomate avec les Mamelouks, partisan des Angevins, il meurt sur la brèche lors de la [[chute-d-acre|chute d'Acre]], dont son secrétaire, le Templier de Tyr, a fait le récit.
+texte: Guillaume de Beaujeu est né vers 1230 dans la famille des sires de Beaujeu, en Beaujolais : fils cadet de Guichard de Beaujeu, seigneur de Montpensier, et de Catherine, fille du dauphin d'Auvergne. Par les Beaujeu, cousins des Capétiens, il est parent de [[louis-ix|Louis IX]] et de Charles d'Anjou, cousins issus de germains ; ses frères Humbert et Éric seront connétable et maréchal de France. Il entre dans l'ordre vers 1253, passe en Terre sainte, où il est pris dans une embuscade de Turcomans près de Tibériade et racheté, puis gravit la hiérarchie : commandeur de la province de Tripoli en 1271, maître de la province de Pouille et de Sicile en 1272, c'est-à-dire dans le royaume de Charles d'Anjou, dont il devient l'homme de confiance. Il est élu maître le 13 mai 1273, en son absence ; Goufier de Roannais assure l'intérim.
+texte: Il ne gagne l'Orient qu'en septembre 1275, après avoir défendu son ordre au concile de Lyon, en 1274, où l'on débat des [[projets-de-fusion-des-ordres|projets de fusion des ordres]] et où il combat le projet de croisade de Jacques Ier d'Aragon, puis recouvré en Angleterre des sommes prêtées au roi Édouard. À Acre, il mène une politique angevine : quand Charles d'Anjou achète les droits de Marie d'Antioche sur la couronne de Jérusalem et envoie en 1277 son bailli Roger de San Severino, le Temple l'appuie contre le roi de Chypre Hugues III, qui riposte en s'en prenant aux biens de l'ordre dans son île. L'effondrement angevin après les Vêpres siciliennes, en 1282, ruine cette politique. Avec les Mamelouks, Guillaume négocie : trêve de 1282 pour [[tortose|Tortose]], trêve d'Acre du 3 juin 1283 pour dix ans, et surtout un réseau d'informateurs à la cour du sultan Qalawun, dont un émir, al-Fakhri, qu'il paie. Grâce à lui, le maître prévient Tripoli de l'attaque de 1289 ; on ne le croit pas, et la ville tombe le 26 avril.
+texte: En août 1290, des croisés italiens fraîchement débarqués massacrent des marchands musulmans dans Acre. Qalawun exige les coupables ; Guillaume de Beaujeu propose de lui livrer les prisonniers des geôles, et l'on refuse ; averti par son informateur que le sultan prépare le siège, il n'est pas cru davantage, et le [[templier-de-tyr|Templier de Tyr]], son secrétaire, dit l'amertume d'un maître que la ville soupçonne de collusion. Qalawun meurt en novembre, mais son fils al-Ashraf Khalil met le siège devant Acre le 5 avril 1291. Le maître dirige les sorties ; le 18 mai, à l'aube, lors de l'assaut général, il court à la brèche de la tour Maudite avec le maître de l'Hôpital. Une flèche ou un javelot le frappe sous l'aisselle, à la jointure des plates ; à des chevaliers qui lui crient de ne pas fuir, il répond, selon le Templier de Tyr : « Seigneurs, je ne puis plus, car je suis mort ; voyez le coup. » Il meurt le soir même et est enterré dans la maison du Temple, dont la tour tiendra encore dix jours. [[thibaud-gaudin|Thibaud Gaudin]] emporte le trésor à Sidon.
+repere: v. 1253 — Guillaume de Beaujeu entre dans l'ordre du Temple.
+repere: 1271 — Il est commandeur de la province de Tripoli.
+repere: 13 mai 1273 — Élu maître de l'ordre, alors qu'il se trouve en Sicile.
+repere: 1274 — Au concile de Lyon, où la fusion des ordres est débattue, il défend l'ordre.
+repere: septembre 1275 — Il arrive à Acre.
+repere: 3 juin 1283 — Trêve de dix ans avec le sultan Qalawun, conclue à Acre.
+repere: 26 avril 1289 — Chute de Tripoli, dont le maître avait annoncé l'attaque sans être cru.
+repere: 18 mai 1291 — Mortellement blessé sur la brèche lors de l'assaut général contre Acre.
+attention: Ses relations avec la cour mamelouke ont fait soupçonner Guillaume de Beaujeu, de son vivant et depuis, de trahison : le Templier de Tyr, qui en était l'instrument, y voit au contraire la seule lucidité d'Acre. La date de sa mort, le 18 mai, est celle du récit du siège ; on rencontre parfois le 25 mai, sans appui dans les sources.
+lien: wp Guillaume de Beaujeu
+lien: en Guillaume de Beaujeu
+sources: Templier de Tyr, Gestes des Chiprois, éd. Raynaud, 1887 (via Barber et Demurger) ; Demurger, Jacques de Molay, 2007 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: chute-d-acre, acre, templier-de-tyr, projets-de-fusion-des-ordres, tripoli, tortose, thomas-berard, thibaud-gaudin
+
+@ thibaud-gaudin
+cat: maitres
+nom: Thibaud Gaudin
+alias: Tibaud Gaudin, le moine Gaudin, Theobaldus Gaudini, vingt-deuxième maître du Temple
+dates: ? – 16 avril 1292
+an: 1291
+fin: 1292
+def: Commandeur de la terre de Jérusalem, vingt-deuxième maître de l'ordre du Temple (1291-1292). Il quitte Acre assiégée avec le trésor, est élu à [[sidon]], évacue les dernières places de Syrie et replie l'ordre sur [[chypre-templiere|Chypre]], où il meurt moins d'un an plus tard.
+texte: Thibaud Gaudin vient d'une famille noble de la région de Chartres ou de Blois ; on ne connaît ni sa date de naissance ni son entrée dans l'ordre. Il est en Orient depuis longtemps quand il devient maître : il est pris en 1260 dans une expédition contre Tibériade, la même embuscade où tombe [[guillaume-de-beaujeu|Guillaume de Beaujeu]], et il est commandeur de la terre de Jérusalem, quatrième dignité de l'ordre, chargée du trésor, de 1279 au moins à 1291. Le [[templier-de-tyr|Templier de Tyr]] l'appelle « le moine Gaudin », pour sa piété, et le portrait n'est pas tout à fait flatteur.
+texte: Au siège d'Acre, en 1291, il combat auprès du maître. Après la mort de Guillaume de Beaujeu, le 18 mai, le maréchal Pierre de Sevry tient la forteresse du Temple, à l'angle sud-ouest de la ville, où se sont réfugiés des milliers d'habitants ; dans les derniers jours de mai, il envoie par mer Thibaud Gaudin à Sidon avec le trésor de l'ordre, des reliques et des non-combattants. La tour tombe le 28 mai, et Pierre de Sevry y meurt. À Sidon, dans le château de la mer, les frères rescapés élisent Thibaud maître dans les semaines qui suivent ; il part alors pour Chypre chercher des renforts et, note le Templier de Tyr, n'en revient pas. Les frères de Sidon, sans secours, abandonnent le château de la mer le 14 juillet 1291, quand l'armée de l'émir al-Shuja'i paraît ; [[tortose|Tortose]] est évacuée le 3 août et [[chateau-pelerin|Château Pèlerin]] le 14 août : il ne reste au Temple, sur la côte syrienne, que l'îlot de Ruad.
+texte: En octobre 1291, un chapitre général réuni à Chypre confirme son élection et nomme les officiers de l'ordre exilé ; [[jacques-de-molay]] y devient maréchal. Thibaud Gaudin a devant lui la réorganisation d'un ordre sans Terre sainte, la défense de l'Arménie et de Chypre et des milliers de réfugiés. Il n'en a pas le temps : il meurt le 16 avril 1292, date de l'obituaire de Reims, et son successeur est attesté dès le 20 avril, si bien que certains historiens se demandent s'il n'avait pas abdiqué avant, ou si la date de sa mort n'est pas à corriger. Il repose, dit-on, dans la chapelle du Temple de Limassol. Son mandat, l'un des plus courts, est celui de la perte de la Terre sainte, et l'on comprend que les chroniqueurs l'aient jugé sévèrement ; il faut lui laisser d'avoir sauvé le trésor et les archives, et d'avoir donné à l'ordre un siège à Chypre.
+repere: 1260 — Thibaud Gaudin est fait prisonnier lors d'une expédition contre Tibériade.
+repere: 1279 — Il est commandeur de la terre de Jérusalem, gardien du trésor de l'ordre.
+repere: 18 mai 1291 — Mort de Guillaume de Beaujeu ; les Templiers se retranchent dans leur forteresse d'Acre.
+repere: mai 1291 — Envoyé à Sidon avec le trésor, Thibaud y est élu maître dans les semaines suivantes.
+repere: 14 juillet 1291 — Évacuation du château de la mer de Sidon ; Tortose le 3 août, Château Pèlerin le 14 août.
+repere: octobre 1291 — Un chapitre général à Chypre confirme son élection ; Jacques de Molay est maréchal.
+repere: 16 avril 1292 — Mort de Thibaud Gaudin à Chypre.
+attention: Le Templier de Tyr reproche à Thibaud Gaudin d'avoir abandonné Sidon après y avoir été élu ; les historiens notent qu'il était allé chercher des renforts à Chypre, et que personne n'en avait à donner. Son départ d'Acre avec le trésor, sur l'ordre du maréchal, n'a rien d'une fuite : il a sauvé ce qui pouvait l'être.
+lien: wp Thibaud Gaudin
+lien: en Thibaud Gaudin
+sources: Templier de Tyr, Gestes des Chiprois (via Barber et Demurger) ; Demurger, Jacques de Molay, 2007 ; Barber, The New Knighthood, 1994 ; Wikipédia (fr, en)
+voir: chute-d-acre, sidon, chateau-pelerin, tortose, chypre-templiere, guillaume-de-beaujeu, jacques-de-molay, templier-de-tyr
+
+@ jacques-de-molay
+cat: maitres
+nom: Jacques de Molay
+alias: Jacques de Molai, Jacobus de Molay, Jacques de Molay dernier grand maître, dernier maître du Temple, vingt-troisième maître du Temple
+dates: v. 1244-1249 – 11 (ou 18) mars 1314
+an: 1292
+fin: 1314
+def: Chevalier comtois, vingt-troisième et dernier maître de l'ordre du Temple (1292-1314). Il gouverne l'ordre depuis Chypre, tente de reprendre pied en Syrie, refuse la fusion avec l'Hôpital, puis traverse le [[proces-des-templiers|procès]] jusqu'au [[bucher-de-jacques-de-molay|bûcher]] de 1314, qui a fait de lui une légende.
+texte: Jacques de Molay est né entre 1244 et 1249 dans le comté de Bourgogne, terre d'Empire : à [[molay|Molay]], en Haute-Saône, selon Alain Demurger, plutôt qu'au Molay du Jura, près de Rahon, également proposé. Sa famille est de petite ou moyenne noblesse comtoise ; on n'en connaît ni les parents ni les frères avec certitude. Il est reçu dans l'ordre en 1265, à la commanderie de Beaune, par Humbert de Pairaud, visiteur de France et d'Angleterre, en présence d'Amaury de La Roche, maître de France et familier de saint Louis ; il le racontera lui-même à ses juges, en 1307, qui lui feront avouer ce que cette [[reception-dans-l-ordre|réception]] aurait eu de scandaleux. Il passe en Orient vers 1270, et pendant vingt ans on perd sa trace : chevalier du couvent, sans charge connue ; rien ne prouve qu'il ait été le protégé de [[guillaume-de-beaujeu|Guillaume de Beaujeu]], comme on l'a écrit. Il était à Acre ou à Chypre en 1291 ; au chapitre d'octobre 1291, à Chypre, il est nommé maréchal de l'ordre.
+texte: À la mort de [[thibaud-gaudin|Thibaud Gaudin]], le chapitre l'élit maître en avril 1292, contre [[hugues-de-pairaud|Hugues de Pairaud]], le puissant visiteur de France, dit une déposition tardive ; il est attesté maître le 20 avril. Il a entre quarante-trois et quarante-huit ans et gouverne un ordre en exil, riche en Occident, sans terre en Orient, dont la raison d'être, la défense de la Terre sainte, est devenue un projet. Il tient d'abord la discipline : un chapitre réuni à Montpellier en 1293 la durcit. De 1293 à 1296, il fait le tour des cours d'Occident : Jacques II d'Aragon, Édouard Ier d'Angleterre, Charles II de Naples, le pape Boniface VIII, qui lui est favorable et renouvelle les privilèges de l'ordre ; un chapitre à Arles, au début de 1296, clôt la tournée, et il rentre à Chypre à l'automne. Il y défend les privilèges du Temple contre le roi Henri II de Lusignan.
+texte: Le projet, c'est la reconquête, avec l'aide du khan mongol de Perse, Ghazan, qui a envahi la Syrie à la fin de 1299 et battu les Mamelouks. En juillet 1300, les Templiers participent avec les Hospitaliers et le roi de Chypre à des raids sur Rosette, Alexandrie et la côte syrienne ; en novembre, une armée chypriote débarque à [[tortose|Tortose]] pour y attendre les Mongols, qui n'arrivent pas. Molay laisse alors une garnison sur l'[[ile-de-ruad|île de Ruad]], face à Tortose : cent vingt chevaliers, cinq cents archers et quatre cents serviteurs, sous le maréchal Barthélemy de Quincy. Les Mamelouks l'assiègent en 1302 ; la garnison capitule le 26 septembre contre la vie sauve, mais les archers et les fantassins syriens sont massacrés, le maréchal tué, et une quarantaine de frères emmenés captifs au Caire, où ils refusent encore d'apostasier des années plus tard. C'est le dernier poste du Temple en Syrie, et le dernier combat de l'ordre.
+texte: En 1305, le nouveau pape, [[clement-v]], consulte les maîtres du Temple et de l'Hôpital sur deux questions : la croisade et l'union des deux ordres, que l'on débat depuis le concile de Lyon de 1274. Molay répond par deux mémoires, en 1306. Sur la croisade, il refuse les petites expéditions et réclame un « passage général », une armée de plusieurs milliers de chevaliers portée par les flottes italiennes ; sur la fusion, il la rejette point par point, parce que les deux ordres rivalisent utilement, que leurs hommes ne voudraient pas changer d'habit et que l'union créerait une puissance trop forte (voir [[projets-de-fusion-des-ordres|projets de fusion des ordres]]). Il quitte Chypre le 15 octobre 1306 pour rejoindre le pape, qu'il rencontre à Poitiers au printemps de 1307, et le roi, qu'il voit à Paris le 24 juin. Les rumeurs sur les mœurs de l'ordre circulent ; Molay demande lui-même au pape une enquête, que Clément V annonce le 24 août.
+texte: Le 12 octobre 1307, il tient un cordon du poêle aux funérailles de Catherine de Courtenay, belle-sœur du roi, à Paris. Le lendemain, vendredi 13 octobre, il est arrêté au Temple avec tous les frères du royaume (voir [[arrestation-du-13-octobre-1307|l'arrestation]]). Le 24 octobre, devant l'inquisiteur [[guillaume-de-paris|Guillaume de Paris]], il avoue le reniement du Christ et le crachat sur la croix lors de sa réception, nie la sodomie et l'idole, et le 25 répète ses aveux devant l'Université ; la torture n'est pas attestée pour lui, mais des lettres du temps l'affirment, et les menaces suffisaient. À la fin de décembre, devant deux cardinaux envoyés par le pape, il se rétracte et montre, dit-on, les marques de la question. En août 1308, à [[chinon]], devant trois cardinaux, il revient à ses aveux et reçoit l'absolution : c'est le [[parchemin-de-chinon|parchemin de Chinon]]. Devant la commission pontificale, le 26 novembre 1309, il déclare qu'il n'est ni assez savant ni assez libre pour défendre l'ordre, demande à être conduit au pape, et se tait ; il n'intervient plus dans la défense des frères, qui s'effondre après le bûcher des cinquante-quatre, en mai 1310.
+texte: Le [[concile-de-vienne|concile de Vienne]] supprime l'ordre le 22 mars 1312, et le pape se réserve le sort des dignitaires. Le 18 mars 1314, ou le 11 selon des travaux récents, sur une estrade dressée devant Notre-Dame de Paris, trois cardinaux lisent la sentence : prison perpétuelle pour Molay, [[geoffroy-de-charnay]], Hugues de Pairaud et [[geoffroy-de-gonneville]]. Molay et Charnay prennent alors la parole, rétractent leurs aveux et proclament l'innocence de l'ordre ; les cardinaux les remettent au prévôt, et [[philippe-le-bel]], le soir même, les fait brûler comme relaps sur l'[[ile-aux-juifs|île aux Juifs]], dans la Seine. Il avait environ soixante-dix ans. Le continuateur de Guillaume de Nangis et Geoffroi de Paris racontent la scène ; le second lui prête l'annonce que Dieu vengerait sa mort, d'où est sortie, bien plus tard, la [[malediction-de-jacques-de-molay|malédiction]].
+texte: Qui était-il ? Les historiens anglais, Riley-Smith et Luttrell, ont vu en lui un homme borné, dépassé par les événements ; Demurger, qui lui a consacré une biographie en 2002, le juge au contraire un chef et un gestionnaire capable, bon diplomate, fidèle à la mission de son ordre, et impute l'image d'incompétence aux aveux arrachés. Ni l'une ni l'autre lecture ne fait de lui le gardien d'un secret : ses mémoires de 1306 sont ceux d'un soldat qui veut repartir pour la Terre sainte. Aucun portrait contemporain n'existe ; les tableaux de Fleury Richard, de Granet ou de Jacquand, au XIXe siècle, sont des imaginations, comme la prise de Jérusalem en 1299 qu'on lui a prêtée. Le néo-templarisme, la franc-maçonnerie et le roman ont fait de lui un martyr : l'histoire lui laisse d'avoir, au dernier jour, refusé de mentir.
+repere: 1265 — Jacques de Molay est reçu dans l'ordre à Beaune par Humbert de Pairaud.
+repere: avril 1292 — Élu maître après la mort de Thibaud Gaudin ; attesté le 20 avril.
+repere: 1293 — Début de sa tournée en Occident ; chapitre de Montpellier en août.
+repere: 1300 — Raids sur l'Égypte et la Syrie avec Chypre et l'Hôpital ; garnison laissée à Ruad.
+repere: 26 septembre 1302 — Capitulation de Ruad, dernier poste du Temple en Syrie.
+repere: 1306 — Mémoires au pape sur la croisade et contre la fusion des ordres ; il quitte Chypre le 15 octobre.
+repere: 13 octobre 1307 — Arrestation au Temple de Paris ; aveux le 24 octobre.
+repere: août 1308 — À Chinon, devant trois cardinaux, il renouvelle ses aveux et reçoit l'absolution.
+repere: 26 novembre 1309 — Devant la commission pontificale, il refuse de défendre l'ordre sans le pape.
+repere: 11 ou 18 mars 1314 — Condamné à la prison perpétuelle, il se rétracte et est brûlé le soir même sur l'île aux Juifs.
+attention: Le lieu de naissance (Molay en Haute-Saône plutôt que Molay dans le Jura), la date du bûcher (18 mars selon la tradition, 11 mars selon Elizabeth Brown et Demurger) et le rôle de la torture dans ses aveux restent discutés. La « malédiction » lancée au pape et au roi est une construction postérieure, fixée au XVIe siècle, et le titre de « grand maître » qu'on lui donne partout n'apparaît qu'à la fin de sa vie.
+lien: wp Jacques de Molay
+lien: en Jacques de Molay
+sources: Demurger, Jacques de Molay, le crépuscule des Templiers, 2007 ; Barber, The Trial of the Templars, 2006 ; Josserand, Jacques de Molay, 2019 (via Wikipédia) ; Wikipédia (fr, en)
+voir: proces-des-templiers, bucher-de-jacques-de-molay, arrestation-du-13-octobre-1307, parchemin-de-chinon, ile-de-ruad, projets-de-fusion-des-ordres, malediction-de-jacques-de-molay, molay

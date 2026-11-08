@@ -1,0 +1,754 @@
+# T+ — lot 03 : les figures. Trente personnages vus depuis l'ordre du Temple : ses
+# protecteurs et fondateurs (Bernard, Hugues de Champagne, Godefroy de Saint-Omer), les rois
+# de Jérusalem et les croisés qui l'employèrent ou le combattirent, ses adversaires en
+# Orient (Saladin, Baybars), puis les acteurs du procès : le roi, le pape, les légistes,
+# les dignitaires accusés, les souverains qui refusèrent de condamner.
+
+# ── Les fondateurs et leurs protecteurs ────────────────────────────────────
+
+@ bernard-de-clairvaux
+cat: figures
+nom: Bernard de Clairvaux
+alias: saint Bernard, Bernard de Fontaine, Bernardus Claraevallensis, abbé de Clairvaux, Docteur mellifluus
+dates: 1090 ou 1091 – 20 août 1153
+an: 1090
+fin: 1153
+def: Abbé cistercien de Clairvaux, la voix la plus écoutée de l'Église de son temps ; il soutint la reconnaissance du Temple au concile de Troyes en 1129 et écrivit pour les frères l'*Éloge de la nouvelle chevalerie*, qui justifie le moine-soldat.
+texte: Bernard naît en 1090 ou 1091 au château de Fontaine, près de Dijon, dans une famille de la petite noblesse bourguignonne. Sa mère, Aleth, est une Montbard : son frère, [[andre-de-montbard|André de Montbard]], oncle de Bernard, sera l'un des premiers compagnons d'Hugues de Payns et le cinquième maître du Temple. En 1112, Bernard entre à l'abbaye de Cîteaux avec quatre de ses frères ; en 1115, l'abbé Étienne Harding l'envoie fonder une abbaye-fille dans le val d'Absinthe, près de Bar-sur-Aube, sur des terres du comté de Champagne : c'est [[clairvaux|Clairvaux]], qu'il gouverne jusqu'à sa mort. Sous son abbatiat, les cisterciens se répandent dans toute l'Europe, et lui-même devient le conseiller des papes, l'adversaire d'Abélard, le soutien d'Innocent II pendant le schisme d'Anaclet (1130-1138).
+texte: Le Temple naît sans lui, à Jérusalem, vers 1119-1120 (voir [[fondation-de-l-ordre|fondation de l'ordre]]). Mais Bernard connaît les fondateurs par la Champagne : [[hugues-de-payns|Hugues de Payns]] est un vassal du comte, et le comte lui-même, [[hugues-de-champagne|Hugues de Champagne]], rejoint la milice en 1125. Quand Hugues de Payns vient en Occident chercher une reconnaissance, l'abbé de Clairvaux assiste au [[concile-de-troyes|concile de Troyes]], ouvert le 13 janvier 1129 sous la présidence du légat Mathieu d'Albano, qui approuve la milice et lui donne sa [[regle-du-temple|règle latine]]. La tradition lui en attribue la rédaction ; les historiens y voient plutôt l'œuvre du concile, à laquelle il apporta son autorité et sans doute des formules : on y lit l'influence des usages cisterciens, mais aussi celle des chanoines réguliers.
+texte: Son apport le plus durable est un texte. Hugues de Payns lui ayant demandé, dit-il, « une fois, deux fois, trois fois » un écrit pour ses chevaliers, Bernard compose entre 1129 et 1136 le *Liber ad milites Templi de laude novae militiae* (voir [[de-laude-novae-militiae|De laude novae militiae]]). Il y oppose la chevalerie du siècle, coquette, querelleuse et meurtrière — *militia* qui n'est que *malitia* —, à la « nouvelle chevalerie », qui mène un double combat, contre les vices et contre l'ennemi visible. Tuer l'infidèle qui menace les chrétiens n'y est pas un homicide mais, écrit-il, un « malicide », la destruction du mal. La seconde partie médite sur les Lieux saints que les frères ont à garder. C'est la première justification théologique du moine-soldat ; elle circula largement et valut à l'ordre des recrues et des donations.
+texte: Bernard resta proche du Temple. Le pape Eugène III, ancien moine de Clairvaux, lui confia la prédication de la [[deuxieme-croisade|deuxième croisade]] : la tradition le fait parler à Vézelay le 31 mars 1146, jour de Pâques, quand Louis VII prit la croix, bien qu'aucune source contemporaine n'atteste sa présence ce jour-là. L'échec de l'expédition lui fut reproché. Le maître [[evrard-des-barres|Évrard des Barres]], qui avait accompagné le roi, abandonna sa charge en 1152 et se fit moine à Clairvaux. Bernard mourut dans son abbaye le 20 août 1153 ; Alexandre III le canonisa le 18 janvier 1174, et Pie VIII le proclama docteur de l'Église en 1830.
+repere: 1112 — Bernard entre à l'abbaye de Cîteaux.
+repere: 1115 — Il fonde Clairvaux et en devient l'abbé.
+repere: 13 janvier 1129 — Ouverture du concile de Troyes, auquel il assiste.
+repere: entre 1129 et 1136 — Il écrit l'*Éloge de la nouvelle chevalerie* pour Hugues de Payns.
+repere: 31 mars 1146 — Louis VII prend la croix à Vézelay ; la tradition y place la prédication de Bernard.
+repere: 20 août 1153 — Mort de Bernard à Clairvaux.
+repere: 18 janvier 1174 — Canonisation par le pape Alexandre III.
+attention: On fait souvent de Bernard le fondateur, voire le « père secret » du Temple, inspirateur d'une doctrine cachée. Les sources montrent autre chose : un protecteur puissant, venu après la fondation, dont la part exacte dans la règle de 1129 reste discutée, et dont l'œuvre ne contient rien d'ésotérique.
+lien: wp Bernard de Clairvaux
+lien: en Bernard of Clairvaux
+sources: Wikipédia (fr, en), Bernard de Clairvaux ; Wikipédia (fr), Hugues Ier de Champagne
+voir: de-laude-novae-militiae, concile-de-troyes, andre-de-montbard, hugues-de-payns, clairvaux, regle-du-temple, deuxieme-croisade, hugues-de-champagne
+
+@ hugues-de-champagne
+cat: figures
+nom: Hugues de Champagne
+alias: Hugues Ier de Champagne, Hugues de Troyes, Hugo comes Campaniae, Hugh of Champagne
+dates: v. 1074 – v. 1130
+an: 1074
+fin: 1130
+def: Comte de Champagne et suzerain d'Hugues de Payns, trois fois parti pour la Terre sainte ; en 1125, il abandonna son comté pour entrer dans la milice du Temple, premier grand seigneur à rejoindre l'ordre naissant.
+texte: Hugues est le fils cadet du comte Thibaud III de Blois et d'Adèle de Valois ; il naît vers 1074, ou vers 1077 selon d'autres. À la mort de son frère Eudes, en 1093, il devient comte de Troyes, et porte au début du XIIe siècle le titre de comte de Champagne. Parmi ses vassaux figure un chevalier des environs de [[troyes|Troyes]], [[hugues-de-payns|Hugues de Payns]], dont le village, [[payns|Payns]], est situé au bord de la Seine, à une dizaine de kilomètres en aval de la ville.
+texte: Le comte est un pèlerin obstiné. Il part une première fois en 1104 et reste en Orient jusqu'en 1108 ; il assiste probablement à la bataille de Ramla, en 1105. Il repart à la fin de 1114, atteint Jérusalem vers mai 1115 et rentre en Champagne avant le printemps de 1116. Hugues de Payns l'a peut-être accompagné dans l'un ou l'autre voyage et serait resté en Terre sainte après le second : c'est une hypothèse courante, que les actes ne prouvent pas. Pendant son absence, en juin 1115, [[bernard-de-clairvaux|Bernard]] fonde [[clairvaux|Clairvaux]] sur des terres de son comté : les sources anglophones en font un don du comte, les travaux français une cession de son sénéchal, Josbert le Roux.
+texte: En 1125, le comte rompt avec sa vie. Il répudie sa seconde femme, Isabelle de Bourgogne, désavoue le fils né d'elle vers 1123, Eudes, qu'il refuse de reconnaître pour sien, cède le comté à son neveu Thibaud, et part pour Jérusalem, où il entre dans la milice que dirige son ancien vassal : un comte se fait le frère d'un de ses chevaliers. La même année, un acte qualifie pour la première fois Hugues de Payns de maître des chevaliers du Temple. Bernard lui écrit alors une lettre affectueuse, conservée sous le numéro 31 de sa correspondance : il le loue d'avoir, pour la cause de Dieu, fait du comte un chevalier et du riche un pauvre, tout en regrettant qu'il n'ait pas choisi Clairvaux.
+texte: On perd ensuite sa trace. Un obituaire de la cathédrale de Chartres place sa mort en 1126, mais un acte de 1130 le cite encore comme témoin, et aucune mention n'est connue après cette date. Son entrée au Temple compta plus que sa vie de frère, dont on ignore tout : elle donnait à la petite milice le prestige d'un des premiers princes du royaume de France. La Champagne resta une terre de prédilection pour l'ordre (voir [[temple-en-champagne|Temple en Champagne]]), et le comte Thibaud, son neveu et successeur, figure parmi les laïcs présents au [[concile-de-troyes|concile de Troyes]] en 1129.
+repere: v. 1074 — Naissance d'Hugues, fils de Thibaud III de Blois.
+repere: 1093 — Il devient comte de Troyes à la mort de son frère Eudes.
+repere: 1104 — Premier départ pour la Terre sainte ; retour en 1108.
+repere: 1115 — Second séjour à Jérusalem ; Clairvaux est fondée sur ses terres en son absence.
+repere: 1125 — Il cède le comté à son neveu Thibaud et entre dans la milice du Temple.
+repere: 1130 — Dernière mention connue, comme témoin dans un acte.
+attention: Hugues de Champagne n'est pas l'un des « neuf » fondateurs : il rejoint la milice cinq ou six ans après sa naissance. L'idée qu'il en aurait conçu le projet avec Hugues de Payns dès ses voyages de 1104 ou de 1114 reste une hypothèse d'historiens, faute de document.
+lien: wp Hugues Ier de Champagne
+lien: en Hugh of Champagne
+sources: Wikipédia (fr, en), Hugues Ier de Champagne ; Wikipédia (en), Hugues de Payens
+voir: hugues-de-payns, temple-en-champagne, bernard-de-clairvaux, payns, clairvaux, fondation-de-l-ordre, concile-de-troyes
+
+@ godefroy-de-saint-omer
+cat: figures
+nom: Godefroy de Saint-Omer
+alias: Geoffroi de Saint-Omer, Gaufridus de Sancto Audomaro, Godfrey of Saint-Omer, Godfried van Sint-Omaars
+dates: attesté de 1119 à 1130
+an: 1119
+def: Chevalier flamand que Guillaume de Tyr nomme, avec Hugues de Payns, comme l'un des deux premiers chevaliers du Temple vers 1119-1120 ; on sait très peu de chose de lui, sinon qu'il fit connaître l'ordre en Flandre.
+texte: Godefroy vient de Saint-Omer, dans le comté de Flandre. Il appartient à la famille des seigneurs de la ville, sans qu'on puisse établir sa filiation : on le dit fils de Guillaume Ier de Saint-Omer, mais les généalogies varient sur le nom de sa mère, et certaines en font le frère ou le fils d'Hugues de Fauquembergues. Il est probablement venu en Orient avec la première croisade, à laquelle son père et deux de ses frères ont pris part ; sa date de naissance, parfois donnée, n'est pas sourcée.
+texte: Son nom doit tout à [[guillaume-de-tyr|Guillaume de Tyr]]. Racontant la [[fondation-de-l-ordre|fondation de l'ordre]] une soixantaine d'années après les faits, l'archevêque nomme deux chevaliers, Hugues de Payns et Godefroy de Saint-Omer, « les premiers et les principaux », qui prononcent leurs vœux devant le patriarche Gormond et reçoivent de [[baudouin-ii-de-jerusalem|Baudouin II]] un logement dans son palais, le [[jerusalem-temple-de-salomon|Temple de Salomon]]. Une miniature d'un manuscrit de son *Histoire*, au XIIIe siècle, montre le roi cédant le Temple aux deux hommes. Une hypothèse rattache leurs débuts aux [[ordre-du-saint-sepulcre|chanoines du Saint-Sépulcre]], dont ils auraient été les chevaliers servants. Les autres noms des « neuf » compagnons viennent de traditions plus tardives.
+texte: Godefroy fait partie de ceux qui gagnent l'Occident à la fin des années 1120 pour obtenir la reconnaissance de la milice et des dons. Selon la tradition flamande, il donne à l'ordre, en 1127, un domaine à Ypres, l'Opstal, qui serait la première maison du Temple en Flandre. Il est de retour à Jérusalem en 1129 et vivait encore en 1130 ; on ignore la date de sa mort. Un de ses neveux, Gautier de Saint-Omer, sera prince de Galilée de 1159 à 1171. Le compagnon d'Hugues de Payns n'a jamais été maître de l'ordre, et rien n'indique qu'il ait exercé une charge connue.
+repere: v. 1119 — Avec Hugues de Payns, il prononce ses vœux devant le patriarche Gormond, selon Guillaume de Tyr.
+repere: 1127 — Selon la tradition flamande, il donne au Temple le domaine de l'Opstal, à Ypres.
+repere: 1129 — Il est de retour à Jérusalem.
+repere: 1130 — Dernière mention de Godefroy vivant.
+attention: La légende veut qu'Hugues et Godefroy, trop pauvres, aient partagé un seul cheval, et que le [[sceau-du-temple|sceau du Temple]], deux cavaliers sur une même monture, en garde le souvenir. Aucune source médiévale ne rapporte l'anecdote, et l'image du sceau a reçu d'autres explications.
+lien: wp Godefroy de Saint-Omer
+lien: en Godfrey de Saint-Omer
+sources: Wikipédia (fr, en, nl), Godefroy de Saint-Omer ; Wikimedia Commons, miniature de Baudouin II cédant le Temple
+voir: hugues-de-payns, fondation-de-l-ordre, guillaume-de-tyr, baudouin-ii-de-jerusalem, jerusalem-temple-de-salomon, sceau-du-temple, ordre-du-saint-sepulcre
+
+# ── Les rois de Jérusalem ──────────────────────────────────────────────────
+
+@ baudouin-ii-de-jerusalem
+cat: figures
+nom: Baudouin II de Jérusalem
+alias: Baudouin du Bourg, Baudouin de Bourcq, Baudouin de Rethel, Baldwin II, Balduinus rex
+dates: v. 1075 – 21 août 1131
+an: 1075
+fin: 1131
+def: Comte d'Édesse puis roi de Jérusalem de 1118 à 1131 ; il accueillit la milice d'Hugues de Payns, lui donna pour demeure une partie de son palais, l'ancienne mosquée al-Aqsa, et envoya ses chefs chercher en Occident appuis et renforts.
+texte: Baudouin est un cadet de la maison de Rethel, fils du comte Hugues Ier et de Mélisende de Montlhéry ; avant la croisade, il tenait la seigneurie de Bourcq, dans les Ardennes, d'où son surnom. Il part pour l'Orient en août 1096, avec ses cousins de Boulogne. Devenu roi de Jérusalem en 1100, Baudouin de Boulogne lui confie le comté d'Édesse, qu'il gouverne jusqu'en 1118, non sans revers : il est fait prisonnier après la bataille de Harran, en 1104, et ne retrouve la liberté que plusieurs années plus tard.
+texte: À la mort de Baudouin Ier, les barons le choisissent ; il est sacré au Saint-Sépulcre le 14 avril 1118, jour de Pâques. Le royaume manque d'hommes, et les routes des pèlerins sont peu sûres. C'est sous son règne qu'un groupe de chevaliers conduit par [[hugues-de-payns|Hugues de Payns]] et [[godefroy-de-saint-omer|Godefroy de Saint-Omer]] se voue à leur protection (voir [[fondation-de-l-ordre|fondation de l'ordre]]). Le roi les loge dans une aile de son palais, sur l'esplanade du Temple : l'ancienne mosquée al-Aqsa, que les Latins appellent Temple de Salomon, et qui donne son nom à la milice (voir [[jerusalem-temple-de-salomon|Jérusalem, le Temple de Salomon]]). En janvier 1120, il réunit avec le patriarche Gormond le concile de Naplouse ; certains historiens y placent une première reconnaissance des chevaliers, bien que les canons conservés ne les mentionnent pas.
+texte: Le 18 avril 1123, Baudouin tombe dans une embuscade à Gerger, en haute Mésopotamie ; il reste captif jusqu'en juin 1124 et n'est libéré que contre une forte rançon. Revenu, il prépare sa succession : n'ayant que des filles, il fait offrir la main de l'aînée, Mélisende, au comte [[foulques-d-anjou|Foulques d'Anjou]], qui connaît déjà la Terre sainte et la milice. Dans le même temps, à la fin des années 1120, Hugues de Payns et quelques compagnons partent pour l'Occident en mission pour le roi : ils en reviendront avec la reconnaissance du [[concile-de-troyes|concile de Troyes]], des dons et des recrues. Foulques débarque en mai 1129 et épouse Mélisende au début de juin.
+texte: Baudouin II meurt à Jérusalem le 21 août 1131, après avoir confirmé les droits de sa fille et de son gendre, et il est enterré au Saint-Sépulcre ; Foulques et Mélisende sont couronnés le 14 septembre suivant. Pour l'ordre, il reste le roi de la première heure : celui qui a donné un toit et un nom à une poignée de chevaliers, et qui a su voir dans leur milice une force permanente au service d'un royaume toujours à court de combattants. La scène du don du Temple, peinte dans les manuscrits de [[guillaume-de-tyr|Guillaume de Tyr]], est devenue l'image même des origines.
+repere: août 1096 — Baudouin du Bourg part pour la croisade.
+repere: 1100 — Il reçoit le comté d'Édesse.
+repere: 14 avril 1118 — Il est sacré roi de Jérusalem au Saint-Sépulcre.
+repere: janvier 1120 — Concile de Naplouse, réuni par le roi et le patriarche Gormond.
+repere: 18 avril 1123 — Capturé à Gerger ; il est libéré en juin 1124.
+repere: 1129 — Mariage de sa fille Mélisende avec Foulques d'Anjou.
+repere: 21 août 1131 — Mort de Baudouin II à Jérusalem.
+attention: Le « Temple de Salomon » des Templiers n'était pas le Temple biblique, détruit en 70, mais la mosquée al-Aqsa, bâtie sur l'esplanade à l'époque omeyyade, que les croisés prenaient pour le palais de Salomon. La date du don, 1119 ou 1120, dépend de celle de la fondation, discutée.
+lien: wp Baudouin II de Jérusalem
+lien: en Baldwin II of Jerusalem
+sources: Wikipédia (fr, en), Baudouin II de Jérusalem ; Wikipédia (fr), Foulques V d'Anjou
+voir: fondation-de-l-ordre, hugues-de-payns, jerusalem-temple-de-salomon, foulques-d-anjou, godefroy-de-saint-omer, guillaume-de-tyr, concile-de-troyes
+
+@ foulques-d-anjou
+cat: figures
+nom: Foulques V d'Anjou
+alias: Foulques d'Anjou, Foulque V, Foulques le Jeune, Foulques de Jérusalem, Fulk of Jerusalem
+dates: v. 1090 – 10 novembre 1143
+an: 1090
+fin: 1143
+def: Comte d'Anjou qui, pèlerin à Jérusalem en 1120, s'associa à la milice naissante du Temple et lui versa une rente annuelle ; devenu roi de Jérusalem par son mariage avec Mélisende, il régna de 1131 à sa mort en 1143.
+texte: Foulques naît vers 1090 — à la fin de 1089 ou en 1090 selon les uns, en 1092 selon les autres —, fils du comte Foulques IV d'Anjou. Associé au pouvoir de son père à partir de 1106, il devient seul comte d'Anjou à sa mort, le 14 avril 1109, et ajoute le Maine à ses terres par son mariage avec l'héritière, Erembourg. C'est l'un des princes les plus puissants du royaume de France, tour à tour allié et adversaire du roi d'Angleterre Henri Ier.
+texte: En 1120, il part en pèlerinage armé pour Jérusalem et y reste environ un an, entretenant à ses frais une centaine de chevaliers. Il y fréquente les chevaliers qu'[[hugues-de-payns|Hugues de Payns]] vient de rassembler. Selon le chroniqueur normand Orderic Vital, il vécut parmi eux comme associé et, rentré en Anjou à l'automne de 1121, leur versa chaque année une rente de trente livres : c'est le premier grand bienfaiteur occidental connu de la milice, avant même sa reconnaissance par l'Église. Cette association d'un laïc marié, sans vœux définitifs, annonce les liens que l'ordre noua avec ses [[donats-et-confreres|confrères]] ; la règle de 1129 prévoit d'ailleurs l'accueil temporaire de frères mariés, qui ne portent pas le manteau blanc.
+texte: À la fin des années 1120, le roi [[baudouin-ii-de-jerusalem|Baudouin II]] lui offre la main de sa fille et héritière, Mélisende. Foulques laisse l'Anjou à son fils Geoffroy, débarque en Terre sainte en mai 1129 et épouse Mélisende au début de juin ; la jeune femme reçoit en dot Acre et Tyr. Le 14 septembre 1131, trois semaines après la mort de son beau-père, le couple est couronné au Saint-Sépulcre. Le règne commence par des querelles : Foulques veut gouverner seul, Mélisende et les barons de son parti l'obligent à partager le pouvoir après la révolte d'Hugues du Puiset, comte de Jaffa, vers 1134. Face à la garnison égyptienne d'Ascalon, il fait bâtir une ceinture de châteaux, Bethgibelin, Ibelin, Blanchegarde, tandis que le château de Kerak s'élève en Outre-Jourdain.
+texte: Sous son règne, la milice qu'il avait vue naître devient un ordre de l'Église : le pape Innocent II lui accorde en 1139 la bulle *[[omne-datum-optimum|Omne datum optimum]]*, obtenue par le maître [[robert-de-craon|Robert de Craon]], qui la soustrait aux évêques. Le 7 novembre 1143, près d'[[acre|Acre]], le roi tombe de cheval en poursuivant un lièvre ; il meurt trois jours plus tard, le 10 novembre, et il est enterré au Saint-Sépulcre. Ses fils Baudouin III et Amaury régneront après lui ; par son fils aîné d'un premier lit, Geoffroy, il est aussi l'ancêtre des Plantagenêts, la dynastie d'Henri II et de [[richard-coeur-de-lion|Richard Cœur de Lion]].
+repere: 1109 — Foulques devient seul comte d'Anjou à la mort de son père.
+repere: 1120 — Pèlerinage à Jérusalem, où il s'associe aux chevaliers d'Hugues de Payns.
+repere: 1121 — Rentré en Anjou, il verse une rente annuelle à la milice.
+repere: juin 1129 — Il épouse Mélisende, héritière du royaume de Jérusalem.
+repere: 14 septembre 1131 — Couronnement de Foulques et de Mélisende au Saint-Sépulcre.
+repere: 10 novembre 1143 — Mort du roi à Acre, trois jours après une chute de cheval.
+attention: Foulques ne fut pas un frère du Temple au sens plein : il s'associa à la milice pour la durée de son séjour, puis la soutint de loin. Le montant et la monnaie de sa rente ne sont connus que par Orderic Vital, et les auteurs modernes les rapportent de façons diverses.
+lien: wp Foulques V d'Anjou
+lien: en Fulk V of Anjou
+sources: Wikipédia (fr, en), Foulques V d'Anjou ; Wikipédia (fr), Baudouin II de Jérusalem
+voir: baudouin-ii-de-jerusalem, hugues-de-payns, donats-et-confreres, fondation-de-l-ordre, omne-datum-optimum, robert-de-craon, acre
+
+@ baudouin-iv-de-jerusalem
+cat: figures
+nom: Baudouin IV le Lépreux
+alias: Baudouin IV de Jérusalem, Baldwin IV, le roi lépreux
+dates: 1161 – 1185
+an: 1161
+fin: 1185
+def: Roi de Jérusalem de 1174 à 1185, atteint de la lèpre dès l'enfance ; il vainquit Saladin à Montgisard en 1177 avec le concours des Templiers et fit bâtir le château du Gué de Jacob, qu'il leur confia et que Saladin détruisit en 1179.
+texte: Baudouin naît au début de l'été 1161, fils d'Amaury, alors comte de Jaffa et d'Ascalon, et d'Agnès de Courtenay. Son précepteur, l'historien [[guillaume-de-tyr|Guillaume de Tyr]], remarque le premier que l'enfant ne sent rien quand ses camarades lui enfoncent les ongles dans le bras ; la lèpre n'est reconnue qu'à la puberté. À la mort de son père, il est sacré au Saint-Sépulcre le 15 juillet 1174, à treize ans. Le comte Raymond III de Tripoli exerce la régence jusqu'à sa majorité, en 1177.
+texte: Le roi gouverne avec les ordres militaires, devenus la principale armée permanente du royaume. Le Temple est alors dirigé par [[eudes-de-saint-amand|Eudes de Saint-Amand]], maître depuis 1171, ancien maréchal du roi. À l'automne de 1177, Saladin envahit le sud du royaume par Gaza et Ascalon ; le 25 novembre, près de Ramla, Baudouin, à la tête de quelques centaines de chevaliers rejoints par les Templiers de [[gaza|Gaza]], met son armée en déroute : c'est la [[bataille-de-montgisard|bataille de Montgisard]]. Des historiens modernes pensent que [[renaud-de-chatillon|Renaud de Châtillon]] exerçait le commandement effectif, le roi n'ayant que seize ans.
+texte: Fort de cette victoire, Baudouin fait élever en 1178-1179, sur le Jourdain, au Gué de Jacob, une forteresse qui menace la route de Damas, le Chastellet, et il la confie aux Templiers (voir [[gue-de-jacob|Gué de Jacob]]). Saladin réplique. Le 10 juin 1179, à Marj Ayoun, l'armée franque est battue ; Eudes de Saint-Amand, fait prisonnier, mourra en captivité. Fin août, le sultan assiège le château, encore inachevé, le prend et massacre sa garnison. C'est la seule victoire de Saladin qui entame vraiment le royaume du vivant de Baudouin.
+texte: La maladie progresse, et la cour se divise. En 1180, la sœur du roi, Sibylle, épouse [[guy-de-lusignan|Guy de Lusignan]] ; Baudouin lui confie la régence en 1183, puis la lui retire et fait couronner son neveu, l'enfant Baudouin V. En 1184, il envoie en Occident le patriarche Héraclius et les maîtres du Temple et de l'Hôpital demander secours aux rois de France et d'Angleterre ; le maître du Temple, [[arnaud-de-toroge|Arnaud de Toroge]], meurt en chemin, à Vérone. Baudouin IV meurt à Jérusalem au printemps de 1185, entre le 16 mars et le 16 mai, vers vingt-quatre ans. Deux ans plus tard, [[saladin|Saladin]] écrase l'armée du royaume à Hattin.
+repere: 15 juillet 1174 — Baudouin IV est sacré au Saint-Sépulcre.
+repere: 25 novembre 1177 — Victoire de Montgisard sur Saladin, avec les Templiers de Gaza.
+repere: 1178 — Début de la construction du Chastellet, au Gué de Jacob, confié au Temple.
+repere: 10 juin 1179 — Défaite de Marj Ayoun ; le maître Eudes de Saint-Amand est capturé.
+repere: août 1179 — Saladin prend et rase le Chastellet.
+repere: 1183 — Régence de Guy de Lusignan, bientôt révoquée.
+repere: 1185 — Mort de Baudouin IV au printemps.
+attention: Le commandement réel à Montgisard reste discuté : les chroniques en font la victoire du roi, des historiens modernes celle de Renaud de Châtillon. La part des Templiers fut réelle, mais leur nombre exact, souvent avancé, n'est connu que par des sources postérieures.
+lien: wp Baudouin IV (roi de Jérusalem)
+lien: en Baldwin IV of Jerusalem
+sources: Wikipédia (fr, en), Baudouin IV de Jérusalem ; Wikipédia (fr), Saladin
+voir: bataille-de-montgisard, gue-de-jacob, eudes-de-saint-amand, saladin, guy-de-lusignan, renaud-de-chatillon, arnaud-de-toroge, guillaume-de-tyr
+
+@ guy-de-lusignan
+cat: figures
+nom: Guy de Lusignan
+alias: Gui de Lusignan, Guido de Lusignano, Guy of Lusignan, seigneur de Chypre
+dates: v. 1150 – 1194
+an: 1150
+fin: 1194
+def: Chevalier poitevin devenu roi de Jérusalem par son mariage avec Sibylle, couronné en 1186 avec l'appui du maître du Temple Gérard de Ridefort ; vaincu et pris à Hattin en 1187, il finit seigneur de Chypre, île que les Templiers venaient de rendre à Richard Cœur de Lion.
+texte: Guy est un cadet de la maison de Lusignan, l'une des plus puissantes du Poitou, fils d'Hugues VIII ; il naît avant 1153, sans doute vers 1150. Banni du Poitou en 1168 après le meurtre du comte Patrice de Salisbury, imputé à sa famille, il gagne la Terre sainte, où son frère Aimery a déjà fait carrière. En avril 1180, il épouse Sibylle, sœur du roi lépreux [[baudouin-iv-de-jerusalem|Baudouin IV]] et héritière du royaume, et reçoit le comté de Jaffa et d'Ascalon. En 1183, le roi malade lui confie la régence, puis la lui retire, mécontent de sa conduite.
+texte: Après la mort de Baudouin IV (1185) puis celle de l'enfant Baudouin V (1186), la succession oppose deux partis. Celui de Sibylle réunit Josselin de Courtenay, le patriarche Héraclius, [[renaud-de-chatillon|Renaud de Châtillon]] et le maître du Temple, [[gerard-de-ridefort|Gérard de Ridefort]], qui nourrit une vieille rancune contre le régent, Raymond III de Tripoli. En septembre 1186, à Jérusalem, Sibylle est couronnée et pose elle-même la couronne sur la tête de son mari, le patriarche ayant hésité à le sacrer. Raymond refuse de reconnaître le nouveau roi et traite séparément avec Saladin.
+texte: Au printemps de 1187, la guerre reprend. Le 1er mai, à la source de Cresson, Ridefort lance une charge désastreuse contre un fort parti musulman. En juillet, l'armée du royaume est rassemblée à Séphorie ; Raymond conseille de ne pas bouger, Ridefort et Renaud l'accusent de lâcheté, et Guy ordonne la marche vers Tibériade assiégée. Le 4 juillet, à Hattin, l'armée est anéantie, la Vraie Croix perdue, le roi pris (voir [[bataille-de-hattin|bataille de Hattin]]). Dans sa tente, Saladin le rassure — un roi ne tue pas un roi —, mais exécute Renaud et fait mettre à mort les Templiers et les Hospitaliers captifs ; Ridefort est épargné. Guy est libéré en mai 1188, à Tortose.
+texte: Il retrouve sa légitimité par les armes : le 22 août 1189, il met le siège devant [[acre|Acre]], que rejoignent bientôt les croisés d'Occident. Mais Ridefort y est tué le 4 octobre 1189, et la mort de Sibylle et de leurs filles, à l'été 1190, ruine son droit au trône, que lui dispute Conrad de Montferrat. En avril 1192, les barons choisissent Conrad, assassiné quelques jours plus tard, le 28. Pour dédommager Guy, [[richard-coeur-de-lion|Richard Cœur de Lion]] lui remet en mai 1192 Chypre, qu'il avait vendue aux Templiers l'année précédente et que ceux-ci, après la révolte des Chypriotes, venaient de lui rendre (voir [[chypre-templiere|Chypre]]). Guy s'y établit et y meurt en 1194 ; son frère Aimery lui succède et fonde le royaume de Chypre.
+repere: avril 1180 — Guy épouse Sibylle, héritière du royaume de Jérusalem.
+repere: 1183 — Régent du royaume, il est bientôt révoqué par Baudouin IV.
+repere: septembre 1186 — Couronnement de Sibylle et de Guy, soutenus par Gérard de Ridefort.
+repere: 4 juillet 1187 — Défaite de Hattin ; Guy est fait prisonnier.
+repere: mai 1188 — Saladin le libère à Tortose.
+repere: 22 août 1189 — Guy commence le siège d'Acre.
+repere: mai 1192 — Il reçoit Chypre, rendue par les Templiers à Richard Cœur de Lion.
+repere: 1194 — Mort de Guy de Lusignan à Chypre.
+attention: Les conditions du transfert de Chypre sont incertaines : don de Richard selon les uns, vente selon d'autres, Guy remboursant aux Templiers leur premier versement ; les historiens doutent qu'une somme ait été réellement payée. Quant au portrait d'un roi faible, jouet de Ridefort, il doit beaucoup à la chronique dite d'[[ernoul|Ernoul]], écrite dans l'entourage de ses adversaires.
+lien: wp Guy de Lusignan (roi de Jérusalem)
+lien: en Guy of Lusignan
+sources: Wikipédia (fr, en), Guy de Lusignan ; Wikipédia (en), Battle of Hattin, Kingdom of Cyprus
+voir: bataille-de-hattin, gerard-de-ridefort, renaud-de-chatillon, chypre-templiere, richard-coeur-de-lion, saladin, robert-de-sable, troisieme-croisade
+
+@ renaud-de-chatillon
+cat: figures
+nom: Renaud de Châtillon
+alias: Renaud de Châtillon-sur-Loing, Raynald of Châtillon, Reginaldus de Castellione, Brins Arnat, seigneur d'Outre-Jourdain, prince d'Antioche
+dates: v. 1120 – 4 juillet 1187
+an: 1120
+fin: 1187
+def: Chevalier français devenu prince d'Antioche puis seigneur d'Outre-Jourdain, gendre d'un maître du Temple ; ses attaques de caravanes et son raid en mer Rouge firent de lui l'ennemi juré de Saladin, qui l'exécuta de sa main au soir de Hattin.
+texte: Renaud est un cadet de la maison de Donzy, fils d'Hervé II ; il naît vers 1120-1125 et gagne l'Orient sans fortune. En 1153, il épouse Constance, veuve et héritière de la principauté d'[[antioche|Antioche]], et devient prince. Son gouvernement est brutal : en 1155, il ravage Chypre, terre byzantine, avec l'Arménien Thoros, puis doit s'humilier devant l'empereur Manuel Comnène en 1159. Le 23 novembre 1160, il est capturé près de Marach au cours d'un pillage, et passe quinze ou seize ans dans les prisons d'Alep.
+texte: Libéré en 1176, il a perdu Antioche, mais trouve une autre fortune : il épouse Étiennette de Milly, héritière de l'Outre-Jourdain, avec les forteresses de Kerak et de Montréal. Étiennette est la fille de [[philippe-de-milly|Philippe de Milly]], qui avait renoncé à cette seigneurie pour entrer au Temple et en devenir le maître de 1169 à 1171 : le nouveau seigneur est ainsi le gendre d'un ancien maître de l'ordre. Le 25 novembre 1177, il est probablement le chef effectif de l'armée victorieuse à [[bataille-de-montgisard|Montgisard]]. Ses terres commandent la route des caravanes entre l'Égypte et la Syrie, et celle des pèlerins de La Mecque.
+texte: Renaud en use sans égard pour les trêves. En 1181, il attaque une caravane qui se rend à La Mecque ; en 1182-1183, il fait transporter à dos de chameau jusqu'à la mer Rouge des navires démontés, qui pillent les ports du Hedjaz et menacent les villes saintes de l'islam, avant d'être détruits par la flotte égyptienne. [[saladin|Saladin]] jure de le tuer et assiège Kerak en 1183, puis en 1184. À la cour de Jérusalem, Renaud se range avec le maître du Temple, [[gerard-de-ridefort|Gérard de Ridefort]], dans le parti qui fait couronner Sibylle et [[guy-de-lusignan|Guy de Lusignan]] en 1186 ; on le dit alors le vrai maître du royaume.
+texte: Au tournant de 1186 et 1187, il pille encore une caravane sur la route de l'Égypte à Damas et refuse de la restituer : Saladin y trouve la raison de la guerre. Pris à [[bataille-de-hattin|Hattin]] le 4 juillet 1187, Renaud est conduit avec Guy dans la tente du sultan. Selon les témoins musulmans, Saladin, qui lui reproche ses parjures et lui propose de se convertir, le tue de son propre sabre, ou le fait achever par ses gardes. Les sources ne s'accordent pas sur l'heure : le soir même de la bataille, ou le lendemain. Deux jours plus tard, les Templiers et les Hospitaliers captifs sont exécutés à leur tour.
+repere: 1153 — Renaud épouse Constance et devient prince d'Antioche.
+repere: 23 novembre 1160 — Il est capturé près de Marach et emmené à Alep.
+repere: 1176 — Libéré, il épouse Étiennette de Milly, dame d'Outre-Jourdain.
+repere: 25 novembre 1177 — Victoire de Montgisard, où il commande probablement l'armée.
+repere: 1182 — Raid de sa flotte en mer Rouge.
+repere: septembre 1186 — Il soutient avec Gérard de Ridefort le couronnement de Guy et de Sibylle.
+repere: 4 juillet 1187 — Pris à Hattin, il est exécuté par Saladin.
+attention: Renaud est devenu le brigand qui aurait causé à lui seul la perte de Jérusalem. Ce portrait doit beaucoup à Guillaume de Tyr, qui lui était hostile, et aux chroniqueurs musulmans ; des historiens récents y voient aussi un chef de guerre qui cherchait à couper l'Égypte de la Syrie, unies sous Saladin.
+lien: wp Renaud de Châtillon
+lien: en Raynald of Châtillon
+sources: Wikipédia (fr, en), Renaud de Châtillon ; Wikipédia (en), Battle of Hattin
+voir: saladin, bataille-de-hattin, gerard-de-ridefort, philippe-de-milly, guy-de-lusignan, baudouin-iv-de-jerusalem, bataille-de-montgisard
+
+# ── Adversaires et alliés d'Orient et d'Occident ──────────────────────────
+
+@ saladin
+cat: figures
+nom: Saladin
+alias: Salah ad-Din, Salah al-Din Yusuf ibn Ayyub, al-Malik al-Nasir, Saladinus, Ayyoubides
+dates: 1138 – 4 mars 1193
+an: 1138
+fin: 1193
+def: Chef kurde fondateur de la dynastie ayyoubide, maître de l'Égypte et de la Syrie ; vainqueur des Francs à Hattin en 1187, il fit exécuter les Templiers et les Hospitaliers captifs, reprit Jérusalem et conclut en 1192 une trêve avec Richard Cœur de Lion.
+texte: Yusuf, fils d'Ayyub, naît en 1138 à Tikrit, dans une famille kurde au service des princes turcs de Syrie. Il suit son oncle Shirkuh, général de Nur ad-Din, dans ses campagnes d'Égypte et lui succède comme vizir du calife fatimide en 1169. En septembre 1171, il fait dire la prière au nom du calife abbasside de Bagdad : c'est la fin du califat fatimide. À la mort de Nur ad-Din, en 1174, il entre à Damas, puis soumet Alep en 1183. Pour la première fois depuis la croisade, l'Égypte et la Syrie obéissent à un même maître, et les États latins sont pris en tenaille.
+texte: Les ordres militaires sont en première ligne. Le 25 novembre 1177, Saladin est battu à [[bataille-de-montgisard|Montgisard]] par le roi lépreux et les Templiers ; il prend sa revanche en 1179, à Marj Ayoun, où le maître [[eudes-de-saint-amand|Eudes de Saint-Amand]] est capturé, puis en rasant le château templier du [[gue-de-jacob|Gué de Jacob]]. Le 1er mai 1187, à la source de Cresson, une charge du maître [[gerard-de-ridefort|Gérard de Ridefort]] contre un fort parti de ses cavaliers coûte la vie au maître de l'Hôpital et à la plupart des Templiers engagés. Le 4 juillet suivant, à [[bataille-de-hattin|Hattin]], il anéantit l'armée du royaume et prend le roi Guy.
+texte: Il traite les prisonniers selon leur rang, mais fait une exception. Son secrétaire, Imad ad-Din, rapporte qu'il ordonna de décapiter les Templiers et les Hospitaliers captifs, préférant les savoir morts qu'en prison, et que des juristes et des soufis de son entourage demandèrent chacun à en tuer un ; on compte environ deux cents victimes. Seul le maître du Temple est épargné. [[renaud-de-chatillon|Renaud de Châtillon]] a déjà péri de sa main. La plupart des places du royaume tombent ensuite. Jérusalem, assiégée le 20 septembre, capitule le 2 octobre 1187 ; les habitants qui peuvent payer leur rançon s'en vont, escortés en partie par les Templiers et les Hospitaliers. Le Temple de Salomon redevient la mosquée al-Aqsa, purifiée à l'eau de rose : l'ordre a perdu son siège (voir [[jerusalem-temple-de-salomon|Jérusalem, le Temple de Salomon]]).
+texte: La [[troisieme-croisade|troisième croisade]] l'arrête. Tyr résiste ; Acre, assiégée à partir d'août 1189, se rend le 12 juillet 1191 ; Richard Cœur de Lion le bat à Arsouf le 7 septembre 1191, avec les Templiers à l'avant-garde. Le 2 septembre 1192, une trêve de trois ans laisse aux Francs la côte de Tyr à Jaffa et ouvre Jérusalem, restée musulmane, aux pèlerins chrétiens sans armes. Saladin meurt à Damas le 4 mars 1193. Ses successeurs ayyoubides traiteront souvent avec les Francs et avec les ordres, jusqu'à ce que les Mamelouks de [[baybars|Baybars]] reprennent la guerre.
+repere: 1169 — Saladin devient vizir d'Égypte.
+repere: 1174 — Il entre à Damas après la mort de Nur ad-Din.
+repere: 25 novembre 1177 — Défaite de Montgisard face à Baudouin IV et aux Templiers.
+repere: août 1179 — Il prend et rase le château templier du Gué de Jacob.
+repere: 4 juillet 1187 — Victoire de Hattin, suivie de l'exécution des frères des ordres militaires.
+repere: 2 octobre 1187 — Jérusalem capitule.
+repere: 2 septembre 1192 — Trêve de trois ans avec Richard Cœur de Lion.
+repere: 4 mars 1193 — Mort de Saladin à Damas.
+attention: La réputation chevaleresque de Saladin, née en Occident dès le Moyen Âge, ne contredit pas sa rigueur envers les ordres militaires : il libérait volontiers contre rançon les barons et les bourgeois, mais tenait les Templiers et les Hospitaliers, armée permanente et sans cesse renouvelée, pour trop dangereux pour être gardés.
+lien: wp Saladin
+lien: en Saladin
+sources: Wikipédia (fr, en), Saladin ; Wikipédia (en), Battle of Hattin ; Wikipédia (fr), Siège de Jérusalem (1187)
+voir: bataille-de-hattin, gerard-de-ridefort, renaud-de-chatillon, bataille-de-montgisard, gue-de-jacob, richard-coeur-de-lion, troisieme-croisade, templiers-et-musulmans
+
+@ richard-coeur-de-lion
+cat: figures
+nom: Richard Cœur de Lion
+alias: Richard Ier d'Angleterre, Richard the Lionheart, Richardus Cor Leonis, Oc e No
+dates: 8 septembre 1157 – 6 avril 1199
+an: 1157
+fin: 1199
+def: Roi d'Angleterre de 1189 à 1199 et chef de la troisième croisade ; il vendit Chypre aux Templiers, vit son vassal Robert de Sablé devenir leur maître, combattit avec eux à Arsouf, et repartit d'Orient, rapportent les chroniques, sous l'habit d'un Templier.
+texte: Richard naît le 8 septembre 1157, sans doute à Oxford, troisième fils d'Henri II Plantagenêt et d'Aliénor d'Aquitaine. Duc d'Aquitaine, révolté à plusieurs reprises contre son père, il lui succède à sa mort, le 6 juillet 1189, et il est couronné à Westminster le 3 septembre. Il avait pris la croix dès la nouvelle de Hattin et de la chute de Jérusalem ; il part avec Philippe Auguste et hiverne en Sicile en 1190-1191.
+texte: Au printemps de 1191, une tempête jette une partie de sa flotte sur les côtes de Chypre, que gouverne le despote byzantin Isaac Comnène. Richard débarque à Limassol, y épouse Bérengère de Navarre le 12 mai et conquiert l'île en quelques semaines. Il la vend ensuite aux Templiers pour cent mille besants, dont quarante mille payables sur-le-champ, le reste à terme. L'ordre est alors conduit par un Angevin de son entourage, [[robert-de-sable|Robert de Sablé]], qui a commandé une partie de sa flotte avant de prendre l'habit et d'être élu maître. Les frères gouvernent l'île avec trop peu d'hommes et beaucoup de rigueur ; le jour de Pâques 1192, les Chypriotes se soulèvent à Nicosie. Les Templiers écrasent la révolte, puis prient le roi de reprendre l'île, qui passe à Guy de Lusignan (voir [[chypre-templiere|Chypre]]).
+texte: En Terre sainte, Richard prend part à la fin du siège d'[[acre|Acre]], qui capitule le 12 juillet 1191, puis descend la côte vers Jaffa, Templiers et Hospitaliers se relayant à l'avant-garde et à l'arrière-garde. Le 7 septembre 1191, à [[bataille-d-arsouf|Arsouf]], les Hospitaliers chargent avant l'ordre, et le roi lance toute sa cavalerie : Saladin est battu. Richard s'approche par deux fois de Jérusalem, en janvier puis en juin 1192, sans l'assiéger. Après avoir sauvé Jaffa en août, il signe avec [[saladin|Saladin]], le 2 septembre 1192, une trêve de trois ans qui laisse aux Francs le littoral et ouvre la Ville sainte aux pèlerins (voir [[troisieme-croisade|troisième croisade]]).
+texte: Malade, il quitte Acre le 9 octobre 1192. Le mauvais temps pousse son navire vers Corfou ; de là, il repart sous l'habit d'un Templier avec quatre compagnons, fait naufrage près d'Aquilée et tente de traverser l'Europe par voie de terre. Peu avant Noël, près de Vienne, il est reconnu et pris par le duc Léopold d'Autriche, qu'il avait offensé à Acre ; livré à l'empereur Henri VI, il n'est libéré que le 4 février 1194, contre une rançon de cent cinquante mille marcs. Il passe ses dernières années à combattre Philippe Auguste et meurt le 6 avril 1199, d'une blessure reçue au siège de Châlus-Chabrol ; son gisant repose à Fontevraud.
+repere: 3 septembre 1189 — Richard est couronné à Westminster.
+repere: mai 1191 — Il conquiert Chypre, qu'il vend aux Templiers.
+repere: 12 juillet 1191 — Acre capitule devant les croisés.
+repere: 7 septembre 1191 — Victoire d'Arsouf sur Saladin.
+repere: 1192 — Le jour de Pâques, révolte des Chypriotes contre les Templiers, qui rendent l'île au roi.
+repere: 2 septembre 1192 — Trêve de trois ans avec Saladin.
+repere: décembre 1192 — Revenu sous l'habit d'un Templier, il est pris près de Vienne.
+repere: 6 avril 1199 — Mort de Richard au siège de Châlus-Chabrol.
+attention: Le déguisement en Templier est rapporté par les chroniques du temps ; l'idée qu'une escorte de frères l'aurait accompagné et protégé jusqu'en Europe n'est pas assurée. La vente de Chypre est bien attestée, mais les Templiers n'en versèrent qu'une partie avant de rendre l'île.
+lien: wp Richard Cœur de Lion
+lien: en Richard I of England
+sources: Wikipédia (fr, en), Richard Cœur de Lion ; Wikipédia (en), Kingdom of Cyprus, Third Crusade
+voir: troisieme-croisade, robert-de-sable, chypre-templiere, bataille-d-arsouf, saladin, guy-de-lusignan, acre, temple-church-londres
+
+@ frederic-ii
+cat: figures
+nom: Frédéric II
+alias: Frédéric II de Hohenstaufen, Federico II, Friedrich II., Stupor mundi, empereur Frédéric
+dates: 26 décembre 1194 – 13 décembre 1250
+an: 1194
+fin: 1250
+def: Empereur et roi de Sicile, roi de Jérusalem par mariage ; parti en croisade excommunié en 1228, il obtint Jérusalem par traité, sans combat, mais les Templiers, qui refusaient de servir sous un excommunié et ne recouvraient pas leur ancien siège, devinrent ses adversaires déclarés.
+texte: Frédéric naît à Jesi, dans les Marches, le 26 décembre 1194, fils de l'empereur Henri VI et de Constance de Hauteville, héritière de la Sicile. Roi de Sicile dès l'enfance, il est couronné empereur à Rome en novembre 1220 par Honorius III, auquel il a promis la croisade. Le 9 novembre 1225, à Brindisi, il épouse Isabelle de Brienne, héritière du royaume de Jérusalem, et prend aussitôt le titre royal. Une première flotte part en 1227, mais une épidémie le fait rentrer ; Grégoire IX, qui ne croit plus à ses promesses, l'excommunie à la fin de septembre 1227.
+texte: Excommunié, il part quand même : il quitte Brindisi le 28 juin 1228, s'arrête à Chypre, où il se brouille avec les Ibelin, et débarque à [[acre|Acre]] le 7 septembre. Les Templiers, que conduit [[pierre-de-montaigu|Pierre de Montaigu]], et les Hospitaliers refusent de servir sous les ordres d'un homme retranché de l'Église : ils suivent l'armée à une journée de marche, et ne la rejoignent que lorsque les ordres sont donnés sans le nom de l'empereur. Seuls les chevaliers [[teutoniques|Teutoniques]] le soutiennent sans réserve. Plutôt que de combattre, Frédéric négocie avec le sultan d'Égypte al-Kamil.
+texte: Le traité de Jaffa, conclu le 18 février 1229, rend aux chrétiens Jérusalem, Bethléem et Nazareth pour dix ans, mais laisse aux musulmans l'esplanade du Temple, avec la mosquée al-Aqsa : l'ancien siège de l'ordre ne lui revient pas. Les ordres et le patriarche se sentent trahis ; le 18 mars, au Saint-Sépulcre, l'empereur pose lui-même la couronne sur sa tête, en l'absence du clergé. Il marche ensuite sur [[chateau-pelerin|Château Pèlerin]] et exige que les Templiers remettent la forteresse à une garnison allemande ; ils refusent. Quand il quitte Acre, le 1er mai 1229, la foule le couvre d'immondices (voir [[sixieme-croisade|sixième croisade]]).
+texte: Rentré en Italie, il fait saisir les biens des Templiers et des Hospitaliers en Sicile ; il ne les restitue qu'au traité de San Germano, le 28 août 1230, qui le réconcilie avec le pape. La querelle se poursuit à distance, entre les officiers impériaux de Terre sainte et les barons et les ordres. Jérusalem est perdue en 1244, peu avant le désastre de [[bataille-de-la-forbie|La Forbie]]. Frédéric II meurt le 13 décembre 1250 à Castel Fiorentino, dans les Pouilles, laissant aussi une œuvre de lettré, dont un traité de fauconnerie, le *De arte venandi cum avibus*.
+repere: novembre 1220 — Frédéric est couronné empereur à Rome.
+repere: 9 novembre 1225 — Il épouse Isabelle de Brienne, héritière de Jérusalem.
+repere: septembre 1227 — Grégoire IX l'excommunie.
+repere: 7 septembre 1228 — Il débarque à Acre ; Templiers et Hospitaliers refusent de servir sous lui.
+repere: 18 février 1229 — Traité de Jaffa avec al-Kamil ; Jérusalem est rendue pour dix ans.
+repere: 18 mars 1229 — Il se couronne lui-même au Saint-Sépulcre.
+repere: 1er mai 1229 — Départ d'Acre sous les huées.
+repere: 28 août 1230 — Traité de San Germano ; les biens des ordres en Sicile sont restitués.
+repere: 13 décembre 1250 — Mort de Frédéric II dans les Pouilles.
+attention: Le traité de 1229 a valu à Frédéric II la réputation d'un esprit libre, ami des musulmans. Les Templiers en jugèrent autrement : leur hostilité tenait autant à l'excommunication qu'au contenu du traité, qui laissait l'esplanade du Temple aux musulmans.
+lien: wp Frédéric II (empereur du Saint-Empire)
+lien: en Frederick II, Holy Roman Emperor
+sources: Wikipédia (fr, en), Frédéric II ; Wikipédia (en), Sixth Crusade
+voir: sixieme-croisade, pierre-de-montaigu, chateau-pelerin, teutoniques, acre, bataille-de-la-forbie, jerusalem-temple-de-salomon
+
+@ louis-ix
+cat: figures
+nom: Louis IX (saint Louis)
+alias: saint Louis, Louis IX de France, Ludovicus rex Francorum
+dates: 25 avril 1214 – 25 août 1270
+an: 1214
+fin: 1270
+def: Roi de France de 1226 à 1270 ; fait prisonnier en Égypte pendant la septième croisade, il acheva de payer sa rançon avec l'argent du Temple, obtenu sous la menace, puis resta quatre ans en Terre sainte, où il tint les Templiers sous son autorité.
+texte: Louis naît à Poissy le 25 avril 1214, fils de Louis VIII et de Blanche de Castille. Roi à douze ans, le 8 novembre 1226, il est sacré à Reims le 29 novembre et gouverne d'abord sous la tutelle de sa mère. Comme ses prédécesseurs, il confie son trésor à la garde des Templiers de Paris, dans l'[[enclos-du-temple|enclos du Temple]] (voir [[banque-du-temple|le Temple et l'argent]]). En décembre 1244, au sortir d'une grave maladie, il fait vœu de croisade.
+texte: Il s'embarque à Aigues-Mortes le 25 août 1248, hiverne à Chypre et prend [[damiette|Damiette]] le 6 juin 1249. Sa marche sur Le Caire bute sur Mansourah. Le 8 février 1250, son frère Robert d'Artois, qui commande l'avant-garde, se lance malgré les avis dans les rues de la ville ; les Templiers du maître [[guillaume-de-sonnac|Guillaume de Sonnac]] le suivent, et presque tous périssent. Sonnac, qui y a perdu un œil, est tué trois jours plus tard (voir [[mansourah|Mansourah]]). Épuisée par la maladie, l'armée bat en retraite ; le 6 avril 1250, le roi est fait prisonnier (voir [[septieme-croisade|septième croisade]]).
+texte: Sa libération coûte Damiette et une rançon de quatre cent mille livres, d'après [[jean-de-joinville|Jean de Joinville]], qui note qu'on avait d'abord parlé de cinq cent mille. Au moment de verser la première moitié, l'argent manque. Joinville va le demander aux Templiers. Le commandeur refuse : les sommes qu'ils gardent appartiennent aux déposants, et les frères ont juré de ne les remettre qu'à eux. Le maréchal de l'ordre, [[renaud-de-vichiers|Renaud de Vichiers]], laisse entendre qu'on ne pourra leur reprocher ce qu'on leur prendra de force ; Joinville saisit une cognée, menace de briser le coffre, et on lui en donne les clés. Le roi est libéré au début de mai 1250. Renaud de Vichiers devient bientôt maître de l'ordre.
+texte: Louis IX reste quatre ans en Terre sainte, à Acre, et fortifie Césarée, Jaffa et Sidon. En 1252, le maréchal du Temple, Hugues de Jouy, négocie avec le sultan de Damas un accord sur des terres de l'ordre sans l'avis du roi : Louis exige que le maître lui en fasse réparation publique, et que le maréchal soit banni du royaume. Il quitte Acre le 24 avril 1254. Reparti en croisade en 1270, il meurt devant Tunis le 25 août. Boniface VIII le canonise le 11 août 1297, sous le règne de son petit-fils, [[philippe-le-bel|Philippe le Bel]] — celui-là même qui fera arrêter les Templiers.
+repere: 8 novembre 1226 — Louis IX devient roi de France.
+repere: 25 août 1248 — Il s'embarque à Aigues-Mortes pour la croisade.
+repere: 6 juin 1249 — Prise de Damiette.
+repere: 8 février 1250 — Désastre de Mansourah, où périssent la plupart des Templiers engagés.
+repere: 6 avril 1250 — Le roi est fait prisonnier.
+repere: mai 1250 — Le roi est libéré, après le versement d'une première part de la rançon, complétée par l'argent du Temple.
+repere: 24 avril 1254 — Il quitte Acre pour la France.
+repere: 25 août 1270 — Mort de saint Louis devant Tunis.
+repere: 11 août 1297 — Canonisation par Boniface VIII.
+attention: Le « prêt » des Templiers à saint Louis est souvent cité pour faire de l'ordre une banque. Le récit de Joinville montre plutôt des dépositaires scrupuleux, qui refusent de disposer de l'argent d'autrui et ne cèdent qu'à la contrainte.
+lien: wp Louis IX
+lien: en Louis IX of France
+sources: Wikipédia (fr, en), Louis IX ; Wikipédia (fr), Septième croisade, Renaud de Vichiers ; Encyclopædia Universalis, Jean de Joinville
+voir: septieme-croisade, jean-de-joinville, renaud-de-vichiers, guillaume-de-sonnac, mansourah, damiette, banque-du-temple, enclos-du-temple
+
+@ baybars
+cat: figures
+nom: Baybars
+alias: al-Zahir Baybars, Rukn ad-Din Baybars al-Bunduqdari, Baïbars, Bibars, Baibars
+dates: v. 1223 – 1er juillet 1277
+an: 1223
+fin: 1277
+def: Ancien esclave turc devenu sultan mamelouk d'Égypte et de Syrie de 1260 à 1277 ; il enleva aux Francs la plupart de leurs forteresses, dont Safed, où il fit massacrer la garnison templière en 1266, Beaufort et Antioche.
+texte: Baybars naît vers 1223, ou vers 1228, dans les steppes kiptchak, au nord de la mer Noire. Capturé par les Mongols au début des années 1240 et vendu comme esclave, il entre dans la garde de mamelouks du sultan ayyoubide d'Égypte, al-Salih Ayyub. En février 1250, à [[mansourah|Mansourah]], il est de ceux qui enferment dans les rues de la ville l'avant-garde de Robert d'Artois et les Templiers. Le 3 septembre 1260, il commande l'avant-garde qui arrête les Mongols à Aïn Djalout ; le 24 octobre, après le meurtre du sultan Qutuz, auquel il prit sans doute part, il est proclamé sultan.
+texte: Maître de l'Égypte et de la Syrie, il conduit contre les Francs une guerre méthodique, place après place. En 1265, il prend Césarée et Arsouf. En 1266, il assiège [[safed|Safed]], la grande forteresse templière de Galilée, du 13 juin au 23 juillet. Les assauts lui coûtent cher ; il promet alors la vie sauve aux sergents syriens de la garnison pour la diviser, et un frère sergent syrien, Léon, négocie la reddition. Les Templiers sortent sur la foi d'un sauf-conduit ; Baybars les fait massacrer. Les chiffres varient selon les sources, de quelques centaines à deux mille morts ; Léon passe à l'islam (voir [[chute-de-safed|chute de Safed]]).
+texte: L'année 1268 est la plus dure : Jaffa tombe le 7 mars, [[beaufort|Beaufort]], que les Templiers avaient acheté en 1260, le 15 avril, [[antioche|Antioche]] le 18 mai ; isolés dans l'Amanus, les frères évacuent [[bagras|Bagras]]. En 1271, Baybars prend [[chastel-blanc|Chastel Blanc]], le Krak des Chevaliers des Hospitaliers et Montfort, le château des Teutoniques. Le maître du Temple, [[thomas-berard|Thomas Bérard]], ne peut que négocier des trêves, quand le sultan veut bien en accorder.
+texte: Baybars a aussi rebâti l'État : une armée, une poste à cheval, un calife abbasside installé au Caire pour légitimer son pouvoir. En avril 1277, il bat les Mongols à Elbistan, en Anatolie. Il meurt à Damas le 1er juillet 1277 ; poison, blessure mal soignée ou maladie, la cause reste discutée. Il laisse aux Francs une côte réduite à quelques villes, que ses successeurs, Qalawun puis al-Ashraf Khalil, prendront jusqu'à la dernière, Acre, en 1291 (voir [[chute-d-acre|chute d'Acre]]).
+repere: 8 février 1250 — À Mansourah, il combat l'avant-garde franque et les Templiers.
+repere: 3 septembre 1260 — Victoire d'Aïn Djalout sur les Mongols.
+repere: 24 octobre 1260 — Il devient sultan après le meurtre de Qutuz.
+repere: 1265 — Prise de Césarée et d'Arsouf.
+repere: 23 juillet 1266 — Safed se rend ; la garnison templière est massacrée.
+repere: 15 avril 1268 — Prise de Beaufort.
+repere: 18 mai 1268 — Prise d'Antioche.
+repere: 1271 — Chute de Chastel Blanc et du Krak des Chevaliers.
+repere: 1er juillet 1277 — Mort de Baybars à Damas.
+attention: Le massacre de Safed a fait de Baybars, dans les sources latines, l'ennemi sans parole par excellence. C'est pourtant une exception : il accordait d'ordinaire la vie sauve aux garnisons qui capitulaient. Les dates de certaines conquêtes varient d'un ouvrage à l'autre ; celles retenues ici sont les plus courantes.
+lien: wp Baybars
+lien: en Baybars
+sources: Wikipédia (fr, en), Baybars ; Wikipédia (en), Siege of Safed (1266)
+voir: chute-de-safed, safed, beaufort, antioche, chastel-blanc, thomas-berard, mansourah, chute-d-acre
+
+# ── Le roi, le pape et leurs gens ──────────────────────────────────────────
+
+@ philippe-le-bel
+cat: figures
+nom: Philippe IV le Bel
+alias: Philippe le Bel, Philippe IV de France, le Roi de fer, Philippus Pulcher, Philippe Ier de Navarre
+dates: 1268 – 29 novembre 1314
+an: 1268
+fin: 1314
+def: Roi de France de 1285 à 1314, petit-fils de saint Louis ; en conflit avec la papauté et toujours à court d'argent, il fit arrêter tous les Templiers du royaume le 13 octobre 1307, obtint de Clément V la suppression de l'ordre en 1312 et fit brûler Jacques de Molay en 1314.
+texte: Philippe naît au printemps de 1268 au château de Fontainebleau, deuxième fils de Philippe III et d'Isabelle d'Aragon ; la mort de son frère aîné, en 1276, fait de lui l'héritier. Le 14 août 1284, il épouse Jeanne, reine de Navarre et comtesse de Champagne. Roi à dix-sept ans, le 5 octobre 1285, quand son père meurt à Perpignan au retour de la croisade d'Aragon, il est sacré à Reims le 6 janvier 1286. Son règne est celui des légistes, formés au droit romain, qui servent l'idée d'un roi souverain en son royaume : Pierre Flote, puis [[guillaume-de-nogaret|Guillaume de Nogaret]], [[guillaume-de-plaisians|Guillaume de Plaisians]], [[enguerrand-de-marigny|Enguerrand de Marigny]]. C'est aussi un règne de guerres, en Guyenne contre l'Angleterre à partir de 1294, en Flandre de 1297 à 1305, et donc de besoins d'argent : impôts nouveaux, mutations de la monnaie, spoliation des banquiers lombards et, en 1306, expulsion des Juifs du royaume.
+texte: Le Temple est au cœur des finances royales. Depuis Philippe Auguste, le trésor du roi est déposé dans l'[[enclos-du-temple|enclos du Temple]] de Paris, sous la garde des frères (voir [[banque-du-temple|le Temple et l'argent]]). En 1286, le roi doit aux Templiers des sommes considérables, vite remboursées ; vers 1295, il transfère son trésor au Louvre et se tourne vers des banquiers italiens, puis le rend au Temple après la défaite de Courtrai, en 1302. Le dignitaire qui gère ces affaires, [[hugues-de-pairaud|Hugues de Pairaud]], est un familier de la cour, et l'ordre prend le parti du roi dans sa querelle avec le pape.
+texte: Cette querelle domine le règne. En 1296, la bulle *Clericis laicos* de Boniface VIII interdit de taxer le clergé sans l'accord de Rome ; en 1301, l'arrestation de l'évêque de Pamiers, Bernard Saisset, relance le conflit ; en 1302, le roi réunit à Notre-Dame des représentants des trois ordres du royaume, et le pape répond par la bulle *Unam sanctam*. Le 12 mars 1303, au Louvre, Nogaret accuse Boniface d'hérésie et réclame un concile ; le 7 septembre, à Anagni, il tente de s'emparer du pape, qui meurt à Rome le 11 octobre. Le roi se pose désormais en défenseur de la foi contre un pape indigne : c'est dans ce rôle de champion de l'Église qu'il frappera le Temple.
+texte: Le 30 décembre 1306, une émeute parisienne contre la hausse des loyers, consécutive au retour à la monnaie forte, le contraint à se réfugier au Temple. Quelques mois plus tard, les rumeurs recueillies depuis 1305 auprès d'anciens frères, dont celles d'[[esquieu-de-floyran|Esquieu de Floyran]], lui fournissent une accusation. [[jacques-de-molay|Jacques de Molay]], venu en France, a demandé lui-même une enquête au pape, qui l'annonce le 24 août 1307. Le roi n'attend pas : le 14 septembre, il ordonne en secret à ses baillis et sénéchaux d'arrêter tous les frères le même jour, en invoquant une requête de l'inquisiteur de France, [[guillaume-de-paris|Guillaume de Paris]], son confesseur. L'opération a lieu le vendredi 13 octobre (voir [[arrestation-du-13-octobre-1307|l'arrestation du 13 octobre 1307]]) ; dès le 25, Molay répète ses aveux devant des maîtres de l'Université réunis au Temple.
+texte: Il faut ensuite contraindre le pape. En mai 1308, le roi fait approuver son action par des assemblées réunies à Tours, puis vient à Poitiers, où Plaisians somme [[clement-v|Clément V]] d'agir, le 29 mai et le 14 juin. Le 12 mai 1310, l'archevêque de Sens, [[philippe-de-marigny|Philippe de Marigny]], frère de son ministre, fait brûler cinquante-quatre frères qui défendaient l'ordre. Le 20 mars 1312, le roi arrive à Vienne, où siège le concile, avec une troupe armée ; deux jours plus tard, le pape signe la bulle de suppression (voir [[concile-de-vienne|concile de Vienne]]). Les biens vont aux Hospitaliers, qui doivent verser au roi 200 000 livres tournois (voir [[devolution-des-biens|dévolution des biens]]). En mars 1314, quand Molay et Geoffroy de Charnay rétractent leurs aveux devant les cardinaux, Philippe les fait brûler le soir même sur une île de la Seine (voir [[bucher-de-jacques-de-molay|le bûcher de 1314]]).
+texte: Le roi ne leur survit que quelques mois. Au printemps de 1314, le scandale de la tour de Nesle fait enfermer deux de ses belles-filles pour adultère. Le 4 novembre, à la chasse en forêt d'Halatte, près de Pont-Sainte-Maxence, il est frappé d'un malaise — sans doute un accident vasculaire cérébral — et tombe de cheval ; ramené à Fontainebleau, il y meurt le 29 novembre 1314, à quarante-six ans, et il est enseveli à Saint-Denis. Ses trois fils régneront tour à tour sans laisser d'héritier mâle, et la dynastie des Capétiens directs s'éteint en 1328. Les historiens discutent ses motifs : besoin d'argent, conviction religieuse sincère, ou, selon Julien Théry, une théologie politique qui faisait du roi le garant de la foi à la place du pape.
+repere: 14 août 1284 — Philippe épouse Jeanne de Navarre, comtesse de Champagne.
+repere: 5 octobre 1285 — Il devient roi à la mort de Philippe III.
+repere: 24 février 1296 — Bulle *Clericis laicos* ; début du conflit avec Boniface VIII.
+repere: 7 septembre 1303 — Attentat d'Anagni contre Boniface VIII.
+repere: 30 décembre 1306 — Une émeute parisienne contraint le roi à se réfugier au Temple.
+repere: 14 septembre 1307 — Ordre secret d'arrêter tous les Templiers du royaume.
+repere: 13 octobre 1307 — Arrestation des Templiers de France.
+repere: 20 mars 1312 — Le roi arrive à Vienne avec une troupe armée.
+repere: mars 1314 — Il fait brûler Jacques de Molay et Geoffroy de Charnay.
+repere: 29 novembre 1314 — Mort de Philippe le Bel à Fontainebleau.
+attention: On lit souvent que le roi voulait effacer ses dettes envers le Temple. Ses finances étaient bien aux abois, et l'argent de l'ordre l'intéressait, mais il s'adressait surtout, depuis 1295, à des banquiers italiens. Quant à la malédiction lancée par Molay contre le roi et le pape, c'est une légende que les chroniques n'ont fixée qu'après coup (voir [[malediction-de-jacques-de-molay|malédiction de Jacques de Molay]]).
+lien: wp Philippe IV le Bel
+lien: en Philip IV of France
+sources: Wikipédia (fr, en), Philippe IV le Bel ; Wikipédia (fr), Procès de l'ordre du Temple
+voir: arrestation-du-13-octobre-1307, proces-des-templiers, clement-v, guillaume-de-nogaret, jacques-de-molay, concile-de-vienne, bucher-de-jacques-de-molay, malediction-de-jacques-de-molay
+
+@ clement-v
+cat: figures
+nom: Clément V
+alias: Bertrand de Got, Bertrand de Goth, Clemens V, pape Clément V
+dates: v. 1264 – 20 avril 1314
+an: 1264
+fin: 1314
+def: Pape de 1305 à 1314, le premier à s'installer à Avignon ; pris de court par l'arrestation des Templiers en 1307, il tenta de reprendre l'affaire en main, fit absoudre les dignitaires à Chinon en 1308, puis supprima l'ordre sans le condamner par la bulle *Vox in excelso*, en 1312.
+texte: Bertrand de Got naît vers 1264 à Villandraut, en Gironde, dans une famille de la noblesse gasconne. Il étudie les arts à Toulouse, le droit à Orléans et à Bologne. Évêque de Comminges le 28 mars 1295, il devient archevêque de Bordeaux à la fin des années 1290 — en 1297 ou en 1299 selon les sources —, dans un duché qui relève du roi d'Angleterre. Après onze mois de conclave à Pérouse, les cardinaux l'élisent le 5 juin 1305 : il n'est pas cardinal, et il passe pour acceptable à la fois par les amis et par les ennemis de la mémoire de Boniface VIII. Il est couronné à Lyon le 14 novembre 1305, en présence de [[philippe-le-bel|Philippe le Bel]] ; pendant le cortège, un mur s'effondre et tue le duc de Bretagne. De santé fragile, il ne gagnera jamais Rome.
+texte: Son grand projet est la croisade. En 1306, il convoque les maîtres du Temple et de l'Hôpital pour en débattre et pour examiner la fusion des deux ordres, que [[jacques-de-molay|Jacques de Molay]] combat dans un mémoire (voir [[projets-de-fusion-des-ordres|projets de fusion des ordres]]). Les rumeurs sur les mœurs du Temple lui parviennent ; à la demande du maître lui-même, il annonce au roi, le 24 août 1307, l'ouverture d'une enquête. L'arrestation du 13 octobre se fait sans lui, au mépris de l'exemption qui ne soumet l'ordre qu'au pape. Clément proteste, puis tente de reprendre la main : le 22 novembre 1307, la bulle *Pastoralis praeeminentiae* ordonne à tous les princes chrétiens d'arrêter les Templiers au nom de l'Église. En décembre, devant ses cardinaux, Molay rétracte ses aveux ; en février 1308, le pape suspend les pouvoirs des inquisiteurs et des évêques du royaume.
+texte: Le roi riposte. À Poitiers, où réside la cour pontificale, [[guillaume-de-plaisians|Guillaume de Plaisians]] menace publiquement le pape, le 29 mai puis le 14 juin 1308 ; soixante-douze frères, choisis par les gens du roi, viennent répéter leurs aveux devant Clément et ses cardinaux. Le pape cède sur la forme. Le 12 août, la bulle *Faciens misericordiam* confie le sort des personnes à des commissions diocésaines et l'enquête sur l'ordre à une commission pontificale ; la bulle *Regnans in coelis* convoque un concile à Vienne. Du 17 au 20 août, à [[chinon|Chinon]], trois cardinaux, Bérenger Frédol, Étienne de Suisy et Landolfo Brancaccio, entendent Molay et quatre dignitaires, qui confirment une partie de leurs aveux, demandent pardon et reçoivent l'absolution (voir [[parchemin-de-chinon|parchemin de Chinon]]). Le 9 mars 1309, le pape s'installe à Avignon, chez les dominicains.
+texte: L'affaire du Temple se noue alors avec une autre : le roi exige un procès posthume de Boniface VIII, qui ferait condamner un pape par son successeur. Ouvert en 1309-1310, ce procès est abandonné par Philippe en février 1311 ; le 27 avril, Clément absout [[guillaume-de-nogaret|Guillaume de Nogaret]] de l'attentat d'Anagni. Plusieurs historiens y voient un marchandage, la mémoire de Boniface étant sauvée au prix du Temple. Le concile, reporté d'un an, s'ouvre à Vienne le 16 octobre 1311. La plupart des prélats veulent entendre la défense de l'ordre. Le roi arrive le 20 mars 1312 avec une troupe ; le 22, en consistoire secret, Clément signe la bulle *Vox in excelso*, lue en séance au début d'avril (voir [[concile-de-vienne|concile de Vienne]]). L'ordre y est supprimé « non par voie de sentence définitive », mais par une décision d'autorité apostolique, pour le scandale et le péril des âmes.
+texte: Restent les biens et les hommes. La bulle *Ad providam*, du 2 mai 1312, donne les biens du Temple aux [[hospitaliers|Hospitaliers]], hors de la péninsule Ibérique ; *Considerantes dudum*, du 6 mai, pensionne les frères réconciliés et réserve au pape le jugement des dignitaires. En décembre 1313, il nomme pour les juger trois cardinaux, qui les condamnent à Paris en mars 1314 à la prison perpétuelle : Molay et Charnay protestent alors de leur innocence et sont brûlés le soir même sur ordre du roi. Clément V meurt le 20 avril 1314 à Roquemaure, près d'Avignon. Pendant la veillée funèbre, un incendie gagne l'église et manque de détruire son corps ; il est enseveli en 1316 dans la collégiale d'Uzeste, près de son village natal.
+repere: 5 juin 1305 — Bertrand de Got est élu pape à Pérouse.
+repere: 14 novembre 1305 — Couronnement à Lyon.
+repere: 24 août 1307 — Il annonce au roi l'ouverture d'une enquête sur le Temple.
+repere: 22 novembre 1307 — Bulle *Pastoralis praeeminentiae* : arrestation des Templiers dans toute la chrétienté.
+repere: 12 août 1308 — Bulles *Faciens misericordiam* et *Regnans in coelis*.
+repere: 17 août 1308 — Début des interrogatoires de Chinon ; les dignitaires sont absous.
+repere: 9 mars 1309 — Le pape s'installe à Avignon.
+repere: 16 octobre 1311 — Ouverture du concile de Vienne.
+repere: 22 mars 1312 — Bulle *Vox in excelso* : l'ordre est supprimé.
+repere: 20 avril 1314 — Mort de Clément V à Roquemaure.
+attention: L'absolution de Chinon réconcilie avec l'Église des hommes qui ont avoué ; elle ne déclare pas l'ordre innocent, et sa redécouverte par Barbara Frale, en 2001, ne réhabilite pas le Temple. De même, *Vox in excelso* supprime l'ordre sans le condamner pour hérésie. La mort du pape un mois après le bûcher a nourri la légende de la [[malediction-de-jacques-de-molay|malédiction de Molay]].
+lien: wp Clément V
+lien: en Pope Clement V
+sources: Wikipédia (fr, en), Clément V ; Wikipédia (fr), Procès de l'ordre du Temple, Parchemin de Chinon
+voir: proces-des-templiers, concile-de-vienne, parchemin-de-chinon, philippe-le-bel, jacques-de-molay, projets-de-fusion-des-ordres, hospitaliers, chinon
+
+@ guillaume-de-nogaret
+cat: figures
+nom: Guillaume de Nogaret
+alias: Guilhem de Nogaret, Guillelmus de Nogareto, garde du sceau, attentat d'Anagni
+dates: v. 1260 – avril 1313
+an: 1260
+fin: 1313
+def: Juriste languedocien devenu le plus redoutable des légistes de Philippe le Bel ; auteur de l'attentat d'Anagni contre Boniface VIII en 1303, garde du sceau en 1307, il prépara l'arrestation des Templiers et poussa leur procès jusqu'à sa mort, en 1313.
+texte: Guillaume naît vers 1260 près de Saint-Félix-de-Caraman, aujourd'hui Saint-Félix-Lauragais ; il tient son nom d'un petit bien familial, Nogaret. Docteur en droit romain, il enseigne à Montpellier à la fin des années 1280, puis entre au service du roi en 1293 comme juge-mage de la sénéchaussée de Beaucaire. À la fin de 1295, il est appelé à Paris ; on le trouve au Parlement en 1298, au Conseil en 1300, année où il est envoyé auprès de Boniface VIII. Le roi le récompense de terres en Languedoc, dont Calvisson et Marsillargues.
+texte: Il se fait connaître dans la lutte contre le pape. Le 12 mars 1303, au Louvre, devant le roi et son conseil, il accuse Boniface VIII d'hérésie et réclame un concile pour le juger. Le 7 septembre, à Anagni, avec Sciarra Colonna et une troupe armée, il surprend le pape dans son palais et le retient prisonnier ; deux jours plus tard, les habitants le chassent. Boniface meurt à Rome le 11 octobre. Benoît XI exclut Nogaret de son pardon général et, le 7 juin 1304, le frappe par la bulle *Flagitiosum scelus* : le légiste restera excommunié sept ans. En 1306, c'est lui qui prépare l'ordonnance d'expulsion des Juifs du royaume.
+texte: En septembre 1307, il reçoit la garde du sceau royal, à la suite de Pierre de Belleperche. Le mandement secret du 14 septembre, qui ordonne l'arrestation de tous les Templiers, est sans doute de sa main, comme, selon Julien Théry, la lettre que l'inquisiteur [[guillaume-de-paris|Guillaume de Paris]] adresse le 22 aux inquisiteurs du royaume. Le 13 octobre, il conduit lui-même l'opération à Paris, dans l'[[enclos-du-temple|enclos du Temple]], où réside [[jacques-de-molay|Jacques de Molay]] (voir [[arrestation-du-13-octobre-1307|l'arrestation du 13 octobre 1307]]). Il recueille ensuite les témoignages d'anciens frères chassés de l'ordre, nourrit la propagande royale contre les accusés et suit le procès pas à pas. En avril 1310, neuf Templiers venus défendre l'ordre devant la commission pontificale protestent contre sa présence et celle de [[guillaume-de-plaisians|Guillaume de Plaisians]] aux séances.
+texte: Le 27 avril 1311, au moment où le roi renonce à faire juger la mémoire de Boniface VIII, [[clement-v|Clément V]] absout Nogaret de l'attentat d'Anagni, contre des pénitences — une croisade, des pèlerinages — qu'il n'accomplira jamais. Garde du sceau jusqu'à sa mort, il mène encore l'annexion de Lyon au royaume et le procès de l'évêque Guichard de Troyes. Il meurt à Paris en avril 1313, onze mois avant le bûcher de Jacques de Molay. Julien Théry voit en lui le pionnier d'une « théocratie royale », où le roi se fait juge de la foi à la place du pape (voir [[proces-des-templiers|procès des Templiers]]).
+repere: 1293 — Nogaret entre au service du roi comme juge-mage de Beaucaire.
+repere: 12 mars 1303 — Au Louvre, il accuse Boniface VIII d'hérésie.
+repere: 7 septembre 1303 — Attentat d'Anagni.
+repere: 7 juin 1304 — Benoît XI l'excommunie par la bulle *Flagitiosum scelus*.
+repere: septembre 1307 — Il devient garde du sceau.
+repere: 13 octobre 1307 — Il conduit l'arrestation des Templiers à Paris.
+repere: 27 avril 1311 — Clément V l'absout de l'attentat d'Anagni.
+repere: avril 1313 — Mort de Nogaret à Paris.
+attention: Les romans, à commencer par *Les Rois maudits* de Maurice Druon, comptent Nogaret parmi les victimes de la malédiction lancée par Molay sur son bûcher. Il était mort près d'un an plus tôt : la légende n'a d'abord visé que le roi et le pape.
+lien: wp Guillaume de Nogaret
+lien: en Guillaume de Nogaret
+sources: Wikipédia (fr, en), Guillaume de Nogaret ; Wikipédia (fr), Procès de l'ordre du Temple ; Encyclopædia Universalis, Nogaret Guillaume de
+voir: philippe-le-bel, arrestation-du-13-octobre-1307, guillaume-de-plaisians, guillaume-de-paris, proces-des-templiers, clement-v, enclos-du-temple, malediction-de-jacques-de-molay
+
+@ guillaume-de-paris
+cat: figures
+nom: Guillaume de Paris (Humbert)
+alias: Guillaume Humbert, Guillaume Imbert, Guillelmus de Parisius, inquisiteur de France, confesseur du roi
+dates: attesté de 1303 à 1314
+an: 1303
+fin: 1314
+def: Dominicain, inquisiteur de France et confesseur de Philippe le Bel ; le roi invoqua sa requête pour faire arrêter les Templiers en 1307, et c'est lui qui conduisit à Paris les premiers interrogatoires, où presque tous les frères avouèrent.
+texte: Guillaume Humbert, dit Guillaume de Paris, est un frère prêcheur du couvent Saint-Jacques de Paris, théologien. Nommé inquisiteur en 1303, il exerce sa charge sur tout le royaume, sans que le titre de grand inquisiteur de France existe à proprement parler. En 1305, il devient aussi le confesseur du roi, et le reste jusqu'en 1314. Cette double fonction fait de lui la charnière entre l'Église et la couronne dont [[philippe-le-bel|Philippe le Bel]] a besoin : l'hérésie relève de l'inquisition, et l'inquisiteur est l'homme du roi.
+texte: Le mandement secret du 14 septembre 1307, qui ordonne l'arrestation des Templiers, affirme que le roi agit à la requête de l'inquisiteur, après une enquête préliminaire dont on n'a aucune trace. Le 22 septembre, de Pontoise, Guillaume écrit à tous les inquisiteurs du royaume, ainsi qu'aux prieurs, sous-prieurs et lecteurs dominicains, pour leur annoncer l'arrestation, leur demander d'agir avec les officiers du roi et de mettre les dépositions par écrit. Julien Théry tient cette lettre, dont la rhétorique est celle du mandement royal, pour une œuvre de [[guillaume-de-nogaret|Guillaume de Nogaret]].
+texte: À partir du 19 octobre 1307, dans la maison du Temple de Paris, il préside l'audition des frères arrêtés. Les procès-verbaux conservés en comptent cent trente-huit ; quatre frères seulement n'avouent rien. La torture est employée : un frère, Ponsard de Gizy, affirmera en 1309 que trente-six de ses compagnons en sont morts, un témoignage qu'on ne peut vérifier. [[geoffroy-de-charnay|Geoffroy de Charnay]] avoue le 21 octobre, [[jacques-de-molay|Jacques de Molay]] le 24. Ces aveux, envoyés au pape et répandus dans la chrétienté, font le succès du coup de force royal (voir [[actes-du-proces|actes du procès]]).
+texte: En février 1308, [[clement-v|Clément V]] suspend les pouvoirs des inquisiteurs et des évêques de France dans l'affaire ; une réponse hautaine du roi l'oblige à les leur rendre. Guillaume reste ensuite au second plan d'un procès que conduisent les commissions pontificales et les conciles provinciaux. En 1310, il juge la béguine Marguerite Porete, auteur du *Miroir des âmes simples*, condamnée au bûcher. Il compose entre 1310 et 1314 un dialogue sur les sept sacrements. On perd sa trace après 1314 ; la date de sa mort est incertaine.
+repere: 1303 — Guillaume Humbert est nommé inquisiteur.
+repere: 1305 — Il devient le confesseur de Philippe le Bel.
+repere: 14 septembre 1307 — Le mandement royal d'arrestation invoque sa requête.
+repere: 22 septembre 1307 — De Pontoise, il écrit aux inquisiteurs et aux dominicains du royaume.
+repere: 19 octobre 1307 — Début des interrogatoires des Templiers à Paris.
+repere: février 1308 — Clément V suspend ses pouvoirs, bientôt rendus.
+repere: 1310 — Il juge Marguerite Porete.
+attention: Ce Guillaume de Paris n'est pas le théologien Guillaume d'Auvergne, évêque de Paris de 1228 à 1249, qu'on appelle aussi parfois ainsi. Et les aveux de 1307 ne prouvent pas les crimes : obtenus par la torture ou sous sa menace, ils furent souvent rétractés dès que les frères purent parler sans les gens du roi.
+lien: wp Guillaume Humbert
+lien: en William of Paris (inquisitor)
+sources: Wikipédia (fr, en), Guillaume de Paris (inquisiteur) ; Wikipédia (fr), Procès de l'ordre du Temple
+voir: arrestation-du-13-octobre-1307, philippe-le-bel, guillaume-de-nogaret, actes-du-proces, proces-des-templiers, jacques-de-molay, clement-v
+
+@ enguerrand-de-marigny
+cat: figures
+nom: Enguerrand de Marigny
+alias: Enguerran de Marigny, Ingerrannus de Marigniaco, comte de Longueville, chambellan du roi
+dates: v. 1260 – 30 avril 1315
+an: 1260
+fin: 1315
+def: Chambellan et principal ministre des dernières années de Philippe le Bel ; maître du Trésor royal, où entraient les revenus des biens saisis du Temple, il prit part à la préparation du concile de Vienne, avant d'être pendu au gibet de Montfaucon en 1315.
+texte: Enguerrand naît vers 1260 à Lyons-la-Forêt, en Normandie, dans une famille de petite noblesse. Écuyer du chambellan Hugues de Bouville, il entre en 1295 dans la maison de la reine Jeanne comme panetier, épouse une filleule de la reine et reçoit en 1298 la garde du château d'Issoudun. La mort de Pierre Flote à Courtrai en 1302, puis celle de Bouville à Mons-en-Pévèle en 1304, lui ouvrent la première place : chambellan, il devient le conseiller le plus écouté de [[philippe-le-bel|Philippe le Bel]]. Il préside en 1306 l'Échiquier de Normandie et mène les négociations avec les Flamands.
+texte: Son pouvoir est d'abord financier. Gardien du Trésor à partir de 1309, il reçoit en janvier 1314, par ordonnance, le contrôle du trésor royal au Louvre et au Temple, et obtient la même année des états du royaume de nouveaux subsides pour la guerre de Flandre. Il place les siens : son demi-frère [[philippe-de-marigny|Philippe de Marigny]] devient évêque de Cambrai, puis archevêque de Sens en 1309 ; son frère Jean, évêque de Beauvais en 1312. En 1312-1313, il fonde la collégiale d'Écouis, près de Rouen, où il veut être enseveli.
+texte: L'affaire du Temple passe par ses mains. Depuis le 13 octobre 1307, les biens des frères, inventoriés par les officiers royaux, sont sous la garde du roi, et leurs revenus alimentent le Trésor qu'il gouverne. Avec Guillaume de Nogaret et les archevêques de Reims, de Sens et de Rouen, il prépare activement le [[concile-de-vienne|concile de Vienne]] de 1311-1312, où le roi obtient la suppression de l'ordre. C'est son demi-frère qui, le 12 mai 1310, a fait brûler cinquante-quatre Templiers à Paris, brisant leur défense. Les biens, attribués aux Hospitaliers en 1312, ne leur sont remis que lentement et contre paiement (voir [[devolution-des-biens|dévolution des biens]]).
+texte: La mort du roi, le 29 novembre 1314, le laisse sans protecteur. Louis X le fait arrêter à l'instigation de son oncle, Charles de Valois, qui le hait ; on lui reproche quarante et un griefs, dont la corruption, puis on l'accuse de sorcellerie. Refusant de se défendre devant ses accusateurs, il est pendu au gibet de Montfaucon le 30 avril 1315, en protestant qu'il n'avait fait qu'obéir au feu roi. Son corps y reste jusqu'en 1317 ; sous Philippe V, un second procès le réhabilite, et il est inhumé à Écouis.
+repere: 1295 — Enguerrand entre au service de la reine Jeanne comme panetier.
+repere: 1304 — Après Mons-en-Pévèle, il devient le premier conseiller du roi.
+repere: 1309 — Il est fait gardien du Trésor ; son demi-frère devient archevêque de Sens.
+repere: 1312 — Il fonde la collégiale d'Écouis.
+repere: janvier 1314 — Une ordonnance lui donne le contrôle du trésor au Louvre et au Temple.
+repere: 30 avril 1315 — Enguerrand est pendu au gibet de Montfaucon.
+repere: 1317 — Il est réhabilité sous Philippe V.
+attention: La chute de Marigny n'a rien à voir avec les Templiers : elle tient à la haine de Charles de Valois et aux rancunes accumulées contre le ministre des impôts. C'est la légende, et le roman, qui l'ont rangé parmi les victimes de la [[malediction-de-jacques-de-molay|malédiction de Molay]].
+lien: wp Enguerrand de Marigny
+lien: en Enguerrand de Marigny
+sources: Wikipédia (fr, en), Enguerrand de Marigny ; Wikipédia (fr), Procès de l'ordre du Temple ; New Catholic Encyclopedia, Vienne, Council of (encyclopedia.com)
+voir: philippe-le-bel, philippe-de-marigny, concile-de-vienne, devolution-des-biens, guillaume-de-nogaret, enclos-du-temple, malediction-de-jacques-de-molay
+
+@ philippe-de-marigny
+cat: figures
+nom: Philippe de Marigny
+alias: Philippus de Marigniaco, archevêque de Sens, concile de Sens
+dates: v. 1260 – décembre 1316
+an: 1260
+fin: 1316
+def: Prélat, demi-frère d'Enguerrand de Marigny, archevêque de Sens à partir de 1309 ; à la tête du concile de sa province réuni à Paris, il fit brûler le 12 mai 1310 cinquante-quatre Templiers comme relaps, brisant la défense de l'ordre devant la commission pontificale.
+texte: Philippe est le fils de Philippe de Marigny, seigneur d'Écouis, et de sa seconde épouse : il est le demi-frère d'[[enguerrand-de-marigny|Enguerrand de Marigny]], le ministre de Philippe le Bel, et le frère de Jean, futur évêque de Beauvais. Clerc, secrétaire du roi et membre de son conseil, il reçoit l'évêché de Cambrai en 1306 — certaines sources disent 1301. En juin 1309, il est nommé archevêque de Sens ; le pape ne le reconnaît qu'en avril 1310. Or la province de Sens comprend le diocèse de Paris, où sont détenus la plupart des Templiers du royaume : c'est à son concile provincial que revient, d'après la bulle *Faciens misericordiam*, le jugement des personnes.
+texte: Au printemps de 1310, la défense de l'ordre prend corps devant la commission pontificale : près de six cents frères se déclarent prêts à soutenir le Temple, et désignent pour porte-parole [[pierre-de-bologne|Pierre de Bologne]], Renaud de Provins et deux autres. En mai, Philippe de Marigny réunit à Paris le concile de sa province. Le 10 mai, les défenseurs supplient les commissaires d'intervenir, et Pierre de Bologne fait appel au Saint-Siège contre l'archevêque ; le président de la commission, Gilles Aycelin, refuse de s'en mêler. Le concile juge relaps, c'est-à-dire retombés dans l'hérésie, ceux qui ont rétracté leurs premiers aveux. Le 12 mai 1310, cinquante-quatre frères sont brûlés vifs dans un champ proche de la porte Saint-Antoine, devant l'abbaye du même nom. Ceux qui refusent d'avouer sont condamnés à la prison perpétuelle ; ceux qui maintiennent leurs aveux sont réconciliés.
+texte: L'effet est immédiat. Les frères comprennent que défendre l'ordre, c'est revenir sur ses aveux, et que revenir sur ses aveux mène au bûcher ; beaucoup renoncent à la défense, et la commission suspend ses travaux le 30 mai. Le concile de la province de Reims fait de son côté brûler neuf Templiers à Senlis. Pierre de Bologne disparaît quelques jours plus tard. Les historiens voient dans le calendrier choisi la main du roi : l'archevêque était le frère de son principal ministre (voir [[proces-des-templiers|procès des Templiers]]).
+texte: Philippe de Marigny garde son siège après la chute de son frère. Il organise, le 2 décembre 1314, les funérailles de Philippe le Bel, et meurt à Paris en décembre 1316 ; il aurait été inhumé au prieuré de Saint-Laurent-en-Lyons, en Normandie.
+repere: 1306 — Philippe de Marigny devient évêque de Cambrai.
+repere: juin 1309 — Il est nommé archevêque de Sens.
+repere: avril 1310 — Le pape reconnaît sa nomination.
+repere: 10 mai 1310 — Pierre de Bologne fait appel au Saint-Siège contre lui.
+repere: 12 mai 1310 — Cinquante-quatre Templiers sont brûlés à Paris sur décision de son concile.
+repere: 30 mai 1310 — La commission pontificale suspend ses travaux.
+repere: décembre 1316 — Mort de Philippe de Marigny à Paris.
+attention: La date du bûcher varie selon les ouvrages, le 12 mai pour la plupart, le 10 pour d'autres. Juridiquement, l'archevêque ne jugeait que des personnes, non l'ordre ; mais en frappant ceux qui s'étaient rétractés pour le défendre, il rendait la défense impossible.
+lien: wp Philippe de Marigny
+sources: Wikipédia (fr), Philippe de Marigny, Procès de l'ordre du Temple ; Wikipédia (en), Enguerrand de Marigny, Trials of the Knights Templar
+voir: enguerrand-de-marigny, pierre-de-bologne, proces-des-templiers, philippe-le-bel, actes-du-proces, enclos-du-temple
+
+@ guillaume-de-plaisians
+cat: figures
+nom: Guillaume de Plaisians
+alias: Guillaume de Plasian, Guillelmus de Plasiano, légiste de Philippe le Bel
+dates: actif de 1303 à 1310 ; mort avant 1314
+an: 1303
+def: Légiste de Philippe le Bel, né sur une terre d'Empire, compagnon de Guillaume de Nogaret ; ses discours de Poitiers, en mai et juin 1308, sommèrent Clément V de condamner les Templiers, faute de quoi le roi agirait sans lui.
+texte: Guillaume vient du village de Plaisians, dans les Baronnies, aujourd'hui dans la Drôme. La région relève alors du Saint-Empire : le légiste qui défendra l'indépendance du roi de France est, de naissance, un sujet de l'empereur. Formé au droit, il entre au conseil de [[philippe-le-bel|Philippe le Bel]] et devient l'un des proches de [[guillaume-de-nogaret|Guillaume de Nogaret]], qui reste volontiers en retrait et le laisse parler. On lui attribue, avec d'autres légistes du temps, la formule selon laquelle le roi de France est empereur en son royaume.
+texte: En 1303, avec Nogaret, il porte devant le roi et ses conseillers les accusations d'hérésie contre Boniface VIII, et Philippe s'engage à faire juger le pape par un concile. Cinq ans plus tard, c'est encore lui qui parle contre le Temple. Le 26 mai 1308, le roi rejoint [[clement-v|Clément V]] à Poitiers. Le 29, en consistoire public, Plaisians prononce en français un long discours : il fait l'éloge du roi, présente l'arrestation des Templiers comme une victoire de la foi catholique, et demande la condamnation de l'ordre. Le pape répond qu'il jugera sur preuves, sans précipitation. Le 14 juin, un second discours, adressé au pape lui-même, se fait menaçant : si l'Église n'agit pas, le roi, défenseur de la foi, devra agir seul.
+texte: Les pressions de Poitiers obtiennent ce qu'elles cherchaient : quelques semaines plus tard, le pape organise la double procédure contre les personnes et contre l'ordre, et fait entendre les dignitaires à Chinon (voir [[parchemin-de-chinon|parchemin de Chinon]]). Plaisians prend part aux interrogatoires des Templiers et harangue la foule pour le roi. En avril 1310, neuf frères venus défendre l'ordre devant la commission pontificale protestent contre sa présence et celle de Nogaret (voir [[proces-des-templiers|procès des Templiers]]). Il meurt avant la condamnation des dignitaires, en 1314 ; la date exacte, souvent donnée en 1313, n'est pas assurée.
+repere: 1303 — Avec Nogaret, il porte devant le roi les accusations contre Boniface VIII.
+repere: 26 mai 1308 — Le roi rejoint Clément V à Poitiers.
+repere: 29 mai 1308 — Premier discours de Plaisians contre le Temple, en consistoire public.
+repere: 14 juin 1308 — Second discours, menaçant, adressé au pape.
+repere: avril 1310 — Des Templiers protestent contre sa présence devant la commission pontificale.
+repere: avant 1314 — Mort de Guillaume de Plaisians.
+attention: On attribue souvent à Nogaret les discours de Poitiers : c'est Plaisians qui les prononça. Sa biographie reste mal connue, et la formule du roi « empereur en son royaume », qu'on lui prête, circulait déjà chez les juristes avant lui.
+lien: wp Guillaume de Plaisians
+lien: de Guillaume de Plaisians
+sources: Wikipédia (fr, de), Guillaume de Plaisians ; Wikipédia (fr), Procès de l'ordre du Temple ; Encyclopædia Universalis, Nogaret Guillaume de ; Encyclopædia Britannica, Philip IV, Conflict with the papacy
+voir: guillaume-de-nogaret, philippe-le-bel, clement-v, proces-des-templiers, parchemin-de-chinon, arrestation-du-13-octobre-1307
+
+# ── Les dignitaires et les défenseurs de l'ordre ───────────────────────────
+
+@ geoffroy-de-charnay
+cat: figures
+nom: Geoffroy de Charnay
+alias: Geoffroi de Charney, Geoffroy de Charnai, Gaufridus de Charneyo, commandeur de Normandie
+dates: v. 1251 – mars 1314
+an: 1251
+fin: 1314
+def: Commandeur de la province de Normandie du Temple à l'époque des arrestations ; il avoua en 1307, fut absous à Chinon en 1308, puis, condamné en mars 1314 à la prison perpétuelle, proclama l'innocence de l'ordre avec Jacques de Molay et fut brûlé avec lui.
+texte: De Geoffroy de Charnay, on ne sait presque rien en dehors du procès. Il naît vers 1251 et entre jeune dans l'ordre : il fut reçu, rapportent les actes, par Amaury de la Roche, alors à la tête de la province de France, en présence de Jean le Franceys, commandeur de Pédenac. Quelques actes le montrent ensuite à la tête de commanderies, avant qu'il ne reçoive, peu avant les arrestations, la charge de la province de Normandie. C'est l'un des cinq dignitaires dont le pape se réservera le jugement.
+texte: Arrêté le 13 octobre 1307, il fait partie des premiers frères entendus à Paris par l'inquisiteur [[guillaume-de-paris|Guillaume de Paris]] à partir du 19 octobre. Le 21 octobre, il reconnaît avoir renié le Christ lors de sa réception. Le 25, il répète ses aveux, comme [[jacques-de-molay|Jacques de Molay]] et d'autres dignitaires, devant les maîtres de l'Université réunis au Temple. Le 17 août 1308, à [[chinon|Chinon]], il est entendu le même jour que Raimbaud de Caron et Geoffroy de Gonneville par les trois cardinaux de Clément V ; il confirme une partie de ses aveux, demande pardon et reçoit l'absolution (voir [[parchemin-de-chinon|parchemin de Chinon]]).
+texte: Il passe les années suivantes en détention avec les autres dignitaires, sans prendre part à la défense de l'ordre devant la commission pontificale. En 1312, la bulle *Considerantes dudum* réserve leur sort au pape, qui nomme en décembre 1313 trois cardinaux pour les juger. En mars 1314, à Paris, ceux-ci lisent la sentence : prison perpétuelle. Molay et Charnay protestent alors que l'ordre est saint et que leurs aveux étaient faux. Remis au prévôt de Paris comme relaps, ils sont brûlés le soir même, à l'heure de vêpres, sur une petite île de la Seine, l'[[ile-aux-juifs|île aux Juifs]] (voir [[bucher-de-jacques-de-molay|le bûcher de 1314]]). Le chroniqueur continuateur de Guillaume de Nangis rapporte la fermeté avec laquelle ils moururent.
+texte: Son nom a fait naître une confusion durable. Geoffroy de Charny, chevalier et seigneur de Lirey, mort à la bataille de Poitiers en 1356, est le premier propriétaire connu du linceul qui deviendra le suaire de Turin ; des auteurs ont voulu en faire un parent du Templier, pour relier le suaire à l'ordre. Aucun document n'établit ce lien de famille (voir [[suaire-de-turin-et-templiers|le suaire de Turin et les Templiers]]).
+repere: v. 1251 — Naissance de Geoffroy de Charnay.
+repere: 13 octobre 1307 — Il est arrêté avec les Templiers de France.
+repere: 21 octobre 1307 — Il avoue devant Guillaume de Paris.
+repere: 25 octobre 1307 — Il répète ses aveux devant les maîtres de l'Université.
+repere: 17 août 1308 — Il est entendu et absous à Chinon.
+repere: mars 1314 — Condamné à la prison perpétuelle, il se rétracte et il est brûlé avec Molay.
+attention: Le jour du bûcher est discuté : le 18 mars 1314 pour la plupart des historiens, le 11 pour d'autres. Et le Templier n'est pas le seigneur de Lirey, dont le nom s'écrit presque de même.
+lien: wp Geoffroy de Charnay
+lien: en Geoffroi de Charney
+sources: Wikipédia (fr, en), Geoffroy de Charnay ; Wikipédia (fr), Procès de l'ordre du Temple, Parchemin de Chinon
+voir: jacques-de-molay, bucher-de-jacques-de-molay, ile-aux-juifs, parchemin-de-chinon, hugues-de-pairaud, geoffroy-de-gonneville, suaire-de-turin-et-templiers, proces-des-templiers
+
+@ hugues-de-pairaud
+cat: figures
+nom: Hugues de Pairaud
+alias: Hugues de Peraud, Hugues de Perraud, Hugo de Peraudo, Hugues Desperaut, visiteur de France
+dates: v. 1245 – après 1314
+an: 1245
+def: Visiteur de France, le plus puissant dignitaire du Temple en Occident après le maître et l'homme des affaires de l'ordre avec la couronne ; arrêté en 1307, il fit des aveux étendus, fut absous à Chinon et condamné en 1314 à la prison perpétuelle.
+texte: Hugues naît vers 1245 dans une famille noble du Forez. Son oncle, Humbert de Pairaud, haut dignitaire de l'ordre en France, le reçoit en 1263 ; le même Humbert recevra en 1265 un jeune Comtois, [[jacques-de-molay|Jacques de Molay]]. Dans les années 1280, Hugues dirige plusieurs maisons de Bourgogne et de Champagne. Il devient vers 1292 maître de la province de France, puis visiteur, c'est-à-dire représentant du maître en Occident, avec autorité sur les provinces de ce côté de la mer (voir [[provinces-du-temple|provinces du Temple]]).
+texte: Il est aussi l'homme des relations avec la cour : la maison du Temple de Paris garde le trésor du roi, et le visiteur traite avec les gens de [[philippe-le-bel|Philippe le Bel]]. Selon le témoignage d'un frère, recueilli pendant le procès, une partie de l'ordre aurait voulu l'élire maître en 1292 à la place de Molay. En 1303, l'ordre prend le parti du roi contre Boniface VIII. Averti par des rumeurs avant les arrestations, Hugues confie un coffre d'environ six mille pièces d'or et d'argent à un frère, qui le fait cacher par un pêcheur de Moret-sur-Loing ; le bailli de Sens le découvre et le verse au trésor royal.
+texte: Arrêté en 1307, il fait le 9 novembre des aveux étendus : il reconnaît avoir renié le Christ à sa réception et avoir fait renier les frères qu'il recevait. D'autres témoins l'accusent d'avoir présidé au culte d'une tête d'idole dans des maisons qu'il dirigeait (voir [[tete-de-templiers|la tête et les reliques]]). À [[chinon|Chinon]], le 19 août 1308, il confirme ses aveux devant les cardinaux, admet avoir vu cette « tête » à Montpellier, et reçoit l'absolution (voir [[parchemin-de-chinon|parchemin de Chinon]]). Il comparaît devant la commission pontificale le 22 novembre 1309, puis le 13 mars 1310, sans rien ajouter à ses déclarations, et ne se joint pas aux défenseurs de l'ordre.
+texte: En mars 1314, les trois cardinaux juges le condamnent avec Molay, [[geoffroy-de-charnay|Geoffroy de Charnay]] et [[geoffroy-de-gonneville|Geoffroy de Gonneville]] à la prison perpétuelle. Contrairement au maître et à Charnay, il accepte la sentence en silence et échappe au bûcher. Il serait mort en prison après 1321, selon une indication tirée d'Alain Demurger ; aucun acte du procès ne renseigne sur ses dernières années.
+repere: 1263 — Hugues est reçu dans l'ordre par son oncle Humbert de Pairaud.
+repere: 1292 — Il devient maître de la province de France ; Molay est élu maître de l'ordre.
+repere: 13 octobre 1307 — Arrestation des Templiers de France.
+repere: 9 novembre 1307 — Aveux d'Hugues de Pairaud.
+repere: 19 août 1308 — Il est entendu et absous à Chinon.
+repere: 22 novembre 1309 — Il comparaît devant la commission pontificale.
+repere: mars 1314 — Il est condamné à la prison perpétuelle.
+attention: Le coffre d'Hugues de Pairaud, saisi en 1307, est l'un des rares « trésors » templiers attestés, et il finit dans les caisses du roi. Un frère rapporta pourtant au procès la rumeur d'un trésor du visiteur emporté à temps : c'est l'une des racines de la légende du [[tresor-des-templiers|trésor des Templiers]].
+lien: wp Hugues de Pairaud
+lien: en Hugues de Pairaud
+sources: Wikipédia (fr, en), Hugues de Pairaud ; Wikipédia (fr), Procès de l'ordre du Temple, Parchemin de Chinon ; article sur l'élection de 1292, *Ordines Militares*, revue de l'université de Toruń (extraits)
+voir: jacques-de-molay, parchemin-de-chinon, geoffroy-de-charnay, geoffroy-de-gonneville, tresor-des-templiers, provinces-du-temple, philippe-le-bel, tete-de-templiers
+
+@ geoffroy-de-gonneville
+cat: figures
+nom: Geoffroy de Gonneville
+alias: Geoffroi de Gonneville, Godefroi de Gonneville, Gaufridus de Gonavilla, commandeur d'Aquitaine et de Poitou
+dates: attesté de 1307 à 1314
+an: 1307
+def: Commandeur de la province d'Aquitaine et de Poitou à l'époque des arrestations, l'un des cinq dignitaires dont le pape se réserva le jugement ; il avança au procès plusieurs explications du reniement exigé à la réception, et fut condamné en 1314 à la prison perpétuelle.
+texte: Geoffroy de Gonneville n'est connu que par le procès. En 1307, il dirige la province d'Aquitaine et de Poitou, l'une des grandes circonscriptions du Temple en France (voir [[provinces-du-temple|provinces du Temple]]). Arrêté avec les autres frères du royaume, il avoue le 15 novembre 1307. Clément V le compte parmi les cinq dignitaires — avec Jacques de Molay, [[hugues-de-pairaud|Hugues de Pairaud]], [[geoffroy-de-charnay|Geoffroy de Charnay]] et [[raimbaud-de-caron|Raimbaud de Caron]] — dont il entend se réserver le jugement.
+texte: Sa déposition se distingue de la plupart des autres. Au lieu de se borner à reconnaître les faits, il cherche à expliquer d'où vient le reniement imposé à la réception (voir [[reception-dans-l-ordre|réception dans l'ordre]]). Il rapporte plusieurs versions qui couraient dans l'ordre : un maître prisonnier des Sarrasins aurait obtenu sa liberté en promettant d'introduire cet usage ; un frère nommé Roncelin, peut-être Roncelin de Fos, ou le maître [[thomas-berard|Thomas Bérard]], auraient introduit de mauvaises coutumes ; d'autres y voyaient une imitation du triple reniement de saint Pierre. Ces hypothèses montrent surtout que les frères ne savaient pas eux-mêmes expliquer ce qu'on leur faisait avouer.
+texte: Le 17 août 1308, à [[chinon|Chinon]], devant les cardinaux, il déclare qu'on lui a demandé à sa réception de renier et de cracher sur la croix, mais qu'il ne l'a pas fait, et il reçoit l'absolution (voir [[parchemin-de-chinon|parchemin de Chinon]]). Devant la commission pontificale, le 13 mars 1310, il se dit illettré et ne se joint pas à la défense. En mars 1314, les cardinaux juges le condamnent avec Pairaud à la prison perpétuelle ; il accepte la sentence sans protester. On ignore la date et le lieu de sa mort. Une légende moderne le fait s'évader de Chinon pour organiser une survivance secrète de l'ordre : rien ne l'appuie, et il fut bien conduit à Paris pour y être jugé.
+repere: 15 novembre 1307 — Aveux de Geoffroy de Gonneville.
+repere: 17 août 1308 — Il est entendu et absous à Chinon.
+repere: 13 mars 1310 — Devant la commission pontificale, il se dit illettré.
+repere: 6 mai 1312 — La bulle *Considerantes dudum* réserve au pape le sort des dignitaires.
+repere: mars 1314 — Il est condamné à la prison perpétuelle.
+attention: Les explications de Gonneville ne prouvent pas que le reniement fût une doctrine secrète de l'ordre. Certains historiens y voient une épreuve d'obéissance, ou une préparation à la captivité chez les musulmans ; d'autres doutent que le rite ait existé ailleurs que dans les aveux arrachés.
+lien: wp Geoffroy de Gonneville
+sources: Wikipédia (fr), Geoffroy de Gonneville, Procès de l'ordre du Temple, Parchemin de Chinon ; Knights Templar Vault, « Geoffroi de Gonneville : confusions and theories »
+voir: hugues-de-pairaud, geoffroy-de-charnay, parchemin-de-chinon, reception-dans-l-ordre, thomas-berard, proces-des-templiers, raimbaud-de-caron
+
+@ raimbaud-de-caron
+cat: figures
+nom: Raimbaud de Caron
+alias: Raimbaut de Caromb, Raimbaud de Caromb, Rambaud de Caron, Raymbaud de Caron, commandeur d'outre-mer
+dates: attesté de 1265 à 1308
+an: 1265
+def: Dignitaire du Temple, commandeur des maisons d'outre-mer — c'est-à-dire, après 1291, de Chypre — à l'époque des arrestations ; il fut le premier des dignitaires entendus à Chinon en août 1308, puis disparaît des sources.
+texte: Son nom vient de Caromb, dans l'actuel Vaucluse, alors dans le Comtat Venaissin. Il ne faut pas le confondre avec un homonyme plus ancien, Raimbaut de Caromb, maître de la province de Hongrie vers 1235-1240 puis de Provence de 1251 à 1259, mort vers 1263. Le dignitaire du procès pourrait être un frère reçu vers 1264-1265 à la commanderie de [[richerenches|Richerenches]], en Provence, peut-être un parent du premier ; c'est une hypothèse.
+texte: Le parchemin de Chinon le désigne comme commandeur des maisons du Temple outre-mer. Depuis la perte de la Terre sainte en 1291, le couvent central de l'ordre est à Chypre, et cette charge en fait l'un des premiers dignitaires du maître ; les historiens le disent souvent commandeur de Chypre (voir [[chypre-templiere|Chypre]]). Il se trouve en France en 1307, sans doute dans l'entourage de [[jacques-de-molay|Jacques de Molay]], et il y est arrêté avec les autres frères. Le 10 novembre 1307, interrogé à Paris, il nie le matin avoir connaissance des faits reprochés ; rappelé l'après-midi, il avoue, sans doute sous la torture.
+texte: Le 17 août 1308, à [[chinon|Chinon]], il est le premier entendu par les trois cardinaux de Clément V ; il confirme une partie de ses aveux et reçoit l'absolution (voir [[parchemin-de-chinon|parchemin de Chinon]]). Ensuite, plus rien. Il ne figure pas parmi les quatre dignitaires condamnés à Paris en mars 1314 : il est probablement mort en détention entre 1308 et 1314, mais aucun acte ne le dit.
+repere: v. 1265 — Réception probable d'un Raimbaud de Caromb à Richerenches.
+repere: 10 novembre 1307 — Interrogé à Paris, il nie le matin et avoue l'après-midi.
+repere: 17 août 1308 — Premier des dignitaires entendus et absous à Chinon.
+repere: mars 1314 — Il n'est pas au nombre des dignitaires jugés à Paris.
+attention: Son silence après 1308 a nourri des récits de survie et de fuite, que rien n'appuie. Les sources ne permettent même pas d'être sûr de son identité avant 1307, tant les homonymes se confondent.
+lien: wp Parchemin de Chinon
+sources: Wikipédia (fr), Raimbaut de Caromb, Procès de l'ordre du Temple, Parchemin de Chinon ; Wikipédia (en), Chinon Parchment
+voir: parchemin-de-chinon, chypre-templiere, jacques-de-molay, geoffroy-de-gonneville, hugues-de-pairaud, richerenches, chinon
+
+@ pierre-de-bologne
+cat: figures
+nom: Pierre de Bologne
+alias: Pietro da Bologna, Petrus de Bononia, procureur de l'ordre, défenseur des Templiers
+dates: disparu en 1310
+an: 1310
+def: Frère chapelain du Temple, procureur de l'ordre en cour de Rome ; porte-parole des centaines de frères qui, au printemps de 1310, voulurent défendre le Temple devant la commission pontificale, il disparut quelques jours après le bûcher du 12 mai.
+texte: Pierre est un Italien, de Bologne, prêtre de l'ordre (voir [[chapelains-du-temple|frères chapelains]]). Avant les arrestations, il représentait le Temple auprès de la cour pontificale comme procureur, c'est-à-dire comme homme de loi chargé de ses affaires. Il se trouve en France en 1307 et partage le sort des autres frères. Il réapparaît dans les actes à l'automne de 1309 : avec Renaud de Provins, commandeur d'Orléans, il conseille alors des frères qui comparaissent devant la commission pontificale, ouverte le 8 août à l'abbaye Sainte-Geneviève, et les encourage à défendre l'ordre.
+texte: Au début de 1310, les volontaires affluent : à la fin de mars, ils sont près de six cents. Le 28 mars, dans le jardin de l'évêché, on leur lit les articles de l'accusation, et ils désignent des représentants. Le 1er avril, quatre frères sont retenus : Pierre de Bologne, Renaud de Provins, Guillaume de Chambonnet et Bertrand de Sartiges. Admis le 11 avril, les défenseurs parlent clair : les articles sont des mensonges forgés par des ennemis de l'ordre, qui est resté pur ; les aveux ont été arrachés par la torture et la peur ; les frères n'étaient pas diffamés avant d'être arrêtés, et ils sont privés de conseil et d'argent. Renaud de Provins conteste la procédure elle-même. La commission répond qu'elle n'a pas le pouvoir de les libérer (voir [[proces-des-templiers|procès des Templiers]]).
+texte: Le roi brise cette défense par un autre tribunal. En mai, l'archevêque de Sens, [[philippe-de-marigny|Philippe de Marigny]], réunit à Paris le concile de sa province. Le 10 mai, Pierre de Bologne fait appel au Saint-Siège contre lui et supplie les commissaires d'intervenir ; ils refusent. Le 12 mai, cinquante-quatre frères qui avaient rétracté leurs aveux sont brûlés comme relaps. Le 18 mai, Renaud de Provins est convoqué devant le concile ; Pierre de Bologne, lui, disparaît. En décembre, les commissaires déclarent qu'il s'est évadé ; les deux derniers défenseurs, Chambonnet et Sartiges, renoncent le 17 décembre 1310. On ne retrouve plus son nom dans aucun acte.
+repere: 8 août 1309 — Ouverture de la commission pontificale à Paris.
+repere: 1er avril 1310 — Pierre de Bologne est choisi parmi les quatre défenseurs de l'ordre.
+repere: 11 avril 1310 — Les défenseurs sont officiellement admis.
+repere: 10 mai 1310 — Il fait appel au Saint-Siège contre l'archevêque de Sens.
+repere: 12 mai 1310 — Cinquante-quatre Templiers sont brûlés comme relaps.
+repere: 18 mai 1310 — Pierre de Bologne disparaît.
+repere: 17 décembre 1310 — Les derniers défenseurs renoncent.
+attention: Évasion ou meurtre ? La version officielle est celle d'une fuite ; certains historiens soupçonnent qu'il fut tué par ses geôliers. Aucune source ne permet de trancher, et rien n'atteste qu'il ait survécu ailleurs.
+lien: wp Procès de l'ordre du Temple
+sources: Wikipédia (fr), Procès de l'ordre du Temple ; Wikipédia (en), Trials of the Knights Templar
+voir: proces-des-templiers, philippe-de-marigny, actes-du-proces, chapelains-du-temple, jacques-de-molay, concile-de-vienne
+
+# ── Le dénonciateur, le renégat et les rois qui refusèrent de condamner ─────
+
+@ esquieu-de-floyran
+cat: figures
+nom: Esquieu de Floyran
+alias: Esquius de Floyrano, Esquieu de Floyrac, Esquieu de Foyrac, prieur de Montfaucon, dénonciateur des Templiers
+dates: attesté de 1305 à 1309
+an: 1305
+def: Prieur de Montfaucon, natif, dit-on, de Béziers, qui se présenta comme l'homme ayant révélé au roi de France les crimes des Templiers ; après avoir en vain alerté Jacques II d'Aragon en 1305, il réclama à ce roi, en 1308, la récompense promise.
+texte: On sait peu de chose d'Esquieu de Floyran, dont le nom s'écrit aussi Floyrac ou Foyrac. Il est prieur de Montfaucon, un prieuré qui dépend de l'abbaye Saint-Martial de Limoges. En novembre 1309, devant la commission pontificale, le commandeur de Payns, Ponsard de Gizy, le nomme parmi les ennemis de l'ordre qui ont lancé les accusations, avec quelques autres, sous le nom d'« Esquieu de Floyrac de Béziers, coprieur de Montfaucon » : c'est l'origine de l'attache biterroise qu'on lui donne.
+texte: Au début de 1305, il se rend à Lérida auprès de [[jacques-ii-d-aragon|Jacques II d'Aragon]] et lui rapporte ce qu'il prétend savoir des pratiques du Temple : reniement du Christ, outrages à la croix, mœurs infâmes. Le roi n'y croit guère, mais lui promet une récompense s'il apporte des preuves. Esquieu se tourne alors vers la cour de France, où l'on est plus attentif : ses dires rejoignent les témoignages que les gens du roi, et [[guillaume-de-nogaret|Guillaume de Nogaret]] le premier, recueillent auprès d'anciens frères chassés de l'ordre. Un récit, qu'aucun document ne confirme, veut qu'il ait recueilli en prison les confidences d'un Templier condamné.
+texte: Après les arrestations du 13 octobre 1307, il écrit à Jacques II, en janvier 1308, pour lui rappeler sa promesse : il se présente comme l'homme qui a révélé au roi de France les faits concernant les Templiers, et demande son dû. On ignore s'il fut payé ; on ne sait rien de lui après la mention de 1309. Son rôle exact reste discuté : il est le premier dénonciateur connu, et sa démarche à Lérida prouve que les accusations circulaient avant 1307, mais l'affaire tient d'abord à la volonté de [[philippe-le-bel|Philippe le Bel]] (voir [[arrestation-du-13-octobre-1307|l'arrestation du 13 octobre 1307]]).
+repere: 1305 — Au début de l'année, Esquieu de Floyran dénonce le Temple à Jacques II d'Aragon, à Lérida.
+repere: 13 octobre 1307 — Arrestation des Templiers de France.
+repere: janvier 1308 — Il écrit à Jacques II pour réclamer la récompense promise.
+repere: novembre 1309 — Ponsard de Gizy le nomme parmi les instigateurs du procès.
+attention: On fait parfois d'Esquieu la cause de la chute du Temple. Il n'en fut que l'un des informateurs, et le plus bavard : le roi avait ses propres raisons, et ses agents d'autres sources. Les sommes qu'il aurait réclamées, citées dans certains livres, n'ont pu être vérifiées.
+lien: wp Esquieu de Floyran
+lien: en Esquieu de Floyran
+sources: Wikipédia (fr, en), Esquieu de Floyran ; Wikipédia (fr), Procès de l'ordre du Temple
+voir: jacques-ii-d-aragon, arrestation-du-13-octobre-1307, philippe-le-bel, guillaume-de-nogaret, proces-des-templiers, actes-du-proces
+
+@ roger-de-flor
+cat: figures
+nom: Roger de Flor
+alias: Ruggero da Fiore, Roger Blum, mégaduc Roger, Compagnie catalane, Almogavres
+dates: v. 1267 – 30 avril 1305
+an: 1267
+fin: 1305
+def: Fils d'un fauconnier de l'empereur Frédéric II, élevé sur un navire du Temple et devenu frère sergent, il commanda une galère de l'ordre lors de la chute d'Acre en 1291 ; chassé pour s'être enrichi, il devint corsaire, chef de la Compagnie catalane et César de l'Empire byzantin.
+texte: Roger naît vers 1267 à Brindisi, dans les Pouilles, second fils de Richard von Blum, fauconnier allemand de l'empereur [[frederic-ii|Frédéric II]]. Son père est tué en 1268 à Tagliacozzo, dans la défaite des derniers Hohenstaufen face à Charles d'Anjou, et la famille perd ses biens. Vers l'âge de huit ans, l'enfant est pris en charge par un Templier de Marseille, frère Vassall, capitaine d'un navire de l'ordre, le *Faucon*. Il grandit en mer et entre au Temple comme [[sergents-du-temple|frère sergent]] : c'est l'un des rares marins de l'ordre dont la vie soit connue (voir [[flotte-du-temple|flotte du Temple]]).
+texte: En 1291, il commande le *Faucon* pendant le siège d'Acre par le sultan al-Ashraf Khalil. Quand la ville tombe, il prend à son bord des fugitifs, de préférence riches, et les conduit à Chypre ; on l'accuse d'avoir rançonné ces réfugiés et détourné une partie des biens de l'ordre (voir [[chute-d-acre|chute d'Acre]]). Dénoncé au pape comme voleur et apostat, il est chassé du Temple, ou s'enfuit avant de l'être, et gagne Gênes, où il emprunte de quoi armer un navire.
+texte: Il fait alors la course en Méditerranée orientale, puis entre vers 1299 au service de Frédéric, roi de Sicile, frère de [[jacques-ii-d-aragon|Jacques II d'Aragon]], qui le fait vice-amiral. La paix de Caltabellotta, en août 1302, laisse sans emploi les mercenaires de la guerre de Sicile, les Almogavres catalans et aragonais ; Roger en prend la tête et les vend à l'empereur byzantin Andronic II, menacé par les Turcs. La Compagnie catalane débarque à Constantinople en septembre 1303. Roger épouse une nièce de l'empereur, reçoit le titre de mégaduc, chef de la flotte, bat les Turcs en Asie Mineure en 1304, puis obtient la dignité de César.
+texte: Sa puissance inquiète la cour. Le 30 avril 1305, à Andrinople, le fils d'Andronic, Michel IX, le fait assassiner au cours d'un banquet, avec la plus grande partie de son escorte. Les Almogavres le vengent en ravageant la Thrace et la Macédoine, puis s'emparent en 1311 du duché d'Athènes. Le chroniqueur Ramon Muntaner, qui avait fait partie de l'expédition, lui a consacré de longues pages, et la littérature catalane a fait de lui un héros.
+repere: v. 1267 — Naissance de Roger à Brindisi.
+repere: 1268 — Son père est tué à la bataille de Tagliacozzo.
+repere: 1291 — À la chute d'Acre, il commande le *Faucon*, navire du Temple.
+repere: v. 1299 — Chassé de l'ordre, il entre au service du roi de Sicile.
+repere: août 1302 — Paix de Caltabellotta ; il prend la tête des Almogavres.
+repere: septembre 1303 — La Compagnie catalane débarque à Constantinople.
+repere: 30 avril 1305 — Roger de Flor est assassiné à Andrinople.
+attention: Sa vie de Templier n'est connue que par des récits postérieurs, au premier rang desquels la chronique de Muntaner, son compagnon et son admirateur ; aucun document de l'ordre ne la raconte. Le détail de l'accusation portée contre lui à Acre varie d'une source à l'autre.
+lien: wp Roger de Flor
+lien: en Roger de Flor
+sources: Wikipédia (fr, en), Roger de Flor ; Encyclopædia Britannica, Roger de Flor
+voir: chute-d-acre, flotte-du-temple, sergents-du-temple, frederic-ii, jacques-ii-d-aragon, chypre-templiere
+
+@ jacques-ii-d-aragon
+cat: figures
+nom: Jacques II d'Aragon
+alias: Jacques le Juste, Jaume II, Jaime II, Jacobus II rex Aragonum
+dates: 1267 – novembre 1327
+an: 1267
+fin: 1327
+def: Roi d'Aragon de 1291 à 1327 ; d'abord incrédule devant les accusations, il fit arrêter les Templiers de ses États et assiéger leurs châteaux en 1308-1309, puis vit leurs frères déclarés innocents en 1312 et obtint que leurs biens de Valence forment l'ordre de Montesa.
+texte: Jacques naît à Valence en 1267 — le 10 août selon les uns, le 10 avril selon les autres —, second fils de Pierre III d'Aragon et de Constance de Hohenstaufen. Roi de Sicile après son père, couronné à Palerme en 1286, il succède à son frère Alphonse III sur le trône d'Aragon le 18 juin 1291. Par le traité d'Anagni, en 1295, il renonce à la Sicile, et reçoit du pape en 1297 l'investiture de la Sardaigne et de la Corse. Les Templiers sont puissants dans ses États : ils tiennent en Aragon, en Catalogne et à Valence des châteaux de frontière gagnés pendant la Reconquête (voir [[templiers-et-reconquista|les Templiers et la Reconquista]]).
+texte: Au début de 1305, à Lérida, il reçoit [[esquieu-de-floyran|Esquieu de Floyran]], qui lui dénonce l'ordre ; il n'y croit guère. Après le 13 octobre 1307, il résiste d'abord aux pressions de son voisin, déclarant qu'il ne trouve chez les frères de son royaume ni hérésie ni immoralité. Mais la bulle *Pastoralis praeeminentiae* l'oblige : en décembre 1307, il ordonne les arrestations. Les Templiers aragonais s'enferment dans leurs forteresses. À [[miravet|Miravet]], sur l'Èbre, Ramon Sa Guardia, commandeur du [[mas-deu|Mas Deu]], tient un an et ne se rend qu'en décembre 1308 ; [[monzon|Monzón]] et d'autres places résistent jusqu'en 1309.
+texte: Le procès des personnes, confié aux évêques, ne produit pas les aveux attendus. Le 4 novembre 1312, à Tarragone, le concile provincial que préside l'archevêque Guillem de Rocabertí déclare innocents tous les Templiers de Catalogne ; Ramon Sa Guardia lui-même, acquitté, se retire au Mas Deu. Restent les biens, que la bulle *Ad providam* attribue aux Hospitaliers. Jacques II ne veut pas d'un ordre étranger trop puissant sur sa frontière de Valence. Au terme de longues négociations avec Jean XXII, la bulle du 10 juin 1317 crée l'[[ordre-de-montesa|ordre de Montesa]], qui reçoit les biens du Temple et de l'Hôpital dans le royaume de Valence ; en Aragon et en Catalogne, ils vont aux Hospitaliers. Le roi meurt à Barcelone au début de novembre 1327.
+repere: 18 juin 1291 — Jacques II devient roi d'Aragon.
+repere: 1305 — À Lérida, Esquieu de Floyran lui dénonce le Temple.
+repere: décembre 1307 — Il ordonne l'arrestation des Templiers de ses États.
+repere: décembre 1308 — Reddition de Miravet après un an de siège.
+repere: 1309 — Les derniers châteaux templiers, dont Monzón, se rendent.
+repere: 4 novembre 1312 — Le concile de Tarragone déclare innocents les Templiers de Catalogne.
+repere: 10 juin 1317 — Création de l'ordre de Montesa par Jean XXII.
+repere: novembre 1327 — Mort de Jacques II à Barcelone.
+attention: La résistance des Templiers aragonais dans leurs châteaux n'était ni un aveu ni une révolte contre l'Église : ils craignaient de subir le sort des frères de France. Leur acquittement n'empêcha pas la suppression de l'ordre, prononcée en 1312 pour toute la chrétienté.
+lien: wp Jacques II (roi d'Aragon)
+lien: en James II of Aragon
+sources: Wikipédia (fr, en), Jacques II d'Aragon ; Wikipédia (fr), Château de Miravet, Ordre de Montesa, Procès de l'ordre du Temple ; Wikipédia (en), Trials of the Knights Templar
+voir: templiers-et-reconquista, ordre-de-montesa, miravet, monzon, mas-deu, esquieu-de-floyran, peniscola, denis-ier-de-portugal
+
+@ denis-ier-de-portugal
+cat: figures
+nom: Denis Ier de Portugal
+alias: Dinis, Dom Dinis, Denis le Laboureur, le Roi poète, Dionysius rex Portugaliae
+dates: 9 octobre 1261 – 7 janvier 1325
+an: 1261
+fin: 1325
+def: Roi de Portugal de 1279 à 1325 ; il ne trouva rien à reprocher aux Templiers de son royaume et obtint du pape Jean XXII, en 1319, la création de l'ordre du Christ, qui recueillit leurs biens et une partie de leurs frères.
+texte: Denis naît à Lisbonne le 9 octobre 1261, fils d'Alphonse III et de Béatrice de Castille ; il devient roi le 16 février 1279. C'est le premier roi lettré du Portugal : poète en langue galaïco-portugaise, auteur de cent trente-sept chansons, il fait du portugais la langue des actes royaux et fonde en 1290 une université. Il plante la pinède de Leiria pour fixer les sables de la côte, favorise l'agriculture — d'où son surnom de Laboureur — et fixe en 1297, par le traité d'Alcañices, la frontière avec la Castille. Son épouse, Isabelle d'Aragon, sœur de [[jacques-ii-d-aragon|Jacques II]], sera canonisée.
+texte: Les Templiers sont au Portugal depuis les origines du royaume : ils reçoivent Soure en 1128 et bâtissent [[tomar|Tomar]] à partir de 1160 (voir [[templiers-au-portugal|les Templiers au Portugal]]). Quand éclate l'affaire de 1307, Denis, comme Jacques II, déclare ne trouver chez eux ni hérésie, ni blasphème, ni immoralité. Il n'y a pas au Portugal de procès comparable à celui de France, et aucune condamnation. La bulle *Ad providam* de 1312 attribue les biens de l'ordre aux Hospitaliers, mais en exclut les royaumes ibériques, dont le sort est réservé ; Denis les garde sous la main de la couronne.
+texte: Il négocie ensuite de longues années avec la papauté. Le 14 mars 1319, la bulle *Ad ea ex quibus* crée une milice nouvelle, la *Militia Christi*, dont le maître doit prêter hommage au roi : c'est l'[[ordre-du-christ|ordre du Christ]]. Son premier maître, Gil Martins, vient de l'ordre d'Aviz, et son siège est fixé à Castro Marim, en Algarve, face au royaume musulman de Grenade. L'ordre reçoit les biens du Temple, et beaucoup d'anciens Templiers y entrent. Le siège passe à Tomar au milieu du XIVe siècle, en 1356 ou en 1366 selon les sources ; Henri le Navigateur, grand maître au XVe siècle, financera avec ses revenus les voyages de découverte.
+texte: Les dernières années du roi sont troublées par la révolte de son fils, le futur Alphonse IV, avec qui il ne fait la paix qu'en 1324. Denis meurt à Santarém le 7 janvier 1325 et il est enseveli au monastère d'Odivelas, qu'il avait fondé.
+repere: 16 février 1279 — Denis devient roi de Portugal.
+repere: 1290 — Il fonde une université.
+repere: 12 septembre 1297 — Traité d'Alcañices avec la Castille.
+repere: 2 mai 1312 — La bulle *Ad providam* réserve le sort des biens templiers de la péninsule Ibérique.
+repere: 14 mars 1319 — La bulle *Ad ea ex quibus* crée l'ordre du Christ.
+repere: 7 janvier 1325 — Mort de Denis à Santarém.
+attention: L'ordre du Christ n'est pas le Temple sous un autre nom, comme on le lit souvent : c'est un ordre nouveau, créé par le pape et soumis au roi, qui recueillit des biens et des hommes du Temple, mais non sa règle ni sa personnalité juridique. La croix rouge des caravelles portugaises est la sienne, non celle des Templiers.
+lien: wp Denis Ier
+lien: en Denis of Portugal
+sources: Wikipédia (fr, en), Denis Ier de Portugal ; Wikipédia (fr), Ordre du Christ (Portugal) ; Wikipédia (en), Trials of the Knights Templar
+voir: ordre-du-christ, templiers-au-portugal, tomar, jacques-ii-d-aragon, devolution-des-biens, ordre-de-montesa
+
+@ edouard-ii
+cat: figures
+nom: Édouard II d'Angleterre
+alias: Edward II, Édouard de Caernarfon, Edwardus II rex Angliae
+dates: 25 avril 1284 – 21 septembre 1327
+an: 1284
+fin: 1327
+def: Roi d'Angleterre de 1307 à 1327, gendre de Philippe le Bel ; il défendit d'abord les Templiers auprès du pape et des rois, puis les fit arrêter sur l'ordre de Clément V en janvier 1308, mais leur procès anglais, longtemps conduit sans torture, ne produisit presque aucun aveu.
+texte: Édouard naît au château de Caernarfon, au pays de Galles, le 25 avril 1284, fils d'Édouard Ier. Il devient roi à la mort de son père, le 7 juillet 1307, trois mois avant l'arrestation des Templiers de France. Le 25 janvier 1308, à Boulogne, il épouse Isabelle de France, fille de [[philippe-le-bel|Philippe le Bel]] ; il est couronné à Westminster le 25 février. Son règne est dominé par la faveur de Pierre Gaveston, puis des Despenser, et par la guerre d'Écosse.
+texte: La nouvelle du 13 octobre le laisse incrédule. Il demande un rapport à son sénéchal d'Agen, puis écrit le 30 octobre 1307 au pape et aux rois de Portugal, de Castille, d'Aragon et de Sicile pour les inviter à ne pas croire les calomnies. Le 10 décembre encore, il assure [[clement-v|Clément V]] qu'il ne peut ajouter foi à d'horribles accusations contre des frères qui jouissent partout en Angleterre d'une bonne renommée. Le 20 décembre, il reçoit la bulle *Pastoralis praeeminentiae* et obéit : il ordonne l'arrestation des Templiers d'Angleterre, d'Irlande et d'Écosse et l'inventaire de leurs biens, exécutée le 8 janvier 1308 (voir [[templiers-en-angleterre|les Templiers en Angleterre]]). Peu de frères sont pris, et ils sont d'abord détenus sans rigueur. On sait aussi qu'en 1308, pour obtenir le retour de Gaveston exilé, il offrit au pape et au roi de France de supprimer l'ordre dans son royaume.
+texte: Le procès s'ouvre à Londres le 22 octobre 1309 devant deux inquisiteurs venus de France, l'abbé de Lagny et Sicard de Vaur. En novembre, aucun frère n'a avoué. Le pape réclame la torture, pratique que la justice anglaise n'employait pas ; le roi finit par l'autoriser, à contrecœur, et quelques aveux suivent. La plupart des frères reconnaissent seulement avoir cru, à tort, que le maître pouvait les absoudre de leurs péchés, et sont réconciliés avec l'Église ; le maître d'Angleterre, William de la More, refuse et meurt prisonnier à la Tour de Londres. Les inventaires recensent environ cent quarante-quatre Templiers dans les îles Britanniques, dont une vingtaine de chevaliers.
+texte: Le 28 novembre 1313, le roi ordonne de remettre les biens aux Hospitaliers ; les barons, qui s'en sont emparés, résistent, et ce n'est qu'en 1324 qu'une loi règle l'affaire, la couronne gardant certains domaines jusqu'en 1338. Le règne s'achève mal : battu par les Écossais en 1314, Édouard est déposé en janvier 1327 au profit de son fils, Édouard III, et meurt au château de Berkeley le 21 septembre 1327, probablement assassiné. Il repose dans la cathédrale de Gloucester.
+repere: 7 juillet 1307 — Édouard II devient roi d'Angleterre.
+repere: 30 octobre 1307 — Il écrit au pape et aux rois pour défendre les Templiers.
+repere: 20 décembre 1307 — Il reçoit l'ordre pontifical d'arrêter les frères.
+repere: 8 janvier 1308 — Saisie des Templiers et de leurs biens en Angleterre.
+repere: 25 janvier 1308 — Il épouse Isabelle, fille de Philippe le Bel.
+repere: 22 octobre 1309 — Ouverture du procès des Templiers à Londres.
+repere: 28 novembre 1313 — Il ordonne la remise des biens aux Hospitaliers.
+repere: 21 septembre 1327 — Mort d'Édouard II à Berkeley.
+attention: Le « procès sans aveux » est une formule un peu rapide : après l'autorisation de la torture, quelques frères avouèrent. Quant aux Templiers qui auraient combattu pour Robert Bruce contre Édouard II à Bannockburn en 1314, c'est une légende moderne, sans source médiévale (voir [[templiers-en-ecosse|les Templiers en Écosse]]).
+lien: wp Édouard II
+lien: en Edward II
+sources: Wikipédia (fr, en), Édouard II ; Wikipédia (en), Knights Templar in England, Trials of the Knights Templar
+voir: templiers-en-angleterre, temple-church-londres, clement-v, philippe-le-bel, templiers-en-ecosse, proces-des-templiers, balantrodoch

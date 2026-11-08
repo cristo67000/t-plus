@@ -1,0 +1,74 @@
+'use strict';
+/*
+ * La mise en forme des textes du dictionnaire.
+ *
+ * Deux balises seulement : [[id]] ou [[id|libellé]] devient un lien vers
+ * l'article, *mots* devient de l'italique. Tout le reste est du texte, posé
+ * par `textContent` : rien n'est jamais interprété comme du HTML, pas même ce
+ * qu'une personne écrit dans ses propres articles.
+ *
+ * Un lien est un vrai lien (`#/a/…`) : le routeur l'ouvre, un lecteur
+ * d'écran le lit, un ordinateur l'ouvre dans un autre onglet.
+ */
+(function (racine) {
+
+  const { element } = Outils;
+  const MOTIF = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]|\*([^*]+)\*/g;
+  const DEBUT_DE_PHRASE = /(^|[.!?…])\s*$/;
+
+  /* Le texte balisé, en nœuds DOM. `surligne` : une requête à surligner. */
+  function fragment(texte, surligne) {
+    const sortie = document.createDocumentFragment();
+    const source = String(texte || '');
+    let pos = 0;
+    let m;
+    // une expression par appel : l'italique se met en forme par récursion
+    const motif = new RegExp(MOTIF.source, 'g');
+    const poserTexte = (parent, t) => {
+      if (!t) return;
+      if (surligne) parent.appendChild(Outils.surligner(t, surligne));
+      else parent.appendChild(document.createTextNode(t));
+    };
+    while ((m = motif.exec(source)) !== null) {
+      poserTexte(sortie, source.slice(pos, m.index));
+      if (m[1]) {
+        const id = m[1];
+        let libelle = m[2] || Donnees.nom(id) || id;
+        // un nom commun prend la minuscule, sauf en tête de phrase
+        const cible = Donnees.article(id);
+        if (!m[2] && cible && cible.mn && !DEBUT_DE_PHRASE.test(source.slice(0, m.index))) {
+          libelle = libelle.charAt(0).toLocaleLowerCase('fr') + libelle.slice(1);
+        }
+        if (Donnees.article(id)) sortie.appendChild(lien(id, libelle));
+        else poserTexte(sortie, libelle);
+      } else {
+        // L'italique peut contenir un renvoi : « *[[zohar|Zohar]]* », un titre
+        // qui mène à son article. On le met donc en forme à son tour.
+        const i = element('i');
+        i.appendChild(fragment(m[3], surligne));
+        sortie.appendChild(i);
+      }
+      pos = m.index + m[0].length;
+    }
+    poserTexte(sortie, source.slice(pos));
+    return sortie;
+  }
+
+  function lien(id, libelle) {
+    const a = element('a', 'renvoi', libelle);
+    a.href = '#/a/' + encodeURIComponent(id);
+    a.setAttribute('data-ref', id);
+    const cible = Donnees.article(id);
+    if (cible) a.classList.add('cat-' + cible.c);
+    return a;
+  }
+
+  function paragraphe(texte, classe, surligne) {
+    const p = element('p', classe || null);
+    p.appendChild(fragment(texte, surligne));
+    return p;
+  }
+
+  racine.Rendu = { fragment, paragraphe, lien };
+
+})(window);

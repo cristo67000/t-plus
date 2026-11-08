@@ -1,0 +1,520 @@
+# T+ — lot 10 : mythes et postérité (cat: legendes). Vingt et un articles, de
+# tresor-des-templiers à tete-de-templiers, dans l'ordre du plan. Même méthode
+# partout : d'où vient le récit (premier texte daté), comment il s'est développé,
+# ce que les historiens en disent, ce qu'il reste d'attesté.
+
+@ tresor-des-templiers
+cat: legendes
+nom: Le trésor des Templiers
+alias: trésor du Temple, or des Templiers, trésor caché des Templiers, Jean de Châlons, Gérard de Villiers, chariots de Gisors, Roger Lhomoy, Arginy, Les Templiers sont parmi nous, Les Mystères templiers
+dates: rumeur de 1308 – légende du XXe siècle
+an: 1307
+def: Fortune que l'ordre du Temple aurait soustraite au roi de France avant les arrestations du 13 octobre 1307. Aucun document médiéval ne l'atteste, hormis un ouï-dire rapporté au procès ; la légende du trésor enfoui s'est fixée au XXe siècle, de Gisors à Rosslyn.
+texte: La richesse de l'[[ordre-du-temple]] était réelle, mais elle était faite de terre, non de métal. Quelque sept cents maisons en France, avec leurs fermes, leurs moulins, leurs vignes et leurs droits seigneuriaux, produisaient des revenus que l'on envoyait chaque année en Terre sainte, où ils payaient les châteaux, les chevaux et les hommes (voir [[economie-du-temple]]). La [[banque-du-temple|banque]], activité annexe, gardait des dépôts et tenait des comptes : le Temple de Paris abrita longtemps le trésor du roi lui-même, et c'est de là que vient, dans les documents, l'expression « trésor du Temple ». Le numéraire était rare partout au Moyen Âge, et le peu que l'ordre possédait se trouvait dispersé dans des centaines de coffres de commanderies.
+texte: Le 13 octobre 1307, les gens du roi inventorient les maisons et placent les biens sous séquestre. Ce qu'ils trouvent n'a rien d'extraordinaire : des réserves de grain, du bétail, des ornements d'église, quelques sommes. Les historiens expliquent cette déconvenue par la nature même d'un patrimoine foncier, qui ne se met pas en coffres. Après la suppression de l'ordre, la bulle *Ad providam* (2 mai 1312) remet ce patrimoine aux [[hospitaliers]], qui durent encore verser au roi 200 000 livres tournois pour solde de tout compte (voir [[devolution-des-biens]]).
+texte: La légende a pourtant une racine dans le [[proces-des-templiers|procès]]. À Poitiers, en juin 1308, un frère nommé Jean de Châlons déclare devant le pape avoir vu le précepteur de France Gérard de Villiers, prévenu à temps, s'enfuir avec cinquante chevaux, et avoir entendu dire qu'il avait pris la mer avec dix-huit galères ; un autre frère, Hugues de Châlons, serait parti avec le trésor du visiteur [[hugues-de-pairaud]]. Gérard de Villiers figure bien parmi les frères qui échappèrent à l'arrestation ; on n'en sait pas davantage. Quant au trésor de Pairaud, il a été retrouvé : un coffre contenant 1 189 pièces d'or et 5 010 pièces d'argent, confié à un fidèle et caché chez un pêcheur de Moret-sur-Loing, fut saisi par le bailli de Sens et versé au trésor royal, comme le rapporte en 1321 le compte de Guillaume Clignet.
+texte: Au XVIIIe siècle, la [[franc-maconnerie-et-templiers|franc-maçonnerie]] imagine des Templiers survivants réfugiés en Écosse ; mais ce qu'ils emportent est un secret, non de l'or. Le trésor enfoui est une invention du XXe siècle. En 1946, le gardien du château de [[gisors]], Roger Lhomoy, affirme avoir atteint sous la motte du donjon une chapelle souterraine garnie de trente coffres et de dix-neuf sarcophages ; le journaliste Gérard de Sède en tire en 1962 *Les Templiers sont parmi nous*, où trois chariots quittent le Temple de Paris pour la côte de la Manche ; les fouilles ordonnées en 1964 par le ministère des Affaires culturelles ne trouvent rien et fragilisent le donjon. En 1967, Louis Charpentier ouvre *Les Mystères templiers* sur la [[foret-d-orient|forêt d'Orient]], et de Sède lance avec *L'Or de Rennes* le trésor de [[rennes-le-chateau]], que d'autres attribueront aux Templiers. À Arginy, dans le Beaujolais, où une légende place aussi le dépôt, l'ésotériste Jacques Breyer s'installe en 1952 (voir [[neo-templarisme]]). Les dix-huit galères deviennent une [[flotte-de-la-rochelle|flotte partie de La Rochelle]] la veille des arrestations, vers l'Écosse, où des livres parus à partir de 1989 logent le trésor sous la [[chapelle-de-rosslyn]], vers le Portugal de l'[[ordre-du-christ]], ou vers l'[[templiers-en-amerique|Amérique]] et le puits d'Oak Island.
+texte: Les historiens rejettent l'ensemble : l'arrestation fut l'un des secrets les mieux gardés du règne, les frères, surpris, ne résistèrent nulle part, et rien dans les archives royales ni pontificales ne signale une disparition massive de biens. Xavier Hélary a résumé leur position dans le titre d'un livre : *Les Templiers. Leur faux trésor, leur vraie puissance* (2018) : la puissance de l'ordre tenait à ses domaines, à ses réseaux et à son crédit, non à un magot. Le seul « trésor » exhumé l'a été en septembre 1998 sur le site de la commanderie de [[payns]], en Champagne : 708 monnaies des XIIe et XIIIe siècles, un dépôt modeste, qui a pourtant suffi à relancer le rêve.
+texte: Le trésor a d'ailleurs changé de nature au fil des livres. L'or et l'argent des coffres de Gisors ont cédé la place, dès 1967, à l'arche d'alliance que Louis Charpentier fait chercher sous le Temple de Jérusalem, puis aux manuscrits que les auteurs de Rosslyn enfouissent en Écosse, au Graal ou à la descendance du Christ de *L'Énigme sacrée* (voir [[templiers-et-graal]]), enfin à un savoir secret (voir [[symbolisme-templier]]). Plus le trésor devient immatériel, moins il risque d'être démenti par une fouille. C'est le signe qu'il ne s'agit pas d'une énigme d'archives, mais d'un récit moderne, qui dit davantage du goût du XXe siècle pour le secret que de l'ordre du Temple.
+repere: 13 octobre 1307 — Arrestation des Templiers de France et inventaire de leurs biens.
+repere: juin 1308 — À Poitiers, Jean de Châlons rapporte la fuite de Gérard de Villiers et la rumeur des dix-huit galères.
+repere: 2 mai 1312 — La bulle *Ad providam* attribue les biens du Temple aux Hospitaliers.
+repere: 1321 — Le compte de Guillaume Clignet mentionne le coffre d'Hugues de Pairaud, saisi à Moret et versé au trésor royal.
+repere: 1946 — Roger Lhomoy dit avoir vu trente coffres sous le donjon de Gisors.
+repere: 1962 — *Les Templiers sont parmi nous*, de Gérard de Sède.
+repere: 1964 — Les fouilles officielles de Gisors ne trouvent rien.
+repere: 1967 — *Les Mystères templiers*, de Louis Charpentier ; *L'Or de Rennes*, de Gérard de Sède.
+repere: septembre 1998 — Découverte de 708 monnaies médiévales à Payns.
+repere: 2018 — Xavier Hélary publie *Les Templiers. Leur faux trésor, leur vraie puissance*.
+attention: Le « trésor du Temple » des documents médiévaux désigne le trésor royal confié à la garde de l'ordre à Paris, ou la caisse d'une maison, jamais un or caché. Le seul témoignage ancien d'une fuite est un ouï-dire recueilli en 1308, et le trésor d'Hugues de Pairaud qu'il évoque est vraisemblablement le coffre que les agents du roi retrouvèrent à Moret.
+lien: wp Légendes au sujet des Templiers
+lien: wp Château de Gisors
+lien: en Knights Templar in popular culture
+sources: Wikipédia (fr : Légendes au sujet des Templiers, Château de Gisors ; en : Knights Templar in popular culture) ; condensé « Le Trésor des Templiers : mythe et réalité » (dossier de recherche de l'utilisateur)
+voir: proces-des-templiers, arrestation-du-13-octobre-1307, economie-du-temple, banque-du-temple, devolution-des-biens, gisors, flotte-de-la-rochelle, rennes-le-chateau
+
+@ malediction-de-jacques-de-molay
+cat: legendes
+nom: La malédiction de Jacques de Molay
+alias: malédiction des Templiers, malédiction du grand maître, rois maudits, Geoffroi de Paris, Ferreto de Vicence, Ferreto de' Ferreti, Paul Émile, dans l'an et le jour, treizième génération
+dates: 1314 – récit fixé en 1548
+an: 1314
+def: Imprécation que Jacques de Molay aurait lancée du bûcher, le 18 (ou le 11) mars 1314, contre le pape et le roi, morts tous deux la même année. Les textes contemporains parlent seulement d'un appel à la justice divine ; la malédiction proprement dite apparaît en 1548 et triomphe avec Les Rois maudits.
+texte: Le soir du 18 mars 1314 (11 mars selon d'autres sources), [[jacques-de-molay]] et [[geoffroy-de-charnay]] sont brûlés sur l'[[ile-aux-juifs|île aux Juifs]], à Paris, pour avoir proclamé l'innocence de l'ordre (voir [[bucher-de-jacques-de-molay]]). Un témoin, le clerc Geoffroi de Paris, raconte la scène dans sa chronique rimée, écrite dans les années qui suivent : le maître meurt sans trembler et annonce que Dieu saura venger les innocents sur ceux qui les condamnent. Rien de plus. Vers 1330, l'Italien Ferreto de Vicence fait prononcer par un Templier anonyme, devant le pape, une citation à comparaître « dans l'an et le jour » au tribunal de Dieu, adressée à [[clement-v]] et à [[philippe-le-bel]]. Ce sont là des motifs familiers de la littérature médiévale : l'innocent persécuté en appelle au Juge suprême.
+texte: Les faits ont donné du poids à ces mots. Clément V meurt le 20 avril 1314, un mois après le bûcher ; Philippe le Bel, le 29 novembre, des suites d'un accident de chasse. Ses trois fils règnent tour à tour et meurent sans héritier mâle : Louis X en 1316, suivi de son fils posthume Jean Ier, qui vit cinq jours ; Philippe V en 1322 ; Charles IV en 1328. La couronne passe aux Valois, et la lignée directe des Capétiens, vieille de plus de trois siècles, s'éteint en quatorze ans. Les contemporains n'y ont pas vu la vengeance du Temple ; ils invoquaient plutôt l'attentat d'Anagni contre Boniface VIII ou les impôts du roi.
+texte: La malédiction en bonne et due forme naît sous la plume de l'humaniste Paul Émile, dont l'histoire latine des rois de France, *De rebus gestis Francorum*, paraît dans son édition complète en 1548 : Molay y assigne lui-même le pape et le roi devant Dieu. François de Mézeray la reprend au XVIIe siècle, et elle entre dans les histoires romantiques du XIXe siècle. Maurice Druon lui donne sa forme définitive dans *Le Roi de fer* (1955), premier volume des *Rois maudits* : « Tous maudits jusqu'à la treizième génération de vos races ! » Druon y ajoute [[guillaume-de-nogaret]], mort pourtant en mars 1313, un an avant le bûcher. La télévision (1972, 2005) a fait de cette tirade la scène la plus connue de l'histoire templière, et une tradition populaire veut qu'un franc-maçon ait crié « Jacques de Molay, tu es vengé ! » à l'exécution de Louis XVI, en 1793 ; la treizième génération après Philippe le Bel était en réalité celle des enfants de Louis XIV.
+texte: Pour les historiens, la malédiction est une construction en trois temps : un appel à Dieu rapporté par un témoin, une citation à comparaître ajoutée par un chroniqueur éloigné, une imprécation forgée deux siècles plus tard. La coïncidence des décès de 1314 et l'extinction des Capétiens directs ont fait le reste. Le vieux maître, qui venait de rétracter ses aveux et de se faire condamner comme relaps, n'avait d'ailleurs pas besoin de maudire pour émouvoir : c'est sa fermeté devant le feu que retient le témoin Geoffroi de Paris.
+repere: 18 (ou 11) mars 1314 — Jacques de Molay et Geoffroy de Charnay sont brûlés à Paris.
+repere: 20 avril 1314 — Mort de Clément V à Roquemaure.
+repere: 29 novembre 1314 — Mort de Philippe le Bel à Fontainebleau.
+repere: 1328 — Mort de Charles IV : fin des Capétiens directs, avènement des Valois.
+repere: v. 1330 — Ferreto de Vicence rapporte la citation « dans l'an et le jour » lancée par un Templier anonyme.
+repere: 1548 — Paul Émile donne la première version de la malédiction prononcée par Molay.
+repere: 1955 — *Le Roi de fer*, de Maurice Druon, fixe la formule « jusqu'à la treizième génération ».
+attention: Aucun témoin du bûcher ne rapporte une malédiction : Geoffroi de Paris prête seulement à Molay l'espoir que Dieu vengera les innocents. Guillaume de Nogaret, que Druon fait maudire, était mort depuis un an.
+lien: wp Légendes au sujet des Templiers
+lien: wp Geoffroi de Paris
+lien: wp Les Rois maudits
+sources: Wikipédia (fr : Légendes au sujet des Templiers, section « La malédiction des Templiers », Les Rois maudits ; en : Knights Templar in popular culture)
+voir: bucher-de-jacques-de-molay, jacques-de-molay, philippe-le-bel, clement-v, guillaume-de-nogaret, geoffroy-de-charnay, templiers-dans-la-litterature, ile-aux-juifs
+
+@ baphomet
+cat: legendes
+nom: Baphomet
+alias: Baphometh, Bafomet, Baffometi, idole des Templiers, bouc de Mendès, bouc sabbatique, Hammer-Purgstall, Mysterium Baphometis revelatum, Éliphas Lévi
+dates: mot attesté en 1098 – image de 1856
+an: 1307
+def: Nom donné, dans quelques dépositions du procès, à l'idole que les Templiers auraient adorée. C'est une déformation occitane de « Mahomet » ; l'érudition du XIXe siècle en a fait une divinité gnostique, et Éliphas Lévi, en 1856, lui a donné le visage du bouc ailé que l'on connaît.
+texte: Le mot est plus vieux que l'affaire. En juillet 1098, pendant le siège d'Antioche, le croisé Anselme de Ribemont écrit que les assiégés musulmans invoquaient « Baphometh » à grands cris : c'est Mahomet, tel que les Occitans et les Francs l'entendaient. Vers 1195, le troubadour Gavaudan appelle le Prophète « Bafomet », et un poème de 1265 écrit par un Templier de Terre sainte, découragé par les victoires de [[baybars]], reproche à « Bafomet » de prêter sa force aux Sarrasins. Dans toute cette littérature, Baphomet n'est pas une idole templière : c'est le nom chrétien, et polémique, du dieu des ennemis.
+texte: Les articles d'accusation de 1308 ne le nomment pas. Ils parlent d'une « idole », tête à une, deux ou trois faces, parfois d'un chat, que les frères auraient adorée dans leurs chapitres (voir [[tete-de-templiers]]). Le nom ne surgit que dans une poignée de dépositions : à Carcassonne, en 1307, le frère Gaucerand de Montpezat avoue avoir adoré une « figura baffometi ». Les descriptions se contredisent, et les Templiers interrogés hors de France, sans torture, ignorent tout de cet objet. Pour les historiens du [[proces-des-templiers|procès]], l'idole est une construction des interrogateurs, nourrie du culte ordinaire des reliques et du soupçon que des moines-soldats vivant parmi les musulmans avaient fini par adopter leur dieu : d'où un « Mahomet » déguisé en idole, alors que l'islam ignore les idoles.
+texte: Le Baphomet des ésotéristes naît au XVIIIe siècle. En 1782, le libraire berlinois Friedrich Nicolai, hostile à la maçonnerie templière, y voit un mot grec désignant un « baptême de sagesse » et prête aux Templiers une doctrine secrète. En 1818, l'orientaliste viennois Joseph von Hammer-Purgstall publie *Mysterium Baphometis revelatum* : les Templiers auraient été des gnostiques ophites adorant Baphomet, ce que prouveraient des coffrets et des statuettes « baphométiques » des collections d'Europe, objets qui se révélèrent sans rapport avec l'ordre. Le philologue François Raynouard objecte que Baphomet n'est que Mahomet, et l'érudition moderne lui a donné raison. Mais l'image était lancée : en 1856, dans le second volume de *Dogme et rituel de la haute magie*, le mage Éliphas Lévi dessine le « Baphomet de Mendès », bouc androgyne et ailé, flambeau entre les cornes, pentagramme au front, et en fait le symbole de l'équilibre des forces. Stanislas de Guaita l'inscrit en 1897 dans un pentagramme renversé ; le satanisme moderne en a fait son emblème, et une statue de bronze de 2,6 mètres, commandée par le Temple satanique, a été dévoilée à Détroit le 25 juillet 2015.
+repere: juillet 1098 — Anselme de Ribemont rapporte que les assiégés d'Antioche invoquent « Baphometh ».
+repere: v. 1195 — Le troubadour Gavaudan nomme Mahomet « Bafomet ».
+repere: 1307 — Quelques Templiers interrogés dans le Midi parlent d'une idole nommée Baphomet.
+repere: 1782 — Friedrich Nicolai prête aux Templiers une doctrine secrète liée au mot.
+repere: 1818 — *Mysterium Baphometis revelatum*, de Joseph von Hammer-Purgstall.
+repere: 1856 — Éliphas Lévi dessine le Baphomet au corps de bouc.
+repere: 25 juillet 2015 — Une statue de Baphomet est dévoilée à Détroit par le Temple satanique.
+attention: Le bouc ailé n'a rien de médiéval : il date de 1856. Le mot, lui, est une déformation de « Mahomet », et aucun objet de culte templier n'a jamais été retrouvé ; les « idoles baphométiques » de Hammer-Purgstall sont des pièces sans lien avec l'ordre.
+lien: wp Baphomet
+lien: en Baphomet
+lien: wp Éliphas Lévi
+sources: Wikipédia (fr : Baphomet, Légendes au sujet des Templiers ; en : Baphomet)
+voir: tete-de-templiers, proces-des-templiers, actes-du-proces, symbolisme-templier, templiers-et-musulmans, neo-templarisme, franc-maconnerie-et-templiers
+
+@ templiers-et-graal
+cat: legendes
+nom: Les Templiers et le Graal
+alias: Graal, Saint Graal, templeisen, Munsalvaesche, Parzival, Wolfram von Eschenbach, Kyot, gardiens du Graal, Sang real
+dates: v. 1200-1210 – reprises modernes
+an: 1200
+def: Idée que l'ordre du Temple aurait gardé le Graal. Elle vient d'un seul texte, le Parzival de Wolfram von Eschenbach, qui nomme « templeisen » les chevaliers du château du Graal ; aucun roman français ni aucun document de l'ordre ne fait ce lien, repris par les ésotéristes au XXe siècle.
+texte: Le Graal entre en littérature vers 1180-1190 avec le *Conte du Graal* de Chrétien de Troyes, roman inachevé où le jeune Perceval voit passer, dans le château du Roi Pêcheur, un plat précieux dont il n'ose demander l'usage. Chrétien écrit pour le comte de Flandre Philippe d'Alsace, un croisé, et son récit ne connaît aucun Templier. Ses continuateurs et Robert de Boron font du Graal le vase de la Cène, recueillant le sang du Christ ; les auteurs du cycle du Lancelot-Graal, vers 1220-1230, le confient à une lignée de gardiens issus de Joseph d'Arimathie. L'ordre, pourtant en pleine gloire, n'y paraît jamais.
+texte: Un seul poète fait le rapprochement. Entre 1200 et 1210, le Bavarois Wolfram von Eschenbach adapte Chrétien dans son *Parzival*. Chez lui, le Graal est une pierre tombée du ciel, gardée au château de Munsalvaesche par une communauté de chevaliers chastes qu'il appelle *templeise*, et dont l'emblème est la tourterelle. Le mot, forgé sur « temple », évoque sans doute les [[chevaliers-du-temple|frères chevaliers]] que l'Allemagne connaissait alors ; mais ces gardiens n'ont ni croix rouge, ni règle, ni rapport avec Jérusalem, et Wolfram attribue son récit à un certain Kyot de Provence, source que les médiévistes tiennent pour une fiction. Vers 1270, le *Jüngerer Titurel* d'Albrecht décrit longuement le temple du Graal et ses chevaliers, toujours en allemand. La veine s'arrête là : Richard Wagner, dans *Parsifal* (1882), met en scène des chevaliers du Graal, non des Templiers.
+texte: Le lien moderne naît au XXe siècle. En 1933, Otto Rahn, dans *Croisade contre le Graal*, identifie Munsalvaesche à Montségur et fait des cathares les gardiens de la pierre (voir [[templiers-et-cathares]]) ; les Templiers n'y tiennent qu'un rôle secondaire. En 1967, Louis Charpentier affirme que les neuf fondateurs furent envoyés à Jérusalem pour y chercher l'arche d'alliance. En 1982, *The Holy Blood and the Holy Grail* (*L'Énigme sacrée*) de Michael Baigent, Richard Leigh et Henry Lincoln réinterprète le « san graal » en « sang real », le sang royal d'une descendance du Christ, et fait des Templiers le bras armé d'un Prieuré de Sion chargé de la protéger ; l'ouvrage, fondé sur les documents forgés par Pierre Plantard (voir [[rennes-le-chateau]]), est la source directe du *Da Vinci Code* (2003), où la quête aboutit à la [[chapelle-de-rosslyn]]. Le cinéma a fixé l'image du moine-soldat veillant sur la coupe, d'*Indiana Jones et la Dernière Croisade* (1989) aux séries récentes (voir [[templiers-au-cinema-et-dans-les-jeux]]).
+texte: Pour les historiens, le Graal est un objet de roman et les Templiers une institution de l'Église : les deux ne se rencontrent que chez Wolfram, par une image poétique. Aucun inventaire, aucune charte, aucune déposition du [[proces-des-templiers|procès]] ne mentionne un Graal ; les reliques que l'ordre possédait sont connues et ordinaires (voir [[tete-de-templiers]]). Le rapprochement est la fusion tardive de deux imaginaires qui n'avaient en commun que la Terre sainte.
+repere: v. 1180-1190 — Chrétien de Troyes écrit le *Conte du Graal*, sans Templiers.
+repere: v. 1200-1210 — Wolfram von Eschenbach nomme *templeise* les gardiens du Graal dans *Parzival*.
+repere: v. 1270 — Le *Jüngerer Titurel* décrit le temple du Graal et ses chevaliers.
+repere: 1882 — *Parsifal*, de Richard Wagner.
+repere: 1933 — Otto Rahn publie *Croisade contre le Graal* et place le Graal à Montségur.
+repere: 1982 — *L'Énigme sacrée* fait des Templiers les gardiens d'une lignée du Christ.
+repere: 2003 — *Da Vinci Code*, de Dan Brown.
+attention: Le mot *templeise* de Wolfram est le seul lien médiéval entre Graal et Templiers, et il décrit des chevaliers imaginaires. Les romans français du Graal, pourtant contemporains de l'ordre à son apogée, l'ignorent entièrement.
+lien: wp Parzival
+lien: wp Graal
+lien: en Wolfram von Eschenbach
+sources: Wikipédia (fr : Parzival, Otto Rahn, Légendes au sujet des Templiers ; de : Parzival ; en : Parzival, Der jüngere Titurel, Knights Templar in popular culture)
+voir: templiers-et-cathares, chapelle-de-rosslyn, rennes-le-chateau, templiers-dans-la-litterature, templiers-au-cinema-et-dans-les-jeux, tete-de-templiers, fondation-de-l-ordre, jerusalem-temple-de-salomon
+
+@ chapelle-de-rosslyn
+cat: legendes
+nom: La chapelle de Rosslyn
+alias: Rosslyn Chapel, Roslin, collégiale Saint-Matthieu de Roslin, Saint-Clair de Rosslyn, Sinclair, pilier de l'Apprenti, Da Vinci Code
+dates: fondée en 1446
+an: 1446
+geo: 55.8553, -3.1603
+lieu: Roslin, Midlothian, Écosse, Royaume-Uni
+def: Collégiale fondée en 1446 près d'Édimbourg par William Sinclair, comte des Orcades, célèbre pour sa sculpture foisonnante. Bâtie plus d'un siècle après la suppression du Temple, elle est devenue depuis les années 1980 le lieu supposé du trésor ou du Graal des Templiers.
+texte: La chapelle se dresse au-dessus de la vallée de l'Esk, à une dizaine de kilomètres au sud d'Édimbourg, près du château des Sinclair (Saint-Clair), une famille d'origine normande. William Sinclair, comte des Orcades — il ne deviendra comte de Caithness qu'en 1455 —, en obtient la fondation en 1446 ; les travaux commencent sans doute en 1456 et s'arrêtent à sa mort, dans les années 1480. Seul le chœur de la collégiale Saint-Matthieu projetée a été construit : un vaisseau gothique flamboyant où presque chaque pierre est sculptée, anges musiciens, danse macabre, Sept Péchés capitaux, feuillages, plus d'une centaine d'« hommes verts ». Le pilier de l'Apprenti, enroulé de guirlandes, porte une légende de maître jaloux tuant son élève ; un document de 1778 l'appelle encore « pilier du Prince ». La chapelle, délaissée à la Réforme, a été restaurée et rendue au culte, dans l'Église épiscopalienne écossaise, au XIXe siècle.
+texte: Rien ne la rattache aux Templiers. L'ordre avait été supprimé en 1312, cent trente-quatre ans avant la fondation ; et en 1309, quand les deux seuls Templiers d'Écosse furent jugés à Holyrood (voir [[templiers-en-ecosse]]), deux Sinclair de Rosslyn comptaient parmi les témoins entendus, et ne prirent pas la défense de l'ordre. La famille était en revanche liée à la maçonnerie opérative : au XVIIe siècle, les Sinclair se disent patrons héréditaires des maçons d'Écosse, ce qui, deux siècles plus tard, fournira la matière de la légende.
+texte: Celle-ci naît dans les années 1980, dans le sillage de *L'Énigme sacrée* (1982). *The Temple and the Lodge* de Michael Baigent et Richard Leigh (1989) fait de Rosslyn le refuge des Templiers fugitifs et le berceau de la franc-maçonnerie ; *The Hiram Key* de Christopher Knight et Robert Lomas (1996) y enterre les manuscrits de Qumrân rapportés du Temple de Jérusalem et croit reconnaître sur les murs du maïs et de l'aloès, plantes d'Amérique sculptées avant Colomb, preuve des voyages des Sinclair (voir [[templiers-en-amerique]]). Dan Brown y termine en 2003 le *Da Vinci Code*, dont le film est tourné sur place en 2005. La fréquentation atteint près de 159 000 visiteurs en 2007-2008.
+texte: Les historiens écossais ont répondu point par point. Robert Cooper, conservateur de la bibliothèque de la Grande Loge d'Écosse, démonte dans *The Rosslyn Hoax?* (2006) la filiation templière et maçonnique ; Mark Oxbrow et Ian Robertson montrent que le plan copie le chœur de la cathédrale de Glasgow, non le Temple de Salomon ; le botaniste Adrian Dyer ne reconnaît dans le « maïs » que des motifs stylisés ; Louise Yeoman rappelle que la chapelle fut bâtie pour que l'on y dise des messes pour les âmes des Sinclair. Rosslyn reste un chef-d'œuvre de la sculpture écossaise du XVe siècle, et le meilleur exemple d'un lieu devenu « templier » par les livres.
+repere: 1309 — Deux Sinclair de Rosslyn témoignent au procès des Templiers d'Écosse.
+repere: 1446 — William Sinclair fonde la collégiale Saint-Matthieu de Roslin.
+repere: 1456 — Début probable des travaux ; seul le chœur sera bâti.
+repere: 1778 — Un document nomme encore « pilier du Prince » le futur pilier de l'Apprenti.
+repere: 1989 — *The Temple and the Lodge* fait de Rosslyn un refuge templier.
+repere: 1996 — *The Hiram Key* y voit du maïs sculpté avant Colomb.
+repere: 2003 — Le *Da Vinci Code* s'achève à Rosslyn.
+repere: 2006 — *The Rosslyn Hoax?*, de Robert Cooper, réfute la légende.
+attention: La chapelle date de 1446, l'ordre a disparu en 1312 ; les Sinclair ont témoigné au procès de 1309 sans défendre les Templiers. Le lien entre Rosslyn, le Temple et la franc-maçonnerie n'a pas cinquante ans d'âge.
+lien: wp Chapelle de Rosslyn
+lien: en Rosslyn Chapel
+lien: url https://www.rosslynchapel.com/ = site officiel de la chapelle (histoire, visite)
+sources: Wikipédia (en : Rosslyn Chapel, Knights Templar in popular culture, The Hiram Key ; fr : Légendes au sujet des Templiers) ; condensé « Le Trésor des Templiers : mythe et réalité » (dossier de recherche de l'utilisateur)
+voir: templiers-en-ecosse, tresor-des-templiers, templiers-et-graal, franc-maconnerie-et-templiers, templiers-en-amerique, templiers-dans-la-litterature
+
+@ templiers-en-ecosse
+cat: legendes
+nom: Les Templiers en Écosse
+alias: Balantrodoch, Temple (Midlothian), Maryculter, procès de Holyrood, Bannockburn, Robert Bruce, Kilmartin, Pierre d'Aumont, légende écossaise
+dates: 1128 – 1309 ; légende depuis le XVIIIe siècle
+an: 1128
+def: L'ordre posséda en Écosse deux maisons, Balantrodoch et Maryculter, et n'y comptait que deux frères quand il fut jugé en 1309. La légende d'une Écosse refuge des Templiers, combattant à Bannockburn et fondant la franc-maçonnerie, est une création maçonnique des XVIIIe et XIXe siècles.
+texte: En 1128, au cours de sa tournée d'Occident, [[hugues-de-payns]] rencontre le roi David Ier, qui donne à l'ordre le domaine de Balantrodoch, au sud d'Édimbourg, aujourd'hui le village de Temple. Une seconde maison, Maryculter, près d'Aberdeen, est fondée entre 1221 et 1236 sur des terres reçues de Guillaume le Lion. L'Écosse reste une marge : les deux maisons dépendent du maître d'Angleterre (voir [[templiers-en-angleterre]]), gèrent des fermes et envoient leurs revenus en Terre sainte. Pendant les guerres d'indépendance, les Templiers d'Écosse, comme leurs frères anglais, sont du côté d'Édouard Ier.
+texte: Le procès y fut dérisoire. À la fin de 1309, à l'abbaye de Holyrood, l'évêque de Saint Andrews William Lamberton et le clerc pontifical Jean de Solerio interrogent les deux seuls Templiers trouvés dans le royaume, Walter de Clifton, précepteur de Balantrodoch, et William de Middleton, puis une quarantaine de témoins extérieurs (près de cinquante selon d'autres comptes), parmi lesquels Henry et William Sinclair de Rosslyn. Clifton explique que les autres frères « ont fui au-delà de la mer » ; nul n'avoue rien de grave. Après 1312, les terres passent aux [[hospitaliers]] de Torphichen. Le 24 juin 1314, trois mois après le bûcher de Paris, Robert Bruce écrase les Anglais à Bannockburn : il n'y avait pas de Templiers dans son armée, et le roi, alors excommunié, n'en est pas moins resté dans les récits le protecteur des proscrits.
+texte: La légende commence en Allemagne et en France. Vers 1760, la [[stricte-observance]] du baron von Hund raconte que le maître provincial d'Auvergne, Pierre d'Aumont, s'est réfugié en Écosse avec quelques frères déguisés en maçons et y a perpétué l'ordre en secret. En 1815, le maçon français Claude-Antoine Thory affirme que Bruce créa pour ses chevaliers un ordre de Saint-André après Bannockburn ; en 1837, l'Écossais James Burnes fait combattre des Templiers à la bataille, et un pamphlet de 1843 donne au récit sa forme achevée. Les livres des années 1980 l'ont ranimée : Michael Baigent et Richard Leigh (*The Temple and the Lodge*, 1989) voient des tombes templières dans les dalles gravées d'une épée du cimetière de Kilmartin, en Argyll, et John J. Robinson (*Born in Blood*, 1989) fait des Templiers fugitifs les fondateurs de la franc-maçonnerie (voir [[franc-maconnerie-et-templiers]]).
+texte: Les historiens ne suivent pas. Les dalles de Kilmartin appartiennent à l'école de sculpture des Highlands de l'Ouest, des XIVe-XVIe siècles, et honorent des guerriers gaéliques ; les archives écossaises ne connaissent aucun Templier après 1309 ; les Sinclair, invoqués comme protecteurs, ont témoigné au procès sans défendre l'ordre. Robert Cooper, conservateur de la bibliothèque de la Grande Loge d'Écosse, rappelle dans *The Rosslyn Hoax?* (2006) que le « troisième grade » de la maçonnerie date des années 1720. L'Écosse templière est une Écosse de papier, dont la [[chapelle-de-rosslyn]] est devenue le sanctuaire.
+repere: 1128 — David Ier accueille Hugues de Payns et donne Balantrodoch au Temple.
+repere: 1221-1236 — Fondation de la maison de Maryculter.
+repere: 1309 — Procès de Holyrood : deux Templiers interrogés, une quarantaine de témoins.
+repere: 24 juin 1314 — Victoire de Robert Bruce à Bannockburn, sans Templiers.
+repere: 1837 — James Burnes fait combattre des Templiers à Bannockburn.
+repere: 1989 — *The Temple and the Lodge* et *Born in Blood* relancent la légende écossaise.
+attention: L'Écosse n'a jamais abrité de Templiers en fuite : deux frères y furent jugés en 1309, les autres étaient partis. La présence de Templiers à Bannockburn n'apparaît dans aucune source avant le XIXe siècle.
+lien: en Knights Templar in Scotland
+lien: en Temple, Midlothian
+lien: wp Bataille de Bannockburn
+sources: Wikipédia (en : Knights Templar in Scotland, Knights Templar in popular culture, Rosslyn Chapel ; fr : Légendes au sujet des Templiers) ; condensé « Résurgences templières » (dossier de recherche de l'utilisateur)
+voir: chapelle-de-rosslyn, balantrodoch, templiers-en-angleterre, stricte-observance, franc-maconnerie-et-templiers, hugues-de-payns, flotte-de-la-rochelle
+
+@ rennes-le-chateau
+cat: legendes
+nom: Rennes-le-Château et les Templiers
+alias: Rennes-le-Château, abbé Saunière, Bérenger Saunière, Noël Corbu, L'Or de Rennes, Prieuré de Sion, Pierre Plantard, Razès, Blanchefort
+dates: 1885 – légende depuis 1956
+an: 1885
+geo: 42.9281, 2.2633
+lieu: Rennes-le-Château, Aude, France
+def: Village du Razès où le curé Bérenger Saunière dépensa, vers 1900, des sommes inexpliquées. Un hôtelier en fit en 1956 un trésor, Gérard de Sède un mystère en 1967, et des auteurs y rattachèrent ensuite les Templiers, dont la présence dans la région fut réelle mais modeste.
+texte: Rennes-le-Château est un village perché de la haute vallée de l'Aude, ancienne place forte du comté de Razès. L'abbé Bérenger Saunière en devient curé en 1885. Dans les années 1890-1900, il restaure l'église Sainte-Marie-Madeleine dans un goût chargé, achète des terrains au nom de sa servante Marie Dénarnaud, et fait bâtir une villa, la Béthanie, un jardin et une tour-bibliothèque néogothique, la tour Magdala. L'évêché de Carcassonne s'inquiète : poursuivi pour trafic de messes, Saunière est frappé de suspense *a divinis*, rendue publique en février 1911. Il meurt le 22 janvier 1917 ; ses biens vont à Marie Dénarnaud, qui les cède en viager à Noël Corbu et meurt en 1953. Les historiens tiennent la vente de messes à grande échelle, dont les carnets de Saunière gardent la trace, pour l'explication la plus simple de sa fortune.
+texte: Le trésor est né dans un restaurant. En janvier 1956, Corbu, qui a ouvert un hôtel dans la villa, raconte à *La Dépêche du Midi* que l'abbé avait trouvé sous l'église le trésor de Blanche de Castille. La même année, Pierre Plantard dépose les statuts d'une association, le Prieuré de Sion ; dans les années 1960, il fabrique avec Philippe de Chérisey des parchemins chiffrés et des « dossiers secrets » qu'il fait entrer à la Bibliothèque nationale. Gérard de Sède, déjà auteur de la légende de [[gisors]], en tire *L'Or de Rennes* (1967), succès de librairie. Le 28 juillet 1965, la commune avait dû interdire les fouilles, tant le village était creusé. *L'Énigme sacrée* (1982) de Baigent, Leigh et Lincoln relie Rennes, le Prieuré, les cathares, les Mérovingiens, les Templiers et une descendance de Jésus et de Marie-Madeleine ; le *Da Vinci Code* (2003) donne au premier mort du roman le nom de Saunière. En 1993, entendu par un juge d'instruction dans une autre affaire, Plantard a reconnu avoir inventé le Prieuré.
+texte: Les Templiers ne sont entrés dans l'histoire qu'après coup. Leur présence dans le Razès est pourtant réelle : une petite maison dépendant de la commanderie du [[mas-deu]], en Roussillon, est attestée à [[campagne-sur-aude]] à la fin du XIIIe siècle, et la tradition locale fait du château du [[le-bezu|Bézu]], sur la crête voisine, une « commanderie » que rien ne documente. Les ouvrages d'après 1967 y ont vu le dépôt du [[tresor-des-templiers|trésor]] évacué en 1307 ; *L'Énigme sacrée* ajoute que le maître [[bertrand-de-blanquefort]] venait du château de Blanchefort, en face de Rennes, alors qu'il était originaire de Blanquefort, en Guyenne. Ni les cartulaires ni les actes du [[proces-des-templiers|procès]] ne connaissent de trésor à Rennes.
+repere: 1885 — Bérenger Saunière devient curé de Rennes-le-Château.
+repere: 1910-1911 — Saunière est condamné pour trafic de messes et suspendu *a divinis*.
+repere: 22 janvier 1917 — Mort de l'abbé Saunière.
+repere: janvier 1956 — Noël Corbu lance le récit du trésor dans *La Dépêche du Midi*.
+repere: 28 juillet 1965 — Arrêté municipal interdisant les fouilles.
+repere: 1967 — *L'Or de Rennes*, de Gérard de Sède.
+repere: 1982 — *L'Énigme sacrée* rattache Rennes aux Templiers et au Prieuré de Sion.
+attention: Le trésor de Rennes-le-Château est un récit de 1956, et son rattachement aux Templiers date des années 1970. Le Prieuré de Sion est une association fondée en 1956, non un ordre médiéval, et ses documents sont des faux reconnus.
+lien: wp Rennes-le-Château
+lien: wp Bérenger Saunière
+lien: wp Gérard de Sède
+sources: Wikipédia (fr : Rennes-le-Château, Légendes au sujet des Templiers, Da Vinci Code ; en : Bérenger Saunière, Priory of Sion)
+voir: tresor-des-templiers, le-bezu, campagne-sur-aude, mas-deu, templiers-et-cathares, templiers-et-graal, gisors, bertrand-de-blanquefort
+
+@ flotte-de-la-rochelle
+cat: legendes
+nom: La flotte de La Rochelle
+alias: flotte templière, dix-huit galères, navires de La Rochelle, 12 octobre 1307, fuite des Templiers par mer
+dates: rumeur de 1308 – légende du XXe siècle
+an: 1307
+def: Récit selon lequel dix-huit navires templiers auraient quitté La Rochelle avec le trésor de l'ordre le 12 octobre 1307, veille des arrestations. Il repose sur un ouï-dire rapporté au procès et sur un port que l'ordre fréquentait réellement ; la localisation à La Rochelle date du XXe siècle.
+texte: Les Templiers ont bien eu des navires. Ils en possédaient en Méditerranée, pour transporter frères, chevaux et vivres vers la Terre sainte (voir [[flotte-du-temple]]), et quelques-uns sur l'Atlantique. À [[la-rochelle]], où une charte d'Aliénor d'Aquitaine les exempte de taxes dès 1139, leur commanderie exportait le vin d'Aunis vers l'Angleterre et la Flandre ; on connaît vers 1230 les noms de bâtiments de l'ordre, la *Templère* et la *Buszarde*. Il s'agissait de navires de charge, peu nombreux, et non d'une flotte de guerre. En Méditerranée, les galères de l'ordre ont laissé des traces plus nettes : en 1291, le frère sergent [[roger-de-flor]] commande le *Faucon* lors de l'évacuation d'Acre ; en 1300, depuis Chypre, des navires portent les frères jusqu'à l'îlot de [[ile-de-ruad|Rouad]], face à Tortose, qu'ils tiennent jusqu'en 1302. Rien de tel sur l'Atlantique.
+texte: La légende a pour seule racine la déposition de Jean de Châlons devant le pape, à Poitiers, en juin 1308 : il a vu Gérard de Villiers, précepteur de France, fuir avec cinquante chevaux, et il a « entendu dire » que des frères avaient pris la mer avec dix-huit galères. Il ne nomme aucun port. Rien, dans les comptes royaux, les inventaires de 1307 ou les procès menés ailleurs en Europe, ne signale la disparition de navires ni de cargaisons (voir [[tresor-des-templiers]]).
+texte: La Rochelle entre dans le récit au XXe siècle. En 1967, Louis Charpentier, dans *Les Mystères templiers*, associe le port à un argent que les Templiers auraient tiré d'outre-Atlantique ; Jacques de Mahieu développe l'idée dans *Les Templiers en Amérique* (voir [[templiers-en-amerique]]) ; Michael Baigent et Richard Leigh (1989) embarquent le trésor du Temple de Paris vers l'Écosse ; Christopher Knight et Robert Lomas datent le départ du 12 octobre 1307, la veille même du coup de filet. Chaque auteur ajoute une précision aux précédents, sans qu'aucun ne produise de document. Les historiens, à commencer par Helen Nicholson, rappellent que l'ordre n'avait pas de vaisseaux à distraire pour des expéditions lointaines, et que le secret de l'[[arrestation-du-13-octobre-1307|arrestation]] fut gardé jusqu'au matin même. La flotte fantôme est le chaînon nécessaire entre deux légendes, le trésor caché et l'Écosse refuge.
+repere: 1139 — Aliénor d'Aquitaine exempte les Templiers de La Rochelle des taxes du port.
+repere: v. 1230 — Les navires templiers *Templère* et *Buszarde* sont mentionnés.
+repere: 13 octobre 1307 — Arrestation générale des Templiers du royaume.
+repere: juin 1308 — Jean de Châlons rapporte la rumeur de dix-huit galères.
+repere: 1967 — Louis Charpentier associe La Rochelle à un trafic transatlantique des Templiers.
+repere: 1989 — *The Temple and the Lodge* fait voguer le trésor vers l'Écosse.
+attention: Jean de Châlons ne parle ni de La Rochelle, ni de trésor, ni du 12 octobre : il répète une rumeur de galères. Le reste a été ajouté dans la seconde moitié du XXe siècle.
+lien: wp Commanderie de La Rochelle
+lien: en Knights Templar in popular culture
+sources: Wikipédia (fr : Commanderie de La Rochelle, Légendes au sujet des Templiers ; en : Knights Templar in popular culture) ; condensé « Le Trésor des Templiers : mythe et réalité » (dossier de recherche de l'utilisateur)
+voir: tresor-des-templiers, la-rochelle, flotte-du-temple, templiers-en-amerique, templiers-en-ecosse, arrestation-du-13-octobre-1307
+
+@ templiers-en-amerique
+cat: legendes
+nom: Les Templiers en Amérique
+alias: Oak Island, puits aux trésors, Money Pit, tour de Newport, carte des Zeno, Henry Sinclair, chevalier de Westford, découverte de l'Amérique par les Templiers
+dates: légende du XXe siècle
+an: 1795
+def: Hypothèse selon laquelle les Templiers, ou leurs héritiers écossais, auraient atteint l'Amérique avant Colomb et y auraient enfoui leur trésor, notamment à Oak Island. Elle assemble des curiosités locales sans aucun document ; aucun historien ne la soutient.
+texte: Le dossier tient en quelques lieux. Oak Island, îlot de Nouvelle-Écosse, où un jeune homme, Daniel McGinnis, aurait remarqué en 1795 une dépression du sol : le récit n'est imprimé qu'en 1857, et le « puits aux trésors » (Money Pit) a depuis été creusé et inondé par des dizaines de compagnies, coûtant la vie à six chercheurs, dont quatre le 17 août 1965. La tour de Newport, dans le Rhode Island, moulin de pierre à arcades que le gouverneur Benedict Arnold mentionne dans son testament de 1677, mais dont un archéologue danois fit en 1837 une église viking. Le « chevalier de Westford », dans le Massachusetts, stries glaciaires et gravure indienne qu'un amateur transforma en 1954 en gisant armé. Et la relation des frères Zeno, publiée à Venise en 1558, qui fait naviguer vers 1390 deux Vénitiens au service d'un prince « Zichmni », identifié depuis le XVIIIe siècle à Henry Sinclair, comte des Orcades et ancêtre des fondateurs de [[chapelle-de-rosslyn|Rosslyn]].
+texte: Le lien avec le Temple est tardif. Louis Charpentier suggère en 1967 que l'argent des Templiers venait d'outre-Atlantique ; Jacques de Mahieu, dans *Les Templiers en Amérique*, en fait des exploitants de mines avant 1307 ; le Canadien Michael Bradley (*Holy Grail Across the Atlantic*, 1988) conduit des Templiers chargés du Graal de Montségur à Oak Island ; Steven Sora (*The Lost Treasure of the Knights Templar*, 1999) y enfouit le trésor évacué par la [[flotte-de-la-rochelle]] ; Andrew Sinclair attribue la tour de Newport à l'expédition de son homonyme. L'émission de télévision *The Curse of Oak Island*, diffusée depuis 2014, entretient le tout.
+texte: Aucun élément ne résiste. La datation au radiocarbone du mortier de la tour de Newport (1993) la place entre 1635 et 1698, et les fouilles de 1948 n'y ont trouvé que des objets du XVIIe siècle ; la relation des Zeno est tenue pour une supercherie vénitienne destinée à revendiquer la découverte du Nouveau Monde ; le puits d'Oak Island est, pour les géologues, un effondrement naturel dans un sous-sol calcaire, et les essais de colorants de 1995 ont montré que ses « canaux d'inondation » sont des infiltrations ; le chevalier de Westford n'existe que sur le calque de son inventeur. Les Templiers, dissous en 1312, n'ont laissé en Amérique ni objet, ni texte, ni toponyme : le récit prolonge simplement la légende écossaise (voir [[templiers-en-ecosse]]) d'un océan.
+repere: 1558 — Publication à Venise de la relation et de la carte des Zeno.
+repere: 1677 — Le testament de Benedict Arnold mentionne son moulin de pierre à Newport.
+repere: 1795 — Découverte supposée du puits d'Oak Island par Daniel McGinnis.
+repere: 1837 — Carl Christian Rafn attribue la tour de Newport aux Vikings.
+repere: 17 août 1965 — Quatre hommes meurent dans les fouilles d'Oak Island.
+repere: 1988 — *Holy Grail Across the Atlantic*, de Michael Bradley, lance les Templiers d'Oak Island.
+repere: 1993 — Le mortier de la tour de Newport est daté de 1635-1698.
+attention: Ni Oak Island, ni Newport, ni Westford n'ont livré le moindre objet médiéval. L'idée d'une Amérique templière date des années 1960-1980 et dépend de la légende de la flotte de La Rochelle, elle-même sans fondement.
+lien: en Oak Island mystery
+lien: en Newport Tower (Rhode Island)
+lien: en Voyage of the Zeno brothers
+sources: Wikipédia (en : Oak Island mystery, Newport Tower (Rhode Island), Voyage of the Zeno brothers, Westford Knight, Knights Templar in popular culture ; fr : Légendes au sujet des Templiers)
+voir: flotte-de-la-rochelle, templiers-en-ecosse, chapelle-de-rosslyn, tresor-des-templiers, templiers-et-graal, templiers-au-cinema-et-dans-les-jeux
+
+@ franc-maconnerie-et-templiers
+cat: legendes
+nom: Franc-maçonnerie et Templiers
+alias: maçonnerie templière, discours de Ramsay, chevalier Kadosh, Knight Templar, rite d'York, ordre du Temple maçonnique, grades templiers, Wilhelmsbad, Barruel
+dates: depuis 1736
+an: 1736
+def: Depuis le XVIIIe siècle, la franc-maçonnerie des hauts grades a pris les Templiers pour ancêtres et Jacques de Molay pour martyr. Ces grades, nés entre 1750 et 1800, sont symboliques ; les loges ont renoncé dès 1782 à toute filiation historique, que les historiens jugent impossible.
+texte: La Grande Loge de Londres naît en 1717, et la légende d'Hiram, architecte du Temple de Salomon, entre dans les rituels au cours des années 1720. Le 26 décembre 1736, à Paris, l'Écossais Andrew Michael Ramsay prononce en loge un discours qui lui donne une autre ascendance : les croisés, qui auraient fondé des loges en Terre sainte et se seraient alliés aux chevaliers de Saint-Jean, c'est-à-dire aux [[hospitaliers]]. Ramsay ne nomme pas les Templiers ; mais il ouvre la voie aux grades chevaleresques qui se multiplient en France dans les années 1740-1760. En 1758, le Conseil des Empereurs d'Orient et d'Occident range dans son système un grade de « Grand Élu Kadosh » : le récipiendaire y apprend la mort de [[jacques-de-molay]] et jure de venger l'ordre sur ses bourreaux, le roi et le pape ; devenu en 1801 le trentième degré du Rite écossais ancien et accepté, le chevalier Kadosh est resté le plus « templier » des grades.
+texte: En Allemagne, le baron von Hund fonde vers 1751 la [[stricte-observance]], qui ne se contente plus d'un symbole : elle se dit la continuation de l'ordre, sauvé en Écosse par Pierre d'Aumont, et promet de recouvrer ses biens. Faute de preuves, le convent de Wilhelmsbad, réuni le 16 juillet 1782 sous la présidence de Ferdinand de Brunswick, renonce à cette filiation et transforme le système en Régime écossais rectifié, dont les Chevaliers bienfaisants de la Cité sainte gardent une mémoire spirituelle du Temple. Dans les îles Britanniques, un grade de « Knight Templar » est attesté à Boston le 28 août 1769 et en Irlande à la fin des années 1770 ; Thomas Dunckerley organise en 1791 le premier Grand Conclave d'Angleterre. Ces « ordres unis du Temple et de Malte », réservés aux maçons chrétiens, couronnent aujourd'hui le rite d'York américain et possèdent leurs grands prieurés ; leurs statuts déclarent qu'il n'existe aucune preuve d'un lien avec l'ordre médiéval.
+texte: La légende a eu une face sombre. En 1797, l'abbé Barruel fait des Templiers survivants, passés dans les loges, les instigateurs de la Révolution française : l'un des premiers grands récits complotistes de l'histoire moderne, repris tout au long du XIXe siècle. De l'autre côté, Fabré-Palaprat et le [[neo-templarisme]] sortent en 1804 des loges parisiennes pour fonder un ordre « restauré ».
+texte: Les historiens de la maçonnerie, René Le Forestier, Pierre Mollier ou Roger Dachez, ont retracé la naissance de cet imaginaire, auquel Mollier a consacré *La Chevalerie maçonnique* (2005). Les hauts grades recrutaient dans une société éprise de chevalerie, qui s'y donnait des ancêtres prestigieux ; l'ordre supprimé, réputé innocent et martyr, offrait un passé disponible. Peter Partner a suivi le même mouvement du côté des idées dans *The Murdered Magicians* (1982) : accusés d'idolâtrie en 1307, les Templiers sont devenus, quatre siècles plus tard, les dépositaires d'une sagesse secrète. Entre 1312 et 1736, aucun texte, aucun groupe ne revendique leur héritage.
+repere: 26 décembre 1736 — Discours de Ramsay rattachant la maçonnerie aux croisés et aux chevaliers de Saint-Jean.
+repere: v. 1751 — Le baron von Hund fonde la Stricte Observance.
+repere: 1758 — Le grade de Grand Élu Kadosh paraît dans le système des Empereurs d'Orient et d'Occident.
+repere: 28 août 1769 — Première mention d'un grade de Knight Templar, à Boston.
+repere: 1782 — Le convent de Wilhelmsbad renonce à la filiation templière.
+repere: 1791 — Thomas Dunckerley fonde le Grand Conclave des Templiers d'Angleterre.
+repere: 1797 — L'abbé Barruel accuse les Templiers et les loges d'avoir fait la Révolution.
+attention: Les grades templiers de la franc-maçonnerie sont des créations du XVIIIe siècle et le reconnaissent. Il n'existe aucune trace d'une survivance de l'ordre entre sa suppression, en 1312, et le discours de Ramsay, en 1736.
+lien: wp Discours de Ramsay
+lien: en Knights Templar (Freemasonry)
+lien: wp Chevalier Kadosh
+sources: Wikipédia (fr : Discours de Ramsay, Légendes au sujet des Templiers ; en : Knights Templar (Freemasonry), Knight Kadosh, Rite of Strict Observance) ; condensé « Résurgences templières » (dossier de recherche de l'utilisateur)
+voir: stricte-observance, neo-templarisme, templiers-en-ecosse, jacques-de-molay, hospitaliers, symbolisme-templier, malediction-de-jacques-de-molay
+
+@ stricte-observance
+cat: legendes
+nom: La Stricte Observance templière
+alias: Stricte Observance, Strikte Observanz, Karl Gotthelf von Hund, baron de Hund, supérieurs inconnus, Pierre d'Aumont, chevalier à la plume rouge, convent de Wilhelmsbad, Régime écossais rectifié
+dates: 1751 – 1782
+an: 1751
+fin: 1782
+def: Système maçonnique allemand fondé vers 1751 par le baron Karl Gotthelf von Hund, qui se présentait comme la survivance secrète de l'ordre du Temple. Faute de pouvoir produire ses « supérieurs inconnus », il fut réformé au convent de Wilhelmsbad, en 1782, qui abandonna la filiation templière.
+texte: Karl Gotthelf von Hund (1722-1776), gentilhomme de Haute-Lusace, est reçu franc-maçon en 1741. Il racontera qu'à Paris, entre décembre 1742 et septembre 1743, un mystérieux « chevalier à la plume rouge » l'a initié aux hauts grades en présence de jacobites exilés, et l'a fait maître de la septième province de l'ordre du Temple, l'Allemagne. En 1751, sur sa terre de Kittlitz, il fonde une loge et un système de grades ; il l'appelle d'abord « maçonnerie rectifiée », puis, après 1764, « Stricte Observance », par opposition à la « tardive observance » des Anglais. Le système compte sept degrés, dont celui de chevalier du Temple, et chaque membre reçoit un nom d'ordre latin. Il attire la noblesse allemande, séduite par le cérémonial, la discipline et la promesse de recouvrer les biens de l'ordre : une quarantaine de loges en 1768.
+texte: L'histoire légendaire que ces loges enseignent est celle de Pierre d'Aumont. Après la suppression de 1312, ce maître provincial d'Auvergne aurait fui en Écosse avec quelques frères déguisés en maçons, été élu grand maître dans l'île de Mull en 1313 et perpétué l'ordre en secret, jusqu'à Hund, désigné par des « supérieurs inconnus ». Nul ne vit jamais ces supérieurs. En 1764, au convent d'Altenberg, un aventurier qui se faisait appeler Johnson et prétendait venir d'Écosse est démasqué ; Hund, confirmé comme chef, ne parvient pas davantage à prouver ses pouvoirs. En 1772, au convent de Kohlo, il fusionne son système avec le « cléricat » de Johann August Starck, qui promettait une science secrète, et le duc Ferdinand de Brunswick devient grand supérieur de l'ordre. Hund meurt en 1776 sans avoir rien montré ; le prétendant Charles Édouard Stuart, que l'on soupçonnait d'être le supérieur caché, ne confirma jamais ce rôle.
+texte: Le doute gagne. À Lyon, en 1778, Jean-Baptiste Willermoz réforme les grades et crée les Chevaliers bienfaisants de la Cité sainte, qui gardent du Temple un souvenir spirituel. Le convent général s'ouvre à Wilhelmsbad, près de Hanau, le 16 juillet 1782, sous la présidence de Ferdinand de Brunswick : quelque trente-cinq délégués débattent pendant six semaines et concluent que la maçonnerie n'est pas la continuation de l'ordre du Temple, qu'elle n'en réclame pas les biens, et qu'elle adopte les rituels de Lyon. La Stricte Observance se dissout en quelques années ; le Régime écossais rectifié lui survit jusqu'à nos jours.
+texte: Les historiens de la maçonnerie, de René Le Forestier à André Kervella, biographe du baron (2016), n'ont jamais identifié le « chevalier à la plume rouge » ni les supérieurs inconnus ; le récit de 1743 est une invention ou une mystification, dont Hund fut peut-être la première dupe. L'importance de la Stricte Observance est ailleurs : c'est la Stricte Observance qui a fixé, pour deux siècles, le thème des Templiers survivants en Écosse (voir [[templiers-en-ecosse]]) et fourni au [[neo-templarisme]] son modèle. Elle marque aussi le moment où la maçonnerie allemande, lasse des secrets promis, s'est tournée vers la philosophie des Lumières.
+repere: 1742-1743 — Hund dit avoir été initié à Paris par le « chevalier à la plume rouge ».
+repere: 1751 — Fondation du système à Kittlitz, en Lusace.
+repere: 1764 — Convent d'Altenberg : Hund est confirmé chef, l'imposteur Johnson démasqué.
+repere: 1772 — Convent de Kohlo : union avec les clercs de Starck, Ferdinand de Brunswick grand supérieur.
+repere: 1776 — Mort du baron von Hund.
+repere: 16 juillet 1782 — Ouverture du convent de Wilhelmsbad, qui renonce à la filiation templière.
+attention: Pierre d'Aumont, l'île de Mull et l'élection de 1313 sont des inventions du XVIIIe siècle : aucun document médiéval ne les connaît, ni ne mentionne ce Pierre d'Aumont.
+lien: wp Stricte observance templière
+lien: de Strikte Observanz
+lien: wp Karl Gotthelf von Hund
+sources: Wikipédia (fr : Stricte observance templière ; de : Strikte Observanz ; en : Rite of Strict Observance, Knights Templar (Freemasonry), Knights Templar in popular culture) ; condensé « Résurgences templières » (dossier de recherche de l'utilisateur)
+voir: franc-maconnerie-et-templiers, neo-templarisme, templiers-en-ecosse, jacques-de-molay, tresor-des-templiers
+
+@ neo-templarisme
+cat: legendes
+nom: Le néo-templarisme
+alias: néotemplarisme, néo-templiers, Fabré-Palaprat, charte de Larmenius, Carta transmissionis, Lévitikon, Église johannite, OSMTH, OSMTJ, Ordre souverain et militaire du Temple de Jérusalem, Ordre rénové du Temple, Ordo Novi Templi, Jacques Breyer, Arginy
+dates: depuis 1804
+an: 1804
+def: Ensemble des ordres qui, depuis 1804, se disent restaurateurs ou héritiers de l'ordre du Temple. Nés d'une loge parisienne et d'une charte forgée, ils se sont multipliés au XXe siècle, du caritatif au raciste ; aucun n'a de lien avec l'ordre médiéval, et l'un d'eux a fini dans le massacre.
+texte: La [[franc-maconnerie-et-templiers|franc-maçonnerie]] du XVIIIe siècle avait imaginé des Templiers survivants ; le néo-templarisme en fait un ordre. Bernard-Raymond Fabré-Palaprat (1773-1838), ancien séminariste devenu médecin, appartient à Paris à la loge des Chevaliers de la Croix, où le docteur Ledru le persuade d'une filiation templière. En 1804, il fonde un ordre du Temple « restauré » et produit une charte latine datée de 1324, la *Carta transmissionis* ou charte de Larmenius : [[jacques-de-molay]] aurait transmis ses pouvoirs à un certain Jean-Marc Larmenius, suivi d'une lignée ininterrompue de grands maîtres secrets, où figurent Bertrand du Guesclin et le Régent. Le document est tenu pour un faux, sans doute fabriqué au XVIIIe siècle. Le 18 mars 1808, pour l'anniversaire du bûcher, deux cents chevaliers en manteau blanc défilent à cheval jusqu'à l'église Saint-Paul.
+texte: Fabré-Palaprat donne ensuite à son ordre une religion. Il dit posséder un manuscrit grec, le *Lévitikon*, version remaniée de l'Évangile de Jean faisant de Jésus un initié des mystères d'Égypte ; il en tire, en 1828-1831, une Église johannite des chrétiens primitifs dont il se proclame souverain pontife et dont l'abbé Châtel devient primat. La plupart des chevaliers, catholiques, le quittent ; l'ordre se divise à sa mort, à Pau, le 18 février 1838. Une branche belge se maintient et forme en 1932 un Ordre souverain et militaire du Temple, dont les archives passent pendant la guerre au Portugais Antonio de Sousa Fontes, qui le rebaptise en 1945 Ordre souverain et militaire du Temple de Jérusalem. Les dissensions de 1970 et de 1997 produisent plusieurs organisations rivales (OSMTH, OSMTJ), aujourd'hui chevaleresques et caritatives, qui ont renoncé à invoquer la charte de Larmenius.
+texte: Le XXe siècle ajoute des rameaux plus troubles. À Vienne, l'ancien cistercien Jörg Lanz von Liebenfels fonde en 1900 un Ordo Novi Templi raciste, installé en 1907 au château de Werfenstein, sur le Danube, qui compte trois à quatre cents membres vers 1930 avant d'être dissous sous le régime nazi. En France, l'ésotériste Jacques Breyer s'installe en 1952 au château d'Arginy, dans le Beaujolais, où une légende plaçait le [[tresor-des-templiers|trésor]], et dit y avoir reçu des « maîtres du Temple » la mission de relever l'ordre : de cette « résurgence d'Arginy » sort l'Ordre souverain du Temple solaire (1966). En 1970, Raymond Bernard, légat français de la société rosicrucienne AMORC, crée l'Ordre rénové du Temple, dirigé par Julien Origas jusqu'à sa mort en 1983 ; son successeur un moment, le médecin Luc Jouret, fonde avec Joseph Di Mambro l'[[ordre-du-temple-solaire]], dont les soixante-quatorze morts de 1994-1997 ont jeté le discrédit sur tout le mouvement.
+texte: Les historiens, de René Le Forestier au sociologue Massimo Introvigne, qui a étudié ces groupes, s'accordent : la bulle *Vox in excelso* de 1312 a interdit de relever l'ordre ; la seule pièce jamais produite est un faux ; et les véritables héritiers institutionnels du Temple sont ailleurs, dans l'[[ordre-du-christ]] portugais (1319) et l'[[ordre-de-montesa]] (1317), créés par les rois avec l'accord du pape pour recueillir ses biens et ses hommes. Le néo-templarisme n'en est pas moins un fait d'histoire : celle des usages du Moyen Âge dans la société moderne.
+repere: 1804 — Fabré-Palaprat fonde à Paris un ordre du Temple « restauré » et produit la charte de Larmenius.
+repere: 18 mars 1808 — Deux cents chevaliers défilent jusqu'à l'église Saint-Paul.
+repere: 1828-1831 — Fondation de l'Église johannite sur le *Lévitikon*.
+repere: 1838 — Mort de Fabré-Palaprat à Pau ; l'ordre se divise.
+repere: 1907 — Lanz von Liebenfels installe son Ordo Novi Templi à Werfenstein.
+repere: 1945 — Sousa Fontes rebaptise l'ordre belge Ordre souverain et militaire du Temple de Jérusalem.
+repere: 1952 — Jacques Breyer s'installe à Arginy.
+repere: 1970 — Création de l'Ordre rénové du Temple ; scission de l'OSMTH et de l'OSMTJ.
+attention: Aucun de ces ordres ne descend de l'ordre médiéval : la charte de Larmenius est un faux, et l'OSMTH lui-même a cessé de s'en réclamer. Les ordres du Christ et de Montesa, créés en 1317-1319 pour recueillir les Templiers d'Espagne et du Portugal, sont les seules continuités légitimes.
+lien: wp Bernard-Raymond Fabré-Palaprat
+lien: en Neo-Templarism
+lien: en Sovereign Military Order of the Temple of Jerusalem
+sources: Wikipédia (fr : Bernard-Raymond Fabré-Palaprat, Jörg Lanz von Liebenfels, Ordre du Temple solaire, Légendes au sujet des Templiers ; en : Sovereign Military Order of the Temple of Jerusalem, Order of the Solar Temple ; de : Neutempler-Orden) ; condensé « Résurgences templières » (dossier de recherche de l'utilisateur)
+voir: franc-maconnerie-et-templiers, stricte-observance, ordre-du-temple-solaire, ordre-du-christ, ordre-de-montesa, jacques-de-molay, tresor-des-templiers, concile-de-vienne
+
+@ ordre-du-temple-solaire
+cat: legendes
+nom: L'Ordre du Temple solaire
+alias: OTS, Temple solaire, Joseph Di Mambro, Luc Jouret, Cheiry, Salvan, Morin-Heights, Vercors, Saint-Casimir, Michel Tabachnik, transit vers Sirius
+dates: 1984 – 1997
+an: 1984
+fin: 1997
+def: Groupe ésotérique fondé en 1984 à Genève par Joseph Di Mambro et Luc Jouret, qui se réclamait du Temple par l'intermédiaire de l'Ordre rénové du Temple. Soixante-quatorze de ses membres sont morts, assassinés ou suicidés, en trois épisodes : à l'automne 1994, en décembre 1995 et en mars 1997.
+texte: Joseph Di Mambro, né le 19 août 1924 à Pont-Saint-Esprit, horloger-bijoutier passé par la société rosicrucienne AMORC, fonde près de Genève, le 12 juillet 1978, la Fondation Golden Way, avec le chef d'orchestre Michel Tabachnik. Luc Jouret, né le 18 octobre 1947 à Kikwit, au Congo belge, médecin homéopathe et conférencier recherché, prend en 1983 la tête de l'Ordre rénové du Temple, créé en 1970 dans la mouvance de l'AMORC, à la mort de son chef Julien Origas ; une scission l'en chasse, et le 21 juin 1984, à Genève, sa fraction fusionne avec la fondation de Di Mambro pour former l'Ordre du Temple solaire. Jouret est le grand maître et le visage public ; Di Mambro, le véritable chef et le maître des finances. L'enseignement mêle rosicrucianisme, attente de l'Apocalypse, écologie et références templières : chapitres en manteau blanc, épées, « chevaliers » ; le lien avec le Temple médiéval passe par la « résurgence d'Arginy » de Jacques Breyer (1952) et la filiation que s'attribuait l'Ordre rénové (voir [[neo-templarisme]]). Le groupe recrute en Suisse, en France et au Québec, dans des milieux aisés ; en 1993, une affaire d'armes à silencieux vaut à Jouret une condamnation légère au Québec.
+texte: Au printemps 1994, Di Mambro annonce que la mission du Temple s'achève et que ses dirigeants vont « transiter » vers Sirius. Le 30 septembre 1994, à Morin-Heights, au Québec, la famille Dutoit, dont un bébé de trois mois, est assassinée, puis deux membres se suicident : cinq morts. Le 5 octobre, en Suisse, on découvre vingt-trois corps dans une ferme incendiée de Cheiry, dans le canton de Fribourg, nombre d'entre eux tués par balle, et vingt-cinq dans des chalets incendiés de Salvan, en Valais, parmi lesquels ceux de Di Mambro et de Jouret : cinquante-trois morts en quelques jours. Le 15 ou le 16 décembre 1995, seize personnes, dont trois enfants, meurent dans une clairière du Vercors, à Saint-Pierre-de-Chérennes ; le 22 mars 1997, cinq autres à Saint-Casimir, au Québec. Soixante-quatorze morts en tout, dont dix mineurs. Les enquêtes ont établi que beaucoup des « suicidés » avaient été drogués ou abattus ; la part exacte des meurtres et des suicides reste discutée.
+texte: La justice française n'a retenu qu'un prévenu : Michel Tabachnik, poursuivi pour association de malfaiteurs à raison de ses écrits et conférences, relaxé par le tribunal de Grenoble le 25 juin 2001, puis de nouveau en appel en décembre 2006. Les sociologues des religions Jean-François Mayer et Massimo Introvigne ont analysé le « transit » comme un suicide collectif à visée mystique, mêlé de meurtres, comparable à celui de Heaven's Gate. Pour l'histoire du Temple, l'affaire est une usurpation : l'OTS n'avait de templier que le nom, le costume et la nostalgie ; mais elle a marqué durablement l'image publique de l'ordre.
+repere: 12 juillet 1978 — Di Mambro fonde la Fondation Golden Way près de Genève.
+repere: 1983 — Jouret prend la tête de l'Ordre rénové du Temple à la mort de Julien Origas.
+repere: 21 juin 1984 — Création de l'Ordre du Temple solaire à Genève.
+repere: 30 septembre 1994 — Cinq morts à Morin-Heights, au Québec.
+repere: 5 octobre 1994 — Découverte de quarante-huit corps à Cheiry et à Salvan, en Suisse, dont ceux de Di Mambro et de Jouret.
+repere: 15-16 décembre 1995 — Seize morts dans le Vercors.
+repere: 22 mars 1997 — Cinq morts à Saint-Casimir, au Québec.
+repere: 25 juin 2001 — Relaxe de Michel Tabachnik à Grenoble, confirmée en appel en 2006.
+attention: L'Ordre du Temple solaire n'a aucun lien avec l'ordre médiéval : il descend d'une résurgence ésotérique de 1952 et d'un ordre rosicrucien de 1970. Le bilan de soixante-quatorze morts se répartit en trois épisodes, 53 en 1994, 16 en 1995, 5 en 1997.
+lien: wp Ordre du Temple solaire
+lien: en Order of the Solar Temple
+sources: Wikipédia (fr : Ordre du Temple solaire ; en : Order of the Solar Temple, Joseph Di Mambro, Luc Jouret) ; condensé « Résurgences templières » (dossier de recherche de l'utilisateur)
+voir: neo-templarisme, franc-maconnerie-et-templiers, stricte-observance, symbolisme-templier, manteau-et-croix
+
+@ vendredi-13
+cat: legendes
+nom: Le vendredi 13
+alias: vendredi treize, vendredi 13 octobre 1307, paraskevidékatriaphobie, superstition du vendredi 13, Thomas Lawson
+dates: superstition du XIXe siècle
+an: 1907
+def: Les Templiers furent arrêtés le vendredi 13 octobre 1307, et l'on dit souvent que la superstition du vendredi 13 en vient. Elle n'apparaît pourtant qu'au XIXe siècle, se fixe avec un roman américain de 1907, et son rattachement à 1307 est une idée du XXe siècle.
+texte: L'[[arrestation-du-13-octobre-1307|arrestation]] tomba bien un vendredi : le 13 octobre 1307 du calendrier julien l'était. Mais aucun texte médiéval, aucune chronique du procès, aucun almanach de l'Ancien Régime ne relève la coïncidence. Le vendredi était jour de pénitence, celui de la mort du Christ, et Chaucer le tient déjà pour néfaste au XIVe siècle ; le nombre treize passait pour funeste à table, en souvenir des treize convives de la Cène, croyance attestée en Angleterre au XVIIe siècle. Les deux superstitions ont vécu longtemps séparées.
+texte: Leur rencontre est récente. Une pièce française de 1834, *Les Finesses des Gribouilles*, fait naître un malchanceux un vendredi 13 ; en 1869, le biographe de Rossini note que le compositeur, qui redoutait le vendredi et le nombre treize, est mort un vendredi 13 novembre 1868. C'est aux États-Unis que la date devient une institution : en 1907, le financier Thomas W. Lawson publie *Friday, the Thirteenth*, roman où un courtier choisit ce jour pour provoquer la panique à Wall Street ; le roman connaît un grand succès, et le sort s'en mêle : le voilier à sept mâts baptisé du nom de l'auteur, le *Thomas W. Lawson*, fait naufrage aux îles Scilly dans la nuit du vendredi 13 au 14 décembre 1907. L'essayiste Nathaniel Lachenmeyer, qui a retracé cette histoire (2004), voit dans ce livre le vrai point de départ de la superstition sous sa forme moderne. Les voisins de la France ont d'autres jours : le mardi 13 en Espagne et en Amérique latine, le vendredi 17 en Italie. La crainte de la date a même reçu, au XXe siècle, un nom savant : la paraskevidékatriaphobie.
+texte: Le lien avec les Templiers vient encore après. On n'en trouve pas trace avant le XXe siècle : il circule dans sa seconde moitié, porté par le succès des *Rois maudits* de Maurice Druon (1955), auxquels Wikipédia en attribue la diffusion, et par les livres à sensation des années 1980-1990, puis devient universel avec le *Da Vinci Code* (2003), dont un personnage l'énonce comme un fait. L'historienne Helen Nicholson range ces explications parmi les inventions récentes : une superstition ne naît pas d'un événement politique dont personne n'a relevé la date pendant six siècles. Le vendredi 13 octobre 1307 fut un jour terrible pour les Templiers de France ; il n'est pour rien dans la crainte d'une date.
+repere: 13 octobre 1307 — Arrestation des Templiers de France, un vendredi.
+repere: 1834 — Une pièce française fait naître un personnage malchanceux un vendredi 13.
+repere: 13 novembre 1868 — Mort de Rossini, un vendredi 13, relevée par son biographe en 1869.
+repere: 1907 — *Friday, the Thirteenth*, roman de Thomas W. Lawson, popularise la date aux États-Unis.
+repere: 2003 — Le *Da Vinci Code* répand l'idée que la superstition vient de 1307.
+attention: La superstition du vendredi 13 est documentée à partir du XIXe siècle seulement, et son explication par l'arrestation de 1307 n'apparaît qu'au XXe. Cette explication est aussi fausse que populaire.
+lien: wp Vendredi treize
+lien: en Friday the 13th
+sources: Wikipédia (fr : Vendredi treize ; en : Friday the 13th, Knights Templar in popular culture)
+voir: arrestation-du-13-octobre-1307, proces-des-templiers, malediction-de-jacques-de-molay, templiers-dans-la-litterature, philippe-le-bel
+
+@ suaire-de-turin-et-templiers
+cat: legendes
+nom: Le suaire de Turin et les Templiers
+alias: saint suaire, linceul de Turin, suaire de Lirey, Geoffroi de Charny, Ian Wilson, Barbara Frale, Templecombe, mandylion d'Édesse
+dates: hypothèse de 1978 – 2009
+an: 1355
+def: Hypothèse selon laquelle le linceul exposé à Lirey vers 1355, puis conservé à Turin, aurait été gardé par les Templiers entre 1204 et 1307 et serait la « tête » adorée dont parlent les aveux. Formulée par Ian Wilson en 1978 et reprise par Barbara Frale en 2009, elle repose sur des rapprochements de noms et une déposition ambiguë.
+texte: Le linceul apparaît dans l'histoire au milieu du XIVe siècle, dans la collégiale de Lirey, en Champagne, fondée en 1353 par Geoffroi de Charny, chevalier célèbre, auteur d'un livre de chevalerie, tué à Poitiers le 19 septembre 1356 en portant l'oriflamme. Les ostensions commencent vers 1355 ; en 1389, l'évêque de Troyes Pierre d'Arcis écrit au pape que l'image est une peinture dont l'auteur a été identifié, et Clément VII n'autorise en 1390 l'exposition qu'à condition de dire qu'il ne s'agit pas du vrai suaire. La relique passe en 1453 à la maison de Savoie, gagne Turin en 1578, et la datation au carbone 14 de 1988 la place entre 1260 et 1390. D'où venait-elle ? Les Charny de Lirey n'ont jamais dit comment ils l'avaient acquise.
+texte: Le Templier [[geoffroy-de-charnay]], précepteur de Normandie brûlé avec [[jacques-de-molay]] en 1314, porte un nom semblable. En 1978, dans *The Turin Shroud*, l'auteur britannique Ian Wilson en tire une chaîne : le mandylion d'Édesse, image du Christ vénérée à Constantinople, disparue au sac de 1204, aurait été le suaire plié en huit, ne montrant que le visage ; les Templiers l'auraient recueilli et vénéré en secret, et la « tête » barbue des aveux de 1307 (voir [[tete-de-templiers]]) serait ce visage ; le panneau peint de Templecombe, en Angleterre, découvert en 1945 dans l'ancienne commanderie et daté vers 1280, en serait une copie ; enfin un Charnay templier aurait transmis le linge à un Charny champenois. En 2009, la paléographe des Archives vaticanes Barbara Frale, qui avait retrouvé le [[parchemin-de-chinon]], ajoute une pièce : la déposition d'Arnaut Sabbatier, reçu dans l'ordre en 1287, à qui l'on aurait montré lors de sa réception « un long linge de lin portant l'image d'un homme » dont il dut baiser trois fois les pieds.
+texte: La thèse n'a pas convaincu les historiens. Aucun document n'établit de parenté entre les deux Geoffroi : la ressemblance des noms est le seul lien. Le mandylion de Constantinople est décrit par les Byzantins comme un visage, non un corps. La déposition de Sabbatier, isolée parmi des centaines qui décrivent des têtes, des idoles ou rien, peut viser une image pieuse quelconque ; l'historien Andrea Nicolotti, dans *I Templari e la Sindone. Storia di un falso* (2011), conclut que la thèse templière repose sur des contresens et des manipulations des textes. L'hypothèse a surtout servi à relier deux grands mystères populaires ; elle illustre la manière dont l'ordre attire tout ce qui, au Moyen Âge, demeure inexpliqué.
+repere: 1204 — Sac de Constantinople : disparition du mandylion d'Édesse.
+repere: 1307 — Arnaut Sabbatier dit avoir baisé les pieds d'une image sur un linge, lors de sa réception en 1287.
+repere: v. 1355 — Premières ostensions du linceul à Lirey, chez les Charny.
+repere: 1389 — L'évêque Pierre d'Arcis dénonce le suaire comme une peinture.
+repere: 1978 — Ian Wilson attribue la garde du linceul aux Templiers dans *The Turin Shroud*.
+repere: 1988 — La datation au carbone 14 place le tissu entre 1260 et 1390.
+repere: 2009 — Barbara Frale publie la déposition de Sabbatier à l'appui de la thèse.
+attention: Rien ne prouve que Geoffroy de Charnay le Templier et Geoffroi de Charny, seigneur de Lirey, aient été parents : seule la ressemblance des noms les rapproche. Et l'hypothèse ne s'appuie sur aucun document qui montre le linceul avant les ostensions de Lirey.
+lien: wp Suaire de Turin
+lien: en Shroud of Turin
+lien: en Templecombe
+sources: Wikipédia (en : Shroud of Turin, Templecombe, Knights Templar in popular culture)
+voir: tete-de-templiers, geoffroy-de-charnay, baphomet, parchemin-de-chinon, actes-du-proces, reception-dans-l-ordre, bucher-de-jacques-de-molay
+
+@ templiers-et-cathares
+cat: legendes
+nom: Templiers et cathares
+alias: cathares, catharisme, croisade des albigeois, Montségur, trésor des cathares, Otto Rahn, Templiers et hérésie
+dates: 1209 – 1244 ; mythe du XXe siècle
+an: 1209
+def: Les Templiers étaient implantés en Languedoc avant la croisade des albigeois (1209-1229) et n'y prirent pas part. Un mythe du XXe siècle en fait les protecteurs des cathares et les héritiers du trésor de Montségur ; aucune source ne l'appuie, et le procès de 1307 ne leur reproche rien de cathare.
+texte: Quand la croisade contre les albigeois est prêchée, en 1208, après le meurtre du légat Pierre de Castelnau, les Templiers sont installés dans le Midi depuis les années 1130 : [[douzens]] près de Carcassonne, le [[mas-deu]] en Roussillon, [[richerenches]] en Provence, puis des dizaines de maisons de la Provence à la Gascogne (voir [[temple-en-occitanie]]). Ils y vivent des dons de la noblesse locale, la même qui, dans bien des lignages, comptait aussi des croyants cathares : l'hérésie et l'Église se côtoyaient dans les mêmes familles, et les commanderies recevaient de toutes.
+texte: L'ordre, en tant que tel, ne paraît pas avoir pris part à la croisade : sa vocation était la Terre sainte, et l'on ne connaît pas de contingent templier dans l'armée de Simon de Montfort, même si des frères ont pu suivre les croisés à titre individuel. Ses attaches allaient plutôt vers l'Aragon, protecteur des seigneurs occitans : après la mort du roi Pierre II à Muret, le 12 septembre 1213, son fils Jacques, âgé de cinq ans, fut confié aux Templiers, qui l'élevèrent dans leur château de [[monzon|Monzón]]. Après le traité de Paris (1229) et la création de l'Inquisition (1233), les commanderies continuent de recevoir dons et sépultures. La chute de Montségur, le 16 mars 1244, et le bûcher de plus de deux cents parfaits ne concernent pas le Temple ; des dépositions recueillies ensuite par l'Inquisition rapportent que des parfaits avaient évacué peu avant l'argent de leur Église, sans que l'on sache où. Au [[proces-des-templiers|procès]] de 1307, les accusations, reniement, crachat sur la croix, idole, baisers, ne doivent rien au dualisme cathare : les frères interrogés à Carcassonne ne sont pas traités en albigeois.
+texte: Le mythe naît avec le romantisme occitan et grandit au XXe siècle. En 1933, l'Allemand Otto Rahn, dans *Croisade contre le Graal*, fait de Montségur le château du Graal et des cathares ses gardiens ; le trésor emporté en 1244 devient le Graal lui-même (voir [[templiers-et-graal]]). Les auteurs de [[rennes-le-chateau]], à partir de 1967, puis *L'Énigme sacrée* (1982) enchaînent cathares, Templiers, Mérovingiens et Prieuré de Sion ; Michael Bradley (1988) fait porter le trésor de Montségur par des Templiers jusqu'en Amérique. Les historiens ne trouvent aucune trace de complicité : un ordre religieux exempt, voué à l'orthodoxie et à la guerre contre les infidèles, n'avait rien à partager avec une Église dualiste qui condamnait la croix, le serment et le sang versé. Les deux ont en commun d'avoir été détruits par les mêmes pouvoirs, l'Inquisition et la couronne de France, et d'avoir laissé des ruines dans les mêmes paysages : c'est assez pour les légendes, pas pour l'histoire.
+repere: années 1130 — Premières maisons du Temple dans le Midi : Douzens, le Mas Deu, Richerenches.
+repere: 1208 — Meurtre du légat Pierre de Castelnau ; la croisade est prêchée.
+repere: 22 juillet 1209 — Sac de Béziers, début de la croisade des albigeois.
+repere: 1214 — Le jeune Jacques Ier d'Aragon, fils du roi tué à Muret, est confié aux Templiers de Monzón.
+repere: 1229 — Traité de Paris : fin de la croisade, le Languedoc passe sous la couronne.
+repere: 16 mars 1244 — Chute de Montségur.
+repere: 1933 — Otto Rahn publie *Croisade contre le Graal*.
+repere: 1982 — *L'Énigme sacrée* enchaîne cathares, Templiers et Prieuré de Sion.
+attention: Aucun texte médiéval ne montre les Templiers protégeant des cathares ou recueillant leur trésor, et le procès de 1307 ne les accuse d'aucune doctrine albigeoise. Le rapprochement des deux histoires date de 1933.
+lien: wp Croisade des albigeois
+lien: wp Otto Rahn
+lien: wp Catharisme
+sources: Wikipédia (fr : Croisade des albigeois, Otto Rahn, Rennes-le-Château, Légendes au sujet des Templiers)
+voir: temple-en-occitanie, douzens, mas-deu, rennes-le-chateau, templiers-et-graal, proces-des-templiers, campagne-sur-aude, le-bezu
+
+@ templiers-dans-la-litterature
+cat: legendes
+nom: Les Templiers dans la littérature
+alias: Ivanhoé, Brian de Bois-Guilbert, Walter Scott, Les Rois maudits, Maurice Druon, Le Pendule de Foucault, Umberto Eco, Da Vinci Code, Dan Brown, L'Énigme sacrée, roman templier
+dates: depuis 1819
+an: 1819
+def: Depuis Ivanhoé (1819), le roman a fait du Templier deux personnages : le chevalier orgueilleux et sensuel de Walter Scott, et le gardien d'un secret, de Druon à Dan Brown. Umberto Eco a retourné le second contre lui-même dans Le Pendule de Foucault (1988).
+texte: Le Moyen Âge n'a guère romancé les Templiers : les chansons de geste les montrent en passant, et seul le *Parzival* de Wolfram prête un nom voisin à des chevaliers imaginaires (voir [[templiers-et-graal]]). Le Templier de roman naît avec le romantisme. Dans *Ivanhoé* de Walter Scott, paru à Édimbourg le 20 décembre 1819, Brian de Bois-Guilbert est un chevalier du Temple normand, brave, orgueilleux, dévoré de passion pour la juive Rebecca, qu'il enlève puis tente de sauver du bûcher ; il meurt dans le combat judiciaire qui l'oppose à Ivanhoé, « victime de ses propres passions ». Le grand maître Lucas de Beaumanoir incarne la rigueur fanatique de l'ordre, dans une Angleterre de 1194 où le vrai maître se nommait [[gilbert-herail]]. Le roman, vite traduit en français, fixe pour un siècle la silhouette du moine-soldat à la fois séduisant et inquiétant, que l'opéra, la peinture et le cinéma reprendront.
+texte: Le XXe siècle préfère le secret. *Les Rois maudits* de Maurice Druon, sept volumes parus de 1955 à 1977 avec l'aide d'une équipe de collaborateurs, ouvrent sur le bûcher de 1314 et sur la malédiction de [[jacques-de-molay]] (voir [[malediction-de-jacques-de-molay]]), dont découle la ruine des Capétiens ; George R. R. Martin dira s'en être inspiré pour *Le Trône de fer*. *L'Énigme sacrée* de Baigent, Leigh et Lincoln (1982), présenté comme une enquête, fournit aux romanciers une mythologie clés en main : Templiers, Prieuré de Sion, descendance du Christ. Dan Brown l'exploite dans *Da Vinci Code* (2003), où le Prieuré aurait fondé l'ordre pour exhumer un secret sous le Temple de Salomon, et où l'intrigue s'achève à la [[chapelle-de-rosslyn]] : 86 millions d'exemplaires en 2010, un procès pour plagiat perdu par Baigent et Leigh en 2006, et un déferlement de romans à Templiers, dans toutes les langues, pendant quinze ans.
+texte: Umberto Eco avait tout dit d'avance. *Le Pendule de Foucault* (*Il pendolo di Foucault*, 1988 ; traduction française 1990) raconte comment trois éditeurs milanais, lassés des manuscrits d'illuminés, inventent par jeu un « Plan » qui relie les Templiers à toutes les sociétés secrètes de l'histoire, jusqu'à ce que des fous y croient et tuent pour lui. Un personnage y donne la règle : on reconnaît l'illuminé à ce que, tôt ou tard, il en vient aux Templiers. Eco, qui s'est désolé plus tard d'avoir nourri malgré lui ce qu'il voulait railler, avait compris que l'ordre est le mythe disponible par excellence, parce que son histoire vraie, riche, tragique et mal connue, laisse la place à tout. Rares sont d'ailleurs les romans qui s'intéressent aux Templiers vivants, aux commanderies, aux comptes, aux chapitres : presque tous commencent à leur mort.
+repere: 20 décembre 1819 — *Ivanhoé*, de Walter Scott, crée le Templier Brian de Bois-Guilbert.
+repere: 1955 — *Le Roi de fer* ouvre *Les Rois maudits* de Maurice Druon.
+repere: 1982 — *L'Énigme sacrée*, de Baigent, Leigh et Lincoln.
+repere: 1988 — *Le Pendule de Foucault*, d'Umberto Eco.
+repere: 18 mars 2003 — *Da Vinci Code*, de Dan Brown.
+repere: 7 avril 2006 — Baigent et Leigh perdent leur procès en plagiat contre l'éditeur de Dan Brown.
+attention: Brian de Bois-Guilbert et Lucas de Beaumanoir sont des inventions : le grand maître de 1194 était Gilbert Hérail. Le Prieuré de Sion du *Da Vinci Code* est une association française de 1956, non une société médiévale.
+lien: wp Ivanhoé
+lien: wp Les Rois maudits
+lien: wp Le Pendule de Foucault
+sources: Wikipédia (fr : Les Rois maudits, Le Pendule de Foucault, Da Vinci Code, Légendes au sujet des Templiers ; en : Ivanhoe, Knights Templar in popular culture)
+voir: malediction-de-jacques-de-molay, templiers-au-cinema-et-dans-les-jeux, templiers-et-graal, chapelle-de-rosslyn, rennes-le-chateau, gilbert-herail, historiographie-des-templiers
+
+@ templiers-au-cinema-et-dans-les-jeux
+cat: legendes
+nom: Templiers au cinéma et dans les jeux
+alias: Kingdom of Heaven, Les Rois maudits (télévision), Arn, Assassin's Creed, Knightfall, Les Chevaliers de Baphomet, Benjamin Gates, Indiana Jones, Templiers au cinéma, Templiers dans les jeux vidéo
+dates: depuis 1952
+an: 1952
+def: À l'écran, le Templier est tantôt le fanatique en manteau blanc de Kingdom of Heaven, tantôt le gardien d'un secret, tantôt l'ennemi héréditaire des Assassins. Les jeux vidéo, d'Assassin's Creed en tête, ont fait de l'ordre le visage de la conspiration éternelle.
+texte: Le cinéma commence par Walter Scott. Dans l'*Ivanhoé* de Richard Thorpe (1952), George Sanders prête son arrogance à Brian de Bois-Guilbert (voir [[templiers-dans-la-litterature]]). La télévision française donne au Temple ses deux scènes fondatrices avec *Les Rois maudits* : la version de Claude Barma (1972), où Xavier Depraz incarne Jacques de Molay, et celle de Josée Dayan (France 2, novembre 2005), où Gérard Depardieu lance la malédiction face au Philippe le Bel de Tchéky Karyo. Hollywood préfère le secret : le chevalier qui garde le Graal dans *Indiana Jones et la Dernière Croisade* (1989) est pris pour un Templier par tout le public ; *Benjamin Gates et le Trésor des Templiers* (*National Treasure*, 2004) fait des pères fondateurs américains les héritiers du trésor ; *Da Vinci Code* de Ron Howard (2006) porte à l'écran le roman de Dan Brown.
+texte: Les films historiques sont rares et discutés. *Kingdom of Heaven* de Ridley Scott (2005), qui raconte la chute de Jérusalem en 1187, fait des Templiers, autour de [[guy-de-lusignan]] et de [[renaud-de-chatillon]], les fanatiques du récit, et prête au maître [[gerard-de-ridefort]] une soif de guerre que les sources, il est vrai, ne démentent pas ; les médiévistes Jonathan Riley-Smith et Thomas Madden ont dénoncé une vision anachronique des croisades. La trilogie du Suédois Jan Guillou (1998-2000) a donné *Arn, chevalier du Temple* de Peter Flinth (2007) et sa suite (2008), production la plus coûteuse du cinéma scandinave, où un chevalier suédois sert vingt ans en Terre sainte. La série *Knightfall* (History, 2017-2019) mêle le procès, le Graal et Philippe le Bel ; *Le Dernier des Templiers* (2011) n'en garde que le costume. Le Templier d'écran est presque toujours un homme en manteau blanc à croix rouge, rarement un sergent, jamais un gestionnaire de domaines.
+texte: Les jeux vidéo ont fait le reste. *Les Chevaliers de Baphomet* (*Broken Sword*, 1996), jeu d'aventure britannique, met un touriste américain sur la piste d'une conspiration néo-templière à Paris. Surtout, *Assassin's Creed* d'Ubisoft Montréal (novembre 2007) oppose, dans la Terre sainte de 1191, un Assassin aux Templiers dirigés par [[robert-de-sable]] : l'ordre y devient une société secrète poursuivant à travers les siècles la domination du monde, sous le masque moderne d'une multinationale ; quatorze épisodes principaux et plus de 200 millions d'exemplaires vendus en 2022, un film de Justin Kurzel en 2016. Pour une génération, le mot « Templier » désigne d'abord cet adversaire. C'est l'aboutissement d'un renversement commencé au XVIIIe siècle : les victimes du procès de 1307 sont devenues, dans la culture populaire, les conspirateurs que leurs accusateurs prétendaient démasquer.
+repere: 1952 — *Ivanhoé*, de Richard Thorpe, avec George Sanders en Bois-Guilbert.
+repere: 1972 — *Les Rois maudits* de Claude Barma, avec Xavier Depraz en Jacques de Molay.
+repere: 1996 — *Les Chevaliers de Baphomet*, premier grand jeu vidéo à Templiers.
+repere: mai 2005 — *Kingdom of Heaven*, de Ridley Scott.
+repere: novembre 2005 — *Les Rois maudits* de Josée Dayan, avec Gérard Depardieu en Molay.
+repere: novembre 2007 — *Assassin's Creed*, d'Ubisoft Montréal.
+repere: décembre 2007 — *Arn, chevalier du Temple*, de Peter Flinth, sort en Suède.
+repere: 2017 — Début de la série *Knightfall*.
+attention: Le chevalier du Graal d'*Indiana Jones* n'est pas présenté comme un Templier, et les Templiers d'*Assassin's Creed* sont une invention romanesque : l'ordre a disparu en 1312 et n'a jamais poursuivi d'autre but que la défense de la Terre sainte.
+lien: en Kingdom of Heaven (film)
+lien: wp Assassin's Creed
+lien: wp Arn, chevalier du Temple
+sources: Wikipédia (fr : Assassin's Creed, Les Rois maudits (mini-série, 2005), Légendes au sujet des Templiers ; en : Kingdom of Heaven (film), Arn: The Knight Templar, Ivanhoe, List of Les Rois maudits cast members and episodes)
+voir: templiers-dans-la-litterature, bataille-de-hattin, gerard-de-ridefort, robert-de-sable, guy-de-lusignan, renaud-de-chatillon, templiers-et-graal, manteau-et-croix
+
+@ symbolisme-templier
+cat: legendes
+nom: Symbolisme et ésotérisme templiers
+alias: ésotérisme templier, symboles templiers, secret des Templiers, doctrine secrète, géométrie sacrée, nombre d'or, bâtisseurs de cathédrales, Louis Charpentier, Friedrich Nicolai
+dates: lectures ésotériques depuis 1782
+an: 1782
+def: On prête aux Templiers une géométrie sacrée, des symboles codés et un savoir secret rapporté d'Orient. Les sources montrent un ordre à l'iconographie simple et à la règle connue ; la lecture ésotérique date du XVIIIe siècle et doit tout aux accusations du procès.
+texte: Ce que l'ordre a réellement porté comme signes est connu et sobre. La croix rouge sur le [[manteau-et-croix|manteau blanc]], accordée selon la tradition en 1147, dont la forme varie d'un sceau à l'autre, pattée, ancrée ou simple, sans modèle imposé ; le gonfanon [[baucent]], noir et blanc ; le [[sceau-du-temple|sceau]] aux deux chevaliers sur un seul cheval, que l'on expliquait dès le XIIIe siècle par la pauvreté des origines, et dont le revers montre un édifice à coupole ; la [[devise-non-nobis|devise]] tirée du psaume 113, *Non nobis, Domine*. La [[regle-du-temple|règle]] n'était pas secrète : approuvée en concile, traduite en français, elle circulait, même si l'ordre limitait la diffusion de ses [[retraits]] et tenait, comme tous les ordres religieux, ses chapitres à huis clos. C'est ce huis clos que l'accusation de 1307 a transformé en cérémonie cachée.
+texte: L'[[architecture-templiere|architecture]] a nourri les interprétations. Quelques chapelles rondes ou polygonales, à Paris, [[laon]], [[metz]], [[segovie-vera-cruz|Ségovie]], [[tomar]] ou au [[temple-church-londres|Temple de Londres]], imitent le Saint-Sépulcre et le dôme du Rocher de Jérusalem ; on en a conclu à une géométrie initiatique. Or l'historien de l'art Élie Lambert, dans *L'Architecture des Templiers* (1955), a souligné que la plupart des chapelles templières sont des nefs rectangulaires à chevet plat ou arrondi, semblables aux églises rurales de leur temps, et que les plans centrés sont l'exception, partagée avec bien d'autres. Les Templiers n'ont pas bâti de cathédrales : l'idée qu'ils auraient financé ou dessiné celles du XIIIe siècle, avec un savoir rapporté du Temple de Salomon, vient de Louis Charpentier (*Les Mystères de la cathédrale de Chartres*, 1966 ; *Les Mystères templiers*, 1967), qui y ajoute le nombre d'or et les courants telluriques, sans qu'aucun compte de fabrique, aucune charte ne cite l'ordre parmi les bâtisseurs. Les peintures de [[montsaunes]] ou les gravures des prisons (voir [[graffiti-de-domme-et-chinon]]) ont reçu le même traitement.
+texte: Le « secret des Templiers » est né en 1782, quand le libraire Friedrich Nicolai supposa que l'ordre avait reçu des Sarrasins une doctrine cachée ; Hammer-Purgstall la dit gnostique en 1818 (voir [[baphomet]]), Éliphas Lévi la fit magique, la maçonnerie templière et le [[neo-templarisme]] en firent un héritage, René Guénon et ses lecteurs une « tradition » transmise d'Orient par les frères en contact avec l'islam (voir [[templiers-et-musulmans]]). Peter Partner a décrit dans *The Murdered Magicians* (1982) ce retournement : les accusations fabriquées en 1307 pour perdre l'ordre, idole, reniement, baisers, ont été reprises au XVIIIe siècle comme autant d'indices d'une sagesse. Les historiens d'aujourd'hui lisent dans les sources un ordre religieux de son temps, orthodoxe jusqu'à la rudesse, plus occupé de chevaux, de moissons et de comptes que de symboles ; ce qui n'empêche pas, à chaque pierre gravée d'une croix, de parler d'un « message ».
+repere: 1147 — Date traditionnelle de l'octroi de la croix rouge aux Templiers.
+repere: 1307 — Les articles d'accusation font des chapitres clos une cérémonie secrète.
+repere: 1782 — Friedrich Nicolai prête à l'ordre une doctrine secrète venue des Sarrasins.
+repere: 1818 — Hammer-Purgstall fait des Templiers des gnostiques.
+repere: 1955 — Élie Lambert publie *L'Architecture des Templiers*, qui ramène les chapelles rondes à l'exception.
+repere: 1966 — *Les Mystères de la cathédrale de Chartres*, de Louis Charpentier, fait des Templiers les inspirateurs du gothique.
+attention: Les Templiers n'ont ni bâti les cathédrales, ni pratiqué une géométrie secrète : leurs chapelles sont pour la plupart de simples nefs. Le « secret » de l'ordre est une relecture, au XVIIIe siècle, des accusations forgées en 1307.
+lien: wp Légendes au sujet des Templiers
+lien: wp Louis Charpentier
+lien: wp Croix pattée
+sources: Wikipédia (fr : Légendes au sujet des Templiers ; en : Baphomet) ; condensé « Résurgences templières » (dossier de recherche de l'utilisateur)
+voir: manteau-et-croix, sceau-du-temple, baucent, architecture-templiere, baphomet, graffiti-de-domme-et-chinon, montsaunes, regle-du-temple
+
+@ graffiti-de-domme-et-chinon
+cat: legendes
+nom: Les graffiti des Templiers prisonniers
+alias: graffiti de Domme, porte des Tours, graffiti de Chinon, tour du Coudray, tour du Prisonnier de Gisors, prison des Templiers, gravures des Templiers
+dates: 1307 – 1314 ; lectures depuis le XIXe siècle
+an: 1307
+def: À Domme, à Chinon et à Gisors, on montre des gravures murales attribuées aux Templiers emprisonnés après 1307. La détention est attestée à Chinon et à Gisors ; l'attribution des gravures, elle, repose sur des lectures modernes que les spécialistes contestent.
+texte: Les Templiers arrêtés en 1307 furent enfermés par centaines dans des châteaux royaux, et quelques-uns de ces lieux montrent des gravures sur leurs murs. À Chinon, le fait est sûr : du 17 au 20 août 1308, [[jacques-de-molay]] et quatre dignitaires, retenus dans la tour du Coudray, donjon bâti par Philippe Auguste après 1205, sont entendus par trois cardinaux (voir [[parchemin-de-chinon]]). À [[gisors]], Molay, [[hugues-de-pairaud]], [[geoffroy-de-gonneville]] et [[geoffroy-de-charnay]] sont détenus de mars 1310 à mars 1314. À [[domme]], bastide fondée en 1281 par Philippe III, la tradition veut que soixante-dix frères du Périgord, du Quercy et des diocèses voisins aient été enfermés dans la porte des Tours après 1307.
+texte: Les gravures sont réelles ; leur lecture ne l'est pas toujours. À Domme, une centaine de graffiti couvrent les murs des deux tours : croix, crucifixions, figures, un léopard, des cercles, des grilles. En 1970, le chanoine Tonnelier y lut le testament spirituel des Templiers prisonniers ; des auteurs y virent ensuite un octogone pour le Graal, un triangle pour le Golgotha, un carré pour le Temple, un code entier. Une étude conduite en 2018, pendant la restauration, a écarté cette lecture : la salle aurait plutôt servi de lieu d'attente, voire de désœuvrement, et certains motifs seraient purement décoratifs ; on a proposé d'en attribuer d'autres aux Anglais qui occupèrent Domme pendant la guerre de Cent Ans. L'interprétation templière s'appuyait en outre sur des relevés en partie falsifiés. À Chinon, la tour du Coudray montre un ange, un moine en armes, des croix de chemin et les instruments de la Passion : des thèmes religieux qui conviennent à des Templiers, mais aussi à n'importe quel prisonnier chrétien, et rien ne les date de 1308 plutôt que des siècles suivants. À Gisors, la tour du Prisonnier doit son nom et ses bas-reliefs, Passion, saint Martin, sainte Barbe, à Nicolas Poulain, lieutenant de la prévôté de Paris enfermé vers 1575 ; ils n'ont rien de templier, bien qu'on les présente souvent ainsi.
+texte: Les historiens rappellent qu'un graffiti ne se date pas par son sujet : les croix, les calvaires et les grilles abondent dans toutes les prisons médiévales et modernes, et le patrimoine des commanderies elles-mêmes (voir [[symbolisme-templier]]) ne connaît pas de « code ». Les seuls témoignages sûrs des Templiers emprisonnés sont écrits : les [[actes-du-proces]], les lettres de défense de 1310, les comptes de leur entretien. Ce que disent les murs, c'est la piété et l'ennui de détenus anonymes.
+repere: 1205 — Philippe Auguste prend Chinon ; construction de la tour du Coudray.
+repere: 1281 — Fondation de la bastide de Domme.
+repere: 17-20 août 1308 — Molay et les dignitaires sont entendus à Chinon par trois cardinaux.
+repere: mars 1310 — Les dignitaires sont transférés à Gisors, où ils restent jusqu'en 1314.
+repere: v. 1575 — Nicolas Poulain sculpte les murs de la tour du Prisonnier de Gisors.
+repere: 1970 — Le chanoine Tonnelier attribue les graffiti de Domme aux Templiers.
+repere: 2018 — Une étude menée pendant la restauration de la porte des Tours écarte la lecture templière.
+attention: La détention de Templiers à Chinon et à Gisors est attestée ; les gravures de Gisors sont l'œuvre d'un prisonnier du XVIe siècle, et celles de Domme et de Chinon ne portent ni date ni signature qui permettent de les attribuer à l'ordre.
+lien: wp Domme
+lien: wp Forteresse royale de Chinon
+lien: wp Château de Gisors
+sources: Wikipédia (fr : Domme, Forteresse royale de Chinon, Château de Gisors)
+voir: domme, chinon, gisors, parchemin-de-chinon, jacques-de-molay, actes-du-proces, symbolisme-templier, proces-des-templiers
+
+@ tete-de-templiers
+cat: legendes
+nom: La tête et les reliques
+alias: tête des Templiers, idole à tête, caput LVIIIm, onze mille vierges, chef de sainte Euphémie, reliques du Temple, tête de Templecombe, tête barbue
+dates: accusation de 1308
+an: 1308
+def: Les Templiers furent accusés d'adorer une tête, idole barbue ou à plusieurs faces. Les perquisitions n'ont trouvé au Temple de Paris qu'un reliquaire de sainte, et l'ordre possédait, comme toute église, des chefs de saints, dont celui de sainte Euphémie ; la « tête » des aveux est une fabrication des interrogateurs.
+texte: Les articles d'accusation d'août 1308 reprochent aux frères d'adorer « une certaine tête », dans leurs chapitres, « comme un dieu et un sauveur ». Les aveux la décrivent de toutes les façons : tête d'homme barbu, grandeur nature, en bois ou en argent doré ; tête à deux ou trois faces ; crâne ; parfois un chat ; une poignée de dépositions du Midi lui donnent le nom de [[baphomet]]. Les frères interrogés hors de France, sans torture, n'en ont jamais entendu parler, et les descriptions françaises divergent au point qu'aucune ne recoupe l'autre. Pour les historiens du [[proces-des-templiers|procès]], la tête est une suggestion des interrogateurs, à laquelle chaque torturé a répondu avec ce qu'il connaissait : les reliquaires de son église.
+texte: Car l'ordre possédait des têtes, comme tout le monde. À Paris, en 1310-1311, le frère Guillaume d'Arreblay, précepteur de Soissy, déclare avoir vu sur l'autel du Temple, lors des chapitres, une tête d'argent qu'on disait être celle d'une des onze mille vierges, et la commission pontificale se fait apporter l'objet : un chef-reliquaire d'argent doré en forme de tête de femme, contenant des ossements enveloppés de lin et une étiquette, « caput LVIIIm », la cinquante-huitième tête des onze mille compagnes de sainte Ursule, culte alors répandu dans toute la chrétienté. En Orient, les Templiers gardaient à [[chateau-pelerin|Château Pèlerin]] le corps et le chef de sainte Euphémie de Chalcédoine, dont un pèlerin du XIIIe siècle raconte l'arrivée miraculeuse ; après 1291, la relique gagna Chypre avec l'ordre, et les [[hospitaliers]], héritiers de ses biens, la conservaient ensuite à Rhodes. Les commanderies d'Occident avaient, comme toute église, leurs reliques et leurs reliquaires.
+texte: La tête a eu une longue postérité. Des auteurs modernes, souvent proches du [[neo-templarisme]], en ont fait le chef de saint Jean-Baptiste, celui d'Hugues de Payns ou l'image d'un Christ gnostique ; Ian Wilson et Barbara Frale, le visage du [[suaire-de-turin-et-templiers|suaire de Turin]] ; Hugh Schonfield, en lisant « Baphomet » dans un chiffre hébreu, la Sagesse des gnostiques. Un panneau peint du XIIIe siècle, découvert en 1945 dans l'ancienne commanderie de Templecombe, en Angleterre, montre un visage barbu, que l'on identifie le plus souvent au Christ et que l'on a pris pour « la tête » : c'est une image de dévotion comme en possédait chaque chapelle. Entre le reliquaire de Paris et les têtes des aveux, il y a toute la distance qui sépare une église du XIVe siècle de l'imagination de ses juges.
+repere: XIIIe siècle — Les reliques de sainte Euphémie sont conservées à Château Pèlerin.
+repere: août 1308 — Les articles d'accusation reprochent aux Templiers d'adorer une tête.
+repere: 1310-1311 — Guillaume d'Arreblay témoigne ; le reliquaire « caput LVIIIm » est présenté à la commission de Paris.
+repere: 1945 — Découverte du panneau peint de Templecombe.
+repere: 1978 — Ian Wilson identifie la tête au visage du suaire.
+repere: 1984 — Hugh Schonfield lit dans « Baphomet » un chiffre hébreu de la Sagesse.
+attention: La seule « tête » saisie au Temple de Paris est un reliquaire de sainte, étiqueté comme tel, semblable à des centaines d'autres. Les têtes à trois faces et les crânes parlants n'existent que dans des aveux obtenus par la torture.
+lien: wp Procès de l'ordre du Temple
+lien: en Templecombe
+sources: Wikipédia (fr : Baphomet, Légendes au sujet des Templiers ; en : Baphomet, Templecombe, Knights Templar in popular culture)
+voir: baphomet, suaire-de-turin-et-templiers, proces-des-templiers, actes-du-proces, chateau-pelerin, enclos-du-temple, chypre-templiere, symbolisme-templier

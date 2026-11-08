@@ -1,0 +1,7 @@
+# Fichiers de travail, hors du dépôt
+build/.atelier/
+build/.sources-images/
+build/.sources-carte/
+build/captures/
+*.log
+__pycache__/

@@ -1,0 +1,229 @@
+# T+ — lot 09 : les autres ordres. L'Hôpital, héritier du Temple ; les Teutoniques ;
+# les ordres ibériques, dont les deux héritiers des biens templiers (Montesa, Christ) ;
+# Saint-Lazare et les chanoines du Saint-Sépulcre ; la notion d'ordre religieux-militaire.
+
+@ hospitaliers
+cat: autres
+nom: Hospitaliers de Saint-Jean
+alias: ordre de l'Hôpital, Hôpital de Saint-Jean de Jérusalem, ordre de Saint-Jean de Jérusalem, Hospitaliers, chevaliers de Rhodes, chevaliers de Malte, ordre de Malte, ordre souverain de Malte, frère Gérard, Raymond du Puy, Foulques de Villaret, Krak des Chevaliers, Pie postulatio voluntatis, grand prieuré de France
+dates: depuis 1113
+an: 1113
+def: Ordre né d'un hôpital de pèlerins à Jérusalem, reconnu par le pape en 1113 et devenu militaire au XIIe siècle à l'exemple du Temple ; compagnon d'armes et rival des Templiers, il reçut leurs biens en 1312 et subsiste aujourd'hui sous le nom d'ordre souverain de Malte.
+texte: Dans les années 1070, des marchands d'Amalfi fondent à Jérusalem, tout près du Saint-Sépulcre, un hospice pour les pèlerins, placé sous le patronage de saint Jean-Baptiste. Après la prise de la ville par les croisés, en 1099, son responsable, frère Gérard, en fait une maison autonome que Godefroy de Bouillon et les premiers rois dotent de biens. Le 15 février 1113, par la bulle *Pie postulatio voluntatis*, le pape Pascal II la place sous la protection du seul Saint-Siège : l'Hôpital de Saint-Jean devient un ordre religieux, sept ans avant le Temple. Sa mission est la charité — héberger, nourrir et soigner pèlerins, pauvres et malades — et elle le restera. Raymond du Puy, qui succède à Gérard vers 1120, lui donne ses premiers statuts, qu'Eugène III approuve avant 1153, et une bannière rouge à croix blanche.
+texte: Les armes viennent ensuite, et sur le modèle du Temple. Comme l'a montré Alain Demurger, l'Hôpital ne pouvait devenir un ordre combattant qu'une fois légitimée l'idée même du religieux armé, au concile de Troyes en 1129 puis par la bulle de 1139 (voir [[ordres-militaires|ordres religieux-militaires]]). En 1136, le roi Foulques confie aux Hospitaliers le château de Bethgibelin, face à Ascalon ; vers 1142, le comte de Tripoli leur donne le Krak des Chevaliers ; ils combattent au siège d'Ascalon en 1153, et l'on estime qu'ils tiennent vingt-cinq châteaux vers 1180. L'Église hésite pourtant à reconnaître cette évolution, et les statuts n'inscrivent les frères d'armes qu'à la fin du siècle : en 1182 selon les uns, vers 1200 selon les autres. L'Hôpital garde ce que le Temple n'eut jamais : une fonction charitable, avec ses grands hôpitaux de Jérusalem puis d'Acre, qui justifie ses biens même quand la croisade s'éloigne. En 1248, Innocent IV fixe la tenue de guerre de ses frères : une cotte rouge à croix blanche.
+texte: Pendant près de deux siècles, les deux ordres combattent côte à côte : à [[bataille-de-hattin|Hattin]], en 1187, Saladin fait exécuter leurs captifs ensemble ; à Arsouf, en 1191, les Hospitaliers ferment la marche que les Templiers ouvrent ; en 1291, pendant la [[chute-d-acre|chute d'Acre]], le maître de l'Hôpital, Jean de Villiers, est évacué grièvement blessé le jour où meurt Guillaume de Beaujeu. Ils se disputent aussi terres, droits et alliances, jusqu'à se battre dans les rues d'Acre pendant la guerre de Saint-Sabas (voir [[templiers-et-hospitaliers]]). À la fin du XIIIe siècle, papes et princes veulent les fondre en un seul ordre ; Jacques de Molay s'y oppose dans un mémoire de 1306-1307 (voir [[projets-de-fusion-des-ordres]]).
+texte: Les deux ordres se replient à [[chypre-templiere|Chypre]] en 1291, mais leurs destins divergent. Le 23 juin 1306, le maître de l'Hôpital, Foulques de Villaret, appareille de Limassol avec un aventurier génois, Vignolo de' Vignoli, pour conquérir Rhodes sur les Byzantins ; Clément V lui en confirme la possession dès le 5 septembre 1307, et la ville de Rhodes tombe un 15 août, en 1310 selon la plupart des sources. L'ordre a désormais un territoire et une mission navale au moment où le Temple est détruit. Le 2 mai 1312, la bulle *Ad providam* lui attribue les biens du Temple, sauf dans les royaumes ibériques (voir [[devolution-des-biens|dévolution des biens]]). L'héritage se paie : en France, [[philippe-le-bel|Philippe le Bel]] n'en ordonne la remise, le 28 mars 1313, que contre 200 000 livres tournois, et ses fils réclament davantage ; l'[[enclos-du-temple|enclos du Temple]] de Paris, retenu par Louis X, n'est recouvré que des années plus tard, avant de devenir le siège du grand prieuré de France. En Angleterre, l'ordre n'obtient l'église du Temple de Londres qu'en 1324, et des domaines restent aux mains de nobles bien après. Les commanderies templières deviennent hospitalières et le restent jusqu'à la Révolution : bien des remparts, logis et églises que l'on montre comme « templiers », au [[larzac-templier|Larzac]] ou à [[luz-saint-sauveur|Luz]], sont l'œuvre de leurs nouveaux maîtres.
+texte: Chassés de Rhodes par Soliman le Magnifique après six mois de siège, en 1522, les Hospitaliers quittent l'île le 1er janvier 1523 ; Charles Quint leur cède en fief Malte, Gozo et Tripoli par un acte du 24 mars 1530, contre l'envoi d'un faucon chaque année. Ils y soutiennent en 1565 le Grand Siège des Ottomans, levé le 8 septembre. En 1798, Bonaparte, en route pour l'Égypte, s'empare de Malte, et l'ordre se disperse ; une partie des chevaliers se tourne vers le tsar Paul Ier. Installé à Rome au XIXe siècle, il subsiste sous le nom d'ordre souverain militaire et hospitalier de Saint-Jean de Jérusalem, de Rhodes et de Malte, ordre religieux catholique voué à l'action caritative, à côté de branches protestantes nées de la Réforme.
+repere: 15 février 1113 — Pascal II reconnaît l'Hôpital de Jérusalem par la bulle *Pie postulatio voluntatis*.
+repere: 1136 — Le roi Foulques confie aux Hospitaliers le château de Bethgibelin.
+repere: v. 1142 — Le comte de Tripoli leur donne le Krak des Chevaliers.
+repere: 1291 — Après la chute d'Acre, l'ordre se replie à Chypre.
+repere: 15 août 1310 — Prise de la ville de Rhodes, selon la date la plus souvent retenue.
+repere: 2 mai 1312 — La bulle *Ad providam* attribue à l'Hôpital les biens du Temple.
+repere: 28 mars 1313 — Philippe le Bel ordonne la remise des biens du Temple en France, contre 200 000 livres tournois.
+repere: 1er janvier 1523 — Les Hospitaliers quittent Rhodes, prise par Soliman le Magnifique.
+repere: 24 mars 1530 — Charles Quint leur cède Malte.
+repere: 1798 — Bonaparte s'empare de Malte.
+attention: L'Hôpital n'a pas « absorbé » le Temple : il a reçu ses biens, au prix fort et après des années de démarches, non ses frères ni sa règle ; les Templiers survivants furent pour la plupart pensionnés, en vertu de la bulle *Considerantes dudum*. Et l'Hôpital n'a jamais été supprimé : l'ordre de Malte en est la continuation directe, quand aucun ordre « templier » moderne ne descend du Temple (voir [[neo-templarisme]]). La date de la prise de Rhodes, enfin, est discutée : on a proposé toutes les années de 1306 à 1310.
+lien: wp Ordre de Saint-Jean de Jérusalem
+lien: wp Raymond du Puy
+lien: en Hospitaller conquest of Rhodes
+sources: Demurger, « L'origine des ordres religieux militaires », Clio, 2002 ; Wikipédia (fr) « Ordre de Saint-Jean de Jérusalem », « Raymond du Puy », « Dévolution des biens de l'ordre du Temple », « Siège de Saint-Jean-d'Acre (1291) » ; Wikipedia (en) « Knights Hospitaller », « Hospitaller conquest of Rhodes »
+voir: templiers-et-hospitaliers, devolution-des-biens, projets-de-fusion-des-ordres, chypre-templiere, enclos-du-temple, larzac-templier, ordres-militaires, teutoniques
+
+@ teutoniques
+cat: autres
+nom: Ordre Teutonique
+alias: Teutoniques, chevaliers Teutoniques, Deutscher Orden, hôpital Sainte-Marie des Allemands de Jérusalem, Hermann von Salza, Montfort, Starkenberg, Marienburg, Malbork, Tannenberg, Grunwald, État teutonique
+dates: depuis 1190
+an: 1190
+fin: 1525
+def: Ordre né d'un hôpital allemand au siège d'Acre en 1190, devenu militaire en 1198 avec la règle du Temple pour ses chevaliers ; voisin et parfois rival des Templiers en Terre sainte, il trouva en Prusse un État, la seule issue durable qu'ait connue un ordre militaire.
+texte: Pendant le siège d'[[acre|Acre]], en 1190, des bourgeois de Brême et de Lübeck installent un hôpital de campagne pour les croisés allemands. Le pape Clément III le reconnaît le 6 février 1191 ; après la prise de la ville, il s'établit dans Acre sous le nom d'hôpital Sainte-Marie des Allemands de Jérusalem. En mars 1198, à l'initiative de prélats de la croisade allemande, dont l'évêque de Passau Wolfger d'Erla, la communauté est élevée au rang d'ordre militaire, au cours d'une cérémonie tenue, selon une tradition, dans la maison du Temple d'Acre. Le 19 février 1199, Innocent III confirme qu'elle suivra, pour ses chevaliers et ses clercs, la règle du Temple, et pour le soin des malades celle de l'Hôpital : c'est le Temple qui lui sert de modèle militaire (voir [[regle-du-temple]]). Son premier maître est Heinrich Walpot.
+texte: Ce voisinage n'est pas sans heurts. Les frères teutoniques portent un manteau blanc à croix noire : les Templiers, qui tiennent le blanc pour leur privilège (voir [[manteau-et-croix]]), protestent. Innocent III interdit d'abord le manteau blanc aux Allemands, puis le leur rend vers 1210-1211 après un compromis négocié par le patriarche de Jérusalem ; Honorius III tente de clore la querelle en 1221, et c'est seulement en 1230 que Grégoire IX défend aux Templiers d'inquiéter davantage les Teutoniques à ce sujet. Sous le grand maître Hermann von Salza (1209 ou 1210-1239), conseiller de [[frederic-ii|Frédéric II]], l'ordre soutient l'empereur excommunié pendant sa croisade de 1228-1229, quand Templiers et Hospitaliers refusent de servir sous ses ordres (voir [[sixieme-croisade|sixième croisade]]). Il achète en 1220 le château de Montfort, en Galilée, et y installe en 1229 son quartier général, ses archives et son trésor ; [[baybars]] le prend en 1271, au quinzième jour du siège, et laisse la garnison partir pour Acre. Fouillées dès 1926 pour le Metropolitan Museum de New York, ses ruines le sont de nouveau chaque été depuis 2011 sous la direction de l'archéologue Adrian Boas.
+texte: L'avenir de l'ordre est pourtant ailleurs. En Hongrie, le roi André II lui confie en 1211 le pays de la Bârsa, en Transylvanie, puis l'en chasse en 1225. En 1226, la bulle d'or de Rimini, donnée par Frédéric II, lui promet la souveraineté sur les terres qu'il conquerra en Prusse païenne, où l'appelle le duc Conrad de Mazovie ; par le traité de Kruschwitz, le 16 mai 1230, Conrad lui cède le pays de Chełmno. En 1237, l'ordre absorbe les chevaliers Porte-Glaive de Livonie. Après la perte d'Acre, son siège passe à Venise, puis, en 1309, au château de Marienburg (Malbork), sur la Nogat : la persécution des Templiers, commencée en 1307, a inquiété les chevaliers, qui trouvent en Prusse un territoire à eux, hors de portée des pouvoirs séculiers (voir [[proces-des-templiers|procès des Templiers]]). L'État teutonique domine la Baltique jusqu'à la défaite de Grunwald (Tannenberg), le 15 juillet 1410, devant les Polonais et les Lituaniens.
+texte: En 1525, le grand maître Albert de Brandebourg passe au luthéranisme et fait de la Prusse un duché laïque ; l'ordre, replié à Mergentheim, garde ses commanderies d'Empire jusqu'à ce que Napoléon le dissolve en 1809. Rétabli en Autriche, il devient en 1929 un ordre clérical, dirigé par des prêtres, dont le siège est à Vienne. Pour l'histoire des Templiers, il est le contre-exemple : un ordre parti du même modèle, mais qui, ayant trouvé une terre à conquérir et à gouverner, survécut à la perte de la Terre sainte (voir [[templiers-et-saint-empire|Templiers dans l'Empire]], [[ordres-militaires|ordres religieux-militaires]]).
+repere: 1190 — Des bourgeois de Brême et de Lübeck fondent un hôpital de campagne au siège d'Acre.
+repere: Mars 1198 — L'hôpital est élevé au rang d'ordre militaire.
+repere: 19 février 1199 — Innocent III lui donne la règle du Temple pour ses chevaliers.
+repere: 1229 — Le siège de l'ordre s'installe au château de Montfort, en Galilée.
+repere: 16 mai 1230 — Traité de Kruschwitz : l'ordre prend pied en Prusse.
+repere: 1309 — Le grand maître s'établit à Marienburg.
+repere: 15 juillet 1410 — Défaite de Grunwald (Tannenberg).
+repere: 1525 — Sécularisation de la Prusse teutonique.
+attention: Une tradition date du 5 mars 1198 la cérémonie qui fit de l'hôpital un ordre militaire et la place dans la maison du Temple d'Acre ; d'autres sources s'en tiennent à « mars 1198 ». Et les Teutoniques n'ont pas hérité des Templiers : la bulle *Ad providam* donna les biens du Temple à l'Hôpital, dans l'Empire comme ailleurs, et l'ordre allemand n'en recueillit au mieux que quelques maisons.
+lien: wp Ordre Teutonique
+lien: en Teutonic Order
+lien: en Montfort Castle
+sources: Wikipédia (fr) « Ordre Teutonique », « Montfort (Israël) » ; Wikipedia (de) « Deutscher Orden » ; Wikipedia (en) « Teutonic Order », « Montfort Castle »
+voir: regle-du-temple, manteau-et-croix, frederic-ii, sixieme-croisade, templiers-et-saint-empire, acre, ordres-militaires, hospitaliers
+
+@ ordre-de-calatrava
+cat: autres
+nom: Ordre de Calatrava
+alias: Calatrava, chevaliers de Calatrava, Calatrava la Vieja, Calatrava la Nueva, Raymond de Fitero, Diego Velázquez, Salvatierra, ordre de Salvatierra, croix de Calatrava
+dates: depuis 1158
+an: 1158
+def: Premier ordre militaire né dans la péninsule Ibérique, fondé en 1158 par des cisterciens pour défendre la forteresse castillane de Calatrava, que les Templiers venaient de rendre au roi ; il servit de modèle et de tuteur aux ordres d'Alcántara, d'Avis et de Montesa.
+texte: Calatrava, sur le Guadiana, garde la route de Tolède à Cordoue. Le roi de Castille Alphonse VII la prend aux musulmans en 1147 et en confie la défense, vers 1150, aux [[ordre-du-temple|Templiers]]. Ceux-ci ne s'y maintiennent pas : la place, trop exposée, est rendue au roi Sanche III, vers 1157, et personne ne veut la reprendre, sinon Raymond, abbé cistercien de Fitero, poussé par un frère de son abbaye, Diego Velázquez. Le 1er janvier 1158, à Almazán, le roi leur donne Calatrava. Raymond lève une troupe de convers et de chevaliers, avec l'appui de l'archevêque de Tolède, et la menace musulmane s'éloigne. On lit souvent dans cet épisode une leçon sur les [[templiers-et-reconquista|Templiers dans la Reconquista]] : un ordre international, qui envoyait ses ressources en Orient, se montrait réticent à tenir seul une frontière qu'un ordre local acceptait de défendre.
+texte: L'ordre naît de cette garnison de moines et de convers. Le pape Alexandre III l'approuve en 1164, et un chapitre général de Cîteaux lui donne en 1187 sa règle définitive : les chevaliers portent le manteau blanc cistercien, marqué d'une croix fleurdelisée, noire d'abord, rouge depuis une bulle de 1397. Rattaché à l'abbaye de Morimond, Calatrava suit le modèle purement militaire du Temple (voir [[ordres-militaires|ordres religieux-militaires]]) et prend sous sa protection d'autres ordres : Alcántara, dans le royaume de León, et Avis, au Portugal ; plus tard, l'[[ordre-de-montesa|ordre de Montesa]] lui sera affilié et recrutera chez lui ses premiers frères.
+texte: Sa fortune suit celle de la frontière. Battu à Alarcos en 1195, l'ordre perd Calatrava et se replie sur le château de Salvatierra, au point de s'appeler un temps ordre de Salvatierra ; Calatrava est reprise en 1212, l'année de la victoire de Las Navas de Tolosa, à laquelle les chevaliers prennent part, et le couvent s'installe en 1217 ou 1218 dans une forteresse neuve, Calatrava la Nueva, une soixantaine de kilomètres plus au sud. Riche de domaines et de commanderies, l'ordre devient une puissance du royaume, que les rois veulent contrôler : en 1487, Ferdinand le Catholique en prend la maîtrise, et en 1523 Adrien VI l'unit pour toujours à la couronne. Supprimés en 1873 par la Première République, les ordres militaires espagnols ont été rétablis en 1875 ; Calatrava est aujourd'hui une distinction nobiliaire et honorifique dont le roi d'Espagne est grand maître.
+repere: 1147 — Alphonse VII prend Calatrava.
+repere: v. 1150 — La défense de la place est confiée aux Templiers.
+repere: 1er janvier 1158 — Sanche III donne Calatrava à Raymond de Fitero et à Diego Velázquez.
+repere: 1164 — Alexandre III approuve l'ordre.
+repere: 1195 — Défaite d'Alarcos ; l'ordre perd Calatrava.
+repere: 1212 — Reprise de Calatrava et victoire de Las Navas de Tolosa.
+repere: 1487 — Ferdinand le Catholique prend la maîtrise de l'ordre.
+attention: On lit que les Templiers auraient « fondé » Calatrava, ou que l'ordre serait sorti de leurs rangs : il n'en est rien. Les Templiers abandonnèrent la place, et l'ordre fut créé par des cisterciens, sans filiation avec eux. Les dates de leur arrivée (1147 ou vers 1150) et de leur départ (1157 ou un peu avant) varient selon les sources.
+lien: wp Ordre de Calatrava
+lien: wp Calatrava la Vieja
+lien: es Orden de Calatrava
+sources: Demurger, « L'origine des ordres religieux militaires », Clio, 2002 ; Wikipédia (fr) « Ordre de Calatrava » ; Wikipedia (en) « Order of Calatrava », « Calatrava la Vieja » ; Wikipedia (es) « Orden de Calatrava »
+voir: templiers-et-reconquista, ordre-de-santiago, ordre-de-montesa, ordre-du-christ, ordres-militaires, ordre-du-temple, bernard-de-clairvaux
+
+@ ordre-de-santiago
+cat: autres
+nom: Ordre de Santiago
+alias: ordre de Saint-Jacques de l'Épée, chevaliers de Saint-Jacques, chevaliers de l'Épée, frères de Cáceres, Fratres de Cáceres, Uclés, croix de Santiago, Pedro Fernández
+dates: depuis 1170
+an: 1170
+def: Ordre militaire fondé en 1170 à Cáceres, dans le royaume de León, sous la règle de saint Augustin et non sous celle de Cîteaux : ses chevaliers pouvaient se marier, ce qui le sépare nettement du Temple et des ordres nés de son modèle.
+texte: Les débuts sont ceux d'une confrérie de frontière. En 1170, des chevaliers groupés à Cáceres, les « frères de Cáceres », se mettent au service du roi de León Ferdinand II, sous la conduite de Pedro Fernández, leur premier maître de 1170 à 1184 ; le jour exact varie selon les sources, 29 juillet ou 1er août. Le 12 février 1171, l'archevêque de Compostelle, Pedro Gudestéiz, les reçoit comme vassaux et chevaliers de l'apôtre saint Jacques, et un légat pontifical leur donne une première règle. Ils s'associent aux chanoines réguliers de Loyo, près de Compostelle, qui deviennent les clercs de l'ordre. En janvier 1174, le roi de Castille Alphonse VIII leur donne Uclés, qui sera leur maison chef, et le 5 juillet 1175, par une bulle donnée à Ferentino, Alexandre III approuve l'ordre.
+texte: La règle choisie est celle de saint Augustin, celle des chanoines, plus souple que la règle cistercienne de l'[[ordre-de-calatrava|ordre de Calatrava]] : elle permet aux chevaliers de se marier, à condition de garder la chasteté conjugale et la continence pendant l'Avent, le Carême et certaines fêtes, et plusieurs des fondateurs étaient mariés. Rien de tel au Temple, dont la règle refuse de recevoir des sœurs et tient les hommes mariés associés à l'ordre à l'écart du manteau blanc (voir [[regle-du-temple]], [[femmes-et-le-temple]]). Cette souplesse fait le succès de l'ordre auprès de la noblesse de León, de Castille et du Portugal, où il reçoit Abrantes dès 1172. L'habit est blanc, frappé d'une croix rouge en forme d'épée aux bras fleurdelisés, d'où le nom d'ordre de Saint-Jacques de l'Épée.
+texte: L'ordre est de toutes les grandes campagnes : à Las Navas de Tolosa, en 1212, son maître Pedro Arias est tué. Ses maîtres comptent parmi les plus grands seigneurs de Castille, et les rois finissent par s'en assurer : à la mort du maître Alonso de Cárdenas, en 1493, les Rois Catholiques obtiennent du pape l'administration de la maîtrise, et en 1523 Adrien VI l'unit pour toujours à la couronne. L'ordre subsiste comme ordre honorifique et nobiliaire, sous la grande maîtrise du roi d'Espagne. Il montre, à côté du Temple, la diversité des [[ordres-militaires|ordres religieux-militaires]] : une même vocation de guerre sainte, mais des règles, des habits et des liens avec la royauté très différents.
+repere: 1170 — Fondation des frères de Cáceres, sous Ferdinand II de León.
+repere: 12 février 1171 — L'archevêque de Compostelle les reçoit comme chevaliers de saint Jacques.
+repere: 1174 — Alphonse VIII leur donne Uclés.
+repere: 5 juillet 1175 — Alexandre III approuve l'ordre.
+repere: 1212 — Le maître Pedro Arias est tué à Las Navas de Tolosa.
+repere: 1493 — Les Rois Catholiques prennent l'administration de la maîtrise.
+repere: 1523 — Adrien VI unit l'ordre à la couronne d'Espagne.
+attention: La croix-épée de Santiago est souvent rattachée à l'apparition de saint Jacques à la bataille de Clavijo, en 844, récit tenu pour légendaire ; elle date de la Reconquista du XIIe siècle. L'ordre n'a rien à voir avec les Templiers, sinon d'avoir combattu à leurs côtés (voir [[templiers-et-reconquista|Templiers et Reconquista]]). La prise en main royale est datée de 1493 ou de 1499 selon les sources.
+lien: wp Ordre de Santiago
+lien: es Orden de Santiago
+lien: en Order of Santiago
+sources: Wikipédia (fr) « Ordre de Santiago » ; Wikipedia (es) « Orden de Santiago » ; Wikipedia (en) « Order of Santiago »
+voir: templiers-et-reconquista, ordre-de-calatrava, ordres-militaires, femmes-et-le-temple, regle-du-temple, ordre-du-christ
+
+@ ordre-de-montesa
+cat: autres
+nom: Ordre de Montesa
+alias: ordre de Sainte-Marie de Montesa, Santa María de Montesa, Montesa, Guillem d'Eril, Saint-Georges d'Alfama, Ad fructus uberes
+dates: depuis 1317
+an: 1317
+def: Ordre créé en 1317 par le pape Jean XXII à la demande de Jacques II d'Aragon, avec les biens du Temple et de l'Hôpital situés dans le royaume de Valence : l'une des deux solutions ibériques à la suppression du Temple, avec l'ordre du Christ.
+texte: Dans la couronne d'Aragon, les Templiers ont été des acteurs de la Reconquista et de grands propriétaires (voir [[templiers-et-reconquista|Templiers et Reconquista]]). Arrêtés sur l'ordre de [[jacques-ii-d-aragon|Jacques II]] à partir de décembre 1307, assiégés dans leurs châteaux de [[miravet|Miravet]] et de [[monzon|Monzón]], ils sont déclarés innocents par le concile de Tarragone en novembre 1312. L'ordre n'en est pas moins supprimé, et la bulle *Ad providam* attribue ses biens à l'Hôpital (voir [[devolution-des-biens|dévolution des biens]]) ; mais Jacques II refuse de voir l'Hôpital, déjà puissant chez lui, devenir le maître de tant de châteaux de frontière. Le pape suspend l'exécution de la bulle dans les royaumes hispaniques en janvier 1313, et la négociation dure quatre ans.
+texte: Le compromis est scellé le 10 juin 1317 : par la bulle *Ad fructus uberes*, Jean XXII crée un ordre nouveau, Sainte-Marie de Montesa, du nom du château que le roi lui donne dans le sud du royaume de Valence, et lui attribue les biens du Temple et de l'Hôpital situés dans ce royaume ; en Aragon et en Catalogne, les biens du Temple vont à l'Hôpital. L'ordre reçoit la règle de Cîteaux ; l'abbé de Santes Creus est chargé d'en élire le premier maître, et ses premiers frères viennent de l'[[ordre-de-calatrava|ordre de Calatrava]], auquel il est affilié. Le 22 juillet 1319, dans la chapelle Sainte-Agathe, à Barcelone, Guillem d'Eril est investi premier maître ; il meurt le 4 octobre suivant à [[peniscola|Peñíscola]], l'ancien château templier passé à l'ordre. Sa mission est de garder la frontière contre les Maures et les pirates.
+texte: Le 24 janvier 1400, Montesa absorbe le petit ordre aragonais de Saint-Georges d'Alfama ; son emblème devient une croix rouge inscrite dans la croix noire de Calatrava. Les rois le contrôlent de plus en plus : Ferdinand le Catholique impose son candidat comme maître en 1482, et une bulle de Sixte Quint unit la maîtrise à la couronne le 8 décembre 1587. Le tremblement de terre du 23 mars 1748 détruit le château de Montesa, et les frères s'installent à Valence. L'ordre survit comme distinction honorifique, sous la grande maîtrise du roi d'Espagne. C'est, avec l'[[ordre-du-christ|ordre du Christ]], l'une des deux seules continuités institutionnelles avec le Temple : non une survivance de l'ordre, mais la remise d'une partie de ses biens à une institution nouvelle.
+repere: Décembre 1307 — Jacques II d'Aragon fait arrêter les Templiers de ses royaumes.
+repere: Novembre 1312 — Le concile de Tarragone déclare innocents les Templiers aragonais.
+repere: 10 juin 1317 — Jean XXII crée l'ordre de Montesa par la bulle *Ad fructus uberes*.
+repere: 22 juillet 1319 — Guillem d'Eril est investi premier maître à Barcelone.
+repere: 24 janvier 1400 — Union avec l'ordre de Saint-Georges d'Alfama.
+repere: 8 décembre 1587 — La maîtrise est unie à la couronne.
+repere: 23 mars 1748 — Un séisme détruit le château de Montesa.
+attention: On présente parfois Montesa comme « le Temple continué en Espagne » : l'ordre nouveau suit la règle de Cîteaux, dépend de Calatrava et reçoit aussi des biens de l'Hôpital ; il n'a hérité du Temple que des terres du royaume de Valence. Le règlement de 1317 comporte deux actes, *Ad fructus uberes* pour Montesa et un compromis, *Pia matris ecclesiae*, pour les biens d'Aragon et de Catalogne ; les auteurs ne les distinguent pas toujours.
+lien: wp Ordre de Montesa
+lien: es Orden de Montesa
+lien: en Order of Montesa
+sources: Wikipédia (fr) « Ordre de Montesa », « Dévolution des biens de l'ordre du Temple » ; Wikipedia (es) « Orden de Montesa » ; Wikipedia (en) « Order of Montesa »
+voir: jacques-ii-d-aragon, devolution-des-biens, templiers-et-reconquista, peniscola, ordre-de-calatrava, ordre-du-christ, miravet, monzon
+
+@ ordre-du-christ
+cat: autres
+nom: Ordre du Christ
+alias: ordre militaire du Christ, milice de Jésus-Christ, Militia Christi, Ordem de Cristo, croix du Christ, Ad ea ex quibus, Castro Marim, Gil Martins, Henri le Navigateur
+dates: depuis 1319
+an: 1319
+def: Ordre fondé au Portugal par le roi Denis Ier et approuvé par Jean XXII le 14 mars 1319 pour recevoir les biens du Temple ; installé à Tomar en 1356, administré par Henri le Navigateur, il prêta sa croix aux voiles des caravelles portugaises.
+texte: Au Portugal, les [[ordre-du-temple|Templiers]] sont présents depuis 1128, avec la donation de Soure, et ils ont tenu pour les rois la ligne du Tage (voir [[templiers-au-portugal|Templiers au Portugal]]). En 1307, le roi [[denis-ier-de-portugal|Denis Ier]] ne suit pas l'exemple de Philippe le Bel. Quand la bulle *Ad providam* attribue en 1312 les biens du Temple à l'Hôpital, il obtient, comme le roi d'Aragon pour [[ordre-de-montesa|Montesa]], que la règle souffre une exception : le 14 mars 1319, par la bulle *Ad ea ex quibus*, Jean XXII approuve un ordre nouveau, la milice de Jésus-Christ, à qui reviennent les biens templiers du royaume. Le 1er mai 1320, ceux-ci sont remis à son premier maître, Gil Martins, jusque-là maître de l'ordre d'Avis. Le siège est d'abord fixé à Castro Marim, en Algarve, près de l'embouchure du Guadiana ; il passe en 1356 à [[tomar|Tomar]], l'ancien chef-lieu du Temple portugais.
+texte: L'ordre du Christ n'est pas un Temple déguisé : c'est une institution nouvelle, avec ses propres statuts, étroitement liée à la couronne, et sans rien des maisons d'Occident ni du couvent d'Orient qui faisaient le Temple. Son grand moment vient avec l'expansion maritime. L'infant Henri, dit le Navigateur, en devient le gouverneur et administrateur — en 1420, ou dès 1417 selon d'autres sources —, et le Portugal des découvertes s'appuie sur les revenus et le prestige de l'ordre. Sa croix, rouge chargée d'une croix blanche, est peinte sur les voiles des caravelles portugaises. Manuel Ier, grand maître dès 1484, devient roi en 1495, et fait de la maîtrise un attribut royal ; en 1492, le pape a déjà changé le vœu de chasteté des chevaliers en vœu de chasteté conjugale, et ils peuvent se marier à partir de 1496.
+texte: Les rois finissent par absorber l'ordre : en 1551, une bulle de Jules III unit pour toujours la maîtrise des ordres militaires à la couronne de Portugal. La reine Marie Ier le réforme en 1789 ; en 1834, la suppression des ordres religieux en fait une simple distinction honorifique. Aboli par la République en 1910, rétabli en 1917-1918, l'ordre militaire du Christ est aujourd'hui l'un des ordres honorifiques portugais, conféré par le président de la République, son grand maître. Le Saint-Siège possède de son côté un ordre suprême du Christ, distinct du portugais.
+repere: 1128 — Les Templiers s'établissent au Portugal avec la donation de Soure.
+repere: 14 mars 1319 — Jean XXII approuve l'ordre du Christ par la bulle *Ad ea ex quibus*.
+repere: 1er mai 1320 — Les biens du Temple portugais sont remis au maître Gil Martins.
+repere: 1356 — Le siège de l'ordre passe de Castro Marim à Tomar.
+repere: 1420 — L'infant Henri devient administrateur de l'ordre.
+repere: 1551 — La maîtrise est unie à la couronne de Portugal.
+repere: 1834 — L'ordre devient purement honorifique.
+attention: L'ordre du Christ est la continuité la plus visible entre le Temple et une institution d'aujourd'hui, mais c'est une continuité de biens et de lieux, non de doctrine ni de secret. On lit qu'il fut fondé « pour les Templiers survivants » : quelques anciens frères y entrèrent peut-être, mais rien n'atteste que des Templiers de France s'y soient réfugiés, ni que la [[flotte-de-la-rochelle|flotte de La Rochelle]] ait gagné le Portugal. La date du transfert à Tomar est donnée en 1356, 1357 ou 1366 selon les auteurs.
+lien: wp Ordre du Christ (Portugal)
+lien: en Military Order of Christ
+sources: Wikipédia (fr) « Ordre du Christ (Portugal) », « Dévolution des biens de l'ordre du Temple » ; Wikipedia (en) « Military Order of Christ »
+voir: denis-ier-de-portugal, templiers-au-portugal, tomar, devolution-des-biens, ordre-de-montesa, flotte-de-la-rochelle, almourol, ordres-militaires
+
+@ ordre-de-saint-lazare
+cat: autres
+nom: Ordre de Saint-Lazare
+alias: ordre de Saint-Lazare de Jérusalem, Saint-Ladre, chevaliers lépreux, léproserie Saint-Lazare de Jérusalem, Boigny, ordre de Notre-Dame du Mont-Carmel et de Saint-Lazare, ordre des Saints-Maurice-et-Lazare
+dates: XIIe siècle – 1791
+an: 1142
+fin: 1791
+def: Ordre hospitalier né d'une léproserie de Jérusalem, attesté en 1142, qui accueillait les religieux lépreux, Templiers et Hospitaliers compris, et prit les armes au XIIIe siècle ; ses frères présents à La Forbie, en 1244, y furent tous tués.
+texte: Une léproserie dédiée à saint Lazare fonctionnait peut-être à Jérusalem dès le XIe siècle ; la première mention sûre d'une maison latine date de 1142, quand le roi Foulques lui concède des terres. Elle devient, vers les années 1130-1140, une communauté religieuse hospitalière dont une partie des membres sont eux-mêmes lépreux. Sa singularité tient à cela : la lèpre interdisait de rester dans les autres ordres, et les frères du [[ordre-du-temple|Temple]] ou de l'[[hospitaliers|Hôpital]] qui en étaient atteints y étaient reçus. Un article tardif de la [[regle-du-temple]], publié en 1886 par Henri de Curzon, envisage ce passage à Saint-Lazare : l'ordre offrait aux chevaliers malades le moyen de rester dans la vie religieuse.
+texte: Les batailles qu'on attribue à ses chevaliers au XIIe siècle ne reposent pas sur des sources sûres ; la première mention certaine d'une action militaire date de 1234. Dix ans plus tard, en octobre 1244, à [[bataille-de-la-forbie|La Forbie]], ses frères présents sont tous tués. Le pape Alexandre IV le reconnaît en 1255, par la bulle *Cum a nobis petitur*, comme ordre hospitalier et militaire sous la règle de saint Augustin, et Urbain IV lui accorde en 1262 les immunités des autres ordres. L'ordre prend part à la défense d'Acre en 1291, puis se replie en Occident. Sa grande maison d'Europe est Boigny, près d'Orléans, que Louis VII lui a donnée en 1154 et qui devient une baronnie en 1288 ; en 1308, l'année même où il poursuit les Templiers, [[philippe-le-bel|Philippe le Bel]] le place sous sa protection.
+texte: La suite est une longue lutte pour exister. En 1489-1490, Innocent VIII veut l'unir aux Hospitaliers, qui n'obtiennent guère que ses maisons d'Allemagne ; le parlement de Paris repousse leurs prétentions en 1547, et Pie IV annule les unions en 1565. En 1572, Grégoire XIII fond la branche italienne dans l'ordre de Saint-Maurice, dont les ducs de Savoie sont grands maîtres ; en France, l'ordre est lié en 1608 à celui de Notre-Dame du Mont-Carmel, ordre de cour que la Révolution supprime en 1791. Depuis 1910, des associations se disent héritières de l'ordre médiéval ; le Saint-Siège ne les reconnaît pas comme ordres religieux, et les historiens tiennent leurs listes de grands maîtres pour des reconstitutions.
+repere: 1142 — Le roi Foulques fait une donation à la léproserie Saint-Lazare de Jérusalem.
+repere: 1154 — Louis VII donne Boigny à l'ordre.
+repere: 1234 — Première mention sûre d'une action militaire des frères de Saint-Lazare.
+repere: Octobre 1244 — Les frères de Saint-Lazare sont tués à La Forbie.
+repere: 1255 — Alexandre IV reconnaît l'ordre, sous la règle de saint Augustin.
+repere: 1308 — Philippe le Bel prend l'ordre sous sa protection.
+repere: 1572 — La branche italienne est unie à l'ordre de Saint-Maurice.
+repere: 1608 — La branche française est liée à l'ordre de Notre-Dame du Mont-Carmel.
+attention: Les récits qui font charger des chevaliers lépreux à Hattin ou à Arsouf, comme les ordres modernes qui se disent sortis sans interruption de l'ordre médiéval, n'ont pas d'appui dans les documents : ils relèvent de la même recherche d'une lignée que le [[neo-templarisme]].
+lien: wp Ordre de Saint-Lazare de Jérusalem
+lien: en Order of Saint Lazarus
+sources: Wikipédia (fr) « Ordre de Saint-Lazare de Jérusalem » ; Wikipedia (en) « Order of Saint Lazarus » ; Order of Saint Lazarus : Primary sources (université de Malte), fiche « La Regle du Temple » (éd. Curzon, p. 239-240)
+voir: ordres-militaires, hospitaliers, regle-du-temple, bataille-de-la-forbie, philippe-le-bel, ordre-du-saint-sepulcre
+
+@ ordre-du-saint-sepulcre
+cat: autres
+nom: Chanoines du Saint-Sépulcre
+alias: ordre canonial du Saint-Sépulcre, chapitre du Saint-Sépulcre, chanoines réguliers du Saint-Sépulcre, milites sancti Sepulcri, chevaliers du Saint-Sépulcre, Arnoul de Choques, Miechów, Cum solerti meditatione
+dates: 1099 – 1489
+an: 1099
+fin: 1489
+def: Chapitre de chanoines institué au Saint-Sépulcre de Jérusalem après 1099 et soumis à la règle de saint Augustin en 1114 ; les premiers Templiers vécurent dans son orbite avant de s'en affranchir en 1120, et l'ordre fut uni à l'Hôpital en 1489.
+texte: Dès la prise de Jérusalem, en 1099, Godefroy de Bouillon installe au Saint-Sépulcre un patriarche latin et un chapitre d'une vingtaine de chanoines, chargés de garder le tombeau du Christ et d'y célébrer la liturgie. Ce sont d'abord des chanoines séculiers, vivant de prébendes ; en 1114, le patriarche Arnoul de Choques leur impose la vie commune sous la règle de saint Augustin et chasse ceux qui refusent, et Calixte II confirme la réforme en 1122. Le chapitre, dirigé par un prieur élu, devient l'une des premières puissances de l'Église latine d'Orient : plusieurs de ses membres deviennent patriarches ou archevêques, et ses biens s'étendent, au XIIIe siècle, à quelque quatre-vingt-cinq églises en Terre sainte et en Europe.
+texte: Pour protéger ces biens et les pèlerins, les chanoines font appel, comme on le faisait en Occident, à des chevaliers restés sur place, les *milites sancti Sepulcri*. Alain Demurger reprend l'expression de l'historien Kaspar Elm, le « consortium augustin » du Saint-Sépulcre : autour du tombeau, des chanoines pour la prière, un hôpital pour les pèlerins, des chevaliers pour la défense. Le groupe se défait vite : en 1113, l'hôpital devient l'ordre indépendant des [[hospitaliers|Hospitaliers]] ; en 1120, les chevaliers réunis autour d'[[hugues-de-payns|Hugues de Payns]], qui comptait peut-être parmi eux depuis 1115, s'affranchissent de la tutelle des chanoines avec l'accord du patriarche et du roi [[baudouin-ii-de-jerusalem|Baudouin II]], et deviennent l'ordre du Temple (voir [[fondation-de-l-ordre|fondation de l'ordre]]). Un passage interpolé dans la [[ernoul|chronique d'Ernoul]] fait parler ces chevaliers : ils se plaignent d'obéir à un prêtre sans faire œuvre d'armes, et décident d'élire l'un d'eux comme maître. Les liens demeurent : en 1131, le roi d'Aragon Alphonse le Batailleur lègue ses royaumes ensemble au Temple, à l'Hôpital et au Saint-Sépulcre (voir [[templiers-et-reconquista|Templiers et Reconquista]]).
+texte: Après la chute de Jérusalem, en 1187, le chapitre se replie à Acre, puis, à la fin du XIIIe siècle, à Pérouse, tandis que ses maisons d'Occident — en Pologne à Miechów, en Allemagne, en Angleterre, en Espagne, aux Pays-Bas — vivent sans chef commun. Le 28 mars 1489, par la bulle *Cum solerti meditatione*, Innocent VIII l'unit à l'ordre des Hospitaliers ; en Pologne et en Espagne, les princes font révoquer la mesure, et les chanoines y survivent jusqu'au XIXe siècle : la maison de Miechów n'est supprimée qu'en 1819. Leur habit, blanc à l'origine, devient noir ; ils portent la double croix rouge du patriarcat. L'ordre équestre du Saint-Sépulcre de Jérusalem, ordre de chevalerie créé en 1847, a repris leur nom sans descendre d'eux.
+repere: 1099 — Godefroy de Bouillon installe un chapitre de chanoines au Saint-Sépulcre.
+repere: 1114 — Le patriarche Arnoul de Choques leur impose la règle de saint Augustin.
+repere: 1120 — Les chevaliers d'Hugues de Payns s'affranchissent des chanoines et forment le Temple.
+repere: 1131 — Alphonse le Batailleur lègue ses royaumes au Temple, à l'Hôpital et au Saint-Sépulcre.
+repere: 1187 — Après la chute de Jérusalem, le chapitre se replie à Acre.
+repere: 28 mars 1489 — Innocent VIII unit l'ordre aux Hospitaliers.
+repere: 1819 — Suppression de la maison de Miechów, en Pologne.
+attention: Les chanoines du Saint-Sépulcre n'étaient pas un ordre militaire, malgré les chevaliers qui les servaient et le contingent armé que le patriarche devait au roi : les historiens qui en ont fait un ordre de chevalerie se sont trompés, comme les auteurs qui, depuis le XVIIe siècle, leur ont prêté une origine apostolique. Et les premiers Templiers n'étaient pas des chanoines : ce sont des laïcs qui choisirent de vivre sous une règle à côté d'eux.
+lien: wp Ordre canonial régulier du Saint-Sépulcre
+lien: en Canons Regular of the Holy Sepulchre
+lien: url https://www.clio.fr/BIBLIOTHEQUE/pdf/pdf_l_origine_des_ordres_religieux_militaires.pdf = Alain Demurger, « L'origine des ordres religieux militaires » (Clio)
+sources: Demurger, « L'origine des ordres religieux militaires », Clio, 2002 ; Wikipédia (fr) « Ordre canonial régulier du Saint-Sépulcre », « Ordre du Saint-Sépulcre » ; Wikipedia (en) « Canons Regular of the Holy Sepulchre », « Order of Montesa »
+voir: fondation-de-l-ordre, hugues-de-payns, baudouin-ii-de-jerusalem, ernoul, hospitaliers, jerusalem-temple-de-salomon, ordres-militaires, templiers-et-reconquista
+
+@ ordres-militaires
+cat: autres
+nom: Les ordres religieux-militaires
+alias: ordres militaires, ordre religieux-militaire, moines-soldats, moine-soldat, milites Christi, chevaliers du Christ, Porte-Glaive, ordre de Dobrin, Saint-Thomas d'Acre, Alcántara, Avis, ribât, Belchite
+dates: XIIe – XVIe siècle
+an: 1120
+def: Ordres religieux dont les membres, liés par les vœux d'obéissance, de chasteté et de pauvreté, faisaient la guerre pour la chrétienté ; le Temple, né en 1120, en fut le premier et le modèle, suivi par l'Hôpital, les Teutoniques et les ordres ibériques et baltes.
+texte: L'ordre religieux-militaire est une nouveauté du XIIe siècle. Ses membres prononcent, comme les moines, des vœux irrévocables d'obéissance, de chasteté et de pauvreté, et vivent selon une règle approuvée par l'Église ; mais ce ne sont pas des moines, et la plupart ne sont pas prêtres : seuls les [[chapelains-du-temple|frères chapelains]] le sont. Ce sont des laïcs religieux, et leur vocation est de combattre. Alain Demurger y voit l'aboutissement de deux mouvements de l'Occident : la réforme grégorienne, qui veut encadrer la société chrétienne et assigner aux chevaliers une mission conforme aux intérêts de l'Église, et la croisade, qui tourne leur violence vers une œuvre tenue pour pieuse. Le croisé faisait un vœu temporaire ; le frère d'un ordre militaire s'engage pour la vie.
+texte: La nouveauté choque. Le cistercien Isaac de l'Étoile y voit une monstruosité, Guigues, prieur de la Grande-Chartreuse, s'inquiète, et [[bernard-de-clairvaux|Bernard de Clairvaux]] lui-même hésite avant d'écrire pour les Templiers son [[de-laude-novae-militiae|Éloge de la nouvelle chevalerie]]. Dès 1820, l'historien espagnol José Antonio Condé a voulu en trouver le modèle dans le ribât musulman, lieu de retraite et de garde aux frontières de l'islam ; l'historienne Elena Lourie a vu dans les confréries de chevaliers de l'Espagne de la Reconquista, comme celle de Belchite, le chaînon entre le ribât et le Temple. Demurger écarte cette filiation : le Temple est né en 1120 en Orient, avant Belchite. Ce qui est sûr, c'est qu'il est le premier : fondé à Jérusalem (voir [[ordre-du-temple]]), reconnu au concile de Troyes en 1129, il reçoit en 1139 la bulle [[omne-datum-optimum]] ; ce n'est qu'après cette légitimation que d'autres ordres peuvent prendre les armes.
+texte: Deux modèles en sortent. Le Temple est purement militaire : l'imitent l'[[ordre-de-calatrava|ordre de Calatrava]] (1158) et ses affiliés d'Alcántara et d'Avis, dans la péninsule, ou les Porte-Glaive de Livonie, vers 1202. L'[[hospitaliers|Hôpital]], qui prend les armes sans renoncer à soigner, inspire les [[teutoniques|Teutoniques]] (1198), à la fois hospitaliers et chevaliers, et l'[[ordre-de-saint-lazare|ordre de Saint-Lazare]], voué aux lépreux. D'autres ont leurs traits propres : l'[[ordre-de-santiago|ordre de Santiago]] (1170) admet des chevaliers mariés ; Saint-Thomas d'Acre, fondé après 1191, ne se militarise que dans les années 1220 ; l'ordre de Dobrin, en Pologne, est reconnu en 1228. Certains sont internationaux, avec des maisons dans toute la chrétienté et le regard tourné vers la Terre sainte ; d'autres, ibériques ou baltes, sont attachés à une frontière et à un prince. Au Temple et à l'Hôpital, des frères servaient même « à terme », pour une durée fixée, à la manière des croisés.
+texte: Leur fin varie avec leur fortune. Le Temple, le plus international et le plus lié à la Terre sainte, est supprimé par le pape en 1312, au terme d'un procès voulu par le roi de France, et ses biens ibériques donnent naissance à l'[[ordre-de-montesa|ordre de Montesa]] (1317) et à l'[[ordre-du-christ|ordre du Christ]] (1319). Les ordres ibériques passent aux couronnes entre la fin du XVe et le milieu du XVIe siècle ; l'État teutonique de Prusse devient un duché en 1525 ; seul l'Hôpital, devenu l'ordre de Malte, a gardé jusqu'à nos jours sa souveraineté. Les historiens en ont fait un champ d'étude à part entière, avec les synthèses d'Alan Forey (1992) et d'Alain Demurger (2002) et le dictionnaire dirigé par Nicole Bériou et Philippe Josserand, *Prier et combattre* (2009).
+repere: 1113 — Pascal II reconnaît l'Hôpital de Jérusalem, encore purement charitable.
+repere: 1120 — Hugues de Payns et ses compagnons fondent le Temple à Jérusalem.
+repere: 1129 — Le concile de Troyes reconnaît le Temple et lui donne une règle.
+repere: 1158 — Naissance de l'ordre de Calatrava, premier ordre militaire ibérique.
+repere: 1198 — L'hôpital des Allemands d'Acre devient l'ordre Teutonique.
+repere: 1312 — Le concile de Vienne voit la suppression du Temple.
+repere: 1525 — Sécularisation de l'État teutonique de Prusse.
+attention: « Moine-soldat » est un raccourci : les frères des ordres militaires étaient des religieux, non des moines au sens strict, et beaucoup d'entre eux, sergents, artisans, administrateurs de domaines en Occident, ne combattirent jamais. L'idée d'une influence directe du ribât musulman, souvent reprise, est discutée et aujourd'hui largement écartée.
+lien: wp Ordre militaire
+lien: en Military order (religious society)
+lien: url https://www.clio.fr/BIBLIOTHEQUE/pdf/pdf_l_origine_des_ordres_religieux_militaires.pdf = Alain Demurger, « L'origine des ordres religieux militaires » (Clio)
+sources: Demurger, « L'origine des ordres religieux militaires », Clio, 2002 ; Wikipédia (fr) « Ordre militaire »
+voir: ordre-du-temple, hospitaliers, teutoniques, ordre-de-calatrava, ordre-de-santiago, de-laude-novae-militiae, bernard-de-clairvaux, templiers-et-hospitaliers

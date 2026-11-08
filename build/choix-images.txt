@@ -1,0 +1,264 @@
+# Le choix des illustrations de T+ : une ligne par image.
+#
+#     article[, article…] | Fichier sur Commons | Légende [| Crédit]
+#
+# Un quatrième champ, facultatif, remplace le crédit lu sur Commons (« Auteur, année »).
+#
+# Le premier article reçoit l'image en tête ; les suivants aussi (une même image peut
+# servir à plusieurs articles). L'ordre des lignes est l'ordre d'affichage dans un article.
+#
+#     python build/assembler_illustrations.py   écrit build/illustrations.txt (crédits pris sur Commons)
+#     python build/illustrer.py                 télécharge, vérifie la licence, convertit
+#
+# Toute image passe d'abord par build/verifier_commons.py.
+
+# ── France du Sud (lot 07) ──────────────────────────────────────────────────
+sainte-eulalie-de-cernon, larzac-templier | Commandery in Ste-Eulalie-de-Cernon 03.jpg | La commanderie de Sainte-Eulalie-de-Cernon, chef-lieu du Larzac templier
+sainte-eulalie-de-cernon | Commandery tower in Ste-Eulalie-de-Cernon.jpg | La tour de la commanderie de Sainte-Eulalie
+la-couvertoirade | Chateau La Couvertoirade.jpg | Les vestiges du château templier de La Couvertoirade
+la-couvertoirade, larzac-templier | Ramparts of La Couvertoirade 04.jpg | Les remparts de La Couvertoirade, élevés par les Hospitaliers au XVe siècle
+la-cavalerie | City walls of La Cavalerie 13.jpg | L'enceinte de La Cavalerie, bâtie au XVe siècle
+viala-du-pas-de-jaux | Tower in Viala-du-Pas-de-Jaux 04.jpg | La tour-grenier du Viala-du-Pas-de-Jaux, élevée vers 1430
+larzac-templier | Saint Jean d'Alcas-Portal.jpg | La porte du fort de Saint-Jean-d'Alcas, bâti par l'abbaye cistercienne de Nonenque
+montsaunes | Montsaunès - Eglise Saint-Christophe des Templiers - Façade.jpg | La façade de l'église Saint-Christophe de Montsaunès
+montsaunes | Eglise Saint-Christophe-des-Templiers - Vue intérieure de la nef vers le choeur - Montsaunès - Médiathèque de l'architecture et du patrimoine - APMH00001759.jpg | La nef de Montsaunès et ses peintures, photographiées en 1883
+mas-deu, temple-en-occitanie | Mas-deu-chapelle.jpg | La chapelle de la commanderie du Mas Deu, en Roussillon
+mas-deu | Mas-deu-commanderie.jpg | Les bâtiments de la commanderie du Mas Deu, à Trouillas
+campagne-sur-aude | Campagne (Aude) - Fonds Ancely - B315556101 A BERTHIER 074.jpg | Campagne-sur-Aude, lithographie du XIXe siècle | Eugène Wormser, lithographie, 1862
+le-bezu | Chateau des Templiers 2.jpg | Les ruines du château du Bézu, dit « des Templiers »
+vaour, temple-en-occitanie | Commanderie de Vaour (14).jpg | La commanderie de Vaour, dans le Tarn
+vaour | Restes du chateau de Vaour 01.jpg | Les ruines de la commanderie de Vaour
+lacapelle-livron | Lacapelle-Livron - Ancienne commanderie des Templiers - 01.jpg | L'ancienne commanderie de Lacapelle-Livron
+montricoux | Donjon du château de Montricoux (82) - 001.jpg | Le donjon de Montricoux
+la-ville-dieu-du-temple | La Ville-Dieu-du-Temple église.JPG | L'église de La Ville-Dieu-du-Temple
+figeac | Commanderie des Templiers in Figeac 02.jpg | La maison dite « commanderie des Templiers », à Figeac
+richerenches, temple-en-provence | Richerenches - enceinte de la commanderie.jpg | L'enceinte de la commanderie de Richerenches
+richerenches, cartulaires-du-temple | Cartulaire Richerenches 1907.jpg | Le cartulaire de Richerenches, dans son édition de 1907 | page de titre de l'édition de 1907
+roaix | Roaix by JM Rosier.jpg | Le village de Roaix | Jean-Marc Rosier, 2007
+jales | PA00116646 Commanderie de Jalès 01.jpg | La commanderie de Jalès
+jales | Commanderie de Jalès, vue aérienne du Nord Ouest.jpg | La commanderie de Jalès vue du ciel
+le-ruou, temple-en-provence | Commanderie du Ruou - Chapelle.JPG | La chapelle de la commanderie du Ruou
+montfort-sur-argens | Chateau Montfort-sur-Argens 7308.JPG | Le château de Montfort-sur-Argens
+hyeres | Tour des Templiers (Hyères).jpg | La tour des Templiers, à Hyères
+biot | PlaceDesArcadesBiot.JPG | La place des Arcades, à Biot
+marseille | Marsilia. (Marseille au commencement du XVIIe siècle) - dessin - btv1b52510777b (1 of 2).jpg | Marseille et son port au début du XVIIe siècle | dessin anonyme, Bibliothèque nationale de France
+ydes | Ydes-Bourg - Eglise -13.JPG | L'église Saint-Georges d'Ydes
+celles | Celles commanderie.jpg | La commanderie de Celles
+paulhac | Paulhac2.jpg | Les chapelles de la commanderie de Paulhac
+paulhac | Paulhac8.jpg | L'intérieur de la chapelle Saint-Jean de Paulhac
+blaudeix | Blaudeix église (1).jpg | L'église de Blaudeix, ancienne chapelle de la commanderie
+andrivaux | Chancelade Andrivaux.JPG | La commanderie des Andrivaux, à Chancelade
+sergeac | Eglise Saint-Pantaléon de Sergeac.jpg | L'église Saint-Pantaléon de Sergeac
+domme | Porte des Tours in Domme 02.jpg | La porte des Tours de Domme
+domme, graffiti-de-domme-et-chinon | Remparts - Porte des Tours - Vue d'ensemble extra-muros - Domme - Médiathèque de l'architecture et du patrimoine - APMH00001018.jpg | La porte des Tours de Domme, photographiée en 1888
+magrigne | Chapelle de Magrigne (1842).png | La chapelle de Magrigne en 1842
+magrigne | St Laurent d'Arce chapelle de Magrigne 2.jpg | La chapelle de Magrigne aujourd'hui
+marcenais | Marcenais église templière 1.JPG | L'église de Marcenais
+le-temple-sur-lot | Commanderie du Temple-sur-Lot.JPG | La commanderie du Temple-sur-Lot
+aragnouet | Chapelle Notre-Dame de l'Assomption (des Templiers) du Plan (Hautes-Pyrénées) 1.jpg | La chapelle dite « des Templiers », au Plan d'Aragnouet
+luz-saint-sauveur | 2019 - Église des Templiers de Luz-Saint-Sauveur.jpg | L'église fortifiée de Luz-Saint-Sauveur, dite « des Templiers »
+
+# ── Maîtres de l'ordre (lot 02), et les articles voisins ────────────────────
+ordre-du-temple, sceau-du-temple, chronologie-de-l-ordre | Seal of Templars.jpg | Le sceau des maîtres du Temple : deux chevaliers sur un même cheval | dessin publié par T. A. Archer et C. L. Kingsford, 1894
+hugues-de-payns, fondation-de-l-ordre, baudouin-ii-de-jerusalem, jerusalem-temple-de-salomon, ordre-du-temple, godefroy-de-saint-omer | Baldwin II ceeding the Temple of Salomon to Hugues de Payens and Gaudefroy de Saint-Homer.jpg | Baudouin II cède le Temple de Salomon à Hugues de Payns et Godefroy de Saint-Omer, miniature de l'*Histoire d'Outremer* de Guillaume de Tyr | enluminure anonyme, XIIIe siècle
+hugues-de-payns | Hugues de Payens (Versailles).jpg | Hugues de Payns, portrait imaginaire peint pour la salle des Croisades de Versailles | Henri Lehmann, 1841
+maitres-de-l-ordre, chapitre-general | Chapitre de l'Ordre du Temple tenu à Paris.png | Le chapitre de l'ordre tenu à Paris en avril 1147, tel que l'imagine Granet | François-Marius Granet, 1844
+evrard-des-barres | Evrard de Barres.png | Évrard des Barres, figure imaginée par Debacq pour la salle des Croisades | Charles-Alexandre Debacq, v. 1840
+andre-de-montbard | André de Montbard.jpg | Les sceaux d'André de Montbard, relevés au XIXe siècle | Ernest Petit, *Histoire des ducs de Bourgogne*
+arnaud-de-toroge | Sarcophagus of Arnau de Torroja (23328).jpg | Le sarcophage d'Arnaud de Toroge, à San Fermo Maggiore de Vérone
+gerard-de-ridefort | Gerard de Ridefort.jpg | Gérard de Ridefort dans une miniature du XIVe siècle (BnF, fr. 22495) | Maître du Roman de Fauvel, 1337
+guillaume-de-beaujeu, chute-d-acre | Akra1291.jpg | Le siège d'Acre en 1291, lettrine d'un manuscrit de l'*Estoire d'Eracles* (BnF, fr. 2825) | enluminure anonyme, v. 1300
+jacques-de-molay, bucher-de-jacques-de-molay, geoffroy-de-charnay | Templars Burning.jpg | Le bûcher de Jacques de Molay et de Geoffroy de Charnay, dans les *Chroniques de France* (British Library) | atelier du Maître de Virgile, après 1380
+jacques-de-molay, reception-dans-l-ordre | Ordination of Jacques de Molay in 1265 at the Beaune commandery by Marius Granet 1777 1849.jpg | La réception de Jacques de Molay dans l'ordre, à Beaune en 1265, imaginée par Granet | François-Marius Granet, 1843
+proces-des-templiers | Hinrichtung-Templer.jpg | Le supplice des Templiers dans un manuscrit du *Des cas des nobles hommes et femmes* de Boccace (BnF, fr. 229) | Maître du Roman de la Rose de Vienne, v. 1440
+philippe-le-bel | Filip4 templari exekuce Boccaccio15.jpg | Philippe le Bel et le supplice des Templiers, dans un Boccace enluminé (BnF, fr. 226) | Maître de Rohan, v. 1415-1420
+
+# ── L'ordre et sa vie (lot 04), et les lieux qu'il montre ───────────────────
+sceau-du-temple, privileges-et-critiques, matthieu-paris | Templari Paris.jpg | Deux Templiers sur un même cheval, comme sur le sceau de l'ordre : dessin de Matthieu Paris, XIIIe siècle | Matthieu Paris, *Historia Anglorum*, v. 1250
+regle-du-temple, effectifs-du-temple | Templari MatthewParis.jpg | Les Templiers vus par Matthieu Paris, moine de Saint-Albans, dans sa *Chronica majora* | Matthieu Paris, XIIIe siècle
+sceau-du-temple | Wax cast of a Bristol Templar Seal.jpg | Moulage en cire d'un sceau du Temple trouvé à Bristol
+provinces-du-temple, temple-en-provence | SceauTempliersXIIIeProvence.jpg | Sceau du Temple en Provence, à l'Agneau pascal (XIIIe ou XIVe siècle)
+chevaliers-du-temple, manteau-et-croix, cressac | Fresque de la chapelle des templiers de Cressac.jpg | Un chevalier du Temple chargeant, sur la fresque de la chapelle de Cressac, fin du XIIe siècle | peinture murale anonyme, fin du XIIe siècle
+baucent, san-bevignate | San Bevignate battle fresco baucent.jpg | Le baucent, bannière mi-partie noire et blanche, sur la fresque de San Bevignate à Pérouse, XIIIe siècle | peinture murale anonyme, XIIIe siècle
+retraits, san-bevignate | SCONTRO A NABLUS - AFFRESCHI CONTROFACCIATA S. BEVIGNATE.JPG | Templiers au combat, fresque de l'église San Bevignate de Pérouse, XIIIe siècle | photographie reproduite avec l'accord de la commune de Pérouse
+commanderie, arville | Arville - Commanderie 01.jpg | La commanderie d'Arville, dans le Loir-et-Cher
+vie-quotidienne, coulommiers | Commanderie de Coulommiers (1).JPG | La commanderie de Coulommiers, en Seine-et-Marne
+chapelains-du-temple, coulommiers | Peinture St Georges commanderie des Templiers (Coulommiers).jpg | Saint Georges, peinture murale de la chapelle de la commanderie de Coulommiers
+freres-de-metier | Richerenches - commanderie.jpg | La commanderie de Richerenches, en Provence
+manteau-et-croix, metz | Ferdinand von Quast - Chapelle des Templiers, Metz, portail à la croix pattée, Architekturmuseum TU Berlin 44284.jpg | La croix du portail de la chapelle des Templiers de Metz, relevée au XIXe siècle | Ferdinand von Quast, XIXe siècle
+armement-et-equipement, temple-church-londres | Temple Church, Effigy of a knight City of London 1064646 20230821 0024.jpg | Gisant d'un chevalier en armes, église du Temple de Londres, XIIIe siècle
+chevaux-et-cavalerie, bataille-de-la-forbie | La Forbie.jpg | La bataille de La Forbie (1244), dessinée par Matthieu Paris dans sa *Chronica majora* | Matthieu Paris, XIIIe siècle
+bataille-de-hattin, gerard-de-ridefort | Battle of Cresson.jpg | Le combat de la source de Cresson, le 1er mai 1187, enluminé par Jean Colombe | Jean Colombe, v. 1490
+economie-du-temple, cressing-temple | Cressing Temple, Wheat Barn.jpg | La grange au blé de Cressing Temple, en Essex, bâtie pour le Temple au XIIIe siècle
+banque-du-temple, enclos-du-temple | Le donjon du Temple (en 1500) plus récemment prison de Louis XVI. Paris Musées 20231012220238.jpg | La tour du Temple de Paris, où fut gardé le trésor royal, gravure du XIXe siècle | G. Larbalestier, graveur, Paris Musées
+chateaux-du-temple, chastel-blanc | Safita overview.jpg | La tour de Chastel Blanc dominant Safita, en Syrie
+chateaux-du-temple, tortose | Tartus Cathedral of Our Lady of Tortosa 3640.jpg | La cathédrale Notre-Dame de Tortose, à Tartous
+architecture-templiere, laon | Laon (02) Chapelle des Templiers 01.JPG | La chapelle octogonale des Templiers de Laon
+architecture-templiere, metz | Metz Chapelle des Templiers R01.jpg | La chapelle des Templiers de Metz
+tomar, architecture-templiere, templiers-au-portugal | Tomar-Convento de Cristo-Rotunda dos Templários-20140914.jpg | La rotonde des Templiers du couvent du Christ, à Tomar
+templiers-et-hospitaliers, hospitaliers | Krak des Chevaliers landscape (cropped).jpg | Le Krak des Chevaliers, forteresse des Hospitaliers en Syrie
+
+# ── Mythes et postérité (lot 10), et les lieux qu'ils montrent ──────────────
+tresor-des-templiers, gisors | Château de Gisors-donjon.jpg | Le donjon de Gisors, sous lequel Roger Lhomoy dit avoir vu les coffres du trésor
+malediction-de-jacques-de-molay, philippe-de-marigny | Templars on Stake.jpg | Des Templiers sur le bûcher, miniature du XIVe siècle | enluminure anonyme, XIVe siècle
+baphomet | Baphomet.png | Le Baphomet dessiné par Éliphas Lévi pour *Dogme et rituel de la haute magie* | Éliphas Lévi, 1856
+baphomet | Portret van oriëntalist Joseph von Hammer-Purgstall, RP-P-1910-81.jpg | Joseph von Hammer-Purgstall, qui fit en 1818 du Baphomet une idole gnostique | gravure, Rijksmuseum
+templiers-et-graal | Codex Manesse 149v Wolfram von Eschenbach.jpg | Wolfram von Eschenbach, auteur du *Parzival*, dans le Codex Manesse | Codex Manesse, v. 1305-1315
+chapelle-de-rosslyn | Rosslyn Chapel Exterior.jpg | La chapelle de Rosslyn, au sud d'Édimbourg
+chapelle-de-rosslyn | Apprentice Pillar in de Rosslyn Chapel Roslin 'Prentice Pillar (titel op object), RP-F-2001-7-343-18.jpg | Le « pilier de l'apprenti » de Rosslyn, photographié vers 1855 | photographie anonyme, v. 1852-1862, Rijksmuseum
+templiers-en-ecosse, balantrodoch | Old Parish Church, Temple, Western Facade.jpg | L'ancienne église de Temple, en Midlothian, sur le site de Balantrodoch
+rennes-le-chateau | Rennes-le-Château - Tour Magdala 01.jpg | La tour Magdala, bâtie par l'abbé Saunière à Rennes-le-Château
+flotte-de-la-rochelle, la-rochelle | Commanderie des Templiers de La Rochelle - Porte de la rue du Temple (1700).png | La porte de la maison du Temple de La Rochelle, rue du Temple, telle qu'elle était vers 1700 | Émile Couneau, 1904
+templiers-en-amerique | Island and Wharf, Oak Island, Nova Scotia, Canada, August 1931.jpg | Oak Island, en Nouvelle-Écosse, en août 1931
+templiers-en-amerique | Newport Tower - Newport, RI (51488606239).jpg | La tour de Newport (Rhode Island), un moulin du XVIIe siècle
+franc-maconnerie-et-templiers, stricte-observance | Derla Manuscripts, The Strict Observance.jpg | Un manuscrit de la Stricte Observance templière, 1775 | manuscrit anonyme, 1775
+stricte-observance | Karl Gotthelf von Hund und Altengrotkau.jpg | Le baron Karl Gotthelf von Hund, fondateur de la Stricte Observance
+neo-templarisme | Fabré-Palaprat en grand-maître de l'odre des templiers.jpg | Bernard-Raymond Fabré-Palaprat en grand maître de son ordre du Temple « restauré »
+vendredi-13 | Tournachon, Gaspard-Félix - Gioacchino Rossini (1792-1868) (Zeno Fotografie).jpg | Gioacchino Rossini, photographié par Nadar : sa mort un vendredi 13, en 1868, fut remarquée | Nadar
+suaire-de-turin-et-templiers | Shroud of Lirey Pilgrim Badge.jpg | L'enseigne de pèlerinage de Lirey, la plus ancienne image du suaire, dessinée en 1865 | Arthur Forgeais, 1865
+templiers-et-cathares | Cathars expelled.JPG | L'expulsion des habitants de Carcassonne en 1209, enluminure du XVe siècle | atelier du Maître de Boucicaut, v. 1415
+templiers-dans-la-litterature | Leon Cogniet - Rebecca and Brian de Bois-Guilbert WLC WLC P279.jpg | Rebecca et le Templier Brian de Bois-Guilbert, personnages d'*Ivanhoé*, peints par Léon Cogniet | Léon Cogniet, 1828, Wallace Collection
+laon, symbolisme-templier | Laon Chapelle des Templiers.JPG | La chapelle des Templiers de Laon, dont le plan centré a nourri les lectures symboliques
+graffiti-de-domme-et-chinon, chinon | Chinon (37) Forteresse royale - Tour du Coudray - 01.jpg | La tour du Coudray, à Chinon, où les dignitaires furent détenus en 1308
+graffiti-de-domme-et-chinon, gisors | Eure Gisors Chateau Cour Prisonnier - panoramio.jpg | La tour du Prisonnier, au château de Gisors
+chateau-pelerin, tete-de-templiers | Ruins on the west side of Athlît. The fortress was built by the Templars in the year 1218 and was the last place held by the crusaders in Palestine. It was taken by the Sultan Melek el (NYPL b10607452-80631).jpg | Les ruines de Château Pèlerin, à Atlit, photographiées en 1881 | photographie, 1881, New York Public Library
+
+# ── Histoire (lot 01) ───────────────────────────────────────────────────────
+fondation-de-l-ordre | King Baldwin II and the Templars.jpg | Baudouin II tient conseil, et les premiers Templiers partent en mission : miniature de l'*Histoire d'Outremer* | enluminure anonyme, v. 1280
+concile-de-troyes | Institution de l Ordre du Temple 1128 par Granet (restored).jpg | La reconnaissance de l'ordre du Temple au concile de Troyes, imaginée par Granet | François-Marius Granet, v. 1840
+omne-datum-optimum | Bene valete of Pope Innocent II.jpg | La souscription d'Innocent II, « Bene valete », au bas d'une charte de 1134 | chancellerie pontificale, 1134
+omne-datum-optimum | Pope Innocent II – Santa Maria in Trastevere.jpg | Innocent II, mosaïque de Santa Maria in Trastevere, à Rome
+deuxieme-croisade | Siege of Damascus, second crusade.jpg | Le siège de Damas (1148), enluminé par Jean Colombe dans les *Passages d'outremer* | Jean Colombe, v. 1474
+deuxieme-croisade | Louis VII during the battle of Mount Cadmus, 1148.jpg | Louis VII au combat du mont Cadmos, en janvier 1148, gravure du XIXe siècle | gravure, v. 1886
+siege-d-ascalon | Siege of Ascalon (1153).jpg | Le siège d'Ascalon par Baudouin III, enluminé par Jean Colombe | Jean Colombe, v. 1474
+bataille-de-montgisard, baudouin-iv-de-jerusalem | Schlacht von Montgisard 2.jpg | La bataille de Montgisard (25 novembre 1177), peinte pour Versailles ; le titre du tableau la date à tort du 18 novembre | Charles-Philippe Larivière, 1842-1844
+gue-de-jacob | NEcornerChastellet2009.JPG | L'angle nord-est du Chastellet, au Gué de Jacob
+bataille-de-hattin | Hattin Estoire d'Eracles.jpg | La bataille de Hattin dans un manuscrit de l'*Estoire d'Eracles* | enluminure anonyme, 1440-1445
+bataille-de-hattin, saladin, guy-de-lusignan | Saladin Guy.jpg | Saladin enlève la Vraie Croix au roi Guy de Lusignan, dessin de Matthieu Paris | Matthieu Paris, XIIIe siècle
+troisieme-croisade, richard-coeur-de-lion | Philippe Auguste et Richard Acre.jpg | Philippe Auguste et Richard Cœur de Lion reçoivent les clés d'Acre en 1191, dans les *Grandes Chroniques de France* | enluminure, v. 1375-1380
+septieme-croisade, damiette, louis-ix, jean-de-joinville | Damiette1249.jpg | La prise de Damiette par Louis IX en 1249, dans un manuscrit de la *Vie de saint Louis* de Joinville | enluminure, 1330-1340
+chute-de-safed, safed | Safed-52.jpg | Les vestiges de la forteresse de Safed, croisée puis mamelouke
+chute-d-acre | 1291 siège d'Acre.jpg | Le siège d'Acre de 1291, peint par Dominique Papety pour la salle des Croisades de Versailles | Dominique Papety, 1845
+ile-de-ruad | Castle in the island of Tortosa - Mayer Luigi - 1810.jpg | L'île de Ruad, face à Tortose, dessinée par Luigi Mayer à la fin du XVIIIe siècle | Luigi Mayer, publié en 1810
+projets-de-fusion-des-ordres | Ramon Llull, with his disciple Thomas le Myesier, presenting three anthologies to the Queen of France and Navarre.jpg | Raymond Lulle, partisan de la fusion des ordres, présente ses livres à la reine de France | miniature, v. 1325
+arrestation-du-13-octobre-1307, clement-v | Maître de Boucicaut Clément V et Philippe le Bel.jpg | Clément V et Philippe le Bel face aux Templiers, enluminure du XVe siècle | atelier du Maître de Boucicaut, XVe siècle
+parchemin-de-chinon, hugues-de-pairaud, geoffroy-de-gonneville, raimbaud-de-caron | Pergamino de chinon.jpg | Le parchemin de Chinon, procès-verbal de l'absolution accordée en août 1308 | Archives apostoliques du Vatican
+concile-de-vienne | Paul-Lacroix Council-Vienne.jpg | Le concile de Vienne, gravure du XIXe siècle | Paul Lacroix, XIXe siècle
+bucher-de-jacques-de-molay | Boucicaut Master Illuminator (French, active about 1390 - 1430) - The Knights Templar Burned in the Presence of Philip the Fair and His Courtiers - Google Art Project.jpg | Des Templiers brûlés en présence de Philippe le Bel, enluminure du Maître de Boucicaut (Getty Museum) | Maître de Boucicaut, v. 1413-1415
+devolution-des-biens, hospitaliers | Ad Providam.jpg | La bulle *Ad providam* du 2 mai 1312, qui donne les biens du Temple aux Hospitaliers | Archives nationales, AE/II/1634
+templiers-et-reconquista, miravet | Miravet, castell PM 45568.jpg | Le château de Miravet, sur l'Èbre, assiégé en 1308
+templiers-et-reconquista, monzon | Monzon - Castillo - Templo - Exterior.jpg | Le château de Monzón, en Aragon
+templiers-et-saint-empire, tempelhof | Dorfkirche Tempelhof mit Teich.jpg | L'église de village de Tempelhof, à Berlin, sur une ancienne terre du Temple
+templiers-en-angleterre, temple-church-londres | Temple Church, Temple, London EC4 (2).jpeg | L'église du Temple, à Londres, consacrée en 1185
+
+# ── Personnages (lot 03) ────────────────────────────────────────────────────
+bernard-de-clairvaux, de-laude-novae-militiae | K105354-Bernard of Clairvaux (British Library).jpg | Bernard de Clairvaux dans une enluminure des Pays-Bas du Sud | enluminure anonyme, XVe siècle, British Library
+hugues-de-champagne | Charte Hugues de Champagne.jpg | Une charte du comte Hugues de Champagne pour l'abbaye Saint-Loup de Troyes | charte, fin du XIe siècle
+baudouin-ii-de-jerusalem, foulques-d-anjou | Baldwin II, Fulk, and Melisende.jpg | Baudouin II, sur son lit de mort, confirme les droits de Foulques et de Mélisende | enluminure anonyme, XIIIe siècle
+foulques-d-anjou | Couronnement de Foulque de Jérusalem - Français 2824.jpg | Le couronnement de Foulques, roi de Jérusalem (BnF, fr. 2824) | enluminure anonyme
+baudouin-iv-de-jerusalem | Seal of Baldwin IV.png | Le sceau de Baudouin IV, roi de Jérusalem | sceau royal, 1174-1185
+guy-de-lusignan | Français 2629, fol. 300, Couronnement de Gui de Lusignan.jpeg | Le couronnement de Guy de Lusignan (BnF, fr. 2629) | Maître de l'Échevinage de Rouen, XVe siècle
+renaud-de-chatillon | Rnaud prissonier.jpg | Renaud de Châtillon prisonnier, dans une miniature de 1337 | Maître du Roman de Fauvel, 1337
+saladin | Statue of Saladin Damascus.jpg | La statue équestre de Saladin devant la citadelle de Damas
+richard-coeur-de-lion | Church of Fontevraud Abbey Richard I effigy.jpg | Le gisant de Richard Cœur de Lion à l'abbaye de Fontevraud
+frederic-ii | Frederick II and eagle.jpg | Frédéric II et son faucon, dans son traité *De arte venandi cum avibus* | manuscrit du XIIIe siècle, Bibliothèque vaticane
+baybars | Sultan Al-Zahir Rukn al din Baybars, Minted at Alexandria, 1260-1277 CE, Fitzwilliam Museum.jpg | Une monnaie de Baybars frappée à Alexandrie (Fitzwilliam Museum)
+philippe-le-bel | Philip iv and family.jpg | Philippe le Bel entouré de sa famille, enluminure du début du XIVe siècle | enluminure anonyme, v. 1313
+clement-v | Hayton of Corycus before Pope Clement V.jpg | Clément V reçoit le rapport de l'Arménien Hayton sur les Mongols, en 1307 | Maître du Couronnement de Charles VI, v. 1400
+guillaume-de-nogaret | Lettre autographe de Guillaume de Nogaret à Etienne de Suisy 1 - Archives Nationales - AE-II-1713.jpg | Une lettre autographe de Guillaume de Nogaret, mars 1303 | Archives nationales, AE/II/1713
+guillaume-de-nogaret | BonifaciusVIII-Sciarra-Nogaret.jpg | L'attentat d'Anagni (1303) : Nogaret retient Sciarra Colonna, gravure du XIXe siècle | gravure anonyme, XIXe siècle
+enguerrand-de-marigny | ExecutionMarigny.jpg | La pendaison d'Enguerrand de Marigny à Montfaucon, en 1315, vue au XIXe siècle | Alphonse de Neuville, 1883
+roger-de-flor | Entrada de Roger de Flor en Constantinopla (Palacio del Senado de España).jpg | L'entrée de Roger de Flor à Constantinople, peinte en 1888 | José Moreno Carbonero, 1888
+jacques-ii-d-aragon | Envoys from Sicily in front of James II of Aragon, 1294.png | Des envoyés siciliens devant Jacques II d'Aragon, tableau du XIXe siècle | Josep Serra i Porsón, v. 1872
+denis-ier-de-portugal, ordre-du-christ | Túmulo de D. Dinis, Mosteiro de Odivelas 03.jpg | Le tombeau de Denis Ier de Portugal au monastère d'Odivelas
+edouard-ii | Tomb of Edward II, Gloucester Cathedral 01.jpg | Le tombeau d'Édouard II, cathédrale de Gloucester
+
+# ── Europe (lot 08) et sources (lot 11) ─────────────────────────────────────
+tomar | Castelo de Tomar 1.jpg | Le château de Tomar, élevé à partir de 1160 par Gualdim Pais
+templiers-au-portugal | D. Gualdim Pais, Mestre dos Templários - História de Portugal, popular e ilustrada.png | Gualdim Pais, maître du Temple au Portugal, tel que l'imagine un illustrateur de 1899 | Alfredo Roque Gameiro, 1899
+almourol | Castelo de Almourol - 1.jpg | Le château d'Almourol, sur un îlot du Tage
+miravet | 022 Castell de Miravet, muralla nord.JPG | Le mur nord du château de Miravet
+peniscola | Castillo de Peñíscola desde el mar.jpg | Le château de Peñíscola vu de la mer
+ponferrada | Castillo-templarios-ponferrada.jpg | Le château des Templiers de Ponferrada, sur le chemin de Compostelle
+segovie-vera-cruz | Iglesia de la Vera Cruz - 01.jpg | L'église de la Vera Cruz, à Ségovie
+temple-church-londres | The round nave of the Temple Church - geograph.org.uk - 8094507.jpg | La nef ronde de l'église du Temple de Londres
+cressing-temple | Cressing Temple, Barley Barn.jpg | La grange à orge de Cressing Temple, en Essex
+garway | Garway, St. Michael's Church - geograph.org.uk - 4621911.jpg | L'église Saint-Michel de Garway, dans le Herefordshire
+san-bevignate | Complesso templare di San Bevignate.jpg | L'église San Bevignate, à Pérouse | photographie reproduite avec l'accord de la commune de Pérouse, 2002
+chwarszczany | Saint Stanislaus Kostka church in Chwarszczany (3).jpg | La chapelle des Templiers de Chwarszczany, en Poméranie occidentale
+templstejn | Templštejn (2).jpg | Les ruines du château de Templštejn, en Moravie
+guillaume-de-tyr | BNF, Mss fr 68, folio 251v.jpg | L'assemblée d'Acre de 1148, dans un manuscrit de la traduction française de Guillaume de Tyr (BnF, fr. 68) | enluminure, XVe siècle
+jacques-de-vitry | Seal of James of Vitry.jpg | Le sceau de Jacques de Vitry, évêque d'Acre | dessin publié par T. A. Archer et C. L. Kingsford, 1894
+jacques-de-vitry | Houghton MS Riant 35 - de Vitry page 1.jpg | La première page des *Sermones vulgares* de Jacques de Vitry (Houghton Library) | manuscrit du XIIIe siècle
+matthieu-paris | BritLibRoyal14CVIIFol006rMattParisSelfPort.jpg | Matthieu Paris se représente lui-même dans un de ses manuscrits (British Library, Royal 14 C VII) | Matthieu Paris, v. 1250
+usama-ibn-munqidh | Shayzar3.jpg | Le château de Chayzar, en Syrie, berceau de la famille d'Usama
+jean-de-joinville | Jean de Joinville présente sa Vie de Saint Louis au roi Louis X le Hutin.jpg | Jean de Joinville présente sa *Vie de saint Louis* au roi Louis X | Mahiet, 1330-1340
+actes-du-proces | Exécution des Templiers - Français 236.jpg | L'exécution des Templiers, enluminure du XVe siècle (BnF, fr. 236) | enluminure anonyme, XVe siècle
+historiographie-des-templiers | François Just Marie Raynouard.jpg | François Raynouard, qui défendit l'innocence des Templiers en 1813 | gravure de Bonvoisin et Couché
+historiographie-des-templiers | Jules Michelet par Thomas Couture.jpg | Jules Michelet, éditeur des actes du procès, peint par Thomas Couture | Thomas Couture, v. 1865
+
+# ── France du Nord (lot 06) ─────────────────────────────────────────────────
+temple-en-champagne | Plan de la Ferme de Cerre (Arch Dép Aube 31 H 16ter).png | Plan de la ferme de Cerre, dans l'Aube, bien du Temple puis de l'Hôpital, d'après un arpentage ancien | Archives départementales de l'Aube, 31 H 16ter
+payns | Payns cuve baptismale Stat monum Aube 00684.JPG | La cuve baptismale de l'église de Payns, dessinée en 1884 | Charles Fichot, 1884
+troyes | Hotel-du-Commandeur-a-Troyes DSC 373.jpg | L'hôtel du Commandeur, à Troyes
+clairvaux | Abbaye de Clairvaux gravure XVIIIe.jpg | L'abbaye de Clairvaux, gravure ancienne | Israël Silvestre
+foret-d-orient | Lac du temple (Aube).jpg | Le lac du Temple, dans la forêt d'Orient
+avalleur | Commanderie d'Avalleur 07608.jpg | La commanderie d'Avalleur, dessinée en 1837 | Charles Fichot, 1837
+coulours | Coulours, commanderie 01.jpg | La commanderie de Coulours, dans le pays d'Othe
+enclos-du-temple | Hoffbauer-Brezet-Temple1734.jpg | L'enclos du Temple en 1734, d'après le plan dit de Turgot | Théodor Hoffbauer, 1882
+ile-aux-juifs | Square du Vert-Galant seen from the Seine.jpg | Le square du Vert-Galant, à la pointe de l'île de la Cité, là où se trouvait l'île aux Juifs
+la-villedieu-elancourt | Chapelle de la Commanderie de la Villedieu à Élancourt - 2013.JPG | La chapelle de la commanderie de la Villedieu, à Élancourt, après sa restauration
+coulommiers | Coulommiers (77), commanderie de Coulommiers, salle capitulaire, vue depuis le sud-est.jpg | La salle capitulaire de la commanderie de Coulommiers
+chevru | Commanderie de Chevru.jpg | La chapelle de la commanderie de Chevru
+mont-de-soissons | Commanderie serches (3).JPG | La commanderie du Mont-de-Soissons, à Serches
+neuilly-sous-clermont | Neuilly-sous-Clermont - Commanderie - 1.JPG | La commanderie de Neuilly-sous-Clermont
+sours | Commanderie de Sours.JPG | La commanderie de Sours
+arville | Arville - Commanderie 06.jpg | Le colombier de la commanderie d'Arville
+gisors, graffiti-de-domme-et-chinon | Gisors - Tour du Prisonnier - Graffiti Templiers.jpg | Graffiti de la tour du Prisonnier, à Gisors, attribués sans preuve aux Templiers détenus
+sainte-vaubourg | Grange dîmière de la commanderie de Sainte-Vaubourg 01.jpg | La grange de la commanderie de Sainte-Vaubourg
+temple-en-lorraine | Gelucourt remains of the Knights Templar's chapel.JPG | Les restes de la chapelle des Templiers de Gelucourt, en Moselle
+libdeau | Chapelle de la commanderie templière de Libdeau à Toul.jpg | La façade de la chapelle templière de Libdeau, à Toul
+xugney | Xugney, Chapelle Saint-Jean-Baptiste 1.jpg | La chapelle Saint-Jean-Baptiste de Xugney
+xugney | Chapelle de Xugney.jpg | Plan de la chapelle de Xugney, publié en 1913 | Durand, 1913
+marbotte | Marbotte-Apremont-1916.jpg | Marbotte en 1916, pendant la Grande Guerre | Agence Rol, 1916
+temple-en-alsace | Rixheim-Ancienne commanderie (1).jpg | La commanderie de Rixheim, teutonique et non templière, souvent confondue
+bergheim | Le Tempelhof. (1).jpg | Le Tempelhof de Bergheim
+bure-les-templiers | Commanderie de Bures.jpg | La commanderie de Bure
+epailly | Epailly05.jpg | La chapelle de la commanderie d'Épailly, à Courban
+epailly | Epailly10.jpg | L'intérieur de la chapelle d'Épailly
+molay | Molay 70120 vue depuis la Pierre qui vire 08 2009.JPG | Le village de Molay, en Haute-Saône
+carentoir | Carentoir - Chapelle Saint-Jean-Baptiste, Le Temple 02.JPG | La chapelle Saint-Jean-Baptiste du Temple, à Carentoir
+coudrie | Commanderie de Coudrie (1).jpg | La commanderie de Coudrie, à Challans
+la-rochelle | La Rochelle - un coin de la cour de la commanderie, 101324, R674.jpg | Un coin de la cour de la commanderie, à La Rochelle, peint par Corot | Jean-Baptiste Camille Corot
+cressac | Cressac-Saint-Genis 16 Chapelle Templiers façade 2013.jpg | La façade de la chapelle des Templiers de Cressac
+
+# ── Orient (lot 05, revu) ───────────────────────────────────────────────────
+jerusalem-temple-de-salomon | Jerusalem Al-Aqsa Mosque BW 2010-09-21 06-38-12.JPG | La mosquée al-Aqsa, que les Francs appelaient Temple de Salomon, premier siège de l'ordre
+jerusalem-temple-de-salomon | Solomon's Stables LOC matpc.04873.jpg | Les « écuries de Salomon », sous l'esplanade, au début du XXe siècle | collection Matson, Library of Congress
+acre | Acre 201016 Templar Tunnel 01.jpg | Le tunnel des Templiers, à Acre
+chateau-pelerin | Atlit castel 1903.jpg | Château Pèlerin en 1903 | William Sanday, 1903
+safed | Citadel Garden Safed Avney Moreshet 4bb310cb.jpg | La citadelle de Safed
+tortose | Tartus fortress chapel 0788.jpg | La chapelle du château templier de Tortose
+chastel-blanc | Safita Chastel Blanc Church of St. Michael 3689.jpg | La chapelle Saint-Michel, au cœur du donjon de Chastel Blanc
+beaufort | Chateau de Beaufort.jpg | Le château de Beaufort, au-dessus du Litani
+gaza | Grande Mosquée - Ancienne église du 12e siècle, destructions - Gaza - Médiathèque de l'architecture et du patrimoine - AP62T135806.jpg | La grande mosquée de Gaza, ancienne église du XIIe siècle, en 1918
+sidon | Sidon Sea Castle, Sidon, Lebanon.jpg | Le château de la mer, à Sidon
+chypre-templiere | Gastria.jpg | Les vestiges du château templier de Gastria, à Chypre
+tripoli | The Citadel of Raymond de Saint-Gilles, Tripoli, Lebanon.jpg | La citadelle de Raymond de Saint-Gilles, à Tripoli
+antioche | Antioch (Antakiyeh) and environs. City wall on Mt. Silpius LOC matpc.02194.jpg | Les murailles d'Antioche sur le mont Silpius, vers 1900 | collection Matson, Library of Congress
+jaffa | 141729 old jaffa st. peters church PikiWiki Israel.jpg | Le vieux Jaffa et l'église Saint-Pierre | Shlomo Rodad, PikiWiki Israel
+bataille-d-arsouf | Apollonia-Arsuf-104.jpg | Les ruines d'Arsouf, l'antique Apollonia, au nord de Tel-Aviv
+damiette, cinquieme-croisade | Friezen vallen de toren van Damiate aan.jpg | Les croisés frisons attaquent la tour de la Chaîne, à Damiette, en 1218 : dessin de Matthieu Paris | Matthieu Paris, XIIIe siècle
+mansourah | Mansura.jpg | La bataille de Mansourah dans un manuscrit de la *Vie de saint Louis* (BnF, fr. 5716) | enluminure anonyme, v. 1330
+
+# ── Autres ordres (lot 09) ──────────────────────────────────────────────────
+hospitaliers | Seal of Raymond du Puy.jpg | Le sceau de Raymond du Puy, maître de l'Hôpital, dessiné en 1884 | Whitworth Porter, 1884
+teutoniques | Panorama of Malbork Castle, part 4.jpg | Le château de Malbork, siège de l'ordre Teutonique en Prusse
+teutoniques | Montfort fortress 2014 (8).jpg | Le château de Montfort, en Galilée, première forteresse de l'ordre Teutonique
+ordre-de-calatrava | Calatrava la Nueva 4.jpg | Le château-couvent de Calatrava la Nueva
+ordre-de-santiago | Uclés - Real Monasterio de Santiago 01.JPG | Le monastère d'Uclés, maison mère de l'ordre de Santiago
+ordre-de-montesa | Castell de Montesa.jpg | Le château de Montesa
+ordre-de-montesa, ordres-militaires | Paolo de San Leocadio - Virgin of the Knight of Montesa - WGA20715.jpg | La Vierge au chevalier de Montesa | Paolo da San Leocadio, fin du XVe siècle
+ordre-du-christ | Order of Christ Portugal cross.png | La croix de l'ordre du Christ
+ordre-du-saint-sepulcre | Church of the Holy Sepulchre, Jerusalem, 43.jpg | Le Saint-Sépulcre de Jérusalem
+ordres-militaires | Retrato de Jovem Cavaleiro da Ordem de Calatrava, c. 1592-1608, Juan Pantoja de la Cruz, PNSintra 01.jpg | Portrait d'un jeune chevalier de l'ordre de Calatrava, vers 1600 | Juan Pantoja de la Cruz

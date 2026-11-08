@@ -1,0 +1,842 @@
+# T+ — lot 07 : la France du Sud. Occitanie (Larzac, Comminges, Toulousain, Aude,
+# Roussillon, Quercy), Provence et vallée du Rhône, Auvergne et Limousin, Aquitaine,
+# Pyrénées. Quarante-deux articles : trois synthèses régionales sans geo, trente-neuf lieux.
+
+# ── Occitanie ────────────────────────────────────────────────────────────────
+
+@ temple-en-occitanie
+cat: france
+nom: Le Temple en Occitanie
+alias: Templiers en Languedoc, Templiers du Midi toulousain, province de Provence et partie des Espagnes, Templiers et comtes de Toulouse, Templiers en Roussillon
+dates: 1132 – 1312
+an: 1132
+fin: 1312
+def: Le Midi de la France actuelle fut, avec la Champagne, la première terre d'implantation du Temple en Occident : dès les années 1130, Douzens, le Mas Deu, Toulouse, Montsaunès et le Larzac reçoivent les frères, qui y bâtissent un réseau de maisons rurales plus que de forteresses.
+texte: Quand [[hugues-de-payns|Hugues de Payns]] revient d'Occident en 1129, l'[[ordre-du-temple|ordre du Temple]] n'a encore presque rien. Dix ans plus tard, il est partout entre Rhône et Pyrénées. Les premières donations connues du Midi datent de 1132, quand les frères Trencavel cèdent un mas au pied de Carcassonne ; en 1133, des seigneurs donnent la villa de [[douzens|Douzens]] ; en 1136, le Mas Deu naît en Roussillon ; vers 1135, les frères reçoivent un fief à [[toulouse|Toulouse]] ; en 1142, [[montsaunes|Montsaunès]] est attestée dans le Comminges ; vers 1140, [[vaour|Vaour]] dans l'Albigeois ; en 1151, l'abbé de Saint-Guilhem-le-Désert leur donne l'église de [[sainte-eulalie-de-cernon|Sainte-Eulalie]] sur le [[larzac-templier|Larzac]]. Cet essor tient à la noblesse occitane, qui donne des terres, des églises et des hommes, et à la couronne d'Aragon, maîtresse du Roussillon, de la Provence et de droits sur le Rouergue : Alphonse le Batailleur avait légué son royaume aux ordres en 1131, et ses successeurs, les comtes de Barcelone, restent les grands protecteurs du Temple au sud de la Loire (voir [[templiers-et-reconquista|les Templiers et la Reconquista]]).
+texte: La plupart de ces maisons relèvent d'une même circonscription, la province de « Provence et partie des Espagnes », dont le premier maître connu, Pierre de Rovira, ancien précepteur de Douzens, apparaît en 1143 ; l'Aragon et la Catalogne s'en détachent vers le milieu du XIIIe siècle, tandis qu'une partie du Sud-Ouest relève de la province d'Aquitaine (voir [[provinces-du-temple|les provinces du Temple]]). Le Temple occitan n'est pas une armée : c'est une seigneurie dispersée. Il élève des brebis sur le Larzac, des chevaux à Richerenches, fait du vin au Mas Deu, tient des moulins, des fours et des salines en Roussillon, fonde des bourgs neufs comme [[la-cavalerie|La Cavalerie]] ou [[la-ville-dieu-du-temple|La Ville-Dieu]], prête de l'argent à Cahors et à Toulouse. Les revenus partent vers l'Orient par Saint-Gilles puis par [[marseille|Marseille]] (voir [[economie-du-temple|l'économie du Temple]]).
+texte: La croisade albigeoise (1209-1229) ne les détourne pas de cette voie. L'ordre reste neutre : il reçoit des donations des deux camps, ne combat pas les cathares et n'est pas soupçonné d'hérésie, même si la maison de Toulouse brûle en 1216 dans un incendie allumé par les troupes de Simon de Montfort (voir [[templiers-et-cathares|Templiers et cathares]]). Le 13 octobre 1307, les sénéchaux de Toulouse, Carcassonne et Beaucaire arrêtent les frères comme partout dans le royaume ; le dénonciateur de l'affaire, [[esquieu-de-floyran|Esquieu de Floyran]], est un homme de Béziers. Le Roussillon, terre du roi de Majorque, échappe d'abord à la rafle : le [[mas-deu|Mas Deu]] n'est saisi qu'après coup, ses frères nient tout devant l'évêque d'Elne, et leurs voisins catalans sont déclarés innocents par le concile de Tarragone en 1312. En France, les biens passent aux [[hospitaliers|Hospitaliers]] et forment les grands prieurés de Toulouse et de Saint-Gilles, qui les gardent jusqu'à la Révolution.
+texte: Ce que le visiteur voit aujourd'hui est donc rarement templier. Les remparts du Larzac, le fort de Montsaunès, le château de [[montfort-sur-argens|Montfort]] sont l'œuvre des Hospitaliers des XIVe et XVe siècles, bâtis contre les routiers de la guerre de Cent Ans. L'église de brique de Montsaunès, le donjon de Vaour, les ruines du Mas Deu et quelques églises de village sont, avec les cartulaires de Douzens, de Vaour et de Richerenches, la vraie trace du Temple dans le Midi (voir [[cartulaires-du-temple|les cartulaires et les archives]]).
+repere: 1132 — Les frères Trencavel donnent aux Templiers un mas près de Carcassonne, première donation connue du Midi.
+repere: 1133 — Donation de Douzens, dont le cartulaire est conservé.
+repere: 1136 — Première mention du Mas Deu, en Roussillon.
+repere: 1143 — Pierre de Rovira, premier maître connu de la province de Provence et partie des Espagnes.
+repere: 1151 — L'abbé de Saint-Guilhem-le-Désert donne l'église de Sainte-Eulalie-de-Cernon.
+repere: 1216 — La maison du Temple de Toulouse brûle pendant la croisade albigeoise.
+repere: 13 octobre 1307 — Arrestation des Templiers dans les sénéchaussées du Midi.
+repere: 4 novembre 1312 — Le concile de Tarragone déclare innocents les Templiers de la couronne d'Aragon.
+attention: Les « cités templières » du Larzac, les chemins de Compostelle « gardés par les Templiers » et le trésor caché dans les Corbières sont des constructions tardives : le Temple du Midi fut une grande exploitation agricole et financière, non un réseau de forteresses ni une société secrète.
+lien: wp Commanderie de Douzens
+lien: wp Commanderie du Mas Deu
+sources: Demurger, Les Templiers, 2005 ; Wikipédia (fr) : Commanderie de Douzens, Commanderie du Mas Deu, Commanderie de Toulouse, Commanderie de Montsaunès, Commanderie de Vaour ; condensés de l'atelier (Occitanie, réseau France)
+voir: larzac-templier, douzens, mas-deu, toulouse, montsaunes, provinces-du-temple, templiers-et-cathares, temple-en-provence, figeac
+
+@ larzac-templier
+cat: france
+nom: Le Larzac templier et hospitalier
+alias: Templiers du Larzac, cités templières du Larzac, causse du Larzac, Saint-Jean-d'Alcas, Déodat d'Alaus, Larzac templier et hospitalier
+dates: 1151 – 1445
+an: 1151
+fin: 1445
+def: Le causse du Larzac, en Rouergue, fut du milieu du XIIe siècle à 1312 une vaste seigneurie rurale du Temple, gouvernée depuis [[sainte-eulalie-de-cernon|Sainte-Eulalie]] ; les villages fortifiés qui en font la célébrité datent des Hospitaliers et du XVe siècle.
+texte: Le Larzac est un plateau calcaire sec, à 800 mètres d'altitude, entre Millau et Lodève, traversé par la route qui joint le Massif central au Bas-Languedoc. Les Templiers y arrivent par une église : en 1151 (1152 selon le style de datation), Raimond, abbé de Saint-Guilhem-le-Désert, leur cède celle de Sainte-Eulalie, dans la vallée du Cernon, contre une rente annuelle de quatre-vingts sous melgoriens et six fromages. En 1158-1159, Raymond Bérenger IV, comte de Barcelone, qui tient les droits des vicomtes de Millau, donne au commandeur Élie de Montbrun la ville de Sainte-Eulalie et la plus grande partie du plateau, avec le droit d'y rassembler les habitants et de bâtir villes et forteresses ; son fils Alphonse II d'Aragon confirme en 1179 la justice des frères sur leurs villages. Le Temple fonde [[la-cavalerie|La Cavalerie]] sur la route, vers 1154, reçoit en 1181 le mas qui devient [[la-couvertoirade|La Couvertoirade]], exploite la grange du [[viala-du-pas-de-jaux|Viala]], et tient ainsi, à la fin du XIIe siècle, un vaste domaine presque continu sur le plateau.
+texte: Ce domaine vit de la brebis. Les troupeaux montent l'été sur le causse, les frères vendent la laine, le fromage et les agneaux, cultivent le froment et le seigle dans les dolines, creusent des lavognes pour abreuver les bêtes. Quelques frères seulement résident à Sainte-Eulalie, avec des sergents, des bergers et des tenanciers ; les revenus partent vers la Terre sainte (voir [[economie-du-temple|l'économie du Temple]] et [[commanderie|la commanderie]]). Le maître de Provence vient y recevoir des frères dans l'ordre, et des procès avec les seigneurs voisins, les Roquefeuil surtout, rappellent que cette seigneurie n'allait pas sans conflits. Le 13 octobre 1307, les frères du Rouergue sont arrêtés et enfermés au château royal de Najac ; en 1312, leurs biens passent aux [[hospitaliers|Hospitaliers]] du grand prieuré de Saint-Gilles (voir [[devolution-des-biens|la dévolution des biens]]).
+texte: Ce sont les Hospitaliers qui donnent au Larzac son visage actuel. La guerre de Cent Ans amène les routiers sur le causse à partir des années 1360 ; La Couvertoirade est assiégée en 1367. Vers 1430, le commandeur autorise les habitants du Viala à élever une tour-grenier ; en 1439, Bertrand d'Arpajon, grand prieur de Saint-Gilles, fait fortifier les bourgs : le maître maçon Déodat d'Alaus, de Saint-Beauzély, enferme La Couvertoirade dans ses murs de 1439 à 1445, et La Cavalerie puis Sainte-Eulalie reçoivent leur enceinte dans les mêmes années. Au même moment, en 1439-1445, l'abbesse cistercienne de Nonenque fait bâtir le fort de Saint-Jean-d'Alcas, village qui n'a jamais appartenu ni au Temple ni à l'Hôpital. Les cinq sites forment aujourd'hui le circuit du « Larzac templier et hospitalier », animé par le Conservatoire Larzac templier et hospitalier ; le plateau est inscrit depuis 2011 au patrimoine mondial au titre des paysages de l'agropastoralisme méditerranéen.
+repere: 1151 — L'abbé de Saint-Guilhem-le-Désert cède l'église de Sainte-Eulalie aux Templiers.
+repere: 1159 — Raymond Bérenger IV, comte de Barcelone, donne au Temple la ville de Sainte-Eulalie et l'essentiel du causse.
+repere: 1181 — Le mas de La Couvertoirade est cédé aux frères.
+repere: 13 octobre 1307 — Les Templiers du Rouergue sont arrêtés et emprisonnés à Najac.
+repere: 1312 — Les biens du Larzac passent aux Hospitaliers.
+repere: v. 1430 — Tour-grenier du Viala-du-Pas-de-Jaux.
+repere: 1439 — Bertrand d'Arpajon fait fortifier La Couvertoirade, La Cavalerie et Sainte-Eulalie ; fort cistercien de Saint-Jean-d'Alcas.
+repere: 2011 — Les Causses et les Cévennes sont inscrits au patrimoine mondial.
+attention: Aucun rempart du Larzac n'est templier : les enceintes de La Couvertoirade, de La Cavalerie et de Sainte-Eulalie, la tour du Viala, datent du XVe siècle, plus d'un siècle après la suppression de l'ordre ; Saint-Jean-d'Alcas, souvent ajouté au circuit, est un fort cistercien. L'étiquette « cités templières » est un raccourci touristique.
+lien: wp Commanderie de Sainte-Eulalie-de-Cernon
+lien: wp La Couvertoirade
+sources: Wikipédia (fr) : Commanderie de Sainte-Eulalie-de-Cernon, La Couvertoirade, La Cavalerie (Aveyron), Viala-du-Pas-de-Jaux ; notice Mérimée PA00094005 ; condensés de l'atelier (Larzac, histoire du Larzac) ; Demurger, Les Templiers, 2005
+voir: sainte-eulalie-de-cernon, la-couvertoirade, la-cavalerie, viala-du-pas-de-jaux, temple-en-occitanie, hospitaliers, economie-du-temple, commanderie
+
+@ sainte-eulalie-de-cernon
+cat: france
+nom: Commanderie de Sainte-Eulalie-de-Cernon
+alias: Sainte-Eulalie du Larzac, commanderie du Larzac, Sainte-Eulalie-de-Cernon, Élie de Montbrun, Jean de Bernuy Villeneuve
+dates: 1151 – 1312 (Temple), puis Hospitaliers jusqu'en 1792
+an: 1151
+def: Chef-lieu des possessions du Temple sur le [[larzac-templier|Larzac]] à partir des années 1150, Sainte-Eulalie conserve son église romane et le quadrilatère de sa commanderie, remaniés par les [[hospitaliers|Hospitaliers]] qui lui succédèrent de 1312 à la Révolution ; c'est le site templier le plus complet d'Occitanie.
+texte: Le village est blotti dans la vallée du Cernon, au pied du causse, à vingt kilomètres au sud-est de Millau. En 1151, l'abbé Raimond de Saint-Guilhem-le-Désert cède son église aux Templiers ; en 1159, Raymond Bérenger IV, comte de Barcelone, leur donne la ville et une grande partie du plateau par l'intermédiaire du commandeur Élie de Montbrun, avec le droit d'y bâtir. Dans les décennies suivantes, les frères rebâtissent l'église, une nef unique de quatre travées fermée par une abside en hémicycle, et élèvent au nord la commanderie : un quadrilatère autour d'une cour, avec la grande salle qui sert de réfectoire et de chapitre, le dortoir, les celliers, les écuries et les bergeries. Une liste de commandeurs est connue de 1166 à 1303 ; l'un d'eux, vers 1230, est Guillaume de Sonnac, futur maître de l'ordre tué à Mansourah (voir [[guillaume-de-sonnac|Guillaume de Sonnac]]). De Sainte-Eulalie dépendent [[la-cavalerie|La Cavalerie]], [[la-couvertoirade|La Couvertoirade]], la grange du [[viala-du-pas-de-jaux|Viala]] et des dizaines de mas.
+texte: Ce n'est pas une place de guerre. Une poignée de frères y vit avec des sergents et des serviteurs, et la maison gère des milliers de brebis, des terres à grain, des moulins, des péages ; ses excédents partent vers l'Orient (voir [[commanderie|la commanderie]]). Les actes du procès montrent que des frères y furent reçus dans l'ordre par le maître de Provence Roncelin de Fos vers 1260-1265. En 1307, les Templiers du Rouergue sont arrêtés et conduits au château de Najac ; en 1312, Sainte-Eulalie passe aux Hospitaliers, qui en font le chef-lieu d'une commanderie du grand prieuré de Saint-Gilles.
+texte: Les Hospitaliers transforment l'ensemble. Au XVe siècle, contre les routiers, ils entourent le village d'une enceinte à tours rondes, dont le front nord subsiste, et l'aile du commandeur vient combler l'espace entre la tour de guet et le vieux logis. En 1637, un commandeur fait peindre la galerie d'une suite de Vertus par un peintre du Puy-en-Velay, Louis Baudouin, décor redécouvert dans les années 1970 ; en 1641, Jean de Bernuy Villeneuve retourne l'église en perçant une porte dans le chevet pour l'ouvrir sur la place et sa fontaine ; une aile Renaissance porte la date de 1648. Les appartements aristocratiques du XVIIe siècle n'ont rien de templier, et la visite le dit clairement.
+texte: La commanderie, classée monument historique en 1976, inscrite pour le reste en 2003, est gérée par le Conservatoire Larzac templier et hospitalier : parcours scénographié dans la grande salle, le dortoir, la salle des fresques et les appartements, église paroissiale ouverte, remparts, visites guidées et billets combinés avec les autres sites du causse. Qui veut voir ce que les Templiers ont réellement laissé en France le trouvera ici mieux qu'à [[gisors|Gisors]] : une seigneurie rurale, avec son église, ses greniers et ses troupeaux, loin de tout [[tresor-des-templiers|trésor]].
+repere: 1151 — Raimond, abbé de Saint-Guilhem-le-Désert, donne l'église de Sainte-Eulalie aux Templiers.
+repere: 1159 — Raymond Bérenger IV cède au commandeur Élie de Montbrun la ville et une grande partie du Larzac.
+repere: 1166 — Étienne de Malleville, premier commandeur connu.
+repere: v. 1230 — Guillaume de Sonnac, futur maître de l'ordre, commande la maison.
+repere: 1307 — Les Templiers du Rouergue sont emprisonnés à Najac.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 1637 — Louis Baudouin peint la salle des Vertus pour le commandeur.
+repere: 1641 — Jean de Bernuy Villeneuve ouvre une porte dans le chevet de l'église.
+repere: 1976 — Classement monument historique.
+attention: Les remparts, la tour de guet, l'aile du commandeur et ses appartements du XVIIe siècle sont hospitaliers : de l'époque templière restent l'église et le plan du quadrilatère. Les textes de médiation qui parlent de « quarantaine » des chevaliers rentrant d'Orient ou d'un maréchal résidant à Sainte-Eulalie plaquent sur une commanderie rurale une organisation qu'elle n'eut jamais.
+geo: 43.9821, 3.1352
+lieu: Sainte-Eulalie-de-Cernon, Aveyron, France
+lien: wp Commanderie de Sainte-Eulalie-de-Cernon
+lien: wp Sainte-Eulalie-de-Cernon
+sources: Wikipédia (fr) : Commanderie de Sainte-Eulalie-de-Cernon ; condensés de l'atelier (panneaux de visite : appartements du commandeur, infirmerie, salle des fresques ; histoire du Larzac) ; Demurger, Les Templiers, 2005
+voir: larzac-templier, la-couvertoirade, la-cavalerie, viala-du-pas-de-jaux, guillaume-de-sonnac, hospitaliers, commanderie, temple-en-occitanie
+
+@ la-couvertoirade
+cat: france
+nom: La Couvertoirade
+alias: Couvertoirade, Cubertoirata, mas Aismar, château de La Couvertoirade, remparts de La Couvertoirade, Déodat d'Alaus
+dates: 1181 – 1445
+an: 1181
+def: Village du [[larzac-templier|Larzac]] né autour d'un château des Templiers de [[sainte-eulalie-de-cernon|Sainte-Eulalie]], La Couvertoirade doit ses remparts intacts aux [[hospitaliers|Hospitaliers]] et au maître maçon Déodat d'Alaus (1439-1445) ; c'est l'un des Plus Beaux Villages de France.
+texte: Le lieu, *Cubertoirata*, apparaît dès le XIe siècle dans les limites de l'abbaye de Gellone. En 1181, Richard de Montpaon et Brenguier de Molnar cèdent aux Templiers le mas Aismar, au bord d'une petite plaine du causse où l'eau de pluie se rassemble. Les frères y installent une grange, puis un château sur l'éperon rocheux qui domine le site : un donjon à contreforts, une rampe protégée par une barbacane, une porte en arc brisé surmontée d'un assommoir, des salles voûtées avec citerne. La tradition locale date l'ouvrage de 1249 ; la notice Mérimée place le donjon au XIIe siècle. C'est, avec le donjon de Vaour, l'un des rares édifices du Temple en France qui ait une allure militaire, et il servait sans doute surtout de refuge pour les récoltes et le bétail. En 1328, le bourg compte 135 feux, soit huit cents habitants environ.
+texte: Après 1312, les Hospitaliers prennent la suite. Les routiers ravagent le causse au milieu du XIVe siècle et assiègent le village en 1367. En 1439, le grand prieur de Saint-Gilles Bertrand d'Arpajon autorise les habitants à se fortifier ; de 1439 à 1445, Déodat d'Alaus, maître maçon de Saint-Beauzély, élève l'enceinte polygonale de quelque 420 mètres, haute de plus de dix mètres, avec sa tour nord et ses deux portes. Les huguenots échouent devant les murs en 1562 ; en 1566, le capitaine protestant Sausset prend la place, que l'évêque de Lodève Claude Briçonnet reprend peu après ; en 1702, pendant la guerre des Camisards, on remet les portes en état. L'église Saint-Christol, un cimetière à stèles discoïdales, le four banal, la lavogne dallée à la sortie du bourg et des maisons caussenardes à escalier extérieur complètent l'ensemble.
+texte: Longtemps simple membre de Sainte-Eulalie, La Couvertoirade n'est érigée en commanderie indépendante qu'en 1768, peu avant que la Révolution ne vende les biens de l'ordre de Malte. Les remparts sont classés monuments historiques depuis 1895, l'hôtel de Grailhe est inscrit depuis 1934, le château, l'église et la commanderie sont classés depuis 1945. Le village se visite librement ; le chemin de ronde, les tours et les visites guidées sont payants, dans le cadre du circuit du Larzac templier et hospitalier.
+repere: XIe siècle — Première mention de *Cubertoirata* dans les terres de l'abbaye de Gellone.
+repere: 1181 — Richard de Montpaon et Brenguier de Molnar cèdent le mas Aismar aux Templiers.
+repere: 1249 — Date traditionnelle du château templier.
+repere: 1312 — Le village passe aux Hospitaliers.
+repere: 1367 — Les routiers assiègent La Couvertoirade.
+repere: 1439 — Début des remparts, achevés en 1445 par Déodat d'Alaus.
+repere: 1895 — Classement des remparts.
+attention: Les remparts de La Couvertoirade ne sont pas templiers mais hospitaliers et villageois, bâtis entre 1439 et 1445, plus de cent vingt ans après la suppression de l'ordre. Le slogan « unique château templier conservé en France » est une exagération touristique.
+geo: 43.9135, 3.3165
+lieu: La Couvertoirade, Aveyron, France
+lien: wp La Couvertoirade
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00094005 = notice Mérimée du donjon et des restes du château
+sources: Wikipédia (fr) : La Couvertoirade ; notice Mérimée PA00094005 ; condensés de l'atelier (Larzac, histoire du Larzac)
+voir: larzac-templier, sainte-eulalie-de-cernon, la-cavalerie, viala-du-pas-de-jaux, hospitaliers, chateaux-du-temple
+
+@ la-cavalerie
+cat: france
+nom: La Cavalerie
+alias: La Cavalaria, La Cavalerie du Larzac, remparts de La Cavalerie, camp du Larzac
+dates: 1154 – 1435
+an: 1154
+def: Bourg du [[larzac-templier|Larzac]] fondé par les Templiers de [[sainte-eulalie-de-cernon|Sainte-Eulalie]] vers 1154 sur la route de Millau au Languedoc, La Cavalerie garde une enceinte quadrangulaire bâtie par les [[hospitaliers|Hospitaliers]] au XVe siècle et restaurée depuis 1995.
+texte: Le nom vient de l'occitan *caval*, le cheval : on y a vu un lieu d'élevage, un fief de chevaliers ou simplement la maison des « cavaliers » du Temple. La fondation est placée en 1154, mais la première mention écrite, *La Cavalaria*, date de 1174, et l'église Sainte-Marie apparaît en 1180. Les Templiers auraient d'abord peuplé deux sites, La Cavalerie Vieille, à Lestrade, abandonnée au XIVe siècle, et La Cavalerie Neuve, le bourg actuel, posé sur le plateau au carrefour de la route nord-sud et des chemins de transhumance. La maison dépend de Sainte-Eulalie, dont elle est le poste avancé vers Millau.
+texte: Après 1312, le bourg passe aux Hospitaliers. En 1435 selon les uns, en 1439 avec les autres bourgs du grand prieur Bertrand d'Arpajon selon d'autres, ils l'enferment dans une enceinte carrée à trois tours rondes et une tour carrée, dite à tort « donjon des Templiers ». Les protestants pillent la ville en 1568 et 1578 et le château hospitalier est presque détruit en 1580. Les remparts, réhabilités en 1995 puis en 2008, sont inscrits monuments historiques depuis 1998 ; le village s'est développé autour d'eux, puis autour du camp militaire ouvert en 1902, dont le projet d'extension déclencha la lutte du Larzac (1971-1981). L'accès au village est libre, le chemin de ronde et l'espace d'interprétation sont payants.
+repere: 1154 — Date retenue pour la fondation de La Cavalerie par les Templiers.
+repere: 1174 — Première mention écrite, *La Cavalaria*.
+repere: 1312 — Le bourg passe aux Hospitaliers.
+repere: 1435 — Les Hospitaliers élèvent l'enceinte (1439 selon d'autres sources).
+repere: 1998 — Inscription des fortifications aux monuments historiques.
+attention: Le « donjon des Templiers » et les remparts de La Cavalerie datent du XVe siècle et sont hospitaliers ; l'étymologie du nom par la « cavalerie » du Temple est plausible mais non démontrée.
+geo: 44.0082, 3.1572
+lieu: La Cavalerie, Aveyron, France
+lien: wp La Cavalerie (Aveyron)
+sources: Wikipédia (fr) : La Cavalerie (Aveyron) ; condensés de l'atelier (Larzac, histoire du Larzac)
+voir: larzac-templier, sainte-eulalie-de-cernon, la-couvertoirade, viala-du-pas-de-jaux, hospitaliers
+
+@ viala-du-pas-de-jaux
+cat: france
+nom: Le Viala-du-Pas-de-Jaux
+alias: Viala-du-Pas-de-Jaux, tour du Viala, tour-grenier du Larzac
+dates: 1150 – 1430
+an: 1150
+def: Grange des Templiers de [[sainte-eulalie-de-cernon|Sainte-Eulalie]] sur le [[larzac-templier|Larzac]], donnée à l'ordre vers 1150, le Viala est connu pour sa tour-grenier de près de trente mètres, élevée vers 1430 par les habitants avec l'accord du commandeur hospitalier.
+texte: Le Viala est un hameau du rebord occidental du causse, au-dessus de Roquefort et de Saint-Affrique. Donné au Temple vers 1150, il fut un grand domaine d'élevage rattaché à Sainte-Eulalie : des bergeries, des lavognes et des chemins de troupeaux, non un couvent. Après la dévolution de 1312, les [[hospitaliers|Hospitaliers]] y bâtissent l'église Saint-Jean-Baptiste vers 1315. Vers 1430, comme Sainte-Eulalie est trop loin pour servir de refuge, le commandeur autorise les villageois à élever à leurs frais une tour fortifiée où abriter les récoltes et le bétail en cas d'alerte : cinq niveaux, une voûte au sommet, un chemin de ronde, la plus haute tour-grenier du Larzac. Elle est classée monument historique depuis 1993 et se visite en saison dans le cadre du circuit templier et hospitalier ; du sommet, la vue porte sur le cirque de Tournemire et le causse.
+repere: v. 1150 — Le Viala est donné à l'ordre du Temple.
+repere: 1312 — Le domaine passe aux Hospitaliers.
+repere: v. 1315 — Construction de l'église Saint-Jean-Baptiste.
+repere: v. 1430 — Les habitants élèvent la tour-grenier avec l'accord du commandeur.
+repere: 1993 — Classement de la tour.
+attention: La tour du Viala n'est pas templière : elle date de 1430 environ, sous les Hospitaliers, et fut bâtie par les habitants pour protéger leurs grains.
+geo: 43.9566, 3.0551
+lieu: Le Viala-du-Pas-de-Jaux, Aveyron, France
+lien: wp Viala-du-Pas-de-Jaux
+sources: Wikipédia (fr) : Viala-du-Pas-de-Jaux ; condensés de l'atelier (Larzac)
+voir: larzac-templier, sainte-eulalie-de-cernon, la-couvertoirade, la-cavalerie, hospitaliers
+
+@ montsaunes
+cat: france
+nom: Montsaunès
+alias: église Saint-Christophe-des-Templiers, commanderie de Montsaunès, chapelle templière de Montsaunès, peintures de Montsaunès
+dates: 1142 – 1312 (Temple), église v. 1180
+an: 1142
+def: Église de brique d'une commanderie du Comminges attestée dès 1142, bâtie vers 1180 et couverte de peintures géométriques du XIIIe siècle ; seul édifice templier d'Occitanie conservé presque intact, et le plus commenté par les amateurs d'ésotérisme.
+texte: Montsaunès domine le confluent du Salat et de la Garonne, à une vingtaine de kilomètres à l'est de Saint-Gaudens. La charte de fondation est perdue, mais la maison existe déjà en 1142, quand Fourtanier de Toulouse lui fait une donation. Les seigneurs du pays l'enrichissent ensuite sans relâche : en 1156, Raimon At d'Aspet entre dans l'ordre et sa famille donne la ville et le château de Canens ; en 1170, le pape Alexandre III prend les domaines sous sa protection ; en 1178, le comte de Comminges donne Salies-du-Salat ; en 1186, Raymond d'Aspet donne Vernet. Montsaunès devient la principale commanderie de la Haute-Garonne actuelle, avec des dépendances jusqu'à Boudrac et Saint-Marcet ; elle vit de l'élevage, des céréales et de la vigne, accorde des chartes de coutumes à ses villages, dont Montsaunès même le 5 avril 1288 et Plagne en 1303 sous le commandeur Sénebrun de Pins. Après 1312, elle passe aux [[hospitaliers|Hospitaliers]] ; en 1397, leur prieur de Toulouse, Raymond de Lescure, fait élever un fort pour abriter les habitants, et les guerres de Religion ruinent la maison à la fin du XVIe siècle. Du tout ne subsiste que l'église, devenue paroissiale et dédiée à saint Christophe, classée monument historique dès la liste de 1846.
+texte: C'est un vaisseau de brique et de pierre à nef unique, bâti avant 1180 et fermé par un chœur en hémicycle, avec un clocher-mur à l'ouest. Le portail occidental, sous un chrisme, porte un bandeau de cinquante-deux têtes sculptées, sereines au centre, grimaçantes aux extrémités ; ses chapiteaux et ceux du portail nord racontent les Actes des Apôtres et l'enfance du Christ. À l'intérieur, murs et voûte conservent un décor peint du XIIIe siècle, que les historiens de l'art placent entre le début et la fin du siècle : semis d'étoiles et de rosaces à l'ocre rouge sur fond blanc, croix pattées, frises de damiers, de chevrons et de festons, une grande croix sur la première travée, des apôtres et des prophètes sous arcades près du chœur, et, sur le mur ouest, un sagittaire visant un cerf et une pesée des âmes où un démon tente de faire pencher la balance. Les études restent rares ; l'ensemble a été signalé en 1957 et partiellement dégagé à la fin du XXe siècle.
+texte: Ce décor presque sans figures a appelé les lectures. On a vu dans la voûte un ciel, dans la rose de la façade le Christ-soleil entouré des douze apôtres, dans les motifs des « schémas astronomiques », dans un rectangle quadrillé le nombre d'or, dans le démon à tête de chien un souvenir d'Anubis ; la presse maçonnique a fait de l'église, en 2024, « le sanctuaire secret des Templiers ». Ces interprétations sont modernes et ne s'appuient sur aucun texte : la pesée des âmes appartient à l'imagerie chrétienne du Jugement dernier, et les décors à étoiles et à faux appareil sont courants dans les églises romanes et gothiques du Midi (voir [[symbolisme-templier|symbolisme et ésotérisme templiers]]). L'église se voit librement de l'extérieur ; l'intérieur s'ouvre lors de permanences estivales, pour les groupes ou sur demande en mairie.
+repere: 1142 — Une donation de Fourtanier de Toulouse atteste la maison du Temple de Montsaunès.
+repere: 1156 — Raimon At d'Aspet entre dans l'ordre ; don de Canens.
+repere: 1170 — Alexandre III prend les domaines sous sa protection.
+repere: v. 1180 — L'église est achevée.
+repere: 5 avril 1288 — Charte de coutumes de Montsaunès.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 1397 — Raymond de Lescure, prieur de Toulouse, fait bâtir un fort.
+repere: 1846 — L'église est classée monument historique.
+attention: Les lectures astronomiques, égyptiennes ou « initiatiques » des peintures de Montsaunès sont des constructions du XXe et du XXIe siècle ; aucune source médiévale ne dit ce que les frères y voyaient, et rien n'indique qu'ils y aient attaché une doctrine secrète.
+geo: 43.1123, 0.9368
+lieu: Montsaunès, Haute-Garonne, France
+lien: wp Commanderie de Montsaunès
+lien: wp Église Saint-Christophe-des-Templiers de Montsaunès
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00094401 = notice Mérimée de l'église
+sources: Wikipédia (fr) : Commanderie de Montsaunès, Montsaunès, Église Saint-Christophe-des-Templiers de Montsaunès ; notice Mérimée PA00094401 ; condensé de l'atelier (Occitanie) ; Demurger, Les Templiers, 2005
+voir: temple-en-occitanie, toulouse, architecture-templiere, symbolisme-templier, hospitaliers, sainte-eulalie-de-cernon
+
+@ toulouse
+cat: france
+nom: Maison du Temple de Toulouse
+alias: commanderie de Toulouse, Templiers de Toulouse, Temple de Toulouse, rue de la Dalbade, Laramet
+dates: 1135 – 1312
+an: 1135
+def: Fondée vers 1135 près de l'église de la Dalbade, la maison du Temple de Toulouse fut l'une des grandes commanderies urbaines du Midi, voisine et rivale de l'Hôpital ; elle a entièrement disparu sous la fonderie de canons de 1794 puis l'Institut catholique.
+texte: Les Templiers s'installent d'abord hors de la ville, à Laramet, près de Tournefeuille, puis obtiennent en 1135 un fief dans Toulouse même, entre les actuelles rues de la Fonderie et de la Dalbade, à deux pas de l'église Notre-Dame de la Dalbade et d'une commanderie des Hospitaliers de Saint-Jean. Les deux ordres se disputent dîmes et donations ; un accord règle leur différend en 1150, d'autres suivent avec les chanoines de la cathédrale. La maison acquiert des terres autour de la ville, des maisons dans ses faubourgs, le palais de Peirelate à Saint-Cyprien ; elle sert de relais au maître de province et de caisse aux marchands et aux comtes. Plus de trente commandeurs sont connus de 1170 à 1307. En 1216, pendant la croisade albigeoise, un incendie allumé par les troupes de Simon de Montfort endommage les bâtiments, et le chef de la maison se replie un temps à [[la-ville-dieu-du-temple|La Ville-Dieu]] (voir [[templiers-et-cathares|Templiers et cathares]]).
+texte: Le 13 octobre 1307, le sénéchal de Toulouse arrête les frères ; les interrogatoires du Midi fournissent une part des aveux du procès. En 1312, les biens passent aux [[hospitaliers|Hospitaliers]], qui doivent entretenir les anciens Templiers pensionnés et dont le grand prieuré de Toulouse s'établit tout près, à Saint-Rémi. Au milieu du XIVe siècle, les bâtiments du Temple vont aux clarisses ; en 1794, la Révolution y installe une fonderie de canons, fermée en 1866, et l'Institut catholique occupe les lieux depuis. Rien ne subsiste en élévation : le souvenir tient dans le nom de la rue de la Fonderie, dans les archives et dans une façade de la rue de la Dalbade que la tradition appelle « maison du Temple ».
+repere: 1135 — Les Templiers reçoivent un fief dans Toulouse, près de la Dalbade.
+repere: 1150 — Accord entre le Temple et l'Hôpital de Toulouse sur leurs droits.
+repere: 1216 — Incendie de la maison pendant la croisade albigeoise.
+repere: 13 octobre 1307 — Arrestation des frères par le sénéchal.
+repere: 1312 — Les biens passent aux Hospitaliers.
+repere: 1794 — Une fonderie de canons occupe l'emplacement du Temple.
+attention: Il ne faut pas confondre le Temple de Toulouse, disparu, avec la commanderie hospitalière Saint-Rémi (ou Saint-Jean) voisine, siège du grand prieuré de Toulouse jusqu'à la Révolution ; l'« hôtel des Templiers » que montrent certains guides n'a rien de médiéval d'assuré.
+geo: 43.5954, 1.4430
+lieu: Toulouse, Haute-Garonne, France
+lien: wp Commanderie de Toulouse
+sources: Wikipédia (fr) : Commanderie de Toulouse, Institut catholique de Toulouse ; condensé de l'atelier (Occitanie) ; Demurger, Les Templiers, 2005
+voir: temple-en-occitanie, montsaunes, la-ville-dieu-du-temple, templiers-et-cathares, hospitaliers, arrestation-du-13-octobre-1307
+
+@ douzens
+cat: france
+nom: Douzens
+alias: commanderie de Douzens, cartulaire de Douzens, Templiers de Douzens, Pierre de Rovira, Brucafel
+dates: 1133 – 1312
+an: 1133
+def: Donnée aux Templiers en 1133 par des seigneurs de la région de Carcassonne, Douzens est la première commanderie datée du Languedoc et l'une des mieux documentées d'Europe grâce à ses cartulaires conservés ; il n'en reste aucun monument lisible.
+texte: Douzens est un village de vignes au pied de la montagne d'Alaric, entre Carcassonne et Lézignan. Les Templiers entrent dans la région en avril 1132, quand Roger de Béziers, Raimond Trencavel et Bernard Aton, avec leur mère Cécile, leur donnent un mas près des murs de Carcassonne ; en 1133, Bernard de Canet, Aymeric de Barbayrac et d'autres seigneurs cèdent la villa de Douzens et son territoire. Le frère Hugues de Rigaud, l'un des collecteurs de dons de l'ordre naissant, y passe dès 1132 ; en 1139, le maître [[robert-de-craon|Robert de Craon]] et Arnaud de Bedos, fondateur de [[richerenches|Richerenches]], sont attestés dans le pays. Pierre de Rovira commande la maison en 1141-1143 avant de devenir le premier maître connu de la province de Provence et partie des Espagnes. Douzens gère ensuite des dépendances à Brucafel, près de Carcassonne, à [[campagne-sur-aude|Campagne]], dans les Corbières, et vit de la terre, des moulins et des cens. Plusieurs commandeurs s'y succèdent au début des années 1150 ; un acte du 4 février 1153 règle ainsi la cession d'un moulin drapier.
+texte: Tout cela est connu par les cartulaires de la maison, copiés au XIIe siècle et édités en 1965 par Pierre Gérard et Élisabeth Magnou : des centaines d'actes qui montrent, mieux que partout ailleurs en France, comment une commanderie se constitue par petites donations, achats et échanges (voir [[cartulaires-du-temple|les cartulaires et les archives]]). En 1250, le pape Innocent IV demande au comte Alphonse de Poitiers de rendre aux frères des terres qu'on leur a prises. Après 1312, la maison passe aux [[hospitaliers|Hospitaliers]], dont les commandeurs se succèdent de 1322 à 1783 ; le village, nommé *Dozincho* dans un acte de 1259, se fortifie après 1366. La commanderie reste riche : en 1751, le commandeur hospitalier en tire 6 055 livres de revenu net, chiffre qui dit la solidité d'un domaine constitué six siècles plus tôt, mais rien de l'époque templière elle-même. Il n'y a rien à voir du Temple à Douzens : l'église Saint-Vincent n'est pas tenue pour templière, et seules quelques maçonneries remployées rappellent la commanderie. L'intérêt du lieu est dans ses archives.
+repere: avril 1132 — Les frères Trencavel donnent un mas près de Carcassonne aux Templiers.
+repere: 1133 — Bernard de Canet et Aymeric de Barbayrac donnent Douzens.
+repere: 1141 — Pierre de Rovira, commandeur de Douzens, futur maître de province.
+repere: 4 février 1153 — Acte réglant la cession d'un moulin drapier, sous le commandeur Arnaud de Sournies.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 1965 — Édition des cartulaires par Pierre Gérard et Élisabeth Magnou.
+attention: Douzens est un lieu d'archives, non de ruines : il n'y a pas de « chapelle des Templiers » à visiter. La date de 1133 en fait la première commanderie datée du Languedoc, ce qui ne veut pas dire la première de France : en Champagne, le Temple reçoit des biens dès les années 1120.
+geo: 43.1850, 2.5955
+lieu: Douzens, Aude, France
+lien: wp Commanderie de Douzens
+lien: wp Douzens
+sources: Wikipédia (fr) : Commanderie de Douzens, Douzens ; condensé de l'atelier (Occitanie) ; Demurger, Les Templiers, 2005
+voir: temple-en-occitanie, campagne-sur-aude, mas-deu, richerenches, cartulaires-du-temple, robert-de-craon, provinces-du-temple
+
+@ mas-deu
+cat: france
+nom: Commanderie du Mas Deu
+alias: Masdéu, Mas Déu, Mansus Dei, commanderie du Roussillon, Ramon Sa Guardia, Raymond de Guardia, Templiers du Roussillon
+dates: 1136 – 1312
+an: 1136
+def: Fondée vers 1136 dans la plaine du Roussillon, le Mas Deu fut la maison mère des Templiers catalans du nord des Pyrénées et l'une des plus riches du Midi ; terre du roi de Majorque, elle échappa à l'arrestation d'octobre 1307, et ses frères, interrogés plus tard, nièrent tout.
+texte: Le Mas Deu, « le mas de Dieu », s'élève sur la commune de Trouillas, à quinze kilomètres au sud-ouest de Perpignan, dans la paroisse de Villemolaque. Attestée en 1136 par des donations pieuses, la maison possède dès 1138 une chapelle Sainte-Marie et devient la tête des maisons du Temple dans les diocèses d'Elne et de Narbonne. En un siècle elle rassemble un temporel considérable : des dépendances à Perpignan, Saint-Hippolyte, Palau-del-Vidre (1172), Orla (1271), des fours à Perpignan, des pêcheries à Salses, des salines, des moulins, et surtout des vignes dont le vin s'exporte par Collioure. Un terrier de 1264 détaille ces droits. L'enceinte, un rectangle d'environ soixante mètres sur quatre-vingts flanqué de tours d'angle, protégeait des celliers plus que des soldats.
+texte: En 1262, Jacques Ier d'Aragon partage son héritage et destine le Roussillon à son second fils, Jacques ; le royaume de Majorque naît à sa mort, en 1276, et devient vassal de la couronne d'Aragon en 1298. Le Mas Deu se trouve donc en 1307 hors du royaume de France, chez un roi qui n'a aucune raison de suivre Philippe le Bel. Quand le roi de France presse Jacques II de Majorque d'imiter l'arrestation du 13 octobre, le roi refuse d'agir sans mandat du pape ; les frères ont le temps de se concerter, et leur commandeur, Ramon Sa Guardia, lieutenant du maître d'Aragon, va diriger la défense du château de Miravet, sur l'Èbre, qui ne se rend à Jacques II d'Aragon qu'en décembre 1308 (voir [[miravet|Miravet]]). Les Templiers du Roussillon, finalement arrêtés, sont interrogés en 1310 par l'évêque d'Elne et nient tout ; leurs frères de Catalogne et d'Aragon sont déclarés innocents par le concile provincial de Tarragone le 4 novembre 1312, et les survivants reçoivent des pensions sur leurs anciens biens. Le dernier d'entre eux, Berenguer de Coll, vit encore en 1350 (voir [[jacques-ii-d-aragon|Jacques II d'Aragon]]).
+texte: Les biens passent aux [[hospitaliers|Hospitaliers]], qui gardent le Mas Deu jusqu'à la Révolution. Le domaine devient ensuite une exploitation viticole ; en 1944, l'explosion d'un dépôt de munitions allemand ruine les bâtiments. Il subsiste la chapelle romane Sainte-Marie, très remaniée, et des pans de murs dans la végétation, au milieu d'un domaine privé qui ne se visite pas.
+repere: 1136 — Première mention du Mas Deu.
+repere: 1138 — Chapelle Sainte-Marie ; le Mas Deu est maison mère du Roussillon.
+repere: 1264 — Terrier des possessions de la commanderie.
+repere: novembre 1307 — Jacques II de Majorque refuse d'arrêter les Templiers sans ordre du pape.
+repere: décembre 1308 — Reddition de Miravet, défendu par Ramon Sa Guardia.
+repere: 1310 — Les Templiers du Roussillon, interrogés par l'évêque d'Elne, nient les accusations.
+repere: 4 novembre 1312 — Le concile de Tarragone déclare innocents les Templiers de la couronne d'Aragon.
+repere: 1944 — Explosion d'un dépôt de munitions ; ruine des bâtiments.
+attention: La « résistance armée du Mas Deu » que racontent certains sites est une confusion : la commanderie roussillonnaise n'a pas été assiégée ; c'est Miravet, en Catalogne, que son commandeur Ramon Sa Guardia défendit contre le roi d'Aragon, non contre celui de Majorque.
+geo: 42.6076, 2.8346
+lieu: Trouillas, Pyrénées-Orientales, France
+lien: wp Commanderie du Mas Deu
+sources: Wikipédia (fr) : Commanderie du Mas Deu ; condensé de l'atelier (Occitanie) ; Demurger, Les Templiers, 2005
+voir: temple-en-occitanie, miravet, jacques-ii-d-aragon, templiers-et-reconquista, douzens, campagne-sur-aude, hospitaliers
+
+@ campagne-sur-aude
+cat: france
+nom: Campagne-sur-Aude
+alias: Campagne-les-Bains, village templier de Campagne, Templiers du Razès
+dates: XIIe siècle – 1312
+an: 1150
+def: Village de la haute vallée de l'Aude, près de Quillan, bâti en rond autour d'une maison du Temple qui dépendit de [[douzens|Douzens]] puis du [[mas-deu|Mas Deu]] ; sa trame circulaire et son église sont le seul souvenir d'une présence templière réelle dans le pays de Rennes-le-Château.
+texte: Campagne occupe une terrasse de la rive gauche de l'Aude, entre Quillan et Espéraza, au cœur du Razès. Les Templiers y possèdent dès le XIIe siècle une maison citée dans les actes de Douzens, dont elle est un membre, avant de relever plus tard du Mas Deu, en Roussillon ; c'est à ce rattachement qu'une tradition attribue la tranquillité des frères du Razès en octobre 1307, idée séduisante mais que rien ne documente précisément. Le village a gardé la forme d'un fort circulaire : un pâté de maisons central où se dresse l'église Saint-Sébastien, remaniée au fil des siècles, entouré de ruelles concentriques et d'anciens passages. Après 1312, la seigneurie de Campagne appartient aux commandeurs [[hospitaliers|Hospitaliers]] de Douzens jusqu'à la Révolution. Le village et ses ruelles se parcourent librement ; l'église s'ouvre aux heures des offices. Campagne est le lieu le plus proche de Rennes-le-Château où le Temple soit attesté par des chartes, ce qui n'a pas empêché la légende de préférer les ruines du [[le-bezu|Bézu]] (voir [[rennes-le-chateau|Rennes-le-Château et les Templiers]]).
+repere: XIIe siècle — Une maison du Temple est attestée à Campagne, membre de Douzens.
+repere: XIIIe siècle — La maison passe dans la dépendance du Mas Deu.
+repere: 1312 — Campagne passe aux Hospitaliers de Douzens.
+attention: La « forteresse templière » de Campagne est un village ecclésial fortifié d'allure modeste ; l'idée que ses frères auraient été épargnés en 1307 grâce au Roussillon est une tradition, non un fait établi.
+geo: 42.9160, 2.2069
+lieu: Campagne-sur-Aude, Aude, France
+lien: wp Campagne-sur-Aude
+sources: Wikipédia (fr) : Campagne-sur-Aude, Commanderie de Douzens, Rennes-le-Château ; condensé de l'atelier (Occitanie)
+voir: douzens, mas-deu, le-bezu, rennes-le-chateau, temple-en-occitanie, hospitaliers
+
+@ le-bezu
+cat: france
+nom: Château du Bézu
+alias: Albedun, Albedunum, Le Bézu, château des Templiers du Bézu, Saint-Just-et-le-Bézu
+dates: Xe – XIIIe siècle
+an: 1173
+def: Ruine arasée sur une crête des Corbières, près de Rennes-le-Château, le Bézu fut un château seigneurial du Razès que la littérature du XXe siècle a transformé en forteresse templière ; aucune source médiévale ne lie les Templiers à ce lieu.
+texte: Le Bézu, *Albedunum*, est au Xe siècle le chef-lieu d'une circonscription carolingienne du comté de Razès ; ses seigneurs, vassaux des comtes de Cerdagne puis de Besalú, portent les noms de Sesmond ou Cesmond et sont attestés jusqu'au XIIIe siècle. En 1173, le vicomte Arnaud de Fenouillet en tient la suzeraineté. Pendant la croisade albigeoise, la place se serait rendue sans combat après la chute de Termes, en 1210 ; en 1246, Esclarmonde du Bézu doit céder ses terres de Ginoles à l'archevêque de Narbonne. Il reste aujourd'hui, sur une arête calcaire spectaculaire au-dessus de Saint-Just-et-le-Bézu, quelques pans de murs très arasés, accessibles par un sentier escarpé.
+texte: Les Templiers n'apparaissent dans aucun de ces actes. Leur maison la plus proche est [[campagne-sur-aude|Campagne]], à quelques kilomètres, membre de Douzens puis du Mas Deu. Le rattachement du Bézu à l'ordre vient de la littérature née autour de Rennes-le-Château après *L'Or de Rennes* de Gérard de Sède (1967) : des auteurs comme Jean Markale ont affirmé que les « Templiers du Bézu », protégés par le roi d'Aragon, auraient été les seuls à échapper à l'arrestation du 13 octobre 1307 et y auraient caché un trésor. Rien ne l'appuie ; une autre hypothèse, tout aussi difficile à démontrer faute de sources, voit au Bézu un atelier de faux-monnayeurs du XIVe siècle (voir [[rennes-le-chateau|Rennes-le-Château et les Templiers]] et [[tresor-des-templiers|le trésor des Templiers]]).
+repere: Xe siècle — Le Bézu est le chef-lieu d'une circonscription du comté de Razès.
+repere: 1173 — Le vicomte Arnaud de Fenouillet tient la suzeraineté du château.
+repere: 1210 — La place se serait rendue après la chute de Termes.
+repere: 1246 — Esclarmonde du Bézu cède Ginoles à l'archevêque de Narbonne.
+repere: 1967 — *L'Or de Rennes* de Gérard de Sède lance la vogue de Rennes-le-Château.
+attention: Il n'y a jamais eu de commanderie au Bézu : le « château des Templiers » est une appellation moderne, et l'histoire des frères épargnés en 1307 ne repose sur aucun document.
+geo: 42.8794, 2.2672
+lieu: Saint-Just-et-le-Bézu, Aude, France
+lien: wp Saint-Just-et-le-Bézu
+lien: wp Rennes-le-Château
+sources: Wikipédia (fr) : Saint-Just-et-le-Bézu, Rennes-le-Château ; fiche du site Sites templiers de France ; condensé de l'atelier (Occitanie)
+voir: rennes-le-chateau, tresor-des-templiers, campagne-sur-aude, mas-deu, templiers-et-cathares, temple-en-occitanie
+
+@ vaour
+cat: france
+nom: Commanderie de Vaour
+alias: Templiers de Vaour, cartulaire de Vaour, donjon de Vaour, Fort Sans
+dates: v. 1140 – 1312
+an: 1140
+def: Fondée vers 1140 sur une butte dominant la forêt de Grésigne, entre Albi et Montauban, Vaour fut la tête d'une baillie templière du Quercy et de l'Albigeois ; ses ruines classées, donjon et grange, comptent parmi les plus imposantes laissées par l'ordre en France.
+texte: Vaour est un village du Tarn perché au-dessus de la Grésigne, à quatre-vingts kilomètres au nord-est de Toulouse. Les premières donations, faites par des chevaliers de Penne au profit d'un certain Pierre Humbert, datent des années 1140-1143 ; un cartulaire, édité en 1894 par Charles Portal et Edmond Cabié, raconte l'essor de la maison. De 1174 à 1186, le commandeur Fort Sans dirige une baillie qui comprend Vaour, [[montricoux|Montricoux]], et des biens dispersés ; en 1248, Gaillard de Pradines commande ensemble Vaour, Montricoux et [[lacapelle-livron|La Capelle-Livron]] ; le 25 juillet 1303, le commandeur Bernard de la Roche, lieutenant du visiteur de Provence, signe à Montpellier l'adhésion de l'ordre à l'appel de Philippe le Bel contre Boniface VIII. Après 1312, les [[hospitaliers|Hospitaliers]] gardent la commanderie jusqu'à la Révolution.
+texte: Il reste un donjon d'une vingtaine de mètres, une tour octogonale effondrée en 1910, des pans de l'enceinte et une grande grange à contreforts, restaurée, qui sert de salle de spectacle au festival L'Été de Vaour. Le site, classé monument historique en 1927, est en accès libre avec des panneaux d'interprétation. Ces ruines ont une allure de forteresse, mais Vaour fut d'abord un centre d'exploitation : le donjon protégeait des récoltes et des archives, non une garnison.
+repere: v. 1140 — Des chevaliers de Penne donnent des terres aux Templiers ; naissance de Vaour.
+repere: 1174 — Fort Sans, commandeur, dirige la baillie de Vaour jusqu'en 1186.
+repere: 1248 — Gaillard de Pradines commande Vaour, Montricoux et La Capelle-Livron.
+repere: 25 juillet 1303 — Bernard de la Roche, commandeur de Vaour, adhère à Montpellier à l'appel contre Boniface VIII.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 1927 — Classement des ruines.
+attention: Les origines de Vaour restent floues : le bénéficiaire des premières terres, Pierre Humbert, est parfois présenté comme un prieur cistercien plutôt que comme un Templier. La « baillie sur sept cantons » qu'on lit dans les guides plaque une unité moderne sur une seigneurie médiévale.
+geo: 44.0693, 1.8025
+lieu: Vaour, Tarn, France
+lien: wp Commanderie de Vaour
+sources: Wikipédia (fr) : Commanderie de Vaour ; condensé de l'atelier (Occitanie) ; fiche du site Sites templiers de France
+voir: lacapelle-livron, montricoux, temple-en-occitanie, cartulaires-du-temple, hospitaliers, philippe-le-bel
+
+@ lacapelle-livron
+cat: france
+nom: Commanderie de Lacapelle-Livron
+alias: La Capelle-Livron, Lacapelle-Livron, commanderie de La Capelle, chapelle des Templiers de Lacapelle-Livron
+dates: 1225 – 1312
+an: 1225
+def: Maison du Temple du Quercy dépendant de [[vaour|Vaour]], attestée dans les années 1225-1236 au-dessus des gorges de la Bonnette, Lacapelle-Livron devint vers 1260 chef-lieu de baillie ; sa chapelle et deux ailes du château, remaniés par les Hospitaliers, subsistent dans le village.
+texte: Le village domine la Bonnette, à l'est de Caylus, dans le Tarn-et-Garonne. La maison du Temple y est attestée en 1225 ou 1236 selon les sources, et en 1248 le même commandeur, Gaillard de Pradines, dirige Vaour, Montricoux et La Capelle. Vers 1260, elle remplace Cahors comme chef-lieu de la baillie templière du Quercy et abrite chevaliers, chapelains et sergents. Après 1312, les [[hospitaliers|Hospitaliers]] en font une commanderie dont le titulaire est toujours un chevalier, prospère jusqu'à la Révolution. L'ancienne chapelle de la commanderie, devenue église paroissiale, est classée monument historique depuis 1901 ; le pigeonnier dit des Templiers est inscrit depuis 1971 ; deux ailes du château, transformées en ferme, sont privées et se voient de l'extérieur. À l'écart, la chapelle Notre-Dame-des-Grâces, classée en 1948, est un sanctuaire de pèlerinage distinct de la commanderie.
+repere: 1225 — Première mention de la maison du Temple de La Capelle (1236 selon d'autres sources).
+repere: 1248 — Gaillard de Pradines commande La Capelle avec Vaour et Montricoux.
+repere: v. 1260 — La Capelle remplace Cahors comme chef-lieu de la baillie du Quercy.
+repere: 1312 — La maison passe aux Hospitaliers.
+repere: 1901 — Classement de l'ancienne chapelle.
+attention: L'aspect fortifié des bâtiments et la plupart des élévations datent des Hospitaliers ; la chapelle Notre-Dame-des-Grâces, souvent confondue avec celle des Templiers, est un autre édifice.
+geo: 44.2676, 1.7846
+lieu: Lacapelle-Livron, Tarn-et-Garonne, France
+lien: wp Lacapelle-Livron
+sources: Wikipédia (fr) : Lacapelle-Livron, Commanderie de Vaour ; condensé de l'atelier (Occitanie) ; fiche du site Sites templiers de France
+voir: vaour, montricoux, temple-en-occitanie, hospitaliers, commanderie
+
+@ montricoux
+cat: france
+nom: Donjon de Montricoux
+alias: château de Montricoux, Templiers de Montricoux, musée Marcel-Lenoir
+dates: 1181 – 1312
+an: 1181
+def: Maison du Temple des bords de l'Aveyron attestée en 1181 dans la baillie de [[vaour|Vaour]], Montricoux garde un donjon carré de la fin du XIIe ou du XIIIe siècle, intégré au château qui abrite aujourd'hui le musée Marcel-Lenoir ; en 1312, la seigneurie échut au dénonciateur [[esquieu-de-floyran|Esquieu de Floyran]].
+texte: Montricoux est un village à colombages à l'entrée des gorges de l'Aveyron, au nord-est de Montauban. La maison du Temple y est citée en 1181 parmi les dépendances de Vaour ; des commandeurs propres sont connus en 1277 (Pierre de Geoffroy) et en 1296 (Bernard de la Roche, futur commandeur de Vaour). Le donjon, une haute tour carrée à salles superposées et escalier à vis, est le seul vestige de cette maison ; sa date flotte entre la fin du XIIe siècle et le XIIIe. Après la suppression de l'ordre, la seigneurie de Montricoux revient à Esquieu de Floyran, l'homme de Béziers dont les dénonciations avaient lancé l'affaire en 1305 ; il la tient de 1312 à 1322, après quoi elle passe aux [[hospitaliers|Hospitaliers]]. Le château est rebâti au début du XVIIIe siècle par les Malartic autour de la vieille tour. Le donjon, inscrit monument historique en 1927, se voit du village ; l'intérieur du château, musée privé consacré au peintre Marcel-Lenoir (1872-1931), ouvre selon la saison.
+repere: 1181 — Montricoux est cité parmi les dépendances de la commanderie de Vaour.
+repere: 1277 — Pierre de Geoffroy, commandeur de Montricoux.
+repere: 1312 — La seigneurie revient à Esquieu de Floyran, dénonciateur de l'ordre.
+repere: 1322 — Montricoux passe aux Hospitaliers.
+repere: 1927 — Inscription du donjon aux monuments historiques.
+attention: Seul le donjon peut remonter au Temple ; le château qui l'entoure est du XVIIIe siècle, et la date de 1187 avancée pour la tour par certains guides n'est pas documentée.
+geo: 44.0753, 1.6187
+lieu: Montricoux, Tarn-et-Garonne, France
+lien: wp Montricoux
+sources: Wikipédia (fr) : Montricoux, Commanderie de Vaour ; fiche du site Sites templiers de France ; Demurger, Les Templiers, 2005
+voir: vaour, lacapelle-livron, esquieu-de-floyran, temple-en-occitanie, hospitaliers
+
+@ la-ville-dieu-du-temple
+cat: france
+nom: La Ville-Dieu-du-Temple
+alias: Villadei, Lavilledieu-du-Temple, La Villedieu, sauveté de La Ville-Dieu
+dates: v. 1150 – 1312
+an: 1150
+def: Bourg de la plaine de la Garonne fondé par les Templiers au milieu du XIIe siècle dans la forêt d'Agre, La Ville-Dieu garde dans son nom et dans son plan rectangulaire le souvenir d'une « ville de Dieu » qui ne se remplit jamais ; la commanderie, passée à l'Hôpital, a disparu.
+texte: Entre Montauban et Castelsarrasin, la forêt d'Agre couvrait au XIIe siècle la plaine entre Tarn et Garonne. Les Templiers y établissent une commanderie, défrichent, tracent autour d'elle une enceinte rectangulaire et y fondent une cité neuve, *Villadei*, en empiétant sur la paroisse voisine d'Albefeuille, que revendique l'abbaye Saint-Théodard de Montauriol. La concurrence de Montauban (1144) et de Castelsarrasin, fondées à la même époque, laisse l'enceinte plus qu'à moitié vide. La maison sert cependant de repli au maître du Temple de [[toulouse|Toulouse]] après l'incendie de 1216, et le comte Raymond VII lui confirme des droits sur le Tarn. Au XIVe siècle, La Ville-Dieu passe aux [[hospitaliers|Hospitaliers]], qui y maintiennent une commanderie importante jusqu'à la Révolution. L'église Notre-Dame, détruite en 1628, est reconstruite à partir de 1865 en style néogothique ; sa nef est aveugle au sud parce que des bâtiments occupent l'emplacement de l'ancienne commanderie. Il n'y a rien de médiéval à visiter : le village vaut comme exemple de ces bourgs neufs que l'ordre fonda dans le Midi, comme [[la-cavalerie|La Cavalerie]].
+repere: v. 1150 — Les Templiers fondent *Villadei* dans la forêt d'Agre.
+repere: 1216 — Le chef de la maison de Toulouse se replie à La Ville-Dieu.
+repere: XIVe siècle — La commanderie passe aux Hospitaliers.
+repere: 1865 — Reconstruction de l'église Notre-Dame.
+attention: Malgré son nom, La Ville-Dieu n'a plus aucun bâtiment templier visible ; le qualificatif « bastide templière » est impropre, la fondation étant antérieure au mouvement des bastides.
+geo: 44.0363, 1.2187
+lieu: La Ville-Dieu-du-Temple, Tarn-et-Garonne, France
+lien: wp La Ville-Dieu-du-Temple
+sources: Wikipédia (fr) : La Ville-Dieu-du-Temple, Commanderie de Toulouse ; condensé de l'atelier (Occitanie)
+voir: toulouse, la-cavalerie, temple-en-occitanie, hospitaliers, commanderie
+
+@ figeac
+cat: france
+nom: Figeac
+alias: commanderie des Templiers de Figeac, hôtel des Templiers de Figeac, tour du Griffon, commanderie du Griffoul
+dates: v. 1187 – 1312
+an: 1187
+def: Les Templiers s'établissent vers 1187 aux portes de Figeac, ville marchande du Quercy, puis vers 1214 dans le quartier du Griffoul ; l'ensemble médiéval de la rue Gambetta dit « commanderie des Templiers », classé en 1991, porte une attribution que la tradition a figée.
+texte: Figeac, étape sur la route du Puy à Conques et Cahors, est au XIIe siècle une ville de marchands et de changeurs. Les Templiers y arrivent vers 1187, à l'extrémité de la ville, au lieu-dit La Curie Basse, puis s'installent vers 1214 à l'intérieur des murs, dans le quartier du Griffoul, où leur maison est aussi appelée hôpital d'Oltrapont. En 1301, Philippe le Bel intervient à Figeac après un soulèvement ; en 1307, les frères sont arrêtés comme ailleurs et leurs biens passent en 1312 aux [[hospitaliers|Hospitaliers]], qui quittent les lieux après 1358. Les bâtiments des numéros 39 à 45 de la rue Gambetta, remaniés aux XVe et XVIIIe siècles, forment trois corps autour d'une cour : de grandes arcades brisées au rez-de-chaussée, des baies géminées à l'étage, une tour, dite du Griffon, restituée dans son état du XIIIe siècle, une galerie du XVIIe. L'ensemble, propriété privée, est classé monument historique depuis le 13 septembre 1991 et s'ouvre à la visite selon la saison. Que ces murs aient été ceux du Temple est vraisemblable mais non prouvé : la maison de Figeac est attestée, son emplacement exact reste discuté, et le nom de « commanderie des Templiers » appartient à la tradition locale plus qu'aux archives.
+repere: v. 1187 — Les Templiers s'établissent à La Curie Basse, aux portes de Figeac.
+repere: v. 1214 — Installation intra-muros, dans le quartier du Griffoul.
+repere: 1312 — Les biens passent aux Hospitaliers.
+repere: 1358 — Les Hospitaliers quittent définitivement les bâtiments.
+repere: 13 septembre 1991 — Classement de l'ensemble de la rue Gambetta.
+attention: L'« hôtel des Templiers » de Figeac est un bel ensemble civil du XIIIe siècle dont le lien avec l'ordre repose sur la tradition : la présence du Temple dans la ville est sûre, son adresse ne l'est pas.
+geo: 44.6088, 2.0337
+lieu: Figeac, Lot, France
+lien: wp Commanderie de Figeac
+sources: Wikipédia (fr) : Commanderie de Figeac ; fiche du site Sites templiers de France
+voir: temple-en-occitanie, lacapelle-livron, banque-du-temple, hospitaliers, architecture-templiere
+
+# ── Provence et vallée du Rhône ──────────────────────────────────────────────
+
+@ richerenches
+cat: france
+nom: Commanderie de Richerenches
+alias: Richerenches, Templiers de Richerenches, cartulaire de Richerenches, Arnaud de Bedos, Hugues de Bourbouton, Enclave des Papes
+dates: 1136 – 1312
+an: 1136
+def: Fondée en 1136 par le frère catalan Arnaud de Bedos, Richerenches fut la première grande commanderie de Provence et un centre d'élevage de chevaux de guerre pour l'Orient ; le village actuel occupe encore le quadrilatère fortifié de la maison, classé en 1984.
+texte: Richerenches est un village de l'Enclave des Papes, ce morceau de Vaucluse enclavé dans la Drôme, au nord de Valréas. En 1136, Arnaud de Bedos, Templier venu de Catalogne pour chercher en Provence des terres et des recrues, reçoit d'Hugues de Bourbouton et de sa famille un domaine de marais et de pâtures. Le même Arnaud de Bedos apparaît en 1139 dans le Carcassonnais aux côtés du maître Robert de Craon : le Temple prospecte alors d'un bout à l'autre du Midi. La maison devient commanderie en 1138, étendant son autorité sur d'autres maisons provençales ; en 1139, Hugues de Bourbouton entre lui-même dans l'ordre, lui donne tous ses biens et en devient le commandeur ; la chapelle est achevée en 1147. La maison étend ses biens à Bourbouton, Cairanne et Sainte-Cécile-les-Vignes. Les frères assèchent les marais, cultivent le blé et la vigne, élèvent des brebis et surtout des chevaux, dont la plupart sont envoyés en Terre sainte (voir [[chevaux-et-cavalerie|les chevaux]]). Le cartulaire, qui couvre les années 1136-1214 et a été publié en 1907 par le marquis de Ripert-Monclar, est l'une des sources majeures sur la formation d'une commanderie rurale (voir [[cartulaires-du-temple|les cartulaires et les archives]]). En 1284, le commandeur de Richerenches siège au chapitre provincial aux côtés du maître de Provence et des commandeurs du Puy et de Saint-Gilles.
+texte: Après 1312, les terres passent aux [[hospitaliers|Hospitaliers]], tandis que le pays entre peu à peu dans le domaine pontifical avec l'achat de Valréas par Jean XXII en 1317. Le village a gardé le plan de la commanderie : une enceinte rectangulaire à tours d'angle, remaniée au XIVe et au XVe siècle, dans laquelle s'ouvrent les rues ; la grande grange, ou « temple », une nef de trente-deux mètres sur onze voûtée en berceau brisé ; une maison dite templière à salle voûtée ; l'abside romane de la chapelle, intégrée à l'église paroissiale ; l'ancienne ferme templière est devenue un gîte rural. Le site, classé monument historique le 28 décembre 1984, est en accès libre ; un espace muséal et des visites guidées fonctionnent en saison, et le village, devenu capitale de la truffe noire, tient en janvier une « messe de la truffe » qui n'a rien de templier.
+repere: 1136 — Arnaud de Bedos reçoit d'Hugues de Bourbouton le domaine de Richerenches.
+repere: 1138 — Richerenches devient commanderie.
+repere: 1139 — Hugues de Bourbouton entre dans l'ordre et en devient commandeur.
+repere: 1147 — Achèvement de la chapelle.
+repere: 1284 — Le commandeur siège au chapitre provincial de Provence.
+repere: 1312 — Les biens passent aux Hospitaliers.
+repere: 1907 — Édition du cartulaire par le marquis de Ripert-Monclar.
+repere: 28 décembre 1984 — Classement monument historique.
+attention: L'enceinte et ses tours ne sont pas du XIIe siècle mais des remaniements des XIVe-XVe siècles ; la Provence n'avait pas de « forteresses templières », et Richerenches fut d'abord un haras et une ferme.
+geo: 44.3595, 4.9125
+lieu: Richerenches, Vaucluse, France
+lien: wp Commanderie de Richerenches
+sources: Wikipédia (fr) : Commanderie de Richerenches ; condensés de l'atelier (réseau France, sites France, histoire du Larzac) ; Demurger, Les Templiers, 2005
+voir: temple-en-provence, roaix, douzens, chevaux-et-cavalerie, cartulaires-du-temple, hospitaliers, economie-du-temple
+
+@ roaix
+cat: france
+nom: Commanderie de Roaix
+alias: Roaix, Templiers de Roaix, cartulaire de Roaix
+dates: 1138 – 1312
+an: 1138
+def: Établie en 1138 avec l'appui de l'évêque de Vaison et de la noblesse locale, sur la rive de l'Ouvèze, Roaix est avec [[richerenches|Richerenches]] la plus ancienne maison du Temple en Provence ; sa chapelle romane à marques lapidaires subsiste dans le vieux village.
+texte: Roaix est un village perché du Vaucluse entre Vaison-la-Romaine et Rasteau, au milieu des vignes. En 1138, l'évêque de Vaison établit les Templiers avec le concours de plusieurs nobles qui leur donnent biens et propriétés ; les bâtiments principaux s'élèvent de 1138 à 1141. Le cartulaire, dont la dernière rédaction date de 1231, enregistre les donations, comme celle de fiefs voisins par Rostaing de Clostro et ses frères en 1150, et dresse l'inventaire des possessions : terres, vignes, droits sur l'Ouvèze. La maison vit de l'agriculture, dans l'orbite de Richerenches, sa voisine plus puissante, à une vingtaine de kilomètres au nord. Après 1312, elle passe aux [[hospitaliers|Hospitaliers]]. Il reste dans le vieux village une chapelle romane de l'époque de la fondation, dont l'abside porte de nombreuses marques de tâcherons, et des corps de bâtiment remaniés, propriétés privées visibles de l'extérieur. Roaix montre bien la manière dont le Temple s'implanta en Provence : non par la conquête d'un château, mais par l'appel d'un évêque et les dons de quelques familles, enregistrés acte par acte dans un cartulaire.
+repere: 1138 — L'évêque de Vaison établit les Templiers à Roaix.
+repere: 1141 — Achèvement des bâtiments principaux.
+repere: 1150 — Rostaing de Clostro et ses frères donnent des fiefs près de Roaix.
+repere: 1231 — Dernière rédaction du cartulaire.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+attention: Le « château » de Roaix souvent mentionné est un ensemble remanié : seule la chapelle romane peut être tenue pour templière avec certitude.
+geo: 44.2461, 5.0142
+lieu: Roaix, Vaucluse, France
+lien: wp Commanderie de Roaix
+sources: Wikipédia (fr) : Commanderie de Roaix ; fiche du site Sites templiers de France
+voir: richerenches, temple-en-provence, cartulaires-du-temple, hospitaliers, commanderie
+
+@ jales
+cat: france
+nom: Commanderie de Jalès
+alias: Jalès, Templiers de Jalès, camps de Jalès, Berrias-et-Casteljau
+dates: v. 1140 – 1312
+an: 1140
+def: Fondée vers 1140 dans la plaine de Berrias, en Bas-Vivarais, Jalès est l'une des commanderies les plus complètes de France : un quadrilatère autour de sa cour, remanié par les Hospitaliers, qui fut en 1790-1792 le théâtre des rassemblements contre-révolutionnaires des « camps de Jalès ».
+texte: Jalès s'élève dans une plaine de l'Ardèche méridionale, entre les Vans et Saint-Ambroix, sur la commune de Berrias-et-Casteljau. La fondation remonte à 1140 environ ; les noms d'Hugues de Payns et de Raymond Pelet, parfois avancés, ne sont pas documentés. La chapelle, dédiée à la Vierge en 1151, est placée au XIIIe siècle sous le vocable de Marie-Madeleine. La maison collecte fonds et vivres pour l'Orient au carrefour du Vivarais, du Gévaudan et du Languedoc ; en novembre 1307, un frère de Jalès, Raymond de Villa, figure parmi les Templiers de la sénéchaussée de Beaucaire interrogés à Aigues-Mortes. Après 1312, les [[hospitaliers|Hospitaliers]] remanient profondément les bâtiments, qu'ils gardent jusqu'à la Révolution ; au XVIIIe siècle, le commandeur de Quinsonas les restaure et en fait sa résidence, et le bailli de Suffren, le marin, en est titulaire de 1782 à sa mort en 1788. En 1790, 1791 et 1792, des milliers de royalistes se rassemblent dans la plaine, épisode connu sous le nom de camps de Jalès.
+texte: L'ensemble conserve sa cour intérieure avec son puits, une cave voûtée romane, la chapelle devenue grenier au XVIe siècle, des murs crénelés, une porte fortifiée et des galeries ; il a longtemps abrité une antenne du CNRS (laboratoire Archéorient) et est inscrit monument historique depuis 1981. Une association propose visites guidées et concerts en été ; les extérieurs se voient toute l'année.
+repere: v. 1140 — Fondation de la commanderie de Jalès.
+repere: 1151 — Dédicace de la chapelle à la Vierge.
+repere: novembre 1307 — Raymond de Villa, frère de Jalès, est interrogé à Aigues-Mortes.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 1782 — Le bailli de Suffren devient commandeur de Jalès.
+repere: 1790 — Premier camp de Jalès.
+repere: 1981 — Inscription aux monuments historiques.
+attention: La présence d'Hugues de Payns à la fondation de Jalès est une tradition sans source ; l'essentiel des élévations actuelles est hospitalier, du XIVe au XVIIIe siècle.
+geo: 44.3700, 4.2219
+lieu: Berrias-et-Casteljau, Ardèche, France
+lien: wp Commanderie de Jalès
+sources: Wikipédia (fr) : Commanderie de Jalès ; condensé de l'atelier (histoire du Larzac, dépositions d'Aigues-Mortes) ; fiche du site Sites templiers de France
+voir: temple-en-provence, richerenches, arrestation-du-13-octobre-1307, hospitaliers, commanderie, hugues-de-payns
+
+@ le-ruou
+cat: france
+nom: Commanderie du Ruou
+alias: Le Ruou, Templiers du Ruou, Villecroze, Lorgues
+dates: 1155 – 1312
+an: 1155
+def: Attestée en 1155 près de Lorgues, dans le Var, la commanderie du Ruou devint au XIIIe siècle la plus puissante de Provence orientale, avec un millier d'hectares et des maisons à Lorgues, Brignoles ou [[montfort-sur-argens|Montfort]] ; ses ruines, dont la chapelle restaurée, sont dans un domaine privé.
+texte: Le Ruou est un vallon de la commune de Villecroze, entre Salernes et Draguignan. Les premières donations, par les seigneurs du pays, datent de 1155 et accordent aux Templiers le bois, la pierre et l'eau nécessaires pour s'établir. Le premier commandeur connu, Hugues Raimond, réside en 1170 à Lorgues pendant qu'on bâtit le Ruou ; l'ordre achète une maison à Lorgues en 1190 et y acquiert des droits en 1193 et 1205. De 1190 à 1250, la maison grandit par dons et achats : vers le milieu du XIIIe siècle, son domaine va de la vallée du Verdon à la mer, avec quelque mille hectares dont six cents de labours et cent trente de vignes, deux cent quarante tenures et des maisons à Lorgues, Montfort, Brignoles, Tourtour. Rostang de Comps la commande à plusieurs reprises entre 1216 et 1249 ; le dernier commandeur templier, Jaufré de Pierrevert, est attesté en 1308. Les biens passent en 1312 aux [[hospitaliers|Hospitaliers]]. Le site, classé monument historique en 1929, montre des bâtiments ruinés et la chapelle, restaurée en 2008, dans une propriété privée qui ne se visite pas ; les vestiges se devinent depuis les abords.
+repere: 1155 — Premières donations au Temple dans le vallon du Ruou.
+repere: 1170 — Hugues Raimond, premier commandeur connu.
+repere: 1190 — Achat d'une maison à Lorgues ; début de l'essor.
+repere: 1308 — Jaufré de Pierrevert, dernier commandeur templier.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 1929 — Classement monument historique.
+attention: Le Ruou fut une grande exploitation rurale, non un château : ses murs servaient de celliers et de granges. Le domaine est privé.
+geo: 43.5522, 6.3211
+lieu: Villecroze, Var, France
+lien: wp Commanderie du Ruou
+sources: Wikipédia (fr) : Commanderie du Ruou ; fiche du site Sites templiers de France
+voir: temple-en-provence, montfort-sur-argens, hyeres, economie-du-temple, hospitaliers, commanderie
+
+@ montfort-sur-argens
+cat: france
+nom: Montfort-sur-Argens
+alias: château de Montfort-sur-Argens, Templiers de Montfort, Foulques de Pontevès
+dates: 1197 – 1312
+an: 1197
+def: Seigneurie donnée aux Templiers du [[le-ruou|Ruou]] en 1197 par Foulques de Pontevès puis en 1207 par le comte de Provence, Montfort-sur-Argens porte un château massif à tours carrées souvent dit templier, mais rebâti par les Hospitaliers à partir du XIVe siècle.
+texte: Montfort domine la moyenne vallée de l'Argens, au cœur du vignoble varois. En 1197, le seigneur Foulques de Pontevès donne la seigneurie aux Templiers, qui la rattachent à la commanderie du Ruou ; en 1207, le comte Alphonse II de Provence leur cède ses droits et une maison du Temple s'y établit. Après la suppression de l'ordre, la possession passe aux [[hospitaliers|Hospitaliers]] en 1319 ; les premiers bâtiments, des XIIe et XIIIe siècles, sont détruits à la fin du XIVe siècle et il n'en reste que des sous-sols. L'ensemble est reconstruit au XIVe siècle, érigé en commanderie hospitalière en 1411 et transformé aux XVIe et XVIIIe siècles ; devenu prison révolutionnaire en 1793, le château échappe à la démolition. Ses façades et toitures sont inscrites monuments historiques depuis 1972 ; propriété privée, il s'ouvre lors de visites et de manifestations ponctuelles, tandis que l'extérieur se voit librement depuis le village.
+repere: 1197 — Foulques de Pontevès donne Montfort aux Templiers du Ruou.
+repere: 1207 — Alphonse II de Provence cède ses droits sur Montfort au Temple.
+repere: 1319 — La seigneurie passe aux Hospitaliers.
+repere: 1411 — Montfort est érigé en commanderie hospitalière.
+repere: 1972 — Inscription des façades et toitures aux monuments historiques.
+attention: Le « château des Templiers » de Montfort est une construction hospitalière des XIVe-XVIIIe siècles : de la maison du Temple ne subsistent que des caves.
+geo: 43.4739, 6.1218
+lieu: Montfort-sur-Argens, Var, France
+lien: wp Montfort-sur-Argens
+sources: Wikipédia (fr) : Montfort-sur-Argens, Commanderie du Ruou ; fiche du site Sites templiers de France
+voir: le-ruou, temple-en-provence, hyeres, hospitaliers, chateaux-du-temple
+
+@ hyeres
+cat: france
+nom: Tour des Templiers d'Hyères
+alias: tour Saint-Blaise, chapelle Saint-Blaise d'Hyères, commanderie d'Hyères, Templiers d'Hyères
+dates: XIIe siècle – 1312
+an: 1200
+def: Dernier vestige de la commanderie que les Templiers tenaient hors les murs d'Hyères, port d'embarquement vers l'Orient, la tour Saint-Blaise, chapelle à deux niveaux de la fin du XIIe ou du XIIIe siècle, se dresse place Massillon et accueille des expositions.
+texte: Hyères, au pied de son château, regardait au Moyen Âge la rade et les îles d'où partaient les navires pour la Terre sainte. Les Templiers y possèdent dès le XIIe siècle une commanderie, alors en dehors de l'enceinte, voisine des grands domaines varois du [[le-ruou|Ruou]] et tournée vers la mer, comme [[marseille|Marseille]] à plus grande échelle. De cet ensemble subsiste une tour carrée couverte en terrasse, composée d'une chapelle voûtée surmontée d'une seconde salle, chapelle haute ou salle des gardes, éclairée de fenêtres géminées à colonnette ; les notices la datent de la fin du XIIe ou du XIIIe siècle. Après 1312, elle revient aux [[hospitaliers|Hospitaliers]], qui la louent à des particuliers ; en 1673, l'ordre de Malte la cède à la ville. Vers 1839, les intérieurs sont transformés et de grandes baies percées. Classée monument historique par arrêté du 30 mars 1987, la tour, au cœur de la vieille ville, abrite les expositions temporaires de la Ville et s'ouvre librement aux heures d'ouverture.
+repere: XIIe siècle — Une commanderie templière est établie hors les murs d'Hyères.
+repere: 1312 — La chapelle passe aux Hospitaliers.
+repere: 1673 — L'ordre de Malte cède la tour à la ville.
+repere: v. 1839 — Transformation des intérieurs et percement des baies.
+repere: 30 mars 1987 — Classement monument historique.
+attention: Le nom de « tour des Templiers » est exact mais trompeur : il s'agit d'une chapelle, non d'une tour de défense, et la salle haute ne prouve aucune fonction militaire.
+geo: 43.1214, 6.1284
+lieu: Hyères, Var, France
+lien: wp Hyères
+lien: url https://monumentum.fr/monument-historique/PA00081636/hyeres-chapelle-saint-blaise-dite-tour-des-templiers = fiche Monumentum de la chapelle Saint-Blaise
+sources: Wikipédia (fr) : Hyères, Liste des commanderies templières en Provence-Alpes-Côte d'Azur ; fiche Monumentum PA00081636 ; fiche du site Sites templiers de France
+voir: temple-en-provence, le-ruou, marseille, montfort-sur-argens, flotte-du-temple, hospitaliers
+
+@ biot
+cat: france
+nom: Biot
+alias: Templiers de Biot, village des Templiers, commanderie de Biot
+dates: 1209 – 1308
+an: 1209
+def: En 1209, le comte Alphonse II de Provence donne aux Templiers tout ce qu'il possède à Biot, près d'Antibes ; l'ordre y crée l'une de ses maisons les plus importantes de la région, mais le village, ruiné puis repeuplé en 1470, n'en garde aucun bâtiment.
+texte: Biot est un village perché entre Antibes et la Brague, dans les Alpes-Maritimes. En 1209, Alphonse II, comte de Provence, cède au Temple l'ensemble de ses droits et de ses terres à Biot ; les frères rachètent aussitôt les meilleures parcelles et fondent dans le *castrum* une maison qui devient l'un des principaux établissements du Temple en Provence orientale, avec ceux de Nice et de [[grasse|Grasse]]. En janvier 1308, sur ordre du pape, le comte de Provence Charles II fait arrêter les Templiers de ses États, et les biens passent aux [[hospitaliers|Hospitaliers]]. Le village, fortifié au XIVe siècle, est détruit par la soldatesque en 1387 et devient un repaire de brigands après la peste et les guerres des bandes ; en 1470, le roi René le repeuple avec une cinquantaine de familles venues du val d'Oneille, en Ligurie, exemptées d'impôts pendant vingt-cinq ans. L'église Sainte-Marie-Madeleine, bâtie vers 1155 et refaite, a perdu ses peintures murales, effacées en 1699 sur ordre de l'évêque de Grasse ; la place des Arcades et le tracé du *castrum* restent les témoins du village médiéval. Biot, connu pour ses verreries, se visite librement ; son musée d'histoire locale évoque la période templière.
+repere: 1209 — Alphonse II de Provence donne Biot aux Templiers.
+repere: janvier 1308 — Arrestation des Templiers de Provence ; les biens passent aux Hospitaliers.
+repere: 1387 — Le village est détruit par la soldatesque.
+repere: 1470 — Le roi René repeuple Biot avec des familles du val d'Oneille.
+attention: Aucun bâtiment de Biot n'est templier : la maison du Temple a disparu avec le village du XIVe siècle, et le nom de « village des Templiers » désigne une mémoire, non des murs.
+geo: 43.6294, 7.0961
+lieu: Biot, Alpes-Maritimes, France
+lien: wp Biot (Alpes-Maritimes)
+sources: Wikipédia (fr) : Biot (Alpes-Maritimes), Liste des commanderies templières en Provence-Alpes-Côte d'Azur ; fiche du site Sites templiers de France
+voir: temple-en-provence, grasse, hyeres, le-ruou, hospitaliers, arrestation-du-13-octobre-1307
+
+@ grasse
+cat: france
+nom: Maison du Temple de Grasse
+alias: Templiers de Grasse, commanderie de Grasse
+dates: XIIe – XIIIe siècle
+def: Les répertoires des maisons du Temple en Provence comptent une maison à Grasse, non loin des établissements de [[biot|Biot]] et de Nice ; elle a disparu dans le tissu de la vieille ville, sans qu'aucun monument ni aucune charte publiée ne la fasse connaître en détail.
+texte: Grasse est au Moyen Âge une ville consulaire, riche de ses tanneries et de son arrière-pays d'oliviers, à une dizaine de kilomètres de la mer ; elle devient siège épiscopal en 1244, quand l'évêché d'Antibes y est transféré. Les répertoires des maisons de l'ordre, dont celui d'Alain Demurger, y signalent une maison du Temple, sans doute une dépendance urbaine gérant des terres et des revenus, à l'image de celles que l'ordre tenait dans les villes du Midi. On ne connaît ni sa date de fondation, ni ses commandeurs, ni son emplacement exact. Après l'arrestation des Templiers de Provence en janvier 1308 et la bulle de 1312, ses biens ont rejoint ceux des [[hospitaliers|Hospitaliers]]. La vieille ville, autour de la cathédrale Notre-Dame-du-Puy et du palais épiscopal, se parcourt librement ; on n'y cherchera pas de « maison des Templiers », l'intérêt du lieu étant documentaire. Le Temple fut présent à Grasse, et c'est à peu près tout ce qu'on peut en dire : un cas fréquent, qui rappelle que bien des maisons de l'ordre ne sont connues que par une mention dans une liste.
+repere: 1209 — Alphonse II de Provence donne Biot au Temple, qui s'étend en Provence orientale.
+repere: 1244 — Le siège de l'évêché d'Antibes est transféré à Grasse.
+repere: janvier 1308 — Arrestation des Templiers de Provence.
+attention: Aucun édifice de Grasse ne peut être attribué aux Templiers ; les guides qui en désignent un s'appuient sur la seule tradition.
+geo: 43.6589, 6.9239
+lieu: Grasse, Alpes-Maritimes, France
+lien: wp Grasse
+sources: Wikipédia (fr) : Grasse, Liste des commanderies templières en Provence-Alpes-Côte d'Azur (d'après Demurger, 2008) ; fiche du site Sites templiers de France
+voir: biot, temple-en-provence, hyeres, le-ruou, hospitaliers
+
+@ temple-en-provence
+cat: france
+nom: Le Temple en Provence
+alias: Templiers en Provence, province de Provence, Templiers de Saint-Gilles, Templiers d'Arles, Roncelin de Fos, Templiers du Rhône
+dates: 1136 – 1312
+an: 1136
+fin: 1312
+def: De [[richerenches|Richerenches]] (1136) à l'arrestation de janvier 1308, la Provence fut pour le Temple une terre d'élevage, de vignes et de ports : Saint-Gilles, Arles puis [[marseille|Marseille]] y embarquaient les hommes, les chevaux et l'argent destinés à l'Orient.
+texte: La Provence médiévale, du Rhône au Var, appartient aux comtes de Barcelone de 1112 à 1245 puis à la maison d'Anjou ; terre d'Empire, elle échappe au roi de France. Les Templiers y arrivent très tôt : en 1136, le frère catalan Arnaud de Bedos fonde Richerenches sur des terres d'Hugues de Bourbouton ; en 1138, l'évêque de Vaison les installe à [[roaix|Roaix]] ; vers 1140, [[jales|Jalès]] naît en Vivarais ; au milieu du XIIe siècle, l'ordre a des maisons à Saint-Gilles et à Arles, puis dans le Var, au [[le-ruou|Ruou]] (1155), à [[hyeres|Hyères]], à Toulon, Nice, [[biot|Biot]] (1209). Ces maisons forment avec celles du Languedoc la province de Provence, dont les maîtres, comme Roncelin de Fos (1248-1250 et 1260-1278), siègent souvent à Arles ou à Saint-Gilles (voir [[provinces-du-temple|les provinces du Temple]]). La Provence templière est une économie : haras et troupeaux de Richerenches, vignes de l'Ouvèze et de l'Argens, terres à blé, moulins, droits seigneuriaux (voir [[economie-du-temple|l'économie du Temple]]).
+texte: Elle est aussi une porte. Les frères et les pèlerins partent d'abord de Saint-Gilles et d'Arles, sur le Petit-Rhône, à partir de 1162 ; à la fin du XIIe siècle, Marseille, mieux placée, prend le relais, et l'ordre y installe un « commandeur du passage » chargé d'envoyer en Orient hommes et matériel ; un accord de 1233 avec la ville lui accorde deux navires par an (voir [[flotte-du-temple|la flotte du Temple]]). Saint-Gilles reste le siège d'un grand prieuré hospitalier qui héritera du tout.
+texte: Le 13 octobre 1307 ne concerne pas la Provence : le comte Charles II d'Anjou, roi de Naples, n'arrête les Templiers de ses États qu'en janvier 1308, sur ordre du pape. En 1312, les biens passent aux [[hospitaliers|Hospitaliers]] du grand prieuré de Saint-Gilles, qui les gardent jusqu'à la Révolution. Ce sont eux qui ont bâti presque tout ce qui se voit aujourd'hui : le château de [[montfort-sur-argens|Montfort]], les remparts de Richerenches, les galeries de Jalès. Du Temple proprement dit restent la grange et l'abside de Richerenches, la chapelle de Roaix, la tour Saint-Blaise d'Hyères, les ruines du Ruou et des cartulaires, celui de Richerenches surtout, qui font de la Provence l'une des régions où l'histoire des commanderies est la mieux connue.
+repere: 1136 — Arnaud de Bedos fonde Richerenches, première grande maison de Provence.
+repere: 1138 — Fondation de Roaix.
+repere: 1155 — Premières donations au Ruou, dans le Var.
+repere: 1162 — Saint-Gilles et Arles, points de départ attestés vers la Terre sainte.
+repere: 1209 — Alphonse II de Provence donne Biot au Temple.
+repere: 1233 — Accord de Marseille sur les navires du Temple et de l'Hôpital.
+repere: janvier 1308 — Charles II d'Anjou fait arrêter les Templiers de Provence.
+repere: 1312 — Les biens passent au grand prieuré hospitalier de Saint-Gilles.
+attention: La Provence n'a pas connu le vendredi 13 octobre 1307 : terre d'Empire, elle vit ses Templiers arrêtés trois mois plus tard sur ordre pontifical. Les « châteaux templiers » provençaux sont pour l'essentiel des commanderies hospitalières remaniées.
+lien: wp Commanderie de Richerenches
+lien: wp Flotte de l'ordre du Temple
+sources: Demurger, Les Templiers, 2005 ; Wikipédia (fr) : Commanderie de Richerenches, Commanderie de Roaix, Commanderie du Ruou, Biot (Alpes-Maritimes), Flotte de l'ordre du Temple, Liste des commanderies templières en Provence-Alpes-Côte d'Azur ; condensés de l'atelier (réseau France, sites France)
+voir: richerenches, roaix, jales, le-ruou, hyeres, marseille, biot, temple-en-occitanie
+
+@ marseille
+cat: france
+nom: Marseille, port du Temple
+alias: Templiers de Marseille, commandeur du passage, platea templi, port d'embarquement des Templiers
+dates: v. 1190 – 1312
+an: 1190
+def: Principal port d'embarquement des pèlerins et des Templiers de France vers Acre à partir de la troisième croisade, Marseille accorde en 1233 à l'ordre le droit d'armer deux navires par an ; la maison du Temple, près du port, dirigeait ce « passage ».
+texte: Marseille est au XIIe siècle une ville de vicomtes et de marchands, bientôt commune, dont le port, le Lacydon, ouvre droit sur la Méditerranée. Dès la troisième croisade (1189-1192), elle supplante Saint-Gilles et Arles, menacés par l'ensablement du Rhône, comme point de départ vers la Terre sainte. Les Templiers s'installent en bordure du vieux bourg, sur une place qui prend le nom de *platea templi*, à l'un des débarcadères des marchandises. En 1233, après des années de frictions avec la commune, qui avait racheté aux vicomtes leurs droits sur le port, un accord fixe les privilèges des deux ordres : le Temple comme l'Hôpital peuvent faire partir chaque année deux navires vers l'Orient, avec leurs équipages et les marchandises nécessaires à leurs besoins ; la commune, jalouse de ses armateurs, entend ainsi limiter leur concurrence. En 1246 et 1247, le pape Innocent IV doit encore sommer trois fois les Marseillais de laisser les Templiers charger leurs navires.
+texte: Un « maître du passage » tient les comptes des embarquements ; on connaît Guillaume de Gonesse en 1255, Henri de Dôle de 1260 à 1274 puis en 1280, Simon de Quincy en 1303, Jean de Villamer en 1306. Des navires sont liés à la maison, *La Bonne Aventure* en 1248, *La Rose du Temple* vers 1288, *La Sainte-Trinité* affrétée en 1306 pour les Pouilles, sans qu'on sache toujours s'ils appartenaient à l'ordre ou étaient loués ; le *Faucon*, galère de Roger de Flor, y est désarmé après sa fuite d'Acre (voir [[roger-de-flor|Roger de Flor]]). Tout cela reste modeste : quelques bâtiments, des contrats, non une marine (voir [[flotte-du-temple|la flotte du Temple]]). La maison passe en 1312 aux [[hospitaliers|Hospitaliers]] ; la ville moderne n'en a rien gardé, et seul le Vieux-Port rappelle d'où partaient les frères.
+repere: 1189 — La troisième croisade fait de Marseille le grand port d'embarquement vers Acre.
+repere: 1233 — Accord entre la commune et les ordres : deux navires par an pour le Temple.
+repere: 1246 — Innocent IV somme Marseille de laisser charger les navires du Temple.
+repere: 1255 — Guillaume de Gonesse, maître du passage.
+repere: 1306 — Affrètement de *La Sainte-Trinité* pour les Pouilles.
+repere: 1312 — La maison du Temple de Marseille passe aux Hospitaliers.
+attention: Les deux navires annuels de 1233 donnent la mesure réelle de la « flotte » templière en Occident ; la légende d'une escadre fuyant La Rochelle en 1307 n'a d'appui ni à Marseille ni ailleurs (voir [[flotte-de-la-rochelle|la flotte de La Rochelle]]).
+geo: 43.2965, 5.3698
+lieu: Marseille, Bouches-du-Rhône, France
+lien: wp Flotte de l'ordre du Temple
+sources: Wikipédia (fr) : Flotte de l'ordre du Temple (d'après Carraz et Claverie) ; Demurger, Les Templiers, 2005 ; condensé de l'atelier (réseau France)
+voir: flotte-du-temple, flotte-de-la-rochelle, temple-en-provence, hyeres, roger-de-flor, acre, la-rochelle
+
+# ── Auvergne et Limousin ─────────────────────────────────────────────────────
+
+@ ydes
+cat: france
+nom: Église d'Ydes
+alias: église Saint-Georges d'Ydes-Bourg, commanderie d'Ydes, Templiers d'Ydes, Salguebrou
+dates: XIIe siècle – 1313
+an: 1150
+def: Église romane du XIIe siècle au bourg d'Ydes, en Haute-Auvergne, Saint-Georges fut celle d'une commanderie du Temple passée aux Hospitaliers en 1313 ; son porche sculpté, avec sa tête hurlante et ses bas-reliefs, est l'un des plus riches du Cantal.
+texte: Ydes-Bourg est un village des confins du Cantal et de la Corrèze, sur les routes qui joignent l'Auvergne au Limousin. Les Templiers y tiennent au XIIe siècle une commanderie dont l'église Saint-Georges est le seul témoin ; après la suppression de l'ordre, elle passe en 1313 aux [[hospitaliers|Hospitaliers]] de Saint-Jean, qui la gardent jusqu'à la Révolution. L'édifice roman s'ouvre par un porche sculpté. Le tympan de ce porche porte une tête hurlante que le pays appelle Salguebrou ; sur ses murs nord et sud, des bas-reliefs montrent l'Annonciation et le prophète Habacuc. Rien dans ce décor n'est propre au Temple : ce sont des thèmes bibliques communs à la sculpture romane d'Auvergne et du Limousin, que les frères ont commandés comme l'aurait fait n'importe quel seigneur ou chapitre de chanoines. L'église, classée monument historique dès 1862, est généralement ouverte en journée ; le bourg conserve la trame de l'ancienne commanderie.
+repere: XIIe siècle — Construction de l'église Saint-Georges pour la commanderie du Temple.
+repere: 1313 — L'église passe aux Hospitaliers.
+repere: 1862 — Classement monument historique.
+attention: On lit parfois le zodiaque ou des symboles templiers dans la sculpture d'Ydes : les reliefs sont des scènes bibliques courantes, et le sculpteur n'était pas un Templier.
+geo: 45.3361, 2.4547
+lieu: Ydes, Cantal, France
+lien: wp Église Saint-Georges d'Ydes-Bourg
+sources: Wikipédia (fr) : Église Saint-Georges d'Ydes-Bourg ; fiche du site Sites templiers de France
+voir: celles, paulhac, architecture-templiere, hospitaliers, commanderie
+
+@ celles
+cat: france
+nom: Commanderie de Celles
+alias: Celles (Cantal), Templiers de Celles, commanderie de la planèze
+dates: XIIIe siècle – 1312
+an: 1250
+def: Maison du Temple de la planèze de Saint-Flour, près de Murat, bâtie au XIIIe siècle en place forte sur plan carré autour d'une cour, Celles passa en 1312 aux Hospitaliers qui la rebâtirent au XIVe siècle ; sa chapelle sert d'église au hameau.
+texte: Celles est un hameau de la Haute-Auvergne, sur le plateau basaltique de la planèze, entre Murat et Saint-Flour. Les Templiers y établissent au XIIIe siècle une commanderie qui gère un domaine pastoral de montagne ; les bâtiments, organisés en quadrilatère fermé autour d'une cour, ont l'allure d'une maison forte plus que d'une ferme, ce qui est rare pour l'ordre en France. Après la dévolution de 1312, les [[hospitaliers|Hospitaliers]] de Saint-Jean, dans le grand prieuré d'Auvergne, rebâtissent l'ensemble au XIVe siècle et le gardent jusqu'à la Révolution. L'ancienne chapelle occupe la moitié orientale du bâtiment sud et sert d'église au village ; le reste est habité. L'ensemble est classé monument historique depuis le 24 septembre 1990. Hameau et abords sont en accès libre, l'église ouverte selon les permanences. Rattaché en 2016 à la commune nouvelle de Neussargues en Pinatelle, Celles est redevenu une commune à part entière en 2025.
+repere: XIIIe siècle — Construction de la commanderie templière de Celles.
+repere: 1312 — La maison passe aux Hospitaliers.
+repere: XIVe siècle — Reconstruction par les Hospitaliers.
+repere: 24 septembre 1990 — Classement monument historique.
+attention: Le plan fortifié de Celles tient autant à la reconstruction hospitalière du XIVe siècle qu'au Temple ; aucune date de fondation ni aucun commandeur templier n'est connu.
+geo: 45.1158, 2.9547
+lieu: Celles, Cantal, France
+lien: wp Celles (Cantal)
+sources: Wikipédia (fr) : Celles (Cantal) ; fiche Monumentum PA00093482 (via recherche) ; fiche du site Sites templiers de France
+voir: ydes, paulhac, commanderie, hospitaliers, architecture-templiere
+
+@ paulhac
+cat: france
+nom: Commanderie de Paulhac
+alias: Paulhac (Creuse), Saint-Étienne-de-Fursac, église Saint-Jean de Paulhac, peintures de Paulhac
+dates: v. 1200 – 1312
+an: 1200
+def: Chef-lieu d'une baillie templière de la Marche fondée vers 1200, où les maîtres d'Auvergne tinrent chapitre à la fin du XIIIe siècle, Paulhac conserve une église gothique ornée de peintures murales de la fin du XIIIe siècle, l'un des rares décors templiers de France.
+texte: Paulhac est un hameau de la commune de Saint-Étienne-de-Fursac, dans la Creuse, dans l'ancien comté de la Marche. La maison du Temple y est fondée vers 1200 et devient le chef-lieu d'une baillie dont dépend [[blaudeix|Blaudeix]], au sein de la province d'Auvergne et du Limousin. Les maîtres provinciaux Gérard de Sauzet, Pierre de Madic et Raymond de Mareuil y tiennent des chapitres entre 1284 et 1299 ; vers 1276, Guillaume de Chambonnet, futur défenseur de l'ordre au procès, y est reçu ; quatre commandeurs sont connus de 1280 à 1306, dont Humbert de Comborn. Après 1312, les [[hospitaliers|Hospitaliers]] gardent Paulhac jusqu'en 1793 ; Philibert de Naillac, futur grand maître de Rhodes, en est commandeur en 1382.
+texte: L'église Saint-Jean, nef unique de cinq travées voûtée d'ogives à liernes sur colonnettes à consoles sculptées, date du XIIIe siècle avec des reprises aux XIVe et XVe siècles ; une chapelle Saint-Fiacre lui est accolée en 1449. Ses murs portent d'importants restes de peintures de la fin du XIIIe siècle, saints et chevaliers, restaurés en 1971 puis de 1982 à 1991. Elle a servi de modèle aux chapelles templières voisines de Blaudeix, Chamberaud et Charrières, dans un gothique limousin sobre. Classée monument historique le 19 février 1938, elle s'ouvre en saison et lors de visites accompagnées ; les bâtiments de la commanderie, remaniés, sont devenus des fermes.
+repere: v. 1200 — Fondation de la maison du Temple de Paulhac.
+repere: v. 1276 — Guillaume de Chambonnet est reçu dans l'ordre à Paulhac.
+repere: 1284 — Le maître d'Auvergne Gérard de Sauzet tient chapitre à Paulhac.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 1382 — Philibert de Naillac, commandeur hospitalier de Paulhac.
+repere: 1449 — Construction de la chapelle Saint-Fiacre.
+repere: 19 février 1938 — Classement de l'église.
+attention: La chapelle Saint-Fiacre, souvent donnée pour templière, date de 1449 et des Hospitaliers ; seules l'église Saint-Jean et ses peintures du XIIIe siècle remontent au Temple.
+geo: 46.1200, 1.5075
+lieu: Saint-Étienne-de-Fursac, Creuse, France
+lien: wp Commanderie de Paulhac
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00100153 = notice Mérimée de l'église et de la chapelle Saint-Fiacre
+sources: Wikipédia (fr) : Commanderie de Paulhac, Liste des commanderies templières dans la Creuse ; notice Mérimée PA00100153 ; fiche du site Sites templiers de France
+voir: blaudeix, ydes, celles, pierre-de-bologne, architecture-templiere, hospitaliers, proces-des-templiers
+
+@ blaudeix
+cat: france
+nom: Commanderie de Blaudeix
+alias: Blaudeix, Templum de Blaudesio, Guillaume de Chambonnet, église Saint-Jean-Baptiste de Blaudeix
+dates: XIIIe siècle – 1312
+an: 1250
+def: Maison du Temple de la Marche, dans la baillie de [[paulhac|Paulhac]], Blaudeix a pour dernier commandeur Guillaume de Chambonnet, l'un des quatre frères qui défendirent l'ordre devant la commission pontificale en 1310 ; son église gothique du XIIIe siècle est devenue paroissiale.
+texte: Blaudeix est un village de la Creuse entre Guéret et Jarnages. La maison du Temple, *Domus de Blaudes* ou *Templum de Blaudesio* dans les actes, relève de la baillie de Paulhac et de la province d'Auvergne ; elle étend son autorité sur le membre de Rimondeix et quelques villages. Son commandeur de 1304 à 1307, Guillaume de Chambonnet, reçu dans l'ordre à Paulhac vers 1276, est arrêté avec les autres ; conduit à Paris en février 1310, il est choisi avec [[pierre-de-bologne|Pierre de Bologne]], Renaud de Provins et Bertrand de Sartiges comme l'un des quatre procureurs chargés de défendre l'ordre devant la commission pontificale, tâche que le bûcher des cinquante-quatre relaps du 12 mai 1310 réduit à néant (voir [[proces-des-templiers|le procès des Templiers]]). Après 1312, Blaudeix passe aux [[hospitaliers|Hospitaliers]] du grand prieuré d'Auvergne jusqu'à la Révolution. L'église Saint-Jean-Baptiste, de style roman tardif passant au gothique, bâtie au XIIIe siècle dans la lignée de Paulhac, est classée monument historique depuis 1934 et s'ouvre selon les permanences.
+repere: XIIIe siècle — Construction de l'église de la maison du Temple de Blaudeix.
+repere: 1304 — Guillaume de Chambonnet, commandeur de Blaudeix.
+repere: février 1310 — Chambonnet est nommé procureur de l'ordre devant la commission pontificale.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: 1934 — Classement de l'église.
+attention: L'emplacement de la maison du Temple est discuté : certains la placent à Bosmoreau ou à Bord-Saint-Georges, mais le siège était à Blaudeix même, la chapelle dépendant de l'église de Rimondeix.
+geo: 46.2292, 2.0836
+lieu: Blaudeix, Creuse, France
+lien: wp Blaudeix
+sources: Wikipédia (fr) : Blaudeix, Liste des commanderies templières dans la Creuse, Commanderie de Paulhac ; fiche du site Sites templiers de France
+voir: paulhac, pierre-de-bologne, proces-des-templiers, hospitaliers, ydes
+
+# ── Aquitaine et Pyrénées ────────────────────────────────────────────────────
+
+@ andrivaux
+cat: france
+nom: Commanderie des Andrivaux
+alias: Andrivaux, Les Andrivaux, Templiers du Périgord, Chancelade
+dates: 1139 – 1312
+an: 1139
+def: Donnée en 1139 par l'évêque de Périgueux Geoffroi de Cauze aux Templiers, qui s'installent dans un cloître abandonné des bois au nord de la ville, Andrivaux fut avec [[sergeac|Sergeac]] la principale maison du Temple en Périgord ; il n'en reste qu'une crypte dans un hameau privé.
+texte: Les Andrivaux sont un hameau de la commune de Chancelade, dans les collines boisées à l'ouest de Périgueux. En 1139, l'évêque Geoffroi Ier de Cauze donne la paroisse aux Templiers, qui s'établissent dans un ancien cloître laissé vide. La maison grandit vite par les donations de la noblesse périgourdine et acquiert des dépendances à Saint-Paul-la-Roche et au Temple-Laguyon ; le « Temple de l'Eau » de Cherveix-Cubas lui est aussi rattaché par la tradition. Après la suppression de l'ordre en 1312, la commanderie et ses biens passent aux [[hospitaliers|Hospitaliers]], qui l'unissent vers 1440 à la commanderie de Condat, près de Périgueux. L'église du hameau a été détruite ; il n'en subsiste que la crypte, percée de trois fenêtres, et des bâtiments ruraux remaniés dans une propriété privée que l'on aperçoit depuis les chemins. Les Andrivaux valent surtout par ce qu'ils rappellent : l'implantation précoce du Temple en Aquitaine, dix ans après le concile de Troyes, grâce aux évêques autant qu'aux seigneurs.
+repere: 1139 — L'évêque Geoffroi de Cauze donne la paroisse des Andrivaux aux Templiers.
+repere: 1312 — La commanderie passe aux Hospitaliers.
+repere: v. 1440 — Union à la commanderie hospitalière de Condat.
+attention: Il n'y a plus de chapelle debout aux Andrivaux : les « vestiges templiers » qu'on y signale sont une crypte et des bâtiments de ferme, dans un domaine privé.
+geo: 45.2081, 0.6325
+lieu: Chancelade, Dordogne, France
+lien: wp Commanderie des Andrivaux
+sources: Wikipédia (fr) : Commanderie des Andrivaux, Liste des commanderies templières en Dordogne ; fiche du site Sites templiers de France
+voir: sergeac, domme, temple-en-occitanie, hospitaliers, commanderie
+
+@ sergeac
+cat: france
+nom: Sergeac
+alias: Templiers de Sergeac, manoir de Cramirat, église Saint-Pantaléon, croix des Templiers de Sergeac
+dates: XIIe siècle – 1312
+an: 1150
+def: Village de la vallée de la Vézère où les Templiers tinrent une maison dépendante du réseau périgourdin, Sergeac conserve une église romane du XIIe siècle, le manoir de Cramirat qui fut la commanderie des Hospitaliers, et une croix du XVIe siècle que l'on dit « des Templiers ».
+texte: Sergeac est un village de pierre blonde au bord de la Vézère, entre Montignac et Les Eyzies, au milieu des sites préhistoriques. Une église y est citée dès 1053 sous le vocable de Sainte-Marie ; l'actuelle Saint-Pantaléon, du XIIe siècle, à chevet carré, en a pris la suite. Les Templiers possèdent au XIIe siècle une maison à Sergeac, que les listes de l'ordre retiennent parmi celles du Périgord avec [[andrivaux|Andrivaux]] ; la tradition locale en fait un siège de commanderie dès 1275, ce que les sources ne confirment pas clairement, et une confusion persistante mêle les commandeurs templiers et hospitaliers d'une même famille. Après 1312, les biens passent aux [[hospitaliers|Hospitaliers]] et dépendent de la commanderie de Condat ; le manoir de Cramirat, du XIVe siècle, est leur commanderie, inscrite monument historique en 1964. L'église est classée depuis 1929 ; la croix hosannière à l'entrée du bourg, dite croix des Templiers, date du XVIe siècle et est classée depuis 1921. Village et église sont en accès libre.
+repere: 1053 — Première mention d'une église à Sergeac, sous le vocable de Sainte-Marie.
+repere: XIIe siècle — Construction de l'église Saint-Pantaléon ; maison du Temple attestée.
+repere: 1312 — Les biens passent aux Hospitaliers, rattachés à Condat.
+repere: XIVe siècle — Manoir de Cramirat, commanderie hospitalière.
+repere: 1929 — Classement de l'église.
+attention: La « croix des Templiers » de Sergeac est du XVIe siècle et le manoir de Cramirat est hospitalier ; le village est templier par ses chartes, non par ses pierres.
+geo: 45.0028, 1.1061
+lieu: Sergeac, Dordogne, France
+lien: wp Sergeac
+sources: Wikipédia (fr) : Sergeac, Liste des commanderies templières en Dordogne ; notices Mérimée PA00083001 et PA00083002 (via Monumentum) ; fiche du site Sites templiers de France
+voir: andrivaux, domme, hospitaliers, commanderie, temple-en-occitanie
+
+@ domme
+cat: france
+nom: Porte des Tours de Domme
+alias: graffiti de Domme, prison des Templiers de Domme, bastide de Domme, Templiers de Domme
+dates: 1281 – 1318
+an: 1307
+def: Porte fortifiée de la bastide royale de Domme, fondée en 1281, la porte des Tours aurait servi de prison à des Templiers du Périgord et du Quercy après 1307 ; ses parois portent une centaine de graffiti qui leur sont attribués depuis 1970, lecture aujourd'hui discutée.
+texte: Domme est une bastide perchée au-dessus de la Dordogne, fondée en 1281 par Philippe III le Hardi sur un plateau que tenaient les Gourdon ; elle reçoit halle, foires et droit de monnaie, et une enceinte dont la porte des Tours, à deux grosses tours rondes encadrant le passage, est la pièce maîtresse. Après l'arrestation du 13 octobre 1307, des Templiers des diocèses de Périgueux, Cahors, Rodez et Poitiers auraient été détenus dans ces tours : la tradition en compte une soixantaine ou soixante-dix, de 1307 à 1318 ou 1320. Les murs intérieurs portent une centaine de graffiti gravés : croix, calvaires, un Christ en croix, des figures, des quadrillages, des inscriptions (voir [[graffiti-de-domme-et-chinon|les graffiti des Templiers prisonniers]]).
+texte: L'attribution de ces graffiti aux Templiers date de 1970, quand le chanoine Tonnelier la propose ; des auteurs y ont ensuite lu un « code » : l'octogone pour le Graal, le triangle à croix pour le Golgotha, le carré pour le Temple, le cercle pour la captivité. Ces décryptages ne reposent sur rien, et certains relevés publiés se sont révélés faux. Que des Templiers aient été emprisonnés à Domme est plausible, puisque la bastide appartenait au roi, mais aucun document ne nomme les prisonniers, et des graffiti comparables existent dans bien des prisons médiévales. Les remparts sont classés depuis 1943 ; les graffiti ne se voient qu'en visite guidée organisée par l'office de tourisme, le village et son belvédère étant en accès libre.
+repere: 1281 — Philippe III fonde la bastide de Domme.
+repere: 13 octobre 1307 — Arrestation des Templiers ; des frères du Périgord et du Quercy auraient été enfermés à Domme.
+repere: 1318 — Fin supposée de la détention (1320 selon d'autres).
+repere: 1943 — Classement des remparts.
+repere: 1970 — Le chanoine Tonnelier attribue les graffiti aux Templiers.
+attention: Les graffiti de Domme ne forment pas un message codé : leur attribution aux Templiers est une hypothèse de 1970, et les « décryptages » publiés depuis relèvent de l'imagination, parfois de faux relevés. Le nombre et le nom des prisonniers restent inconnus.
+geo: 44.8018, 1.2164
+lieu: Domme, Dordogne, France
+lien: wp Domme
+sources: Wikipédia (fr) : Domme ; fiche du site Sites templiers de France ; condensé de l'atelier (sites France)
+voir: graffiti-de-domme-et-chinon, chinon, gisors, arrestation-du-13-octobre-1307, proces-des-templiers, symbolisme-templier
+
+@ magrigne
+cat: france
+nom: Chapelle de Magrigne
+alias: chapelle Sainte-Quitterie de Magrigne, Templiers de Magrigne, Saint-Laurent-d'Arce
+dates: fin du XIIe siècle – 1312
+an: 1200
+def: Chapelle Sainte-Quitterie de la maison du Temple de Magrigne, en pays bourgeais, nef unique à chevet plat et clocher-mur de la fin du XIIe ou du XIIIe siècle, c'est la plus complète des chapelles templières puis hospitalières de Gironde ; douze croix de Malte peintes rappellent ses seconds maîtres.
+texte: Magrigne est un hameau de la commune de Saint-Laurent-d'Arce, entre Bourg et Saint-André-de-Cubzac, au nord de la Dordogne. Les Templiers y tiennent une maison rurale dont la chapelle, dédiée à sainte Quitterie, est le seul reste : une nef unique voûtée, un chevet plat, une porte à voussures dont un maçon fit sauter un boudin vers 1894, et un élégant clocher-arcade sur la façade ; les notices la datent de la fin du XIIe ou du XIIIe siècle. Après le concile de Vienne, la maison passe aux [[hospitaliers|Hospitaliers]], qui y font peindre douze croix de Malte et la gardent jusqu'à la Révolution. Alexandre Ducourneau la décrit dans *La Guienne historique et monumentale* en 1842 ; l'archiviste Jean-Auguste Brutails la photographie à la fin du XIXe siècle. Classée monument historique le 10 novembre 1921, elle se voit librement de l'extérieur ; l'intérieur s'aperçoit par la grille et s'ouvre lors des Journées du patrimoine.
+repere: fin du XIIe siècle — Construction de la chapelle de la maison du Temple de Magrigne (XIIIe selon Mérimée).
+repere: 1312 — La maison passe aux Hospitaliers.
+repere: 1842 — Ducourneau décrit la chapelle dans *La Guienne historique et monumentale*.
+repere: 10 novembre 1921 — Classement monument historique.
+attention: Les croix de Malte peintes à l'intérieur sont hospitalières et postérieures à 1312 ; elles ne sont pas des « croix templières ».
+geo: 45.0536, -0.4800
+lieu: Saint-Laurent-d'Arce, Gironde, France
+lien: wp Chapelle de Magrigne
+sources: Wikipédia (fr) : Chapelle de Magrigne ; fiche du site Sites templiers de France
+voir: marcenais, le-temple-sur-lot, architecture-templiere, hospitaliers, commanderie
+
+@ marcenais
+cat: france
+nom: Église de Marcenais
+alias: église Notre-Dame de Marcenais, église templière de Marcenais, Templiers du Fronsadais
+dates: XIIe siècle – 1312
+an: 1150
+def: Église Notre-Dame de Marcenais, dans le Fronsadais girondin, ancienne chapelle d'une maison du Temple du XIIe siècle devenue paroissiale ; édifice roman restauré, inscrit aux monuments historiques en 1927.
+texte: Marcenais est un petit village de la Gironde au nord de Libourne, entre Fronsac et Guîtres. Les Templiers y possèdent au XIIe siècle une maison dont l'église Notre-Dame, dite encore « église templière », était la chapelle : un édifice roman à portail sculpté, dont le clocher a pris par la suite un aspect fortifié. Après 1312, la maison passe aux [[hospitaliers|Hospitaliers]], et l'église devient celle de la paroisse. Restaurée, elle est inscrite aux monuments historiques depuis 1927 et s'ouvre selon les offices et les permanences ; l'extérieur se voit librement. Avec [[magrigne|Magrigne]], Marcenais rappelle la densité des petites maisons du Temple dans le Bordelais et le Fronsadais, alors terres du roi d'Angleterre, duc d'Aquitaine : des chapelles de campagne entourées de quelques terres, loin des grands domaines du Larzac ou de Provence.
+repere: XIIe siècle — Construction de l'église de la maison du Temple de Marcenais.
+repere: 1312 — La maison passe aux Hospitaliers.
+repere: 1927 — Inscription de l'église aux monuments historiques.
+attention: L'allure fortifiée du clocher est postérieure au Temple ; l'édifice est une chapelle de maison rurale, non une église de « chevaliers ».
+geo: 45.0589, -0.3361
+lieu: Marcenais, Gironde, France
+lien: wp Marcenais
+sources: Wikipédia (fr) : Marcenais ; fiche du site Sites templiers de France
+voir: magrigne, le-temple-sur-lot, architecture-templiere, hospitaliers, templiers-en-angleterre
+
+@ le-temple-sur-lot
+cat: france
+nom: Le Temple-sur-Lot
+alias: Temple de Breuil, Temple de Brulhes, Temple d'Agen, commanderie du Temple-sur-Lot
+dates: XIIIe siècle – 1312
+an: 1250
+def: Bourg né d'une maison du Temple des bords du Lot, sur la route d'Agen, Le Temple-sur-Lot est dominé par une grande commanderie de brique à tours que les Hospitaliers de Malte rebâtirent aux XVe et XVIe siècles sur l'emprise templière ; elle est inscrite depuis 1952.
+texte: Le village est sur la rive gauche du Lot, entre Villeneuve-sur-Lot et Aiguillon, en Lot-et-Garonne. Les Templiers y bâtissent au XIIIe siècle une maison, dite Temple de Breuil ou de Brulhes, qui protège et héberge les voyageurs sur l'axe d'Agen vers le nord ; le bourg prend son nom. Au début du XIVe siècle, la maison passe aux [[hospitaliers|Hospitaliers]], puis à l'ordre de Malte, qui la restaure et l'agrandit aux XVe et XVIe siècles. L'ensemble actuel, entièrement de brique, est une enceinte rectangulaire flanquée de tours, rondes au nord et carrée au sud ; une tour carrée saillante défend la porte de la cour, le corps de logis à pignon s'élève à gauche, les dépendances à droite, une tourelle abrite l'escalier à vis, et de vastes caves voûtées courent sous les bâtiments. Un mur de pierre, à gauche de la cour, passe pour le reste du logis des Templiers. Les façades et toitures sont inscrites monuments historiques depuis le 26 mai 1952 ; la commanderie, privée, s'ouvre lors de visites guidées organisées par l'office de tourisme, et le village, avec sa halle et sa base nautique, est en accès libre.
+repere: XIIIe siècle — Les Templiers fondent la maison du Temple de Breuil, sur le Lot.
+repere: début du XIVe siècle — La maison passe aux Hospitaliers.
+repere: XVe siècle — Les Hospitaliers rebâtissent la commanderie en brique (travaux poursuivis au XVIe).
+repere: 26 mai 1952 — Inscription des façades et toitures aux monuments historiques.
+attention: La « commanderie des Templiers » du Temple-sur-Lot est, dans ses élévations, une maison forte hospitalière des XVe-XVIe siècles ; seul le nom du village et quelques murs remontent au Temple.
+geo: 44.3806, 0.5256
+lieu: Le Temple-sur-Lot, Lot-et-Garonne, France
+lien: wp Le Temple-sur-Lot
+lien: url https://pop.culture.gouv.fr/notice/merimee/PA00084256 = notice Mérimée de l'ancienne commanderie
+sources: Wikipédia (fr) : Le Temple-sur-Lot ; notice Mérimée PA00084256 ; fiche du site Sites templiers de France
+voir: magrigne, marcenais, hospitaliers, commanderie, architecture-templiere
+
+@ aragnouet
+cat: france
+nom: Chapelle des Templiers d'Aragnouet
+alias: chapelle Notre-Dame-de-l'Assomption du Plan, chapelle du Plan d'Aragnouet, hospice du Plan, chapelle des chevaliers de Malte
+dates: XIIe siècle
+an: 1150
+def: Chapelle romane du XIIe siècle au Plan d'Aragnouet, en haute vallée d'Aure, reste d'un hospice de montagne tenu par les Hospitaliers de Saint-Jean sur le chemin des ports vers l'Aragon ; l'appellation « des Templiers », bien ancrée, ne repose sur rien.
+texte: Le Plan est le dernier hameau d'Aragnouet avant les cols qui mènent en Aragon, près de l'actuelle station de Piau-Engaly. Au XIIe siècle, un hospice y accueille les voyageurs et les pèlerins qui franchissent les Pyrénées ; il dépend dès l'origine des [[hospitaliers|Hospitaliers]] de Saint-Jean de Jérusalem, qui tenaient dans les Pyrénées centrales plusieurs de ces refuges. L'hospice, emporté par un éboulement dans le ravin, a disparu ; il reste la chapelle Notre-Dame-de-l'Assomption, nef unique voûtée en berceau, abside en cul-de-four, porte à linteau orné d'un chrisme, et un clocher-mur à quatre baies, vestige du pignon de l'hospice. Des peintures murales du XIVe siècle subsistent à l'intérieur. La chapelle est classée monument historique depuis le 3 janvier 1939, le pignon depuis 1952, et l'ensemble figure depuis 1998 parmi les composantes des chemins de Compostelle inscrits au patrimoine mondial. L'extérieur se voit librement ; l'intérieur s'ouvre en été et lors de visites accompagnées. Les Templiers n'y ont jamais été : le nom leur a été donné, comme à tant de chapelles de montagne, parce que l'ordre disparu attire mieux que l'Hôpital, qui, lui, a réellement tenu l'hospice (voir [[templiers-et-hospitaliers|Templiers et Hospitaliers]]).
+repere: XIIe siècle — Construction de la chapelle de l'hospice du Plan, tenu par les Hospitaliers.
+repere: XIVe siècle — Peintures murales de la chapelle.
+repere: 3 janvier 1939 — Classement de la chapelle.
+repere: 1998 — Inscription parmi les chemins de Compostelle au patrimoine mondial.
+attention: Aucune source ne place les Templiers à Aragnouet : l'hospice du Plan fut hospitalier dès l'origine, et la « chapelle des Templiers » n'est qu'un nom d'usage.
+geo: 42.7808, 0.1950
+lieu: Aragnouet, Hautes-Pyrénées, France
+lien: wp Chapelle Notre-Dame-de-l'Assomption-du-Plan
+sources: Wikipédia (fr) : Chapelle Notre-Dame-de-l'Assomption-du-Plan ; fiche du site Sites templiers de France ; condensé de l'atelier (Occitanie)
+voir: luz-saint-sauveur, hospitaliers, templiers-et-hospitaliers, montsaunes, temple-en-occitanie
+
+@ luz-saint-sauveur
+cat: france
+nom: Église fortifiée de Luz
+alias: église Saint-André de Luz-Saint-Sauveur, église des Templiers de Luz, église fortifiée de Luz-Saint-Sauveur, pays Toy
+dates: XIIe – XIVe siècle
+an: 1150
+def: Église romane Saint-André du pays Toy, bâtie aux XIIe-XIIIe siècles et entourée au XIVe siècle d'une enceinte crénelée par les Hospitaliers de Saint-Jean, Luz est appelée « église des Templiers » par une tradition tenace que rien ne fonde ; c'est l'un des rares ensembles fortifiés complets des Pyrénées.
+texte: Luz est le bourg de la vallée du gave de Pau en amont de Lourdes, au pied de Gavarnie, dans le pays Toy. L'église Saint-André y est bâtie à la fin du XIIe siècle et au XIIIe, sans doute par la famille de Saint-André, qui la lègue au milieu du XIVe siècle, vers 1362, aux [[hospitaliers|Hospitaliers]] de Saint-Jean de Jérusalem. Pour protéger les habitants des bandes de « miquelets » venus d'Aragon, les Hospitaliers entourent l'église d'un rempart crénelé à quatorze côtés, percé de meurtrières et doublé d'un fossé à pont-levis, et surélèvent la nef et l'abside pour y ménager un chemin de ronde ; une chapelle Notre-Dame-de-la-Pitié est ajoutée dans l'enceinte au XVIIe siècle, après la peste. Le portail roman, les chapiteaux, le clocher qui servit de prison militaire en 1876 et le petit musée d'art sacré complètent l'ensemble, classé monument historique dès la liste de 1840 et aujourd'hui propriété de la commune. L'accès est libre en journée ; des visites commentées sont proposées en saison. Les Templiers n'ont jamais eu de maison à Luz ni à Gavarnie : l'ordre militaire présent dans la vallée est l'Hôpital, et l'étiquette « des Templiers » a simplement remplacé l'ordre qui a réellement tenu l'église par un ordre plus célèbre.
+repere: fin du XIIe siècle — Construction de l'église Saint-André de Luz.
+repere: v. 1362 — La famille de Saint-André lègue l'église aux Hospitaliers.
+repere: XIVe siècle — Les Hospitaliers élèvent l'enceinte crénelée.
+repere: XVIIe siècle — Chapelle Notre-Dame-de-la-Pitié dans l'enceinte.
+repere: 1840 — Classement monument historique.
+attention: L'« église des Templiers » de Luz est hospitalière : l'ordre du Temple n'a jamais possédé de maison dans la vallée, et l'enceinte date de plus de cinquante ans après sa suppression.
+geo: 42.8721, -0.0043
+lieu: Luz-Saint-Sauveur, Hautes-Pyrénées, France
+lien: wp Luz-Saint-Sauveur
+sources: Wikipédia (fr) : Luz-Saint-Sauveur ; notice Mérimée PA00095393 (via Monumentum) ; fiche du site Sites templiers de France ; condensé de l'atelier (Occitanie)
+voir: aragnouet, hospitaliers, templiers-et-hospitaliers, montsaunes, temple-en-occitanie

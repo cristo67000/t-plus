@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "T+ · les Templiers",
+  "short_name": "T+",
+  "description": "L’histoire de l’ordre du Temple, de 1119 à 1314 : articles illustrés et vérifiés, la frise des maîtres avec les papes et les rois de leur temps, les cartes des commanderies de France, des châteaux d’Orient et des batailles, les légendes et ce qu’elles valent. Hors ligne, sans compte, sans publicité.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f1e7",
+  "theme_color": "#f6f1e7",
+  "categories": ["education", "books", "reference"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Les articles", "short_name": "Articles", "url": "./#/articles", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "La frise des maîtres", "short_name": "Frise", "url": "./#/frise", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "La carte", "short_name": "Carte", "url": "./#/carte", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

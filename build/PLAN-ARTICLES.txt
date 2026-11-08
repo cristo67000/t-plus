@@ -1,0 +1,294 @@
+# T+ — le plan des articles. Un article par ligne : « id | Nom affiché | ce qu'il couvre ».
+# Les identifiants de ce plan sont les seuls renvois [[id]] permis dans les textes :
+# `node build/construire.mjs --verifier build/articles/NN-xxx.txt` s'en sert.
+# Les catégories (champ « cat: ») : histoire, maitres, figures, ordre, orient, france,
+# europe, autres, legendes, sources.
+# « geo » : l'article est un lieu (ou une bataille) et porte « geo: » et « lieu: ».
+
+# ══ 01-histoire.txt — cat: histoire ═══════════════════════════════════════════
+ordre-du-temple | Ordre du Temple | la porte d'entrée : vue d'ensemble 1119-1314, nom, mission, expansion, chute, héritage ; long, renvoie à tout
+fondation-de-l-ordre | Fondation de l'ordre | 1119/1120, Hugues de Payns et ses compagnons, Baudouin II, le Temple de Salomon (al-Aqsa), le vœu devant le patriarche Gormond, les neuf chevaliers (chiffre de Guillaume de Tyr, discuté)
+concile-de-troyes | Concile de Troyes | 13 janvier 1129 (1128 ancien style), légat Mathieu d'Albano, Bernard, la règle latine, Hugues de Payns présent
+omne-datum-optimum | Omne datum optimum | bulle d'Innocent II 29 mars 1139 : exemption, chapelains, butin ; puis Milites Templi (1144) et Militia Dei (1145)
+deuxieme-croisade | Deuxième croisade | 1147-1149, Louis VII et Évrard des Barres, le passage de l'Anatolie confié aux Templiers, le prêt de Louis VII, échec devant Damas
+siege-d-ascalon | Siège d'Ascalon | 1153, Bernard de Tremelay tué avec quarante frères dans la brèche (version de Guillaume de Tyr), prise de la ville ; geo
+bataille-de-montgisard | Bataille de Montgisard | 25 novembre 1177, Baudouin IV, Eudes de Saint-Amand et quatre-vingts Templiers de Gaza, déroute de Saladin ; geo
+gue-de-jacob | Le Gué de Jacob (Chastellet) | château construit 1178-1179 par Baudouin IV, confié au Temple, détruit par Saladin en août 1179, fouilles de Ronnie Ellenblum ; geo
+bataille-de-hattin | Bataille de Hattin | 4 juillet 1187, Guy de Lusignan, Gérard de Ridefort, la Vraie Croix, exécution des Templiers et Hospitaliers captifs ; précédée par la source de Cresson (1er mai 1187) ; geo
+troisieme-croisade | Troisième croisade | 1189-1192, siège d'Acre, Richard Cœur de Lion, Robert de Sablé, Arsouf (7 septembre 1191), Chypre achetée puis revendue
+cinquieme-croisade | Cinquième croisade | 1217-1221, Damiette, Guillaume de Chartres meurt, Pierre de Montaigu, défaite de Mansourah 1221
+sixieme-croisade | Sixième croisade et Frédéric II | 1228-1229, l'empereur excommunié, le refus des Templiers, Jérusalem rendue par traité (1229-1244), conflit ouvert
+bataille-de-la-forbie | Bataille de La Forbie | 17-18 octobre 1244, Khwarezmiens et Ayyoubides d'Égypte, Armand de Périgord disparu, désastre comparable à Hattin ; geo
+septieme-croisade | Septième croisade | 1248-1254, Louis IX, Damiette, Mansourah (8 février 1250, Guillaume de Sonnac), la rançon avancée par le Temple (Jean de Joinville)
+chute-de-safed | Chute de Safed | juillet 1266, Baybars, la reddition et le massacre des frères, geo
+chute-d-acre | Chute d'Acre | avril-mai 1291, Guillaume de Beaujeu tué le 18 mai, la tour du Temple tient jusqu'au 28 mai, fin des États latins ; geo
+ile-de-ruad | Ruad, le dernier poste | 1300-1302, Templiers sur l'île d'Arwad face à Tortose, reddition de septembre 1302, captifs au Caire ; geo
+projets-de-fusion-des-ordres | Projets de fusion des ordres | concile de Lyon II (1274), Raymond Lulle, Charles II d'Anjou, Pierre Dubois, le mémoire de Jacques de Molay (1306-1307) contre la fusion
+arrestation-du-13-octobre-1307 | L'arrestation du 13 octobre 1307 | l'ordre secret du 14 septembre, baillis et sénéchaux, Paris et les provinces, inventaires, premiers interrogatoires
+proces-des-templiers | Procès des Templiers | 1307-1314 : aveux, rétractations, commissions, les 54 brûlés du 12 mai 1310, Vienne, ce que les historiens en disent
+parchemin-de-chinon | Parchemin de Chinon | août 1308, les trois cardinaux, absolution sacramentelle, redécouverte par Barbara Frale (2001), publication 2007 ; ce qu'il prouve et ne prouve pas
+concile-de-vienne | Concile de Vienne | octobre 1311 - mai 1312, Vox in excelso (22 mars 1312), Ad providam (2 mai), Considerantes dudum (6 mai)
+bucher-de-jacques-de-molay | Le bûcher de 1314 | 11 (ou 18) mars 1314, île aux Juifs, Molay et Geoffroy de Charnay, les sources (Geoffroi de Paris, continuateur de Nangis), la date discutée
+devolution-des-biens | La dévolution des biens | après 1312 : Hospitaliers, 200 000 livres au roi, Montesa et ordre du Christ, sort des frères pensionnés
+templiers-et-reconquista | Les Templiers et la Reconquista | Aragon (testament d'Alphonse le Batailleur 1131, Miravet, Monzón), Portugal (Soure, Tomar), Castille, châteaux de frontière ; une autre guerre sainte
+templiers-et-saint-empire | Les Templiers dans l'Empire | implantation tardive et modeste, Supplingenburg, Tempelhof, le procès sans torture, Mayence 1310
+templiers-en-angleterre | Les Templiers en Angleterre | Temple de Londres, Henri II et le trésor, Édouard II, arrestations de janvier 1308, procès sans aveux
+
+# ══ 02-maitres.txt — cat: maitres ═════════════════════════════════════════════
+maitres-de-l-ordre | Les maîtres de l'ordre | l'élection (chapitre de treize), les pouvoirs et leurs limites, le titre (maître, non « grand maître » avant le XIIIe), la liste des 23
+hugues-de-payns | Hugues de Payns | v. 1070 - 24 mai 1136, Champenois, fondateur, maître 1119-1136, tournée d'Occident 1127-1129
+robert-de-craon | Robert de Craon | maître 1136-1149, Angevin, obtient Omne datum optimum, organise l'ordre
+evrard-des-barres | Évrard des Barres | maître 1149-1152, deuxième croisade, démission, moine à Clairvaux (mort 1174)
+bernard-de-tremelay | Bernard de Tremelay | maître 1152-1153, Bourguignon, tué à Ascalon le 16 août 1153
+andre-de-montbard | André de Montbard | maître 1153-1156, oncle de saint Bernard, l'un des fondateurs
+bertrand-de-blanquefort | Bertrand de Blanquefort | maître 1156-1169, captif de Nur ad-Din (1157-1159), réformes, titre de « maître par la grâce de Dieu »
+philippe-de-milly | Philippe de Milly (de Naplouse) | maître 1169-1171, seigneur d'Outre-Jourdain, seul maître né en Terre sainte, démissionne
+eudes-de-saint-amand | Eudes de Saint-Amand | maître 1171-1179, Montgisard, affaire de Gautier du Mesnil et des Assassins, mort en captivité
+arnaud-de-toroge | Arnaud de Toroge | maître 1181-1184, ancien maître d'Aragon-Provence, mort à Vérone pendant l'ambassade en Occident
+gerard-de-ridefort | Gérard de Ridefort | maître 1185-1189, Flamand, Cresson et Hattin, captif puis libéré, tué devant Acre le 4 octobre 1189
+robert-de-sable | Robert de Sablé | maître 1191-1193, Angevin, compagnon de Richard, achat de Chypre
+gilbert-herail | Gilbert Hérail | maître 1193-1200, trêves avec les Ayyoubides, Innocent III
+philippe-du-plessis | Philippe du Plessis | maître 1201-1209, conflits avec les Hospitaliers et le patriarche
+guillaume-de-chartres | Guillaume de Chartres | maître 1210-1219, cinquième croisade, mort à Damiette (26 août 1219)
+pierre-de-montaigu | Pierre de Montaigu | maître 1219-1232, Damiette, opposition à Frédéric II
+armand-de-perigord | Armand de Périgord | maître 1232-1244, guerre contre les Hospitaliers, Gaza, disparu à La Forbie
+richard-de-bures | Richard de Bures | maître 1245-1247 (existence discutée par certains historiens)
+guillaume-de-sonnac | Guillaume de Sonnac | maître 1247-1250, tué à Mansourah (11 février 1250), Joinville
+renaud-de-vichiers | Renaud de Vichiers | maître 1250-1256, la rançon de Louis IX, Césarée, Jaffa
+thomas-berard | Thomas Bérard | maître 1256-1273, Baybars, guerre de Saint-Sabas, pertes de Safed, Beaufort
+guillaume-de-beaujeu | Guillaume de Beaujeu | maître 1273-1291, parent de saint Louis, diplomatie avec les Mamelouks, tué à Acre le 18 mai 1291
+thibaud-gaudin | Thibaud Gaudin | maître 1291-1292, replie l'ordre à Chypre
+jacques-de-molay | Jacques de Molay | v. 1244-1250 - 1314, dernier maître (1292-1314), Chypre, Ruad, tournée d'Occident 1306-1307, procès, bûcher
+
+# ══ 03-figures.txt — cat: figures ═════════════════════════════════════════════
+bernard-de-clairvaux | Bernard de Clairvaux | 1090-1153, le protecteur : Troyes, De laude novae militiae, parenté avec André de Montbard
+hugues-de-champagne | Hugues de Champagne | comte de Champagne, voyages en Terre sainte, entre au Temple en 1125, lien avec Clairvaux
+godefroy-de-saint-omer | Godefroy de Saint-Omer | cofondateur, Flamand, l'un des « neuf »
+baudouin-ii-de-jerusalem | Baudouin II de Jérusalem | roi 1118-1131, accueille les premiers Templiers, leur donne le Temple de Salomon
+foulques-d-anjou | Foulques V d'Anjou | comte d'Anjou, confrère du Temple en 1120, roi de Jérusalem 1131-1143
+baudouin-iv-de-jerusalem | Baudouin IV le Lépreux | roi 1174-1185, Montgisard, le Gué de Jacob
+guy-de-lusignan | Guy de Lusignan | roi 1186-1192, Hattin, Chypre achetée aux Templiers (1192)
+renaud-de-chatillon | Renaud de Châtillon | seigneur d'Outre-Jourdain, les caravanes, la mer Rouge, exécuté par Saladin après Hattin
+saladin | Saladin | 1138-1193, Hattin, exécution des frères, Jérusalem 1187, trêve de 1192
+richard-coeur-de-lion | Richard Cœur de Lion | troisième croisade, Chypre vendue au Temple, protégé par les Templiers lors de son retour
+frederic-ii | Frédéric II | empereur excommunié, croisade de 1228-1229, hostilité aux Templiers, Acre 1229
+louis-ix | Louis IX (saint Louis) | septième croisade, la rançon avancée par le Temple, séjour en Terre sainte 1250-1254
+baybars | Baybars | sultan mamelouk 1260-1277, Safed, Beaufort, Jaffa, Antioche
+philippe-le-bel | Philippe IV le Bel | roi 1285-1314, la dette, l'affaire de Boniface VIII, l'arrestation, Vienne, le bûcher
+clement-v | Clément V | pape 1305-1314, Bertrand de Got, Poitiers, Chinon, Vienne, Vox in excelso
+guillaume-de-nogaret | Guillaume de Nogaret | garde du sceau, Anagni, l'exécutant de l'arrestation
+guillaume-de-paris | Guillaume de Paris (Humbert) | inquisiteur de France, confesseur du roi, les interrogatoires d'octobre 1307
+enguerrand-de-marigny | Enguerrand de Marigny | chambellan, les biens du Temple, pendu en 1315
+philippe-de-marigny | Philippe de Marigny | archevêque de Sens, les cinquante-quatre relaps du 12 mai 1310
+guillaume-de-plaisians | Guillaume de Plaisians | légiste, discours de Poitiers 1308, la pression sur le pape
+geoffroy-de-charnay | Geoffroy de Charnay | commandeur de Normandie, brûlé avec Molay en 1314
+hugues-de-pairaud | Hugues de Pairaud | visiteur de France, le plus puissant dignitaire après le maître, ses aveux, prison perpétuelle
+geoffroy-de-gonneville | Geoffroy de Gonneville | commandeur d'Aquitaine et Poitou, condamné en 1314, son hypothèse sur l'origine du reniement
+raimbaud-de-caron | Raimbaud de Caron | commandeur de Chypre, dignitaire du procès
+pierre-de-bologne | Pierre de Bologne | procureur de l'ordre, défenseur des Templiers devant la commission (1310), disparaît
+esquieu-de-floyran | Esquieu de Floyran | le dénonciateur de Béziers, Jacques II d'Aragon, la lettre de 1308
+roger-de-flor | Roger de Flor | frère sergent et marin du Temple à Acre, chassé, chef des Almogavres, assassiné 1305
+jacques-ii-d-aragon | Jacques II d'Aragon | le siège des châteaux templiers (1308), le concile de Tarragone (1312), Montesa
+denis-ier-de-portugal | Denis Ier de Portugal | obtient en 1319 la création de l'ordre du Christ, héritier du Temple
+edouard-ii | Édouard II d'Angleterre | hésitations, arrestations de janvier 1308, procès anglais sans torture
+
+# ══ 04-ordre.txt — cat: ordre ═════════════════════════════════════════════════
+regle-du-temple | La règle du Temple | règle latine de 1129 (72 articles), traduction française, retraits, statuts hiérarchiques, égards, réception : 686 articles ; manuscrits (Henri de Curzon, 1886)
+retraits | Les retraits | les statuts hiérarchiques ajoutés à la règle (v. 1165), vie militaire, campement, charges
+reception-dans-l-ordre | La réception dans l'ordre | le rituel d'entrée, questions, vœux, le manteau, ce qu'en firent les accusations de 1307
+hierarchie-de-l-ordre | La hiérarchie de l'ordre | maître, sénéchal, maréchal, commandeur de la terre, commandeur de la cité de Jérusalem, drapier, turcopolier, commandeurs de province
+chapitre-general | Le chapitre général | assemblée des dignitaires, élection, décisions, discipline ; le chapitre hebdomadaire des maisons
+provinces-du-temple | Les provinces du Temple | France, Angleterre, Aragon-Catalogne, Portugal, Poitou-Aquitaine, Provence, Apulie, Sicile, Hongrie, Allemagne… ; le visiteur
+commanderie | La commanderie | la maison de base en Occident : chapelle, logis, grange, exploitation, précepteur ; combien en France (environ 700 maisons)
+chevaliers-du-temple | Les frères chevaliers | nobles, manteau blanc, trois chevaux, écuyers ; minorité dans l'ordre (un frère sur dix)
+sergents-du-temple | Les frères sergents | roturiers, manteau brun ou noir, sergents d'armes et de métier, la majorité des frères
+chapelains-du-temple | Les frères chapelains | prêtres de l'ordre depuis 1139, confession, exemption de l'évêque
+turcopoles | Les turcopoles | cavaliers légers recrutés en Orient, le turcopolier
+freres-de-metier | Frères de métier et serviteurs | artisans, bergers, domestiques, le monde des commanderies
+donats-et-confreres | Donats, confrères et associés | laïcs attachés à l'ordre sans vœux, donations pro anima
+femmes-et-le-temple | Les femmes et le Temple | la règle interdit les sœurs ; donatrices, consœurs, la maison de Mühlen
+manteau-et-croix | Le manteau blanc et la croix rouge | manteau blanc accordé en 1129, croix rouge concédée par Eugène III (1147), formes de croix, idées reçues
+baucent | Le baucent (gonfanon) | la bannière mi-partie noire et blanche, son rôle au combat, règle de ne pas quitter la bannière
+sceau-du-temple | Le sceau du Temple | deux chevaliers sur un cheval, Sigillum militum Xpisti, le dôme du Rocher, interprétations
+devise-non-nobis | Non nobis, Domine | le psaume 113 (115), la devise, usage réel et postérité
+armement-et-equipement | Armement et équipement | haubert, heaume, épée, lance, écu, le turc ; ce que la règle fixe
+chevaux-et-cavalerie | Les chevaux | nombre par frère, le maréchal, l'élevage en Occident, la charge de cavalerie
+vie-quotidienne | La vie quotidienne | offices, repas en silence, viande trois fois par semaine, sommeil habillé, interdits (chasse, jeux)
+discipline-et-penalites | Discipline et pénalités | les fautes et leurs peines : perte de la maison, perte de l'habit, la chaîne
+economie-du-temple | L'économie du Temple | domaines, élevage ovin et chevalin, vignes, moulins, revenus envoyés en Orient (responsions), foires
+banque-du-temple | Le Temple et l'argent | dépôts, prêts, lettres de change, le Trésor royal à Paris, Louis VII, Louis IX ; limites du mythe de la « banque »
+flotte-du-temple | La flotte du Temple | navires à Marseille, La Rochelle, Acre ; transport de pèlerins et de chevaux ; modestie réelle, légende de 1307
+chateaux-du-temple | Les châteaux du Temple | poliorcétique, garnisons, Château Pèlerin, Safed, Tortose, coût d'entretien
+architecture-templiere | L'architecture templière | chapelles simples, nefs uniques, idées reçues sur les églises rondes (Laon, Metz, Londres), granges
+effectifs-du-temple | Les effectifs | estimations : quelques centaines de chevaliers en Orient, quelques milliers de frères en tout ; 15 000 fantasmés
+templiers-et-hospitaliers | Templiers et Hospitaliers | rivalité et coopération, Saint-Sabas, projets de fusion, l'héritage de 1312
+templiers-et-musulmans | Les Templiers et les musulmans | Usama ibn Munqidh à al-Aqsa, trêves, Assassins et tribut, accusations de collusion
+privileges-et-critiques | Privilèges et critiques | exemptions, dîmes, conflits avec évêques, Guillaume de Tyr, Jean de Salisbury, Matthieu Paris, « boire comme un templier »
+
+# ══ 05-orient.txt — cat: orient (tous geo) ═════════════════════════════════════
+jerusalem-temple-de-salomon | Jérusalem, le Temple de Salomon | la mosquée al-Aqsa devenue siège de l'ordre (1120-1187), les Écuries de Salomon, les constructions ; geo 31.7761, 35.2358
+acre | Acre | le quartier du Temple, la forteresse au sud-ouest, siège de l'ordre 1191-1291, le tunnel des Templiers redécouvert en 1994 ; geo 32.9208, 35.0675
+chateau-pelerin | Château Pèlerin (Atlit) | construit 1217-1218, imprenable, évacué le 14 août 1291, dernier bastion ; geo 32.7045, 34.9330
+safed | Safed | château reconstruit 1240-1260 (De constructione castri Saphet), pris par Baybars en 1266 ; geo 32.9658, 35.4983
+tortose | Tortose (Tartous) | château et cathédrale, siège de l'ordre dans le comté de Tripoli, évacué le 3 août 1291 ; geo 34.8890, 35.8866
+chastel-blanc | Chastel Blanc (Safita) | donjon-chapelle, dépendance de Tortose, perdu en 1271 ; geo 34.8205, 36.1167
+beaufort | Beaufort (Qalaat al-Chaqif) | acheté par les Templiers en 1260, pris par Baybars en 1268 ; geo 33.3230, 35.5330
+gaza | Gaza | ville confiée au Temple vers 1149-1150, base contre Ascalon, Montgisard ; geo 31.5017, 34.4668
+sidon | Sidon | seigneurie vendue au Temple par Julien de Sidon (1260), le château de la mer, évacué en 1291 ; geo 33.5680, 35.3710
+bagras | Bagras (Gaston) | château des Templiers sur la route d'Antioche, marche de l'Amanus, perdu en 1268 ; geo 36.4333, 36.2667
+la-roche-guillaume | La Roche-Guillaume et la marche de l'Amanus | les châteaux du Temple dans l'Amanus (Roche-Guillaume, Roche de Roissel, Darbsak), derniers tenus jusque vers 1298 ; geo 36.70, 36.30 (approximatif, à vérifier)
+chypre-templiere | Chypre | 1191-1192 l'achat et la révolte, puis le repli de 1291 : Limassol, Gastria, Kolossi (hospitalier), l'arrestation de 1308 ; geo 34.6786, 33.0413 (Limassol)
+tripoli | Tripoli | le comté, la maison du Temple, la chute de 1289 ; geo 34.4367, 35.8497
+antioche | Antioche | la principauté, la maison du Temple, la chute de 1268 ; geo 36.2000, 36.1500
+jaffa | Jaffa | port des pèlerins, le château, Renaud de Vichiers et Louis IX, perdu en 1268 ; geo 32.0530, 34.7520
+bataille-d-arsouf | Bataille d'Arsouf | 7 septembre 1191, Richard contre Saladin, Templiers à l'avant-garde ; geo 32.1950, 34.8060
+damiette | Damiette | cinquième croisade (1218-1221) et septième (1249-1250), les Templiers en première ligne ; geo 31.4165, 31.8133
+mansourah | Mansourah | 8 février 1250, la charge de Robert d'Artois, la mort de Guillaume de Sonnac ; 1221 ; geo 31.0409, 31.3785
+
+# ══ 06-france-nord.txt — cat: france (tous geo) ═══════════════════════════════
+temple-en-champagne | Le Temple en Champagne | la province berceau : Payns, Troyes, Hugues de Champagne, les foires, Bonlieu et la forêt du Temple, Avalleur, Coulours
+payns | Payns | le village d'Hugues de Payns, la commanderie fouillée, le musée Hugues de Payns, le trésor monétaire de 1998 ; geo 48.3819, 3.9742
+troyes | Troyes | le concile de 1129, la maison du Temple, les foires de Champagne ; geo 48.2973, 4.0744
+clairvaux | Clairvaux | l'abbaye de Bernard, les liens avec le Temple, Évrard des Barres ; geo 48.1486, 4.7872
+foret-d-orient | Forêt d'Orient et forêt du Temple | commanderie de Bonlieu, achat de 1255, la Loge-Bazin, les lacs, la légende moderne ; geo 48.2886, 4.3911
+avalleur | Commanderie d'Avalleur | Bar-sur-Seine, chapelle du XIIe conservée, logis ; geo 48.1153, 4.3639
+coulours | Commanderie de Coulours | Yonne, chapelle, l'une des plus anciennes (v. 1130-1140) ; geo 48.0925, 3.5858
+enclos-du-temple | L'enclos du Temple de Paris | chef-lieu de la province de France, le Trésor royal, la Grande Tour (1240), l'arrestation, prison de Louis XVI, démolition ; geo 48.8645, 2.3608
+ile-aux-juifs | L'île aux Juifs | le lieu du bûcher de 1314, aujourd'hui square du Vert-Galant (pointe de l'île de la Cité) ; geo 48.8575, 2.3408
+la-villedieu-elancourt | Commanderie de la Villedieu | Yvelines, Élancourt, chapelle du XIIIe restaurée ; geo 48.7736, 1.9664
+coulommiers | Commanderie de Coulommiers | Seine-et-Marne, ensemble conservé (chapelle, logis, grange) ; geo 48.8123, 3.0947
+chevru | Commanderie de Chevru | Seine-et-Marne, chapelle du XIIe ; geo 48.7483, 3.2069
+provins | Provins | ville des foires, la maison du Temple, la grange aux dîmes ; geo 48.5600, 3.2990
+laon | Chapelle des Templiers de Laon | chapelle octogonale v. 1140, cour du musée ; geo 49.5642, 3.6225
+mont-de-soissons | Commanderie du Mont-de-Soissons | Aisne, Serches, grange et chapelle ; geo 49.3450, 3.4140
+neuilly-sous-clermont | Commanderie de Neuilly-sous-Clermont | Oise, chapelle Saint-Jean-Baptiste v. 1180 ; geo 49.3480, 2.4150
+sours | Maison du Temple de Sours | Eure-et-Loir, grange et chapelle ; geo 48.4094, 1.5961
+arville | Commanderie d'Arville | Loir-et-Cher, la mieux conservée de France, centre d'interprétation ; geo 48.0264, 1.0458
+gisors | Château de Gisors | forteresse normande, prison de Templiers en 1310 (graffiti), la légende du trésor (Lhomoy 1946, Gérard de Sède) ; geo 49.2808, 1.7753
+chinon | Chinon | la tour du Coudray, détention des dignitaires en 1308, les graffiti attribués, le parchemin ; geo 47.1669, 0.2428
+sainte-vaubourg | Commanderie de Sainte-Vaubourg | Val-de-la-Haye (Seine-Maritime), chapelle normande ; geo 49.3886, 1.0017
+bretteville-le-rabet | Commanderie de Bretteville-le-Rabet | Calvados, vestiges ; geo 49.0520, -0.2660
+templemars | Templemars | Nord, un village né d'une maison du Temple ; geo 50.5680, 3.0540
+metz | Chapelle des Templiers de Metz | chapelle octogonale début XIIIe, peintures, la Lorraine templière ; geo 49.1160, 6.1760
+temple-en-lorraine | Le Temple en Lorraine | aux confins du royaume et de l'Empire : Metz, Libdeau, Xugney, Marbotte, Gelucourt
+libdeau | Chapelle de Libdeau | Toul, chapelle gothique en cours de restauration ; geo 48.6860, 5.8870
+xugney | Commanderie de Xugney | Vosges, Rugney, chapelle ; geo 48.3850, 6.2560
+marbotte | Chapelle de Marbotte | Meuse, Apremont-la-Forêt ; geo 48.8520, 5.5750
+temple-en-alsace | Le Temple en Alsace | Bergheim, Rixheim, Dorlisheim ; terre d'Empire, implantation tardive
+bergheim | Bergheim | Haut-Rhin, maison du Temple attestée, la porte haute ; geo 48.2056, 7.3631
+voulaines | Commanderie de Voulaines-les-Templiers | Côte-d'Or, chef-lieu bourguignon, chapelle disparue, logis ; geo 47.8020, 4.7800
+bure-les-templiers | Commanderie de Bure | Côte-d'Or, grange et chapelle ; geo 47.7360, 4.8370
+epailly | Commanderie d'Épailly | Côte-d'Or, Courban, chapelle gothique remarquable ; geo 47.8930, 4.6880
+molay | Molay, pays de Jacques de Molay | Haute-Saône (ou Jura : Molay près de Rahon), la question du lieu de naissance ; geo 47.6367, 5.7150
+carentoir | Le Temple de Carentoir | Morbihan, la Bretagne templière, chapelle ; geo 47.8150, -2.1420
+coudrie | Commanderie de Coudrie | Vendée, Challans, vestiges ; geo 46.8320, -1.8590
+la-rochelle | La Rochelle | port atlantique, maison du Temple, la légende de la flotte de 1307 ; geo 46.1591, -1.1520
+les-epeaux | Commanderie des Épeaux | Charente-Maritime, Meursac ; geo 45.6680, -0.7980
+cressac | Chapelle de Cressac | Charente, les fresques de chevaliers (v. 1170-1180), Nur ad-Din à la Boquée (1163) ; geo 45.5106, -0.0286
+
+# ══ 07-france-sud.txt — cat: france (tous geo) ════════════════════════════════
+temple-en-occitanie | Le Temple en Occitanie | Toulouse, Douzens, Mas Deu, Montsaunès, le Larzac, les comtes de Toulouse, la croisade albigeoise
+larzac-templier | Le Larzac templier et hospitalier | Sainte-Eulalie (1151), La Cavalerie, La Couvertoirade, Le Viala, Saint-Jean-d'Alcas (cistercien) ; fortifications hospitalières du XVe
+sainte-eulalie-de-cernon | Commanderie de Sainte-Eulalie-de-Cernon | chef-lieu du Larzac, église, logis, porte de 1641, parcours de visite ; geo 43.9821, 3.1352
+la-couvertoirade | La Couvertoirade | château templier (1249), remparts de 1439-1445 (Déodat d'Alaus), Plus Beaux Villages ; geo 43.9135, 3.3165
+la-cavalerie | La Cavalerie | bourg fondé par le Temple (1154), remparts hospitaliers ; geo 44.0082, 3.1572
+viala-du-pas-de-jaux | Le Viala-du-Pas-de-Jaux | tour-grenier de 1430 ; geo 43.9566, 3.0551
+montsaunes | Montsaunès | église de brique v. 1180, peintures géométriques du XIIIe, lectures ésotériques ; geo 43.1122, 0.9375
+toulouse | Maison du Temple de Toulouse | fondée v. 1130-1140, l'une des premières, quartier Saint-Rémi ; geo 43.6045, 1.4440
+douzens | Douzens | Aude, la première commanderie datée (1133), cartulaire ; geo 43.1890, 2.6240
+mas-deu | Commanderie du Mas Deu | Roussillon, Trouillas, fondée 1132-1138, puissance catalane, vestiges ; geo 42.6250, 2.8140
+campagne-sur-aude | Campagne-sur-Aude | village templier fortifié ; geo 42.9340, 2.1990
+le-bezu | Château du Bézu | Aude, légendes de Rennes-le-Château, aucun lien templier prouvé ; geo 42.9030, 2.3430
+vaour | Commanderie de Vaour | Tarn, ruines imposantes ; geo 44.0720, 1.8030
+lacapelle-livron | Commanderie de Lacapelle-Livron | Tarn-et-Garonne, ensemble fortifié conservé ; geo 44.2640, 1.8310
+montricoux | Donjon de Montricoux | Tarn-et-Garonne, tour carrée du XIIIe ; geo 44.0760, 1.6180
+la-ville-dieu-du-temple | La Ville-Dieu-du-Temple | Tarn-et-Garonne, bastide templière ; geo 44.0320, 1.2180
+figeac | Figeac | la « commanderie » (maison du XIIIe), attribution discutée ; geo 44.6080, 2.0330
+richerenches | Commanderie de Richerenches | Vaucluse, fondée 1136, élevage de chevaux, enceinte, Provence ; geo 44.3620, 4.9120
+roaix | Commanderie de Roaix | Vaucluse, 1138 ; geo 44.2560, 5.0100
+jales | Commanderie de Jalès | Ardèche, Berrias-et-Casteljau, quadrilatère conservé ; geo 44.3610, 4.2150
+le-ruou | Commanderie du Ruou | Var, Villecroze, vestiges ; geo 43.5700, 6.2700
+montfort-sur-argens | Montfort-sur-Argens | Var, château templier ; geo 43.4740, 6.1220
+hyeres | Tour des Templiers d'Hyères | Var, commanderie Saint-Jean ; geo 43.1200, 6.1290
+biot | Biot | Alpes-Maritimes, village donné au Temple (1209) ; geo 43.6280, 7.0960
+grasse | Maison du Temple de Grasse | Alpes-Maritimes ; geo 43.6580, 6.9240
+temple-en-provence | Le Temple en Provence | Richerenches, Roaix, Marseille (port d'embarquement), Arles, Hyères, Ruou
+marseille | Marseille, port du Temple | embarquements pour l'Orient, accord de 1233 avec la commune, deux navires par an ; geo 43.2965, 5.3698
+ydes | Église d'Ydes | Cantal, église Saint-Georges, portail sculpté ; geo 45.3440, 2.4390
+celles | Commanderie de Celles | Cantal, chapelle et logis ; geo 45.0470, 2.6360
+paulhac | Commanderie de Paulhac | Creuse, Saint-Étienne-de-Fursac, chapelle et fresques ; geo 46.1370, 1.5160
+blaudeix | Commanderie de Blaudeix | Creuse, chapelle ; geo 46.2180, 2.0760
+andrivaux | Commanderie des Andrivaux | Dordogne, Chancelade, chapelle ; geo 45.2280, 0.6380
+sergeac | Sergeac | Dordogne, village templier de la Vézère, croix ; geo 45.0030, 1.1140
+domme | Porte des Tours de Domme | Dordogne, graffiti des Templiers prisonniers (1307-1318), lectures discutées ; geo 44.8020, 1.2170
+magrigne | Chapelle de Magrigne | Gironde, Saint-Laurent-d'Arce ; geo 45.0280, -0.4740
+marcenais | Église de Marcenais | Gironde, église templière ; geo 45.0520, -0.3580
+le-temple-sur-lot | Le Temple-sur-Lot | Lot-et-Garonne, commanderie du XIIIe ; geo 44.3870, 0.5310
+aragnouet | Chapelle des Templiers d'Aragnouet | Hautes-Pyrénées, hospice de montagne, attribution traditionnelle non prouvée ; geo 42.7800, 0.2390
+luz-saint-sauveur | Église fortifiée de Luz | Hautes-Pyrénées, dite « des Templiers », en fait hospitalière ; geo 42.8720, -0.0040
+
+# ══ 08-europe.txt — cat: europe (tous geo) ════════════════════════════════════
+tomar | Tomar | Portugal, château (1160, Gualdim Pais), la charola, couvent du Christ, UNESCO ; geo 39.6036, -8.4178
+templiers-au-portugal | Les Templiers au Portugal | Soure (1128), Gualdim Pais, Tomar, Almourol, l'ordre du Christ (1319)
+almourol | Château d'Almourol | Portugal, îlot du Tage, reconstruit 1171 ; geo 39.4620, -8.3830
+miravet | Château de Miravet | Catalogne, sur l'Èbre, siège de 1308 ; geo 41.0390, 0.5950
+monzon | Château de Monzón | Aragon, Jacques Ier élevé par les Templiers, siège 1308-1309 ; geo 41.9100, 0.1930
+peniscola | Peñíscola | château construit par les Templiers (1294-1307), puis Montesa ; geo 40.3590, 0.4080
+ponferrada | Château de Ponferrada | León, chemin de Compostelle, tenu 1178-1312 ; geo 42.5430, -6.5950
+segovie-vera-cruz | La Vera Cruz de Ségovie | église dodécagonale (1208), attribuée au Temple ou au Saint-Sépulcre ; geo 40.9560, -4.1300
+temple-church-londres | Temple Church (Londres) | église ronde consacrée en 1185, gisants, Inner et Middle Temple ; geo 51.5135, -0.1105
+cressing-temple | Cressing Temple | Essex, les deux granges (barley barn v. 1220, wheat barn v. 1280) ; geo 51.8470, 0.5950
+garway | Garway | Herefordshire, église à nef ronde (1180), pigeonnier hospitalier ; geo 51.8840, -2.8520
+balantrodoch | Balantrodoch (Temple, Écosse) | chef-lieu écossais, l'Écosse et la légende de Bannockburn ; geo 55.8430, -3.0710
+san-bevignate | San Bevignate (Pérouse) | église templière avec fresques de la bataille (v. 1256-1262) ; geo 43.1080, 12.4060
+tempelhof | Tempelhof (Berlin) | commanderie du XIIIe qui a donné son nom au quartier et à l'aéroport ; geo 52.4650, 13.3850
+chwarszczany | Chwarszczany | Pologne, chapelle templière gothique (v. 1280) ; geo 52.6390, 14.6440
+templstejn | Templštejn | Moravie, château templier en ruine ; geo 49.0900, 16.2000
+
+# ══ 09-autres.txt — cat: autres ═══════════════════════════════════════════════
+hospitaliers | Hospitaliers de Saint-Jean | 1113, Raymond du Puy, militarisation, Rhodes, l'héritage du Temple (1312), Malte
+teutoniques | Ordre Teutonique | 1190-1198, Acre, Prusse, la seule issue durable d'un ordre militaire
+ordre-de-calatrava | Ordre de Calatrava | 1158, Castille, cistercien, modèle ibérique
+ordre-de-santiago | Ordre de Santiago | 1170, León, frères mariés
+ordre-de-montesa | Ordre de Montesa | 1317, Valence, héritier des biens templiers d'Aragon
+ordre-du-christ | Ordre du Christ | 1319, Portugal, Tomar, Henri le Navigateur, la croix des caravelles
+ordre-de-saint-lazare | Ordre de Saint-Lazare | lépreux, Hattin, les Templiers lépreux transférés
+ordre-du-saint-sepulcre | Chanoines du Saint-Sépulcre | les chanoines de Jérusalem, modèle et voisins des premiers Templiers
+ordres-militaires | Les ordres religieux-militaires | la notion, la nouveauté du moine-soldat, les débats, le tableau d'ensemble
+
+# ══ 10-legendes.txt — cat: legendes ═══════════════════════════════════════════
+tresor-des-templiers | Le trésor des Templiers | la rumeur de Jean de Châlons, Gisors, Gérard de Sède, Rennes-le-Château, Rosslyn, Oak Island, ce que disent les historiens (Hélary 2018)
+malediction-de-jacques-de-molay | La malédiction de Jacques de Molay | Geoffroi de Paris, le « dans l'an et le jour », Paul Émile (1548), Druon, la fin des Capétiens directs
+baphomet | Baphomet | l'idole des aveux, étymologie (Mahomet), Hammer-Purgstall (1818), Éliphas Lévi (1856), ce que les historiens en disent
+templiers-et-graal | Les Templiers et le Graal | Wolfram von Eschenbach (templeisen), les auteurs modernes, aucune source médiévale française
+chapelle-de-rosslyn | La chapelle de Rosslyn | fondée en 1446, Saint-Clair, la légende templière née au XVIIIe-XIXe, Da Vinci Code
+templiers-en-ecosse | Les Templiers en Écosse | Balantrodoch, le procès de 1309, Bannockburn (1314) et la légende maçonnique, Kilmartin
+rennes-le-chateau | Rennes-le-Château et les Templiers | Saunière, Gérard de Sède, le Bézu, le rattachement tardif aux Templiers
+flotte-de-la-rochelle | La flotte de La Rochelle | la légende du départ des navires le 12 octobre 1307, origine (Jean de Châlons, XXe siècle), réfutation
+templiers-en-amerique | Les Templiers en Amérique | Oak Island, Newport Tower, Zeno, aucun élément historique
+franc-maconnerie-et-templiers | Franc-maçonnerie et Templiers | Ramsay (1736), Stricte Observance (von Hund), Kadosh, rite d'York, Wilhelmsbad 1782, grades symboliques sans filiation
+stricte-observance | La Stricte Observance templière | 1751-1782, Karl Gotthelf von Hund, les supérieurs inconnus, Pierre d'Aumont, Wilhelmsbad
+neo-templarisme | Le néo-templarisme | Fabré-Palaprat (1804), charte de Larmenius (faux), Lévitikon, OSMTH/OSMTJ, Ordre rénové du Temple
+ordre-du-temple-solaire | L'Ordre du Temple solaire | Di Mambro, Jouret, 1994-1997, 74 morts ; ce qui le rattache (par usurpation) au Temple
+vendredi-13 | Le vendredi 13 | l'arrestation du 13 octobre 1307 n'est pas l'origine de la superstition (XIXe siècle, Lawson 1907)
+suaire-de-turin-et-templiers | Le suaire de Turin et les Templiers | l'hypothèse de Ian Wilson et Barbara Frale (la « tête » = le suaire), Geoffroy de Charny de Lirey, critiques
+templiers-et-cathares | Templiers et cathares | la croisade albigeoise, la neutralité de l'ordre, le mythe d'une complicité
+templiers-dans-la-litterature | Les Templiers dans la littérature | Ivanhoé (Brian de Bois-Guilbert), Les Rois maudits, Le Pendule de Foucault, Da Vinci Code, Umberto Eco
+templiers-au-cinema-et-dans-les-jeux | Templiers au cinéma et dans les jeux | Kingdom of Heaven, Les Rois maudits (1972, 2005), Assassin's Creed, Arn ; la figure du Templier dans la culture populaire
+symbolisme-templier | Symbolisme et ésotérisme templiers | géométrie, croix, « secret », graffiti ; ce que disent les sources contre les interprétations
+graffiti-de-domme-et-chinon | Les graffiti des Templiers prisonniers | Domme, Chinon, Gisors : ce qui est attesté, ce qui est interprété
+tete-de-templiers | La tête et les reliques | les « têtes » d'idole, le chef de sainte Euphémie à Nicosie, les reliques du Temple de Paris
+
+# ══ 11-sources.txt — cat: sources ═════════════════════════════════════════════
+de-laude-novae-militiae | De laude novae militiae | l'« Éloge de la nouvelle chevalerie » de Bernard (v. 1130-1136), contenu, portée
+guillaume-de-tyr | Guillaume de Tyr | v. 1130-1186, l'Historia, le récit de la fondation, la critique des privilèges
+jacques-de-vitry | Jacques de Vitry | évêque d'Acre (1216-1228), Historia orientalis, les Templiers vus par un prédicateur
+matthieu-paris | Matthieu Paris | moine de Saint-Albans, Chronica majora, sévérité envers le Temple, la carte et les dessins
+ernoul | Chronique d'Ernoul | écuyer de Balian d'Ibelin, Cresson, Hattin, continuations de Guillaume de Tyr
+templier-de-tyr | Le Templier de Tyr | Gestes des Chiprois, témoin de la chute d'Acre et secrétaire de Guillaume de Beaujeu
+usama-ibn-munqidh | Usama ibn Munqidh | Kitab al-I'tibar, l'anecdote d'al-Aqsa, le regard musulman
+jean-de-joinville | Jean de Joinville | la Vie de saint Louis, Mansourah, la rançon et le Temple
+actes-du-proces | Les actes du procès | interrogatoires de Paris (1307), commission pontificale (1309-1311), édition Michelet (1841-1851), Processus contra Templarios (Vatican 2007)
+cartulaires-du-temple | Les cartulaires et les archives | cartulaire général (marquis d'Albon, 1913), Douzens, Richerenches, les archives perdues à Chypre
+historiographie-des-templiers | L'historiographie des Templiers | de Raynouard (1813) et Michelet à Demurger, Barber, Nicholson, Carraz, Frale, Théry, Hélary ; les écoles et les débats
+chronologie-de-l-ordre | Chronologie de l'ordre | les dates clés de 1095 à 1314 en une liste de repères, puis la postérité jusqu'à 2007

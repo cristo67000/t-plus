@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <!-- L'application ne parle à personne : ni police distante, ni mesure
+       d'audience, ni publicité. Tout est dans le dossier. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta name="referrer" content="no-referrer">
+  <meta name="description" content="T+ : les Templiers. L’histoire de l’ordre du Temple, de sa fondation à Jérusalem en 1119 au bûcher de Jacques de Molay en 1314 : articles illustrés et vérifiés, la frise des vingt-trois maîtres, les papes et les rois de leur temps, les cartes des commanderies de France, des châteaux d’Orient et des batailles, les légendes et ce qu’elles valent. Hors ligne, sans compte, sans publicité.">
+  <meta name="theme-color" content="#f6f1e7">
+  <!-- La version de la coquille, la même que dans sw.js. -->
+  <meta name="application-version" content="v1.0.0">
+  <title>T+ · les Templiers</title>
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="T+">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="T+">
+  <meta property="og:title" content="T+ · les Templiers">
+  <meta property="og:description" content="L’ordre du Temple de 1119 à 1314 : articles illustrés et vérifiés, frise des maîtres, cartes des commanderies et des châteaux, légendes passées au crible. Hors ligne, sans compte, sans publicité.">
+  <meta property="og:url" content="https://cristo67000.github.io/t-plus/">
+  <meta property="og:image" content="https://cristo67000.github.io/t-plus/icons/apercu-1200x630.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="T+ · les Templiers">
+  <meta property="og:locale" content="fr_FR">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+  <div id="demarrage" role="status">
+    <svg class="logo" viewBox="0 0 64 64" aria-hidden="true" focusable="false">
+      <rect class="logo-fond" x="2" y="2" width="60" height="60" rx="14"/>
+      <path class="logo-croix" d="M32 10l5 7h-3v9h9v-3l7 5-7 5v-3h-9v9h3l-5 7-5-7h3v-9h-9v3l-7-5 7-5v3h9v-9h-3z"/>
+    </svg>
+    <div class="marque">T+</div>
+    <p>Les chevaliers se mettent en selle…</p>
+  </div>
+
+  <header id="barre">
+    <button id="b-retour" class="bouton-icone" type="button" aria-label="Retour" hidden>
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+    <div id="titre-barre">
+      <svg class="logo" id="logo-barre" viewBox="0 0 64 64" aria-hidden="true" focusable="false">
+        <rect class="logo-fond" x="2" y="2" width="60" height="60" rx="14"/>
+        <path class="logo-croix" d="M32 10l5 7h-3v9h9v-3l7 5-7 5v-3h-9v9h3l-5 7-5-7h3v-9h-9v3l-7-5 7-5v3h9v-9h-3z"/>
+      </svg>
+      <div class="titre-bloc">
+        <h1 id="titre-texte">T+</h1>
+        <div class="sous" id="sous-titre"></div>
+      </div>
+    </div>
+    <a class="bouton-icone" href="#/articles?q=" aria-label="Rechercher">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true"><path d="M11 4a7 7 0 1 1 0 14 7 7 0 0 1 0-14zM20 20l-4-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+  </header>
+
+  <main id="vue"></main>
+
+  <nav id="nav" aria-label="Navigation principale">
+    <a href="#/" data-route=""><svg class="icone" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11l8-7 8 7v9h-5v-6H9v6H4z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>Accueil</a>
+    <a href="#/articles" data-route="articles"><svg class="icone" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3V4zM5 17a3 3 0 0 1 3-3h11" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>Articles</a>
+    <a href="#/frise" data-route="frise"><svg class="icone" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3v18M6 6h8v4H6M6 13h11v4H6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>Frise</a>
+    <a href="#/carte" data-route="carte"><svg class="icone" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 6.5 9 4l6 2.5 5.5-2.5v13.5L15 20l-6-2.5-5.5 2.5zM9 4v13.5M15 6.5V20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>Carte</a>
+    <a href="#/reglages" data-route="reglages"><svg class="icone" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8a4 4 0 1 1 0 8 4 4 0 0 1 0-8zM12 2v3M12 19v3M2 12h3M19 12h3M5 5l2 2M17 17l2 2M5 19l2-2M17 7l2-2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>Réglages</a>
+  </nav>
+
+  <div id="mise-a-jour" role="status" hidden>
+    <p id="mise-a-jour-texte">Une nouvelle version de T+ est prête.</p>
+    <button id="b-maj-plus-tard" type="button">Plus tard</button>
+    <button id="b-mettre-a-jour" type="button">Mettre à jour</button>
+  </div>
+
+  <div id="visionneuse" hidden aria-modal="true" role="dialog"></div>
+
+  <script src="js/outils.js"></script>
+  <script src="js/reglages.js"></script>
+  <script src="js/donnees.js"></script>
+  <script src="js/rendu.js"></script>
+  <script src="js/echelle.js"></script>
+  <script src="js/images.js"></script>
+  <script src="js/illustrations.js"></script>
+  <script src="js/carte.js"></script>
+  <script src="js/vues/communs.js"></script>
+  <script src="js/vues/accueil.js"></script>
+  <script src="js/vues/articles.js"></script>
+  <script src="js/vues/article.js"></script>
+  <script src="js/vues/frise.js"></script>
+  <script src="js/vues/carte.js"></script>
+  <script src="js/vues/date.js"></script>
+  <script src="js/vues/reglages.js"></script>
+  <script src="js/miseajour.js"></script>
+  <script src="js/installer.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
