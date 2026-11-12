@@ -14,7 +14,7 @@
  * qu'au feu vert de js/miseajour.js (le bandeau « Mettre à jour »).
  */
 
-const VERSION = 'v1.0.0';
+const VERSION = 'v1.1.0';
 const COQUILLE = 'tplus-coquille-' + VERSION;
 const IMAGES = 'tplus-images';
 
@@ -28,6 +28,7 @@ const FICHIERS = [
   'js/reglages.js',
   'js/donnees.js',
   'js/rendu.js',
+  'js/voix.js',
   'js/echelle.js',
   'js/images.js',
   'js/illustrations.js',

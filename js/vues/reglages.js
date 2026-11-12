@@ -15,6 +15,38 @@
     return bloc;
   }
 
+  /* La lecture à voix haute : la voix (un homme, en français de France, sauf
+   * autre choix), le débit, un essai. */
+  function carteVoix() {
+    const carte = h('div', { class: 'carte' });
+    carte.appendChild(h('p', { class: 'carte-titre' }, 'Lecture à voix haute'));
+    const etat = h('div', { class: 'explication' });
+    const liste = h('select', { class: 'choix-voix', 'aria-label': 'Voix', onchange: () => { Reglages.ecrire('voix', liste.value); montrer(); } });
+    function montrer() {
+      const voix = Voix.voix();
+      const c = Voix.choisie();
+      liste.textContent = '';
+      liste.appendChild(h('option', { value: '' }, 'Automatique (voix d’homme)'));
+      for (const v of voix) {
+        liste.appendChild(h('option', { value: v.voiceURI }, v.name.replace(/\s*-\s*French \(France\)/i, '') + (Voix.estMasculine(v) ? ' · homme' : '') + (Voix.enLigne(v) ? ' · en ligne' : '')));
+      }
+      liste.value = c.choix ? c.voix.voiceURI : '';
+      liste.disabled = !voix.length;
+      if (!c.voix) etat.textContent = 'Aucune voix française n’est installée sur cet appareil : ajoutez-en une dans les réglages de synthèse vocale du système.';
+      else if (c.choix) etat.textContent = 'Voix choisie : ' + c.voix.name + '.';
+      else if (c.masculine) etat.textContent = 'Voix d’homme, en français de France : ' + c.voix.name + '.';
+      else etat.textContent = 'Aucune voix d’homme reconnue sur cet appareil : ' + c.voix.name + ' est lue d’un ton plus grave. Si la liste contient une voix masculine, choisissez-la.';
+    }
+    Voix.surVoix(montrer);
+    montrer();
+    carte.appendChild(h('div', { class: 'option' }, h('div', { style: { flex: 1 } }, h('div', { class: 'libelle' }, 'Voix'), etat), liste));
+    carte.appendChild(h('div', { class: 'option' }, h('div', null, h('div', { class: 'libelle' }, 'Débit'), h('div', { class: 'explication' }, 'La vitesse de la lecture.')),
+      segments([['lent', 'Lent'], ['normal', 'Normal'], ['rapide', 'Rapide']], Reglages.lire('debit', 'normal'), (v) => Reglages.ecrire('debit', v))));
+    carte.appendChild(h('div', { style: { marginTop: '8px' } },
+      h('button', { type: 'button', class: 'bouton-discret', onclick: () => { if (!Voix.essayer()) Communs.toast('La lecture n’a pas pu démarrer.'); } }, icone('voix'), 'Essayer')));
+    return carte;
+  }
+
   function dessiner(zone) {
     const page = h('div', { class: 'page' });
 
@@ -25,6 +57,8 @@
     carte.appendChild(h('div', { class: 'option' }, h('div', null, h('div', { class: 'libelle' }, 'Taille du texte'), h('div', { class: 'explication' }, 'Pour les articles.')),
       segments([['normal', 'Normale'], ['grand', 'Grande'], ['tres-grand', 'Très grande']], Reglages.lire('taille', 'normal'), (v) => { Reglages.ecrire('taille', v); Reglages.appliquerTheme(); })));
     page.appendChild(carte);
+
+    if (Voix.possible) page.appendChild(carteVoix());
 
     const img = h('div', { class: 'carte' });
     img.appendChild(h('p', { class: 'carte-titre' }, 'Images hors ligne'));
@@ -78,11 +112,11 @@
     apropos.appendChild(h('p', null, h('strong', null, 'Méthode.'), ' Les textes sont originaux. Ils ont été écrits d’après les travaux des historiens — Alain Demurger, Malcolm Barber, Helen Nicholson, Damien Carraz, Barbara Frale, Julien Théry, Xavier Hélary — et les sources médiévales éditées (la règle, les chroniques, les actes du procès), puis vérifiés date par date dans Wikipédia et dans les ouvrages accessibles en ligne. Chaque article dit ses sources ; quand les historiens hésitent, l’article le dit aussi. Les légendes sont racontées pour ce qu’elles sont : on dit d’où elles viennent et ce qu’elles valent.'));
     apropos.appendChild(h('p', null, h('strong', null, 'Images.'), ' Toutes viennent de Wikimedia Commons : œuvres du domaine public (sceaux, miniatures, gravures) ou photographies sous licence libre avec attribution (CC BY, CC BY-SA) ; l’auteur et la licence sont donnés sous chaque image et au bas de l’article. Le fond de carte vient de Natural Earth (domaine public).'));
     apropos.appendChild(h('p', null, h('strong', null, 'Limites.'), ' Les dates médiévales sont souvent approximatives ; les coordonnées des lieux disparus sont celles de la commune. Une erreur ? Écrivez à ', h('a', { class: 'renvoi', href: 'mailto:cristo67apps@gmail.com' }, 'cristo67apps@gmail.com'), '.'));
-    apropos.appendChild(h('p', null, h('strong', null, 'Vie privée.'), ' L’application fonctionne hors ligne, sans compte, sans publicité ni mesure d’audience ; elle ne contacte aucun serveur en dehors de ses propres fichiers. La position, si vous la demandez sur la carte, reste dans l’appareil. ', h('a', { class: 'renvoi', href: 'confidentialite.html' }, 'Politique de confidentialité'), '.'));
+    apropos.appendChild(h('p', null, h('strong', null, 'Vie privée.'), ' L’application fonctionne hors ligne, sans compte, sans publicité ni mesure d’audience ; elle ne contacte aucun serveur en dehors de ses propres fichiers. La position, si vous la demandez sur la carte, reste dans l’appareil. La lecture à voix haute se sert des voix de l’appareil ; une voix marquée « en ligne », si elle est la seule voix d’homme ou si vous la choisissez, envoie le texte lu à l’éditeur du navigateur. ', h('a', { class: 'renvoi', href: 'confidentialite.html' }, 'Politique de confidentialité'), '.'));
     page.appendChild(apropos);
 
     zone.appendChild(page);
-    return { titre: 'Réglages', sous: 'apparence, hors ligne, à propos' };
+    return { titre: 'Réglages', sous: 'apparence, hors ligne, à propos', quitter: () => Voix.arreter() };
   }
 
   racine.VueReglages = { dessiner };

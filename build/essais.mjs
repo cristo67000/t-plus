@@ -124,7 +124,7 @@ const bac = {
 };
 bac.window = bac;
 vm.createContext(bac);
-for (const f of ['js/outils.js', 'js/reglages.js', 'js/donnees.js', 'js/echelle.js']) vm.runInContext(lire(f), bac, { filename: f });
+for (const f of ['js/outils.js', 'js/reglages.js', 'js/donnees.js', 'js/echelle.js', 'js/voix.js']) vm.runInContext(lire(f), bac, { filename: f });
 await bac.Donnees.charger();
 const { Dates, Donnees } = bac;
 
@@ -152,6 +152,32 @@ ok(premier('Hattin') === 'bataille-de-hattin', 'recherche « Hattin » (' + prem
 ok(premier('baphomet') === 'baphomet', 'recherche « baphomet »');
 ok(premier('eulalie') === 'sainte-eulalie-de-cernon', 'recherche « eulalie »');
 ok(Donnees.rechercher('larmenius').length > 0, 'recherche dans le texte : « larmenius »');
+
+// la lecture à voix haute : le texte préparé pour la voix, le choix de la voix
+const { Voix } = bac;
+const dit = (t, attendu) => ok(Voix.preparer(t) === attendu, 'voix : « ' + t + ' » → « ' + Voix.preparer(t) + ' »');
+dit('v. 1103 – 17 janvier 1156', 'vers 1103 à 17 janvier 1156');
+dit('1191 – 1291', '1191 à 1291');
+dit('la guerre de Saint-Sabas (1256-1258)', 'la guerre de Saint-Sabas (1256 à 1258)');
+dit('Baudouin Iᵉʳ prend Acre', 'Baudouin premier prend Acre');
+dit('dès le XIIᵉ siècle', 'dès le 12e siècle');
+dit('à la fin du XVIIIᵉ siècle', 'à la fin du 18e siècle');
+dit('Philippe IV le Bel et Clément V', 'Philippe 4 le Bel et Clément 5');
+dit('Bohémond VI se soumet', 'Bohémond 6 se soumet');
+dit('le 1ᵉʳ mai', 'le premier mai');
+dit('Il part. Vite.', 'Il part. Vite.');
+const long = 'Une phrase assez longue pour compter. '.repeat(12).trim();
+ok(Voix.phrases(long).length > 1 && Voix.phrases(long).every((p) => p.length <= 220), 'voix : un long paragraphe est coupé en phrases');
+ok(Voix.phrases(long).join(' ') === long, 'voix : rien ne se perd à la coupe');
+ok(Voix.possible === false && Voix.lire(['x']) === false, 'voix : sans synthèse vocale, rien ne se passe');
+for (const [nom, homme] of [['Microsoft Paul - French (France)', true], ['Microsoft Henri Online (Natural) - French (France)', true], ['Thomas', true], ['Microsoft Hortense - French (France)', false], ['Microsoft Julie - French (France)', false], ['Google français', false], ['Amélie', false], ['Microsoft Denise Online (Natural) - French (France)', false], ['French Female', false], ['French Male', true]]) {
+  ok(Voix.estMasculine({ name: nom }) === homme, 'voix : ' + nom + (homme ? ' est un homme' : ' n’est pas un homme'));
+}
+ok(Voix.estMasculine({ name: 'français France', voiceURI: 'fr-fr-x-frd-local' }), 'voix : la variante frd de Google est un homme');
+for (const a of Donnees.articles) {
+  const t = Voix.preparer([a.n, a.da, Donnees.nu(a.def)].concat(a.tx.map(Donnees.nu), a.re.map((r) => r[0] + ' : ' + Donnees.nu(r[1]))).join(' '));
+  ok(!/[ᵉʳ]|\bv\. ?\d/.test(t), a.id + ' : il reste des signes qu’une voix écorche — ' + (t.match(/.{0,20}(?:[ᵉʳ]|\bv\. ?\d).{0,10}/) || [''])[0]);
+}
 
 // le texte nu : pas de crochets
 for (const a of Donnees.articles) ok(!/\[\[|\]\]|\*/.test(Donnees.nu(a.def)), a.id + ' : définition nue avec balisage');

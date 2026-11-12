@@ -107,6 +107,10 @@
     croix: 'M12 3v18M3 12h18M8 5l4 2 4-2M8 19l4-2 4 2M5 8l2 4-2 4M19 8l-2 4 2 4',
     etoile: 'M12 3l2.6 5.6 6.1.7-4.5 4.2 1.2 6L12 16.6 6.6 19.5l1.2-6L3.3 9.3l6.1-.7z',
     image: 'M4 5h16v14H4zM4 15l5-5 4 4 3-3 4 4M15 9h.01',
+    voix: 'M4 9.5h3.5L12 6v12l-4.5-3.5H4zM15.5 9.5a3.5 3.5 0 0 1 0 5M18 7a7 7 0 0 1 0 10',
+    lecture: 'M8 5l11 7-11 7z',
+    pause: 'M8 5v14M16 5v14',
+    stop: 'M6 6h12v12H6z',
   };
 
   function icone(nom, classe) {

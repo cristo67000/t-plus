@@ -8,6 +8,8 @@ vers 1119 au bûcher de Jacques de Molay en 1314, et sur ce que les siècles en 
   Terre sainte et Orient, France, Europe, autres ordres militaires, mythes et postérité,
   sources et historiens. Chaque article donne ses repères datés, ce qu'il ne faut pas
   croire, ses sources et des liens pour aller plus loin.
+- **Écouter** : chaque article se lit à voix haute, par la synthèse vocale de l'appareil,
+  avec une voix d'homme en français de France (js/voix.js ; voix et débit dans les réglages).
 - **Frise** des vingt-trois maîtres, avec à côté, au choix, les papes, les rois de France
   et les rois de Jérusalem du même temps ; une chronologie de tous les articles datés.
 - **Carte** hors ligne des commanderies, châteaux et champs de bataille, de la France

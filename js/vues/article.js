@@ -43,6 +43,42 @@
     return sec;
   }
 
+  /* Les boutons « Écouter » : lecture, pause, arrêt ; le passage lu est mis
+   * en valeur et ramené à l'écran. */
+  function barreEcoute(aLire) {
+    if (!racine.Voix || !Voix.possible) return null;
+    let courant = null;
+    const principal = h('button', { type: 'button', class: 'bouton-discret' });
+    const stop = h('button', { type: 'button', class: 'bouton-discret', hidden: true, onclick: () => Voix.arreter() }, icone('stop'), 'Arrêter');
+    const habiller = (etat) => {
+      principal.textContent = '';
+      const [ic, texte] = { arret: ['voix', 'Écouter'], lecture: ['pause', 'Pause'], pause: ['lecture', 'Reprendre'] }[etat];
+      principal.append(icone(ic), texte);
+      principal.classList.toggle('actif', etat === 'lecture');
+      stop.hidden = etat === 'arret';
+    };
+    const marquer = (el) => {
+      if (courant) courant.classList.remove('lu');
+      courant = el;
+      if (!el) return;
+      el.classList.add('lu');
+      const r = el.getBoundingClientRect();
+      if (r.top < 70 || r.bottom > racine.innerHeight - 90) el.scrollIntoView({ block: 'center', behavior: 'smooth' });
+    };
+    principal.addEventListener('click', () => {
+      if (Voix.etat === 'lecture') { Voix.pause(); return; }
+      if (Voix.etat === 'pause') { Voix.reprendre(); return; }
+      if (!Voix.voix().length) { Communs.toast('Aucune voix française n’est installée sur cet appareil.'); return; }
+      Voix.lire(aLire.map((x) => x[1]), {
+        surEtat: habiller,
+        surMorceau: (i) => marquer(aLire[i][0]),
+        surFin: (erreur) => { marquer(null); if (erreur) Communs.toast('La lecture s’est interrompue.'); },
+      });
+    });
+    habiller('arret');
+    return h('div', { class: 'ecoute' }, principal, stop);
+  }
+
   function dessiner(zone, params) {
     const a = Donnees.article(params.id);
     if (!a) {
@@ -60,27 +96,40 @@
     if (a.lo) tete.appendChild(h('p', { class: 'article-lieu discret' }, icone('epingle', 'petite'), a.lo));
     page.appendChild(tete);
 
+    // Ce qui se lit à voix haute : [élément mis en valeur, texte dit]
+    const aLire = [[tete, a.n + '.' + (a.da ? ' ' + a.da + '.' : '')]];
+
     // Illustrations
     const bloc = Illustrations.bloc(a);
     if (bloc) page.appendChild(bloc);
 
     // Définition et texte
-    page.appendChild(Rendu.paragraphe(a.def, 'article-def'));
+    const def = Rendu.paragraphe(a.def, 'article-def');
+    page.appendChild(def);
+    aLire.push([def, def.textContent]);
     const corps = h('div', { class: 'article-texte' });
-    for (const p of a.tx) corps.appendChild(Rendu.paragraphe(p));
+    for (const p of a.tx) {
+      const par = corps.appendChild(Rendu.paragraphe(p));
+      aLire.push([par, par.textContent]);
+    }
     page.appendChild(corps);
 
     // Attention
     if (a.at) {
-      page.appendChild(h('aside', { class: 'attention' }, h('p', { class: 'attention-titre' }, icone('info'), 'À ne pas confondre, ou à ne pas croire'), Rendu.paragraphe(a.at)));
+      const garde = h('aside', { class: 'attention' }, h('p', { class: 'attention-titre' }, icone('info'), 'À ne pas confondre, ou à ne pas croire'), Rendu.paragraphe(a.at));
+      page.appendChild(garde);
+      aLire.push([garde, 'À ne pas confondre, ou à ne pas croire. ' + garde.lastChild.textContent]);
     }
 
     // Repères
     if (a.re.length) {
       const sec = h('section', { class: 'section-reperes' });
       sec.appendChild(titre('Repères', Outils.pluriel(a.re.length, 'date'), 'h3'));
-      sec.appendChild(reperes(a));
+      const liste = sec.appendChild(reperes(a));
       page.appendChild(sec);
+      Array.from(liste.children).forEach((li, i) => {
+        aLire.push([li, (i ? '' : 'Repères. ') + li.firstChild.textContent + ' : ' + li.lastChild.textContent]);
+      });
     }
 
     // Sur la frise
@@ -134,8 +183,11 @@
       h('button', { type: 'button', class: 'bouton-discret', onclick: () => App.aller('#/a/' + Donnees.auHasard(a.c).id) }, icone('hasard'), 'Au hasard')));
     page.appendChild(pied);
 
+    const ecoute = barreEcoute(aLire);
+    if (ecoute) tete.appendChild(ecoute);
+
     zone.appendChild(page);
-    return { titre: a.n, sous: cat.nom + (a.da ? ' · ' + a.da : '') };
+    return { titre: a.n, sous: cat.nom + (a.da ? ' · ' + a.da : ''), quitter: () => { if (racine.Voix) Voix.arreter(); } };
   }
 
   racine.VueArticle = { dessiner };

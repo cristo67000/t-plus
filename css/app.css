@@ -209,6 +209,11 @@ h3.titre-section { font-size: 1.2rem; margin-top: 26px; }
 .article-tete h2 { font-size: 1.9rem; margin: 8px 0 4px; line-height: 1.12; }
 .article-dates { font-family: var(--serif); font-size: 1.05rem; color: var(--encre-2); margin: 0 0 2px; }
 .article-lieu { font-size: 0.9rem; margin: 0; display: flex; align-items: center; }
+.ecoute { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.article .lu { background: color-mix(in srgb, var(--teinte, var(--or)) 14%, transparent); box-shadow: 0 0 0 6px color-mix(in srgb, var(--teinte, var(--or)) 14%, transparent); border-radius: 4px; }
+.article .article-tete.lu { background: none; box-shadow: none; }
+.article-tete.lu h2 { text-decoration: underline; text-decoration-color: var(--teinte, var(--or)); text-underline-offset: 6px; }
+.choix-voix { max-width: 100%; min-height: 40px; padding: 0 10px; border-radius: 10px; border: 1px solid var(--trait-fort); background: var(--surface); color: var(--encre); }
 .article-def { font-family: var(--serif); font-size: 1.22rem; line-height: 1.45; color: var(--encre); margin: 0 0 16px; padding-left: 12px; border-left: 3px solid var(--teinte, var(--rouge)); }
 .article-texte { font-size: 1.04rem; line-height: 1.62; }
 .article-texte p { margin: 0 0 1em; hyphens: auto; -webkit-hyphens: auto; }
